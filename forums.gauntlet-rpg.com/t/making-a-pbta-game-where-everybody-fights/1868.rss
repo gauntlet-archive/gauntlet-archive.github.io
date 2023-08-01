@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Making a PbtA Game Where Everybody Fights</title>
+    <link>https://forums.gauntlet-rpg.com/t/making-a-pbta-game-where-everybody-fights/1868</link>
+    <description>I&#39;m working on a PbtA game right now that&#39;s inspired by Final Fantasy, JRPGs, and science-fantasy anime. I&#39;m also someone who has very little interest in traditional, crunchy, D&amp;D-style combat systems, which JRPGs have largely emulated. As such, I&#39;m trying to make a game where fighting is narratively common, and the aesthetics of how people fight is diverse (are you a big strong warrior, a mage, a sneaky sort, etc.) without making a system that&#39;s heavily dedicated to tactics minutiae. The tension there has got me thinking about how you can change up some of the common PbtA design norms without adding in a whole lot of math or crunchy systems on top.
+
+Traditional Apocalypse World design is to have a single stat that the main &quot;fight something&quot; move rolls off of, and let people opt into how much they want to fight or not by picking playbooks that do or don&#39;t lean into that. But if your game is of a genre where the norm is that everyone is equally expected to fight, this seems less appropriate. Dungeon World gets at this by adding in some light D&amp;D-style math and rules about multiple ways to roll various stats to fight, but even that level of D&amp;D emulation is something I&#39;d rather not do.
+
+So, if fighting is ubiquitous in this genre, but you want your PbtA game to have light, simple rules that let you enjoy the fiction of fighting without getting super involved in the mechanics of it, how would you achieve that? 
+
+I&#39;ve seen a few games recently that I think have gotten at this idea: *Legacy: Rhapsody of Blood*, *Fellowship*, and @edige23 &#39;s *Hearts of Wulin* playtest that was just released, if I&#39;m not misunderstanding the rules... Basically, the solution is to let people pick a stat to roll on the fight move, or select a stat at character creation that their character will fight with. Naturally, you&#39;ll expect most of your players to pick whatever their highest, main stat is for fighting, but that&#39;s fine if it&#39;s part of your fiction that everyone should be able to fight, and you&#39;re not trying to incentivize anyone being particularly better or worse at it. The important thing on top of that is then probably to make sure the stats, moves, and playbooks are pushing something more interesting and unique about each of these characters that isn&#39;t solely about how or if they fight.
+
+What do people think about ways you can make a PbtA game where all your PCs are capable of, and expected, to fight, without adding in much more combat minutiae than is found in your average PbtA game?</description>
+    
+    <lastBuildDate>Mon, 29 Apr 2019 22:02:00 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/making-a-pbta-game-where-everybody-fights/1868.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Making a PbtA Game Where Everybody Fights</title>
+        <dc:creator><![CDATA[@Alex]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alex">@Alex</a> wrote:</p>
+          <blockquote>
+              <p>Uncharted Worlds is perhaps worth looking at (a PbtA sci-fi game). One of the thing that I find really interesting and attractive about their combat system is that it is almost entirely abstracted away. They distinguish between shooting and melee (IIRC), but one roll determines the outcome, and then the way it goes down is narrated by the player (total success), MC (failure) or player with interjection by MC (partial success).</p>
+<p>It’s a neat way of taking maths out of the system. I have no recollection about whether it took account of numbers or skill of foes, or anything like that - but I’m not sure how much you want to take maths out of the picture.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/making-a-pbta-game-where-everybody-fights/1868/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/making-a-pbta-game-where-everybody-fights/1868/6</link>
+        <pubDate>Mon, 29 Apr 2019 22:02:00 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1868-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/making-a-pbta-game-where-everybody-fights/1868.rss">Making a PbtA Game Where Everybody Fights</source>
+      </item>
+      <item>
+        <title>Making a PbtA Game Where Everybody Fights</title>
+        <dc:creator><![CDATA[@DeusExBrockina]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deusexbrockina">@DeusExBrockina</a> wrote:</p>
+          <blockquote>
+              <p>I like that idea, it’s nice and simple, but elegant! That’s definitely something to think about!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/making-a-pbta-game-where-everybody-fights/1868/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/making-a-pbta-game-where-everybody-fights/1868/5</link>
+        <pubDate>Thu, 25 Apr 2019 19:54:52 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1868-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/making-a-pbta-game-where-everybody-fights/1868.rss">Making a PbtA Game Where Everybody Fights</source>
+      </item>
+      <item>
+        <title>Making a PbtA Game Where Everybody Fights</title>
+        <dc:creator><![CDATA[@DeusExBrockina]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deusexbrockina">@DeusExBrockina</a> wrote:</p>
+          <blockquote>
+              <p>I’m very iffy on the specifics because I don’t have a strong sense of what’s going to work and be fun yet, but my goal is absolutely to make it narrative and “PbtA-y,” so no firm turn structure, and I want the moves to push the fiction and “cinematics” of action more than be about engaging with numerical systems like chipping away at HP. The games I’ve been looking to as inspiration the most are <em>Fellowship,</em> <em>Masks,</em> and <em>Rhapsody of Blood.</em></p>
+<p>My early pass is to have a system mostly inspired by <em>Fellowship,</em> where enemies are made up of a number of tags/abilities that inform how they act, and you roll to create openings in their defenses and then finish them off on a complete success (also inspired by Sekiro, as it so happens…), or damage them and eliminate one of their tags on a partial success, until you finish them or they run out of tags. There wouldn’t even be traditional AW harm on weapons or armor, you either finish an enemy off completely (maybe big enemies have multiple phases where they can’t be killed without multiple executions?) or remove one tag at a time, so pacing would be set by how many tags the enemy has.</p>
+<p>My hope is that focusing on positioning yourself to create opportunities and then attacking 1. promotes teamwork (one person rolls to open them up, another rolls to finish, etc.), and 2. keeps people thinking about the space, texture, and progression of the fight in concrete, visualized terms, rather than zoning out and only thinking in abstract terms of damage vs. HP (“we’ve knocked off the minotaur’s horn so it won’t use it to charge us anymore, but it’s still alive and now it’s mad”).</p>
+<p>I’m a really big fan of Pasión’s questions system, I think it’s brilliant ^____^</p>
+<p>I’m a little reluctant to completely leave stats behind though. It’s a nice, easily referenced method to define what your character’s about and how they act. I might also worry about the game slowing down if you’re making multiple consecutive rolls and need to do a phase where you consider the questions each time? It is a really interesting option though, maybe I need to think more outside the box =P</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/making-a-pbta-game-where-everybody-fights/1868/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/making-a-pbta-game-where-everybody-fights/1868/4</link>
+        <pubDate>Thu, 25 Apr 2019 19:53:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1868-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/making-a-pbta-game-where-everybody-fights/1868.rss">Making a PbtA Game Where Everybody Fights</source>
+      </item>
+      <item>
+        <title>Making a PbtA Game Where Everybody Fights</title>
+        <dc:creator><![CDATA[@Curubethion]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/curubethion">@Curubethion</a> wrote:</p>
+          <blockquote>
+              <p>So here’s a weird idea: make a single combat move with no stats. Instead, each character has a unique combat style that allows them to do something unique with the combat move. Maybe the combat move lets you pick one thing from a list (or two on a 10+), and your “something unique” modifies those options, adds new ones, or even lets you do something like pick a result even on a 6-.</p>
+<p>(If having a statless roll is too harsh, you could also do something like a group resource pool or a personal resource pool; maybe you spend “mana” after the roll to bump your result up!)</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/making-a-pbta-game-where-everybody-fights/1868/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/making-a-pbta-game-where-everybody-fights/1868/3</link>
+        <pubDate>Thu, 25 Apr 2019 19:36:13 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1868-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/making-a-pbta-game-where-everybody-fights/1868.rss">Making a PbtA Game Where Everybody Fights</source>
+      </item>
+      <item>
+        <title>Making a PbtA Game Where Everybody Fights</title>
+        <dc:creator><![CDATA[@Luiz]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/luiz">@Luiz</a> wrote:</p>
+          <blockquote>
+              <p>How are you planning to structure combat? Are you going to use a turn-based, HP-depleting approach to emulate the genre, or making it more narrative to fit PbtA?</p>
+<p>If the characters will be fighting all the time, what are the stakes like? Since strategy is not a priority, what would make combat fun?</p>
+<p>In my opinion, stats are not as big of a deal in the system in comparison to moves. -1, +1, and +2 make very moderate changes to the success curve. You could even ditch stats entirely in favor of something different, like the quesions in Pasión de las Pasiones.</p>
+<p>I think the challenge here is figuring ouf how to make combat interesting and writing moves to support that</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/making-a-pbta-game-where-everybody-fights/1868/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/making-a-pbta-game-where-everybody-fights/1868/2</link>
+        <pubDate>Thu, 25 Apr 2019 18:51:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1868-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/making-a-pbta-game-where-everybody-fights/1868.rss">Making a PbtA Game Where Everybody Fights</source>
+      </item>
+      <item>
+        <title>Making a PbtA Game Where Everybody Fights</title>
+        <dc:creator><![CDATA[@DeusExBrockina]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deusexbrockina">@DeusExBrockina</a> wrote:</p>
+          <blockquote>
+              <p>I’m working on a PbtA game right now that’s inspired by Final Fantasy, JRPGs, and science-fantasy anime. I’m also someone who has very little interest in traditional, crunchy, D&amp;D-style combat systems, which JRPGs have largely emulated. As such, I’m trying to make a game where fighting is narratively common, and the aesthetics of how people fight is diverse (are you a big strong warrior, a mage, a sneaky sort, etc.) without making a system that’s heavily dedicated to tactics minutiae. The tension there has got me thinking about how you can change up some of the common PbtA design norms without adding in a whole lot of math or crunchy systems on top.</p>
+<p>Traditional Apocalypse World design is to have a single stat that the main “fight something” move rolls off of, and let people opt into how much they want to fight or not by picking playbooks that do or don’t lean into that. But if your game is of a genre where the norm is that everyone is equally expected to fight, this seems less appropriate. Dungeon World gets at this by adding in some light D&amp;D-style math and rules about multiple ways to roll various stats to fight, but even that level of D&amp;D emulation is something I’d rather not do.</p>
+<p>So, if fighting is ubiquitous in this genre, but you want your PbtA game to have light, simple rules that let you enjoy the fiction of fighting without getting super involved in the mechanics of it, how would you achieve that?</p>
+<p>I’ve seen a few games recently that I think have gotten at this idea: <em>Legacy: Rhapsody of Blood</em>, <em>Fellowship</em>, and <a class="mention" href="/u/edige23">@edige23</a> 's <em>Hearts of Wulin</em> playtest that was just released, if I’m not misunderstanding the rules… Basically, the solution is to let people pick a stat to roll on the fight move, or select a stat at character creation that their character will fight with. Naturally, you’ll expect most of your players to pick whatever their highest, main stat is for fighting, but that’s fine if it’s part of your fiction that everyone should be able to fight, and you’re not trying to incentivize anyone being particularly better or worse at it. The important thing on top of that is then probably to make sure the stats, moves, and playbooks are pushing something more interesting and unique about each of these characters that isn’t solely about how or if they fight.</p>
+<p>What do people think about ways you can make a PbtA game where all your PCs are capable of, and expected, to fight, without adding in much more combat minutiae than is found in your average PbtA game?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/making-a-pbta-game-where-everybody-fights/1868/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/making-a-pbta-game-where-everybody-fights/1868/1</link>
+        <pubDate>Thu, 25 Apr 2019 18:01:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1868-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/making-a-pbta-game-where-everybody-fights/1868.rss">Making a PbtA Game Where Everybody Fights</source>
+      </item>
+  </channel>
+</rss>

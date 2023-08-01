@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Twitter Bot Character Creation</title>
+    <link>https://forums.gauntlet-rpg.com/t/twitter-bot-character-creation/4377</link>
+    <description>I saw a tweet from Adam Koebel yesterday suggesting that it&#39;d be cool to have twitter bots that can create characters when you @ them, so I tried it out.  I thought I&#39;d share how I did it in case anyone else wanted to try it out.
+
+First, I got together the information that I&#39;d need for character creation.  For Goblinville, some parts are collaborative and need to be done at the table,  but most of character creation can be randomized.  I those random lists together as arrays (put each entry in quotes and separated them with commas.)
+
+![gvc|283x500](upload://iSq4WLARSBheBCJEo3Sr15lsdX0.png) 
+
+Then I made a new Twitter account [@Goblinville_Bot](https://twitter.com/goblinville_bot) using an email that&#39;s not linked to my main twitter account.  I logged into the bot account and went to [Cheap Bots Done Quick](https://cheapbotsdonequick.com/).  This is a site that hosts twitter bots using a tool called Tracery.
+![cbdq|690x227](upload://mqAs9zNXz0EPOgWyXrDalidOuTd.png) 
+
+To make a tweet template, I wrote a sentence and put each element I wanted to randomize between # symbols.  Then I made sure that the name of each array (age, job, garb, etc) matched what it said in between the # symbols.  When generating a tweet, Tracery starts by printing the contents of &quot;origin&quot; (everything between the brackets, or a random entry if &quot;origin&quot; is an array).  When it scans something between # symbols, it replaces those symbols with a random entry from the corresponding list.  For example, #job# gets replaced with a random entry from the array named &quot;job&quot;.
+
+![IMG_4556|630x500](upload://asly89OqzsxX7Z51PgHMKPaEyEH.jpeg) 
+
+Finally, I set the bot to generate a response once a day, and again each time someone tweets @Goblinville_Bot.
+
+![IMG_4559|296x500](upload://yE725NeoXzm9OKEOrtCil7zTk0n.jpeg) 
+
+This stuff is pretty fun for me, so I&#39;m happy to answer any questions about how to make this for another game, or about more detailed bot creation.</description>
+    
+    <lastBuildDate>Sun, 08 Nov 2020 14:01:23 +0000</lastBuildDate>
+    <category>RPG Chat</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/twitter-bot-character-creation/4377.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Twitter Bot Character Creation</title>
+        <dc:creator><![CDATA[@MrGarland]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/mrgarland">@MrGarland</a> wrote:</p>
+          <blockquote>
+              <p>What a fantastic idea and an invaluable guide. In short order, my game — <strong>The Dee Sanction</strong> — has a functional and entertaining generator for new recruits in the form of <a href="https://twitter.com/MrGarland4/with_replies" rel="nofollow noopener">Mister Garland</a></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/twitter-bot-character-creation/4377/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/twitter-bot-character-creation/4377/6</link>
+        <pubDate>Sun, 08 Nov 2020 14:01:23 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4377-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/twitter-bot-character-creation/4377.rss">Twitter Bot Character Creation</source>
+      </item>
+      <item>
+        <title>Twitter Bot Character Creation</title>
+        <dc:creator><![CDATA[@Michael]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/michael">@Michael</a> wrote:</p>
+          <blockquote>
+              <p>Neat!  Macabre!</p>
+<p>I think the rhythm of the repeated structure.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/twitter-bot-character-creation/4377/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/twitter-bot-character-creation/4377/5</link>
+        <pubDate>Mon, 27 Jan 2020 15:45:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4377-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/twitter-bot-character-creation/4377.rss">Twitter Bot Character Creation</source>
+      </item>
+      <item>
+        <title>Twitter Bot Character Creation</title>
+        <dc:creator><![CDATA[@Voidlight]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/voidlight">@Voidlight</a> wrote:</p>
+          <blockquote>
+              <p>I made one of these a while ago! It, uh, it generates a dead character.</p>
+<p><a href="https://twitter.com/elegiacrpg" class="onebox" target="_blank" rel="nofollow noopener">https://twitter.com/elegiacrpg</a></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/twitter-bot-character-creation/4377/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/twitter-bot-character-creation/4377/4</link>
+        <pubDate>Mon, 27 Jan 2020 15:43:09 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4377-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/twitter-bot-character-creation/4377.rss">Twitter Bot Character Creation</source>
+      </item>
+      <item>
+        <title>Twitter Bot Character Creation</title>
+        <dc:creator><![CDATA[@Michael]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/michael">@Michael</a> wrote:</p>
+          <blockquote>
+              <p>Yes, that was the dream!  Well done on your bot.  I like how the sentence structure varies a bit.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/twitter-bot-character-creation/4377/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/twitter-bot-character-creation/4377/3</link>
+        <pubDate>Sat, 25 Jan 2020 18:52:06 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4377-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/twitter-bot-character-creation/4377.rss">Twitter Bot Character Creation</source>
+      </item>
+      <item>
+        <title>Twitter Bot Character Creation</title>
+        <dc:creator><![CDATA[@Coalhada]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/coalhada">@Coalhada</a> wrote:</p>
+          <blockquote>
+              <p>Thanks for this - I followed your tutorial to make a bot of my very own: <a href="https://twitter.com/EAMB_bot" rel="nofollow noopener">https://twitter.com/EAMB_bot</a></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/twitter-bot-character-creation/4377/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/twitter-bot-character-creation/4377/2</link>
+        <pubDate>Sat, 25 Jan 2020 04:58:00 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4377-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/twitter-bot-character-creation/4377.rss">Twitter Bot Character Creation</source>
+      </item>
+      <item>
+        <title>Twitter Bot Character Creation</title>
+        <dc:creator><![CDATA[@Michael]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/michael">@Michael</a> wrote:</p>
+          <blockquote>
+              <p>I saw a tweet from Adam Koebel yesterday suggesting that it’d be cool to have twitter bots that can create characters when you @ them, so I tried it out.  I thought I’d share how I did it in case anyone else wanted to try it out.</p>
+<p>First, I got together the information that I’d need for character creation.  For Goblinville, some parts are collaborative and need to be done at the table,  but most of character creation can be randomized.  I those random lists together as arrays (put each entry in quotes and separated them with commas.)</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/8/844df8c4a40f99a5c4b9b68d76f7b5cc2d30d40e.png" data-download-href="/uploads/short-url/iSq4WLARSBheBCJEo3Sr15lsdX0.png?dl=1" title="gvc"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/8/844df8c4a40f99a5c4b9b68d76f7b5cc2d30d40e.png" alt="gvc" data-base62-sha1="iSq4WLARSBheBCJEo3Sr15lsdX0" width="283" height="500" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/8/844df8c4a40f99a5c4b9b68d76f7b5cc2d30d40e_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">gvc</span><span class="informations">364×643 38.8 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>Then I made a new Twitter account <a href="https://twitter.com/goblinville_bot">@Goblinville_Bot</a> using an email that’s not linked to my main twitter account.  I logged into the bot account and went to <a href="https://cheapbotsdonequick.com/">Cheap Bots Done Quick</a>.  This is a site that hosts twitter bots using a tool called Tracery.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/9/9d313cd8a115efde7c6376d692c9a6c0d96ec017.png" data-download-href="/uploads/short-url/mqAs9zNXz0EPOgWyXrDalidOuTd.png?dl=1" title="cbdq"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/9/9d313cd8a115efde7c6376d692c9a6c0d96ec017.png" alt="cbdq" data-base62-sha1="mqAs9zNXz0EPOgWyXrDalidOuTd" width="690" height="227" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/9/9d313cd8a115efde7c6376d692c9a6c0d96ec017_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">cbdq</span><span class="informations">804×265 19.8 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>To make a tweet template, I wrote a sentence and put each element I wanted to randomize between # symbols.  Then I made sure that the name of each array (age, job, garb, etc) matched what it said in between the # symbols.  When generating a tweet, Tracery starts by printing the contents of “origin” (everything between the brackets, or a random entry if “origin” is an array).  When it scans something between # symbols, it replaces those symbols with a random entry from the corresponding list.  For example, <span class="hashtag">#job</span># gets replaced with a random entry from the array named “job”.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/4/494a1207c5263e90c3712542655f148928b937e3.jpeg" data-download-href="/uploads/short-url/asly89OqzsxX7Z51PgHMKPaEyEH.jpeg?dl=1" title="IMG_4556"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/4/494a1207c5263e90c3712542655f148928b937e3_2_630x500.jpeg" alt="IMG_4556" data-base62-sha1="asly89OqzsxX7Z51PgHMKPaEyEH" width="630" height="500" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/4/494a1207c5263e90c3712542655f148928b937e3_2_630x500.jpeg, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/4/494a1207c5263e90c3712542655f148928b937e3_2_945x750.jpeg 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/4/494a1207c5263e90c3712542655f148928b937e3.jpeg 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/4/494a1207c5263e90c3712542655f148928b937e3_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">IMG_4556</span><span class="informations">946×750 160 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>Finally, I set the bot to generate a response once a day, and again each time someone tweets <span class="mention">@Goblinville_Bot</span>.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/f/f2d2bac1e4d5b1eba42c1401242e94a064f6d93f.jpeg" data-download-href="/uploads/short-url/yE725NeoXzm9OKEOrtCil7zTk0n.jpeg?dl=1" title="IMG_4559"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f2d2bac1e4d5b1eba42c1401242e94a064f6d93f_2_296x500.jpeg" alt="IMG_4559" data-base62-sha1="yE725NeoXzm9OKEOrtCil7zTk0n" width="296" height="500" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f2d2bac1e4d5b1eba42c1401242e94a064f6d93f_2_296x500.jpeg, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f2d2bac1e4d5b1eba42c1401242e94a064f6d93f_2_444x750.jpeg 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f2d2bac1e4d5b1eba42c1401242e94a064f6d93f_2_592x1000.jpeg 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f2d2bac1e4d5b1eba42c1401242e94a064f6d93f_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">IMG_4559</span><span class="informations">750×1264 211 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>This stuff is pretty fun for me, so I’m happy to answer any questions about how to make this for another game, or about more detailed bot creation.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/twitter-bot-character-creation/4377/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/twitter-bot-character-creation/4377/1</link>
+        <pubDate>Wed, 22 Jan 2020 14:57:17 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4377-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/twitter-bot-character-creation/4377.rss">Twitter Bot Character Creation</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Design Journal: Packing Heat</title>
+    <link>https://forums.gauntlet-rpg.com/t/design-journal-packing-heat/5239</link>
+    <description>**Packing Heat** is a powered by the apocalypse game for two players and a GM. Its touchstones are buddy cop movies that peaked in the 1980s and 1990s, including the Lethal Weapon franchise, the Rush Hour franchise, and Turner and Hooch, among many, many others.
+
+You can follow along with the [rules development](https://docs.google.com/document/d/1xNrpIuQyXlWJr0sfMCLEA2J7YXCymLRmo3cmzxZMNqM/edit?usp=sharing) and the [character keeper](https://docs.google.com/spreadsheets/d/1Q40ctFVgq-sk1S_pg4qaLa3omU80vRhxEAz5ZqObDGQ/edit?usp=sharing).
+
+I&#39;ll post very irregular journal updates as I wrestle through some interesting design challenges.</description>
+    
+    <lastBuildDate>Sat, 16 May 2020 19:51:06 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/design-journal-packing-heat/5239.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Design Journal: Packing Heat</title>
+        <dc:creator><![CDATA[@brownorama]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/brownorama">@brownorama</a> wrote:</p>
+          <blockquote>
+              <p><em>Packing Heat is a powered by the apocalypse game for two players and a GM. Its touchstones are buddy cop movies that peaked in the 1980s and 1990s, including the Lethal Weapon franchise, the Rush Hour franchise, and Turner and Hooch, among many, many others.</em></p>
+<p>I’m early in the design process, and have had the good fortune of play testing with <a class="mention" href="/u/puckett">@Puckett</a> and Sam Z. After our last session, they identified a couple mechanical issues with the game, and I’ve been working through them.</p>
+<p>In this design journal entry, I’ll share the current state of the game. I’ll dig into the central “tension” of the game, identified only have several hours of design and testing.</p>
+<h2>Core Mechanic</h2>
+<p>The characters have no ability scores. Instead, there is a Trust Track,  mechanizing a central trope in buddy cop movies: the emergent trust between the two characters. Faced with differences in their natures, their demographics, and their agendas, the characters must learn to overcome these gaps to do what’s right or necessary.</p>
+<p>With each tick on the trust track, the characters can roll with a better bonus. They can also narrate stronger collaborative actions. In the beginning, they can only act in parallel, while at the end they can work in close concert.</p>
+<p>Unlike the movies, the trust in this game needs to ebb and flow to keep things interesting. On the other hand, the sudden and stark break down of trust is a key trope in buddy cop movies. The trust builds over time, and then Something Happens in the second act where all that trust comes crashing down.</p>
+<h2>The Central Tension</h2>
+<p>The question became: How does the game represent this major set-back? When is it triggered? What happens mechanically if the trust track is essentially one direction?</p>
+<p>What I realized is that I wanted a stronger connection between trust and two other key elements of the game: Heat (the amount of pressure the characters face) and Leads (their progress toward a conclusion). In an earlier version I’d quantified Leads by (a) dividing them into two types - strong and weak and (b) providing a space in the keeper to list them out. When you quantify something, you can hook mechanics onto it.</p>
+<p>After massaging the basic moves that trigger when characters do “cop stuff”, I’d landed on robust dynamic between these three elements:</p>
+<p>The more trust they build up, the more likely they are to generate leads. The more leads they have they more they need to investigate. The more they investigate, the more likely they generate heat. The more heat they have, the more likely that trust will be broken.</p>
+<h2>The Two Major Changes</h2>
+<p>To enable this tension, trust and heat and leads had to progress more reliably. In an early version of the game, moves gave players the option to advance these scales. In this update, these tracks advance definitively as a consequence of die rolls.</p>
+<p>The second major change is what happens when characters build up too much Heat. I’d thought of these as conditions, and that when you got your fourth condition you were “knocked out” of the scene. Now, marking your fourth Heat instead triggers a move called “Trust Issues” which helps the table narrate what happens when trust breaks down. (The details of this move are in the works.)</p>
+<h2>The Moves Model</h2>
+<p>I diagrammed out the moves to see how everything hung together.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/6/6139109973c39bbbd99869e17e8a9dc3e9bca7aa.jpeg" data-download-href="/uploads/short-url/dS4zGc01aF2Zx5ty3sBrawfTVDs.jpeg?dl=1" title="image" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/6/6139109973c39bbbd99869e17e8a9dc3e9bca7aa_2_391x500.jpeg" alt="image" data-base62-sha1="dS4zGc01aF2Zx5ty3sBrawfTVDs" width="391" height="500" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/6/6139109973c39bbbd99869e17e8a9dc3e9bca7aa_2_391x500.jpeg, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/6/6139109973c39bbbd99869e17e8a9dc3e9bca7aa_2_586x750.jpeg 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/6/6139109973c39bbbd99869e17e8a9dc3e9bca7aa_2_782x1000.jpeg 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/6/6139109973c39bbbd99869e17e8a9dc3e9bca7aa_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1398×1786 216 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/design-journal-packing-heat/5239/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/design-journal-packing-heat/5239/2</link>
+        <pubDate>Sat, 16 May 2020 19:51:06 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5239-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/design-journal-packing-heat/5239.rss">Design Journal: Packing Heat</source>
+      </item>
+      <item>
+        <title>Design Journal: Packing Heat</title>
+        <dc:creator><![CDATA[@brownorama]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/brownorama">@brownorama</a> wrote:</p>
+          <blockquote>
+              <p><strong>Packing Heat</strong> is a powered by the apocalypse game for two players and a GM. Its touchstones are buddy cop movies that peaked in the 1980s and 1990s, including the Lethal Weapon franchise, the Rush Hour franchise, and Turner and Hooch, among many, many others.</p>
+<p>You can follow along with the <a href="https://docs.google.com/document/d/1xNrpIuQyXlWJr0sfMCLEA2J7YXCymLRmo3cmzxZMNqM/edit?usp=sharing" rel="nofollow noopener">rules development</a> and the <a href="https://docs.google.com/spreadsheets/d/1Q40ctFVgq-sk1S_pg4qaLa3omU80vRhxEAz5ZqObDGQ/edit?usp=sharing" rel="nofollow noopener">character keeper</a>.</p>
+<p>I’ll post very irregular journal updates as I wrestle through some interesting design challenges.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/design-journal-packing-heat/5239/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/design-journal-packing-heat/5239/1</link>
+        <pubDate>Sat, 16 May 2020 19:48:12 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5239-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/design-journal-packing-heat/5239.rss">Design Journal: Packing Heat</source>
+      </item>
+  </channel>
+</rss>

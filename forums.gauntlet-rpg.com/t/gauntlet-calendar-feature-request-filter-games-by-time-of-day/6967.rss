@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Gauntlet calendar feature request: Filter games by time of day</title>
+    <link>https://forums.gauntlet-rpg.com/t/gauntlet-calendar-feature-request-filter-games-by-time-of-day/6967</link>
+    <description>My apologies if this is not a good place to post this.
+
+I submitted a feature request for the Gauntlet calendar directly through Github. The developer said I should run the idea by Lowell. Is that you, @edige23 ?
+
+Filtering by time of day would let me easily see which games were at times that I was prepared to play. The full feature request is here: https://github.com/srcooney/TheGauntletWebsite/issues/1</description>
+    
+    <lastBuildDate>Wed, 19 May 2021 01:26:15 +0000</lastBuildDate>
+    <category>Gauntlet Community</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/gauntlet-calendar-feature-request-filter-games-by-time-of-day/6967.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Gauntlet calendar feature request: Filter games by time of day</title>
+        <dc:creator><![CDATA[@edige23]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/edige23">@edige23</a> wrote:</p>
+          <blockquote>
+              <p>I will check in with the developer.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/gauntlet-calendar-feature-request-filter-games-by-time-of-day/6967/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/gauntlet-calendar-feature-request-filter-games-by-time-of-day/6967/2</link>
+        <pubDate>Wed, 19 May 2021 01:26:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6967-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/gauntlet-calendar-feature-request-filter-games-by-time-of-day/6967.rss">Gauntlet calendar feature request: Filter games by time of day</source>
+      </item>
+      <item>
+        <title>Gauntlet calendar feature request: Filter games by time of day</title>
+        <dc:creator><![CDATA[@crantok]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/crantok">@crantok</a> wrote:</p>
+          <blockquote>
+              <p>My apologies if this is not a good place to post this.</p>
+<p>I submitted a feature request for the Gauntlet calendar directly through Github. The developer said I should run the idea by Lowell. Is that you, <a class="mention" href="/u/edige23">@edige23</a> ?</p>
+<p>Filtering by time of day would let me easily see which games were at times that I was prepared to play. The full feature request is here: <a href="https://github.com/srcooney/TheGauntletWebsite/issues/1" rel="nofollow noopener">https://github.com/srcooney/TheGauntletWebsite/issues/1</a></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/gauntlet-calendar-feature-request-filter-games-by-time-of-day/6967/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/gauntlet-calendar-feature-request-filter-games-by-time-of-day/6967/1</link>
+        <pubDate>Mon, 17 May 2021 09:09:42 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6967-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/gauntlet-calendar-feature-request-filter-games-by-time-of-day/6967.rss">Gauntlet calendar feature request: Filter games by time of day</source>
+      </item>
+  </channel>
+</rss>

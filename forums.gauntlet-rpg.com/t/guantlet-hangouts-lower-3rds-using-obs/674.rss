@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Guantlet Hangouts Lower 3rds Using OBS</title>
+    <link>https://forums.gauntlet-rpg.com/t/guantlet-hangouts-lower-3rds-using-obs/674</link>
+    <description>I&#39;ve used OBS to adjust my video and add overlays in games. It is a technique I learned on The Gauntlet G+. I wanted to document it here it so other folks can do it too! These sorts of overlays are useful in games so you can display your character name, pronouns and other information directly on stream! I&#39;ve also used OBS to up my camera contrast for Noir games and get more of that pulpy feel.
+* OBS for those not familiar is [Open Broadcaster Studio](https://obsproject.com/), it is a free cross-platform way to record video from your computer and stream (often used for Twitch) and required for this tutorial.
+* The trick to this is a plugin for OBS called [virtual-cam](https://github.com/CatxFish/obs-virtual-cam/releases) ⬅ You can download the installer here, if you have OBS it the installer should do the rest. Unfortunately the plug-in is Windows (7, 8, 10) only.
+* Once installed you can view your webcam in OBS by adding a &quot;Video Capture Device&quot; as a source and selecting WEB CAMERA.
+* Before joining a Hangouts game fire up OBS, make sure VirtualCam is running with Tools ➡ VirtualCam ➡ Start (or check the AutoStart checkbox)
+* When Joining a Hangouts game make sure the camera input is OBS-Camera (you can adjust this by clicking the gear icon). Also know that your video will look mirrored to you so text won&#39;t be readable to you but it will be for everyone else.
+
+I may make a video or take photos of this process to make it clearer (and there is interest).</description>
+    
+    <lastBuildDate>Thu, 14 Mar 2019 11:36:17 +0000</lastBuildDate>
+    <category>Gauntlet Community</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/guantlet-hangouts-lower-3rds-using-obs/674.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Guantlet Hangouts Lower 3rds Using OBS</title>
+        <dc:creator><![CDATA[@Ludovico_Alves]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/ludovico_alves">@Ludovico_Alves</a> wrote:</p>
+          <blockquote>
+              <p>Thanks for this tutorial, <a class="mention" href="/u/asher">@Asher</a>.<br>
+I always loved the overlays you used.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/guantlet-hangouts-lower-3rds-using-obs/674/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/guantlet-hangouts-lower-3rds-using-obs/674/3</link>
+        <pubDate>Thu, 14 Mar 2019 11:36:17 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-674-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/guantlet-hangouts-lower-3rds-using-obs/674.rss">Guantlet Hangouts Lower 3rds Using OBS</source>
+      </item>
+      <item>
+        <title>Guantlet Hangouts Lower 3rds Using OBS</title>
+        <dc:creator><![CDATA[@inarvan]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/inarvan">@inarvan</a> wrote:</p>
+          <blockquote>
+              <p>That sounds great. I always think about doing something like this, and some tutorials, especially if you’re able to do screenshots or video would be great!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/guantlet-hangouts-lower-3rds-using-obs/674/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/guantlet-hangouts-lower-3rds-using-obs/674/2</link>
+        <pubDate>Wed, 13 Mar 2019 18:57:40 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-674-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/guantlet-hangouts-lower-3rds-using-obs/674.rss">Guantlet Hangouts Lower 3rds Using OBS</source>
+      </item>
+      <item>
+        <title>Guantlet Hangouts Lower 3rds Using OBS</title>
+        <dc:creator><![CDATA[@Asher]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/asher">@Asher</a> wrote:</p>
+          <blockquote>
+              <p>I’ve used OBS to adjust my video and add overlays in games. It is a technique I learned on The Gauntlet G+. I wanted to document it here it so other folks can do it too! These sorts of overlays are useful in games so you can display your character name, pronouns and other information directly on stream! I’ve also used OBS to up my camera contrast for Noir games and get more of that pulpy feel.</p>
+<ul>
+<li>OBS for those not familiar is <a href="https://obsproject.com/" rel="nofollow noopener">Open Broadcaster Studio</a>, it is a free cross-platform way to record video from your computer and stream (often used for Twitch) and required for this tutorial.</li>
+<li>The trick to this is a plugin for OBS called <a href="https://github.com/CatxFish/obs-virtual-cam/releases" rel="nofollow noopener">virtual-cam</a> <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/arrow_left.png?v=6" title=":arrow_left:" class="emoji" alt=":arrow_left:"> You can download the installer here, if you have OBS it the installer should do the rest. Unfortunately the plug-in is Windows (7, 8, 10) only.</li>
+<li>Once installed you can view your webcam in OBS by adding a “Video Capture Device” as a source and selecting WEB CAMERA.</li>
+<li>Before joining a Hangouts game fire up OBS, make sure VirtualCam is running with Tools <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/arrow_right.png?v=6" title=":arrow_right:" class="emoji" alt=":arrow_right:"> VirtualCam <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/arrow_right.png?v=6" title=":arrow_right:" class="emoji" alt=":arrow_right:"> Start (or check the AutoStart checkbox)</li>
+<li>When Joining a Hangouts game make sure the camera input is OBS-Camera (you can adjust this by clicking the gear icon). Also know that your video will look mirrored to you so text won’t be readable to you but it will be for everyone else.</li>
+</ul>
+<p>I may make a video or take photos of this process to make it clearer (and there is interest).</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/guantlet-hangouts-lower-3rds-using-obs/674/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/guantlet-hangouts-lower-3rds-using-obs/674/1</link>
+        <pubDate>Wed, 13 Mar 2019 17:37:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-674-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/guantlet-hangouts-lower-3rds-using-obs/674.rss">Guantlet Hangouts Lower 3rds Using OBS</source>
+      </item>
+  </channel>
+</rss>

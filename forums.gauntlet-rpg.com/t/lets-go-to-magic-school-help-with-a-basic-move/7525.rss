@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>[Let&#39;s Go To Magic School] Help with a basic move</title>
+    <link>https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525</link>
+    <description>Hi everyone. 
+
+Thank you again for the nice welcome. As I [posted in the What Are You Working On Right Now](https://forums.gauntlet-rpg.com/t/what-are-you-working-on-right-now/1322/354?u=holothuroid), I&#39;m working on a game called Let&#39;s Go To Magic School.
+
+Having completed my first long running campaign, I want to revise a basic move.
+
+&gt; When you **address a problem with magic you have not mastered**, make the necessary preparations and roll +Learning. On a hit, you can do it. On a 10+, choose 2. On a 7-9, choose 1.
+&gt;
+&gt;* You don&#39;t have to break any rules.
+&gt;* There are no side-effects.
+&gt;* Gain Training with this spell.
+&gt;
+&gt;**Special:** If you have Training with this trick, take +1. If you do break rules, remember to raise your Scrutiny.
+
+As you can imagine in a game about apprentices this move runs hot, so it has to be as good as possible. We already added the concept of Training during playtest. Originally you had just the option to master a spell you do with the move, but while that was alright for oneshots, it broke down in campaign play.
+
+There are still some issues:
+
+1. The clause about making the necessary preparations in the trigger is often ignored. Magic should be more than just waving your hand and players should stop and think about that.
+2. Breaking the rules and accruing Scrutiny makes sense while the play is on the school grounds. Scrutiny marks you as being naughty in the eyes of the teachers / authorities. It breaks down as a consequence, if you are all alone.
+3. When characters do this, their friends are often there too and jump to help. That makes sense in the narrative of course, but it triggers the help move, which tends to clot down the play, if it happens frequently.
+
+This is the help move:
+
+&gt; When you **encourage, help or show kindness**, roll +Heart. On a hit, choose 1.
+&gt;
+&gt;* They take +1 on their roll.
+&gt;* You ease their suffering.
+&gt;* You guide them through a spell you have mastered. They can use it right now.
+&gt;
+&gt;On a 7-9, also choose one of these.
+&gt;
+&gt;* It costs you something.
+&gt;* You expose yourself to a problem or danger.
+&gt;* You reveal something you wish you hadn&#39;t.
+
+Now, to address problems 1 - 3, I tried changing the magic move:
+
+1. Preparation can be part of the choices in the effect body. This should have the players think about it. Adjust the number of choices accordingly.
+2. Breaking the rules in stories about magic is not always about punishment. Often there are simply bad things happening to you. So instead of Scrutiny, players may choose to mark a condition.
+3. Having an assistant could be an alternative to extra preparations. This should not trigger the help move, although even more partners might.
+
+For my current revision incorparting these solutions, I have negated everything for better readability:
+
+&gt;When you **address a problem with magic you have not mastered**, roll +Learning. On a hit, you might do it and gain Training. On a 10+, choose 2. On a 7-9, choose 3.
+&gt;
+&gt;* You need extra preparation or assistance.
+&gt;* You have to break the rules. Raise Scrutiny or mark a Condition.
+&gt;* There are side-effects.
+&gt;* You just got lucky. Do not gain Training with this spell.
+&gt;
+&gt;**Special:** If you have Training with this trick, take +1.
+
+This basically does. 
+
+Question 1: Is this clear enough? Can the text be better?
+Question 2: I&#39;d like to make it clear that assistance for magic one has not mastered does not trigger the help move. I&#39;m not quite sure how to do that. Change the text on the help trigger maybe?</description>
+    
+    <lastBuildDate>Thu, 04 Nov 2021 09:44:48 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>[Let&#39;s Go To Magic School] Help with a basic move</title>
+        <dc:creator><![CDATA[@Eck]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/eck">@Eck</a> wrote:</p>
+          <blockquote>
+              <p>To paraphrase someone from a very different field, surely the idea is, things should be made as abstract as possible…  but no abstracter.  So returning to your original self-identified issues, you want to be clearly <em>less</em> abstract about the general type of preparation you deem essential or normative in the fiction.  Though exactly how abstract that <em>should</em> be only you can say!  If it explicitly says “prepare” (or the various suggested variations on that) and you’re not getting enough “preparation”, then spell out what “preparation” looks like more concretely.  Either with more wording, steps, or options in this one, or a whole other “research a dangerously experimental reckless ritual” move.</p>
+<p>On the helping, can you maybe price that in as an expectation or a requirement, so it then doesn’t qualify as a bonus thing?  “When you and your friends cook up an ill-advised scheme to…”  Maybe that also helps address “Scrutiny”?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525/14</link>
+        <pubDate>Thu, 04 Nov 2021 09:44:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7525-14</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525.rss">[Let&#39;s Go To Magic School] Help with a basic move</source>
+      </item>
+      <item>
+        <title>[Let&#39;s Go To Magic School] Help with a basic move</title>
+        <dc:creator><![CDATA[@holothuroid]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/holothuroid">@holothuroid</a> wrote:</p>
+          <blockquote>
+              <p>Maybe the word abstract confuses me. The move gives no indication what magic is and what it can do. That is intentional. The game has a whole extra framework to facilitate that discussion. Subjects, limits, spells. This move allows player to make up a spell. It works well within that framework.</p>
+<p>I will ponder the trigger a bit and speak with my players about it. Thanks.</p>
+<p>Any ideas about the helping?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525/13</link>
+        <pubDate>Thu, 04 Nov 2021 07:17:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7525-13</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525.rss">[Let&#39;s Go To Magic School] Help with a basic move</source>
+      </item>
+      <item>
+        <title>[Let&#39;s Go To Magic School] Help with a basic move</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>Sorry, I didn’t get back to this for a long time.</p>
+<p>Moves can be more or less abstract, right?</p>
+<p>For example, a very concrete move (at one extreme of the spectrum):</p>
+<p>“When you try to checkmate your opponent with your Queen, roll…”</p>
+<p>A very abstract/removed move might be:</p>
+<p>“When you try to beat an opponent…”</p>
+<p>Every game needs a different balance, but hopefully you can see how these two moves will produce <em>very</em> different fiction and very different conversations at the table.</p>
+<p>The “when you” implies a great deal about what we’re <em>leaving out</em> of the game.</p>
+<p>Imagine a game which has the move, “when you wish someone dead, roll…” (with the possible outcome that, somehow, they end up dead). Maybe it would be great for a crime boss or voudoun sorcerer or something. But when we use this move, we’re likely going to <em>skip over</em> all the decisions and detail and positioning and negotiations and discovery which lead to that final step.</p>
+<p>So I’d urge you to consider whether this move might be “skipping over” a lot of what you’re interested in exploring in the game, or whether it’s exactly what you want (that “taking steps to solve a problem with magic” is essentially something that’s not part of play - you just do it, we don’t need to talk about it or describe it).</p>
+<p>If it does seem to be “skipping over” too much, then write a more concrete/pointed move, or break it into several.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525/12</link>
+        <pubDate>Tue, 02 Nov 2021 20:28:31 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7525-12</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525.rss">[Let&#39;s Go To Magic School] Help with a basic move</source>
+      </item>
+      <item>
+        <title>[Let&#39;s Go To Magic School] Help with a basic move</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>Cool, we are bridging the gap.<br>
+For me Moves don’t describe reality, they shape genre. To me “are (so obviously expressed)” is a nonsense. Feelings will be expressed if the move with the emote trigger is to be triggered. It’s a question of the genre you want to shape. Me ? my heart goes to emote.<br>
+I’d say : maybe watch the series you like and see whether characters “emote” or “take steps”, and you will see the answer on the screen ?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525/11</link>
+        <pubDate>Tue, 26 Oct 2021 11:46:51 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7525-11</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525.rss">[Let&#39;s Go To Magic School] Help with a basic move</source>
+      </item>
+      <item>
+        <title>[Let&#39;s Go To Magic School] Help with a basic move</title>
+        <dc:creator><![CDATA[@Eck]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/eck">@Eck</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="DeReel" data-post="9" data-topic="7525">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/dereel/40/3021_2.png" class="avatar"> DeReel:</div>
+<blockquote>
+<p>“Are going” is a promise that changes the “see what happens” paradigm.</p>
+</blockquote>
+</aside>
+<p>Fair point.  “Intend”?</p>
+<aside class="quote no-group" data-username="DeReel" data-post="9" data-topic="7525">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/dereel/40/3021_2.png" class="avatar"> DeReel:</div>
+<blockquote>
+<p>Emoting for me means : expressing one’s emotional state. It’s something very real in life, and easily objectivable in game. In movies or mangas, it translates into a reaction shot. I fail to see anything counterintuitive in it. In fact it is so obvious to me I probably have a blind spot that keeps me from explaining it properly.</p>
+</blockquote>
+</aside>
+<p>The intuition gap for me is that not all such intents/preps/pondering <em>are</em> so obviously expressed, surely.  Of course that might vary by genre as well as by context.  Mirandaing/Fleabagging/inner-turmoil-insert-ing may be an option.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525/10</link>
+        <pubDate>Tue, 26 Oct 2021 10:15:42 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7525-10</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525.rss">[Let&#39;s Go To Magic School] Help with a basic move</source>
+      </item>
+      <item>
+        <title>[Let&#39;s Go To Magic School] Help with a basic move</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>“Contemplate” is mental, hence hard to objectify. “Take steps” is pragmatic.<br>
+“Emote” is expressive.<br>
+“Are going” is a promise that changes the “see what happens” paradigm.</p>
+<p>Emoting for me means : expressing one’s emotional state. It’s something very real in life, and easily objectivable in game. In movies or mangas, it translates into a reaction shot. I fail to see anything counterintuitive in it. In fact it is so obvious to me I probably have a blind spot that keeps me from explaining it properly.</p>
+<p>I think the point is whether you want a pragmatic trigger or an expressive one.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525/9</link>
+        <pubDate>Tue, 26 Oct 2021 07:45:41 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7525-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525.rss">[Let&#39;s Go To Magic School] Help with a basic move</source>
+      </item>
+      <item>
+        <title>[Let&#39;s Go To Magic School] Help with a basic move</title>
+        <dc:creator><![CDATA[@Eck]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/eck">@Eck</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="DeReel" data-post="7" data-topic="7525">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/dereel/40/3021_2.png" class="avatar"> DeReel:</div>
+<blockquote>
+<p>In the previous version I like that the trigger is sort of an <strong>emote</strong> .</p>
+</blockquote>
+</aside>
+<p>Is “emote” a term-of-art here?  Slightly counterintuitive in its normal sense here.</p>
+<p>The exact wording here (other than using defined game terminology, where available, which might indeed be the best plan) might be connotationally significant.  “Contemplate” seems very thoughtful and deliberative.  “Take steps” may imply the passage of a significant period of time.  Maybe something like “are going to” would be neutral, if such implications aren’t intended?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525/8</link>
+        <pubDate>Mon, 25 Oct 2021 00:38:55 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7525-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525.rss">[Let&#39;s Go To Magic School] Help with a basic move</source>
+      </item>
+      <item>
+        <title>[Let&#39;s Go To Magic School] Help with a basic move</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>In the previous version I like that the trigger is sort of an <strong>emote</strong>. Maybe make it plainclear : “When you emote that you are considering (…)”<br>
+Anyway, my taste, your taste, their taste…</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525/7</link>
+        <pubDate>Sun, 24 Oct 2021 10:10:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7525-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525.rss">[Let&#39;s Go To Magic School] Help with a basic move</source>
+      </item>
+      <item>
+        <title>[Let&#39;s Go To Magic School] Help with a basic move</title>
+        <dc:creator><![CDATA[@holothuroid]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/holothuroid">@holothuroid</a> wrote:</p>
+          <blockquote>
+              <p>Thank you. You mean because it triggers before the character actually does something? Maybe there is way to say it triggers when they take the first steps?</p>
+<blockquote>
+<p>When you take steps to solve a problem with magic you have not mastered…</p>
+</blockquote>
+<p>Like this?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525/6</link>
+        <pubDate>Sat, 23 Oct 2021 18:57:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7525-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525.rss">[Let&#39;s Go To Magic School] Help with a basic move</source>
+      </item>
+      <item>
+        <title>[Let&#39;s Go To Magic School] Help with a basic move</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>I like that rewrite, as well. One potential concern with a move like this is that it is too abstract, too detached from the fictional events. Too <em>removed</em> from what’s actually happening in play.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525/5</link>
+        <pubDate>Sat, 23 Oct 2021 17:00:52 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7525-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525.rss">[Let&#39;s Go To Magic School] Help with a basic move</source>
+      </item>
+      <item>
+        <title>[Let&#39;s Go To Magic School] Help with a basic move</title>
+        <dc:creator><![CDATA[@Deodatus]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deodatus">@Deodatus</a> wrote:</p>
+          <blockquote>
+              <p>Its very illuminating to read these design thoughts. Your move seems cool to me, especially in its current form!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525/4</link>
+        <pubDate>Sat, 23 Oct 2021 16:02:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7525-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525.rss">[Let&#39;s Go To Magic School] Help with a basic move</source>
+      </item>
+      <item>
+        <title>[Let&#39;s Go To Magic School] Help with a basic move</title>
+        <dc:creator><![CDATA[@holothuroid]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/holothuroid">@holothuroid</a> wrote:</p>
+          <blockquote>
+              <p>I see, tense and aspect my eternal nemeses. I think the first and last option collide on the the timing especially. I want this move to trigger in the moment you think like. “Hmmm, a door. Maybe I could fireball that?”</p>
+<blockquote>
+<p>When you <strong>contemplate magic you have not mastered</strong> to solve a problem…</p>
+</blockquote>
+<p>And put the options in future tense?</p>
+<blockquote>
+<ul>
+<li>You’ll need extra preparation or assistance.</li>
+<li>You’ll have to break the rules. Raise Scrutiny or mark a Condition.</li>
+<li>There will be side-effects.</li>
+</ul>
+</blockquote>
+<p>The training one probably needs some reformulating.</p>
+<blockquote>
+<ul>
+<li>Seems simple enough. Do not gain Training.</li>
+</ul>
+</blockquote>
+<p>Is this better?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525/3</link>
+        <pubDate>Sat, 23 Oct 2021 15:28:36 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7525-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525.rss">[Let&#39;s Go To Magic School] Help with a basic move</source>
+      </item>
+      <item>
+        <title>[Let&#39;s Go To Magic School] Help with a basic move</title>
+        <dc:creator><![CDATA[@Alexi_Sarge]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alexi_sarge">@Alexi_Sarge</a> wrote:</p>
+          <blockquote>
+              <p>Really fun to think through a move like this!</p>
+<p>I think the first option from the revised move hits a fictional ordering problem. I describe my character “addressing a problem with magic I have not mastered,” like blasting down a door in my way with fire magic I barely understand. I roll a 10, pick the first and last options… what then? Do I have to backtrack in the fiction to describe performing extra preparation or getting assistance? I’m not sure the option works in the move as written without having some timey-wimey things going on in the narrative.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525/2</link>
+        <pubDate>Sat, 23 Oct 2021 14:28:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7525-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525.rss">[Let&#39;s Go To Magic School] Help with a basic move</source>
+      </item>
+      <item>
+        <title>[Let&#39;s Go To Magic School] Help with a basic move</title>
+        <dc:creator><![CDATA[@holothuroid]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/holothuroid">@holothuroid</a> wrote:</p>
+          <blockquote>
+              <p>Hi everyone.</p>
+<p>Thank you again for the nice welcome. As I <a href="https://forums.gauntlet-rpg.com/t/what-are-you-working-on-right-now/1322/354">posted in the What Are You Working On Right Now</a>, I’m working on a game called Let’s Go To Magic School.</p>
+<p>Having completed my first long running campaign, I want to revise a basic move.</p>
+<blockquote>
+<p>When you <strong>address a problem with magic you have not mastered</strong>, make the necessary preparations and roll +Learning. On a hit, you can do it. On a 10+, choose 2. On a 7-9, choose 1.</p>
+<ul>
+<li>You don’t have to break any rules.</li>
+<li>There are no side-effects.</li>
+<li>Gain Training with this spell.</li>
+</ul>
+<p><strong>Special:</strong> If you have Training with this trick, take +1. If you do break rules, remember to raise your Scrutiny.</p>
+</blockquote>
+<p>As you can imagine in a game about apprentices this move runs hot, so it has to be as good as possible. We already added the concept of Training during playtest. Originally you had just the option to master a spell you do with the move, but while that was alright for oneshots, it broke down in campaign play.</p>
+<p>There are still some issues:</p>
+<ol>
+<li>The clause about making the necessary preparations in the trigger is often ignored. Magic should be more than just waving your hand and players should stop and think about that.</li>
+<li>Breaking the rules and accruing Scrutiny makes sense while the play is on the school grounds. Scrutiny marks you as being naughty in the eyes of the teachers / authorities. It breaks down as a consequence, if you are all alone.</li>
+<li>When characters do this, their friends are often there too and jump to help. That makes sense in the narrative of course, but it triggers the help move, which tends to clot down the play, if it happens frequently.</li>
+</ol>
+<p>This is the help move:</p>
+<blockquote>
+<p>When you <strong>encourage, help or show kindness</strong>, roll +Heart. On a hit, choose 1.</p>
+<ul>
+<li>They take +1 on their roll.</li>
+<li>You ease their suffering.</li>
+<li>You guide them through a spell you have mastered. They can use it right now.</li>
+</ul>
+<p>On a 7-9, also choose one of these.</p>
+<ul>
+<li>It costs you something.</li>
+<li>You expose yourself to a problem or danger.</li>
+<li>You reveal something you wish you hadn’t.</li>
+</ul>
+</blockquote>
+<p>Now, to address problems 1 - 3, I tried changing the magic move:</p>
+<ol>
+<li>Preparation can be part of the choices in the effect body. This should have the players think about it. Adjust the number of choices accordingly.</li>
+<li>Breaking the rules in stories about magic is not always about punishment. Often there are simply bad things happening to you. So instead of Scrutiny, players may choose to mark a condition.</li>
+<li>Having an assistant could be an alternative to extra preparations. This should not trigger the help move, although even more partners might.</li>
+</ol>
+<p>For my current revision incorparting these solutions, I have negated everything for better readability:</p>
+<blockquote>
+<p>When you <strong>address a problem with magic you have not mastered</strong>, roll +Learning. On a hit, you might do it and gain Training. On a 10+, choose 2. On a 7-9, choose 3.</p>
+<ul>
+<li>You need extra preparation or assistance.</li>
+<li>You have to break the rules. Raise Scrutiny or mark a Condition.</li>
+<li>There are side-effects.</li>
+<li>You just got lucky. Do not gain Training with this spell.</li>
+</ul>
+<p><strong>Special:</strong> If you have Training with this trick, take +1.</p>
+</blockquote>
+<p>This basically does.</p>
+<p>Question 1: Is this clear enough? Can the text be better?<br>
+Question 2: I’d like to make it clear that assistance for magic one has not mastered does not trigger the help move. I’m not quite sure how to do that. Change the text on the help trigger maybe?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525/1</link>
+        <pubDate>Sat, 23 Oct 2021 10:52:08 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7525-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-a-basic-move/7525.rss">[Let&#39;s Go To Magic School] Help with a basic move</source>
+      </item>
+  </channel>
+</rss>

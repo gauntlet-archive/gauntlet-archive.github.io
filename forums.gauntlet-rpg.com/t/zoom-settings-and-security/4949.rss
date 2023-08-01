@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Zoom Settings and Security</title>
+    <link>https://forums.gauntlet-rpg.com/t/zoom-settings-and-security/4949</link>
+    <description>I know a good number of folks have moved over to Zoom as an option. I did because of the ease of use, recording functions, and stability. And of course with all the new migrations over to it, a lot has been revealed about privacy/security issues with the app. They&#39;ve dropped other features for the next three months to work on those things which is a good thing (since I&#39;ve already invested in it). Here are some best practices for using it right now:
+
+From an article on this:
+&gt; &quot;Here are some tips from the FBI, Zoom and other experts to prevent Zoombombing:
+&gt; Keep meetings and classrooms private. Do this by requiring a meeting password. Additionally, the “Waiting Room” feature, which is turned on by default, can help hosts control who enters.
+&gt; Do not share invites to Zoom meetings on social media. Instead, send the meeting password directly to attendees.
+&gt; Use a random meeting ID, so it can’t be shared multiple times. According to Zoom’s website, this is safer than using a “Personal Meeting ID.”
+&gt; Change screensharing settings to “Only Host,” so no one but the host can control the screen. The host can also mute participants in their settings.
+&gt; Lock a Zoom session that has already begun so no one else can join. Do this by clicking “Participants” in the bottom of a Zoom window, then clicking “Lock Meeting.”
+&gt; Remove participants by hovering over their name in the Participants menu, and clicking the “Remove” option. The removed participant will not be allowed back in, according to Zoom’s website.
+&gt; The FBI advises users to make sure they have the most updated version of Zoom’s software. A recent security update added default passwords and disabled the ability to scan for meetings to join.”
+
+**ALSO IMPORTANT**
+If you keep chat logs for the Zoom session, then any private messages between participants show up there. I&#39;d been keeping logs for reference, but I&#39;m going to turn that function off.
+
+Here&#39;s an article from the EFF about how to harden your Zoom settings: 
+https://www.eff.org/deeplinks/2020/04/harden-your-zoom-settings-protect-your-privacy-and-avoid-trolls</description>
+    
+    <lastBuildDate>Thu, 25 Jun 2020 16:21:17 +0000</lastBuildDate>
+    <category>RPG Chat</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/zoom-settings-and-security/4949.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Zoom Settings and Security</title>
+        <dc:creator><![CDATA[@Haladir]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/haladir">@Haladir</a> wrote:</p>
+          <blockquote>
+              <p>If you’re the host and want to keep a record of the chat log at the end of the session: Before you end the meeting, just click into the Chat window, “Select All”, “Copy”, click into a word processor or text editor (such as a Google Doc) and then select “Paste.” Save file.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/zoom-settings-and-security/4949/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/zoom-settings-and-security/4949/6</link>
+        <pubDate>Wed, 08 Apr 2020 15:49:36 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4949-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/zoom-settings-and-security/4949.rss">Zoom Settings and Security</source>
+      </item>
+      <item>
+        <title>Zoom Settings and Security</title>
+        <dc:creator><![CDATA[@dominik]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dominik">@dominik</a> wrote:</p>
+          <blockquote>
+              <p>Talking about security without building threat model is a little bit naive. Who’s the adversary for the online gaming use case? Does it matter that sometimes one time keys are generated on servers in China? China is not Borg, the adversary would have to be able to get access to the company resources or gain unauthorized access to these servers.</p>
+<p>If nation state is an adversary in your threat then the fact that remaining keys are generated in the United States doesn’t protect anyone from NSL subpoenas and keys are no more safe than they would be in China.</p>
+<p>Zoom’s response to these revelations seems to indicate incompetence, not malice. They are willing to work with the broader security community to improve their product.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/zoom-settings-and-security/4949/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/zoom-settings-and-security/4949/5</link>
+        <pubDate>Tue, 07 Apr 2020 15:48:21 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4949-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/zoom-settings-and-security/4949.rss">Zoom Settings and Security</source>
+      </item>
+      <item>
+        <title>Zoom Settings and Security</title>
+        <dc:creator><![CDATA[@Rickard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rickard">@Rickard</a> wrote:</p>
+          <blockquote>
+              <p>Well …</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/a/a9036c836377df6fe130d138299aefc534d13ca9.png" class="site-icon" width="32" height="32">
+      <a href="https://theintercept.com/2020/04/03/zooms-encryption-is-not-suited-for-secrets-and-has-surprising-links-to-china-researchers-discover/" target="_blank" rel="nofollow noopener">The Intercept</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/459;"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/9/9ae0f466f2a78c95afb84ebe745b59bfd1423e8c.jpeg" class="thumbnail" width="690" height="459" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/9/9ae0f466f2a78c95afb84ebe745b59bfd1423e8c_2_10x10.png"></div>
+
+<h3><a href="https://theintercept.com/2020/04/03/zooms-encryption-is-not-suited-for-secrets-and-has-surprising-links-to-china-researchers-discover/" target="_blank" rel="nofollow noopener">Zoom’s Encryption Is “Not Suited for Secrets” and Has Surprising Links to...</a></h3>
+
+<p>Zoom rolled out its own encryption system and included an algorithm with known serious issues, say University of Toronto researchers.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/zoom-settings-and-security/4949/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/zoom-settings-and-security/4949/4</link>
+        <pubDate>Tue, 07 Apr 2020 12:47:02 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4949-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/zoom-settings-and-security/4949.rss">Zoom Settings and Security</source>
+      </item>
+      <item>
+        <title>Zoom Settings and Security</title>
+        <dc:creator><![CDATA[@jaerdaph]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jaerdaph">@jaerdaph</a> wrote:</p>
+          <blockquote>
+              <p>Thank you for sharing this, <a class="mention" href="/u/edige23">@edige23</a>! It was helpful not just for gaming but so many other situations in this “new normal” of working from home and self isolating. Stay safe and healthy!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/zoom-settings-and-security/4949/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/zoom-settings-and-security/4949/3</link>
+        <pubDate>Mon, 06 Apr 2020 22:04:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4949-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/zoom-settings-and-security/4949.rss">Zoom Settings and Security</source>
+      </item>
+      <item>
+        <title>Zoom Settings and Security</title>
+        <dc:creator><![CDATA[@Gustavo_Campanelli]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gustavo_campanelli">@Gustavo_Campanelli</a> wrote:</p>
+          <blockquote>
+              <p>Nice tips. We are now moving onto jitsi, and we are liking it a lot.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/zoom-settings-and-security/4949/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/zoom-settings-and-security/4949/2</link>
+        <pubDate>Mon, 06 Apr 2020 15:02:03 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4949-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/zoom-settings-and-security/4949.rss">Zoom Settings and Security</source>
+      </item>
+      <item>
+        <title>Zoom Settings and Security</title>
+        <dc:creator><![CDATA[@edige23]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/edige23">@edige23</a> wrote:</p>
+          <blockquote>
+              <p>I know a good number of folks have moved over to Zoom as an option. I did because of the ease of use, recording functions, and stability. And of course with all the new migrations over to it, a lot has been revealed about privacy/security issues with the app. They’ve dropped other features for the next three months to work on those things which is a good thing (since I’ve already invested in it). Here are some best practices for using it right now:</p>
+<p>From an article on this:</p>
+<blockquote>
+<p>"Here are some tips from the FBI, Zoom and other experts to prevent Zoombombing:<br>
+Keep meetings and classrooms private. Do this by requiring a meeting password. Additionally, the “Waiting Room” feature, which is turned on by default, can help hosts control who enters.<br>
+Do not share invites to Zoom meetings on social media. Instead, send the meeting password directly to attendees.<br>
+Use a random meeting ID, so it can’t be shared multiple times. According to Zoom’s website, this is safer than using a “Personal Meeting ID.”<br>
+Change screensharing settings to “Only Host,” so no one but the host can control the screen. The host can also mute participants in their settings.<br>
+Lock a Zoom session that has already begun so no one else can join. Do this by clicking “Participants” in the bottom of a Zoom window, then clicking “Lock Meeting.”<br>
+Remove participants by hovering over their name in the Participants menu, and clicking the “Remove” option. The removed participant will not be allowed back in, according to Zoom’s website.<br>
+The FBI advises users to make sure they have the most updated version of Zoom’s software. A recent security update added default passwords and disabled the ability to scan for meetings to join.”</p>
+</blockquote>
+<p><strong>ALSO IMPORTANT</strong><br>
+If you keep chat logs for the Zoom session, then any private messages between participants show up there. I’d been keeping logs for reference, but I’m going to turn that function off.</p>
+<p>Here’s an article from the EFF about how to harden your Zoom settings:<br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://www.eff.org/sites/all/themes/frontier/favicon.ico" class="site-icon" width="48" height="48">
+      <a href="https://www.eff.org/deeplinks/2020/04/harden-your-zoom-settings-protect-your-privacy-and-avoid-trolls" target="_blank" title="03:58PM - 02 April 2020">Electronic Frontier Foundation – 2 Apr 20</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/345;"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/b/bc2c5832ebdb4bfd075b11e011266a65eac713f2.png" class="thumbnail" width="690" height="345" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/b/bc2c5832ebdb4bfd075b11e011266a65eac713f2_2_10x10.png"></div>
+
+<h3><a href="https://www.eff.org/deeplinks/2020/04/harden-your-zoom-settings-protect-your-privacy-and-avoid-trolls" target="_blank">Harden Your Zoom Settings to Protect Your Privacy and Avoid Trolls</a></h3>
+
+<p>Whether you are on Zoom because your employer or school requires it or you just downloaded it to stay in touch with friends and family, people have rushed to the video chat platform in the wake of COVID-19 stay-at-home orders—and journalists,...</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/zoom-settings-and-security/4949/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/zoom-settings-and-security/4949/1</link>
+        <pubDate>Mon, 06 Apr 2020 13:08:40 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4949-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/zoom-settings-and-security/4949.rss">Zoom Settings and Security</source>
+      </item>
+  </channel>
+</rss>

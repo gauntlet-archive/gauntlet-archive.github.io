@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Generic conflict resolution Apocalypse World style</title>
+    <link>https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931</link>
+    <description>I really like the flexible resolution system in Blades. it&#39;s quite complex and took me a while to get my head around. So I thought I&#39;d try something based on Apocalypse World combat resolution, but more generic so it can be adapted to various kinds of conflicts like BitD. This is intended to be used with harm and progress clocks much like in Blades.
+
+Effect and consequences are determined much like BitD, which is basically the same scale as Harm in AW. In the terminology borrowed from Blades, Effect is the outcome the PC achieves, while Consequences are the converse of that are suffered by the PC. So you inflict Effect and suffer Consequences, but they&#39;re on the same scale. I just find it easier to use different terminology for clarity. It will be helpful to be familiar with both Apocalypse World and Blades
+
+1. The player states their goal and means of pursuing it in the conflict
+2. The GM establishes the initial Effect and Consequence for the conflict
+3. The GM determines which Stat is appropriate to roll against
+4. The player rolls for Engage in a Conflict
+
+## Engage in a Conflict
+
+* For social and interpersonal conflicts the +Stat is Charm.
+* For conflicts of speed and agility the +Stat is Grace.
+* For conflicts of intellect and observation the +Stat is Wits.
+* For conflicts of strength and endurance the +Stat is Might.
+* For conflicts of magic and will the +Stat is Wyrd.
+
+When you strive with an adversary or opposing force, exchange the Effect you inflict and the Consequence you suffer, but first roll+Stat. If you are acting defensively, resisting a consequence without attempting to impose an Effect, take +1 on the roll. On a 10+ choose 3, on a 7-9 choose 2, on a miss choose 1.
+
+* Increase the level of Effect you cause by +1.
+* Reduce the level of Consequence you suffer by -1.
+* Protect someone. They suffer -1 Consequence.
+* Improve your position. Take +1 forward.
+* Force some concession or compromise from your opponent.
+* Disengage from the conflict.
+
+If your opponent is a PC they also roll. If an NPC, they choose 1 on a hit, 2 on a miss. Choices are made in secret and revealed simultaneously.
+---x
+
+I&#39;ve been toying with ideas like this for a while and I think this looks reasonably playable, but I&#39;m way too close to it to be objective. I&#39;d really appreciate some input to see if this makes sense. I&#39;ve also worked up a move for dealing with suffering a consequence, inspired by the Suffer Harm move. I think this framework could be quite effective for all sorts of types of conflicts.</description>
+    
+    <lastBuildDate>Fri, 07 May 2021 20:28:39 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Generic conflict resolution Apocalypse World style</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="DeReel" data-post="11" data-topic="6931">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/dereel/40/3021_2.png" class="avatar"> DeReel:</div>
+<blockquote>
+<p>it’s “only” an extended conflict mechanic but what if there were only extended conflicts ?</p>
+</blockquote>
+</aside>
+<p>Quite so! Not an invalid choice, depending on the type of game.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931/12</link>
+        <pubDate>Fri, 07 May 2021 20:28:39 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6931-12</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931.rss">Generic conflict resolution Apocalypse World style</source>
+      </item>
+      <item>
+        <title>Generic conflict resolution Apocalypse World style</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>Maybe a concession with a condition  :<br>
+you can get a concession if you’re halfway through your own track (=clock).<br>
+or<br>
+you can get a concession if you’re within 2 squares from your competitor.</p>
+<p><a class="mention" href="/u/paul_t">@Paul_T</a> it’s “only” an extended conflict mechanic but what if there were only extended conflicts ?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931/11</link>
+        <pubDate>Fri, 07 May 2021 19:54:57 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6931-11</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931.rss">Generic conflict resolution Apocalypse World style</source>
+      </item>
+      <item>
+        <title>Generic conflict resolution Apocalypse World style</title>
+        <dc:creator><![CDATA[@Simon_Hibbs]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/simon_hibbs">@Simon_Hibbs</a> wrote:</p>
+          <blockquote>
+              <p>The game I’m putting together does have harm, much like Blades and Apocalypse World so in a fight effects and consequences are wounds. For other types of contests it would be like Blades, with the long term consequences being determined by the stakes the contest is over.</p>
+<p>I suppose in the example it would be better to make the effects and consequences more specific, blow by blow. In some contests thats easier than others and in this one I found it quite hard. In say a chase it would be much easier.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931/10</link>
+        <pubDate>Fri, 07 May 2021 17:22:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6931-10</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931.rss">Generic conflict resolution Apocalypse World style</source>
+      </item>
+      <item>
+        <title>Generic conflict resolution Apocalypse World style</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>Quite right. In Apocalypse World - the rules you’re basing this on - this is because the “cost” has long-term consequences (your harm clock).</p>
+<p>Generally speaking, some kind of system which gives long-term consequences helps this sort of design make sense. In The Shadow of Yesterday, you spend resources (Pools) and mark harm on your sheet, for example.</p>
+<aside class="quote no-group" data-username="Simon_Hibbs" data-post="8" data-topic="6931">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/simon_hibbs/40/2633_2.png" class="avatar"> Simon_Hibbs:</div>
+<blockquote>
+<p>Single roll resolution would look like Act Under Fire or Defy Danger.</p>
+</blockquote>
+</aside>
+<p>Oh, so this is only a sort of “extended conflict” mechanic. Hmmm.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931/9</link>
+        <pubDate>Fri, 07 May 2021 17:01:55 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6931-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931.rss">Generic conflict resolution Apocalypse World style</source>
+      </item>
+      <item>
+        <title>Generic conflict resolution Apocalypse World style</title>
+        <dc:creator><![CDATA[@Simon_Hibbs]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/simon_hibbs">@Simon_Hibbs</a> wrote:</p>
+          <blockquote>
+              <p>Single roll resolution would look like Act Under Fire or Defy Danger.</p>
+<p>I think the concept of concessions needs some work. There should be a cost for going for a concession, and therefore losing the contest more completely or winning it less thoroughly. As written, and in this example, you can basically know you are about to lose but still pick a concession. I realised that when writing the example and wanted to explore what that means, but I’m still not entirely sure.</p>
+<p>The reason this is always possible is because both sides always get at least 1 pick. If the PC didn’t get a pick on a miss, and the NPC didn’t get a pick if the player rolled 10+, then this problem goes away. Concessions wouldn’t be guaranteed and would be a legitimate prize of at least some degree of success.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931/8</link>
+        <pubDate>Fri, 07 May 2021 16:37:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6931-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931.rss">Generic conflict resolution Apocalypse World style</source>
+      </item>
+      <item>
+        <title>Generic conflict resolution Apocalypse World style</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>I find that in such systems a loose “concession” can sometimes be challenging (e.g. what if the concession is significant enough that one party is willing to lose the conflict over it, or wants another conflict about that?), but in principle it’s a great idea. I like how it worked out in your example.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931/7</link>
+        <pubDate>Fri, 07 May 2021 16:19:58 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6931-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931.rss">Generic conflict resolution Apocalypse World style</source>
+      </item>
+      <item>
+        <title>Generic conflict resolution Apocalypse World style</title>
+        <dc:creator><![CDATA[@Simon_Hibbs]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/simon_hibbs">@Simon_Hibbs</a> wrote:</p>
+          <blockquote>
+              <p>Going through that example was an interesting exercise, thanks for challenging me, it’s helped crystallise it a bit in my mind.</p>
+<p>Forcing a concession is similar in principle to the “take control of it” option in Seize by Force. It’s achieving some incidental objective aside from just slugging it out. If Brianna’s rolls had gone poorly, she might have tried for a concession to stay temporarily, but as the loser it would likely have been a lesser outcome. Maybe only being allowed to stay the night in the barn.</p>
+<p>In combat a concession allows you to shape the situation even if you’re losing. You might grab something off your opponent and then spend another option to disengage. You’ll likely suffer for it in harm, but it might be worth it.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931/6</link>
+        <pubDate>Fri, 07 May 2021 16:18:44 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6931-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931.rss">Generic conflict resolution Apocalypse World style</source>
+      </item>
+      <item>
+        <title>Generic conflict resolution Apocalypse World style</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>Great example. I wasn’t expecting a clock-filling procedure; I thought you wanted it resolved in one roll.</p>
+<p>That could be an advantage or a disadvantage, of course. It does give some flexibility to the GM.</p>
+<p>Would it work as a single-roll resolution? That seems more difficult.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931/5</link>
+        <pubDate>Fri, 07 May 2021 16:18:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6931-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931.rss">Generic conflict resolution Apocalypse World style</source>
+      </item>
+      <item>
+        <title>Generic conflict resolution Apocalypse World style</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>Hello, that mechanic is… interesting !<br>
+What I see it do is define set categories for success/failure. In action it sounds a bit like Duel of Wits and requires “system mastery”. But with the clocks materialized it boils down to a +1/-1 token game that reminds me of Remember Tomorrow PLUS the concession / out outcomes, that are for me the most original. My Mesopotamians hack (wip) uses something similar to the “out” with sideout scoring : I understand this as putting the conflict on hold.<br>
+The concession is a new perspective on “pay the cost”, and a very good one in my opinion !</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931/4</link>
+        <pubDate>Fri, 07 May 2021 16:17:41 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6931-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931.rss">Generic conflict resolution Apocalypse World style</source>
+      </item>
+      <item>
+        <title>Generic conflict resolution Apocalypse World style</title>
+        <dc:creator><![CDATA[@Simon_Hibbs]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/simon_hibbs">@Simon_Hibbs</a> wrote:</p>
+          <blockquote>
+              <p>The party are badly beaten up but make it to a friendly village to rest up, but the Chief’s sister Fiona accuses them of stirring up trouble (probably true) and says they shouldn’t be given guest right. “Bryn my brother, send these vagabonds on their way before we become complicit in their crimes”.</p>
+<p>Brianna, one of the PCs, argues their case. “What we’ve done was no crime, Chief Bryn. Also remember when we drove off the Buggain from the forest, that killed your nephew Corwin.”</p>
+<p>The GM calls for a social conflict with a 6-clock tracking Fiona’s attempt to get the PCs kicked out, and another 6-clock for Brianna’s attempt to argue their case. First clock filled wins. Default Effect for both characters will be the standard 2. Brianna’s character doesn’t have any moves or relationships that grant increased effect, protection or bonuses in this situation but has Charm +2.</p>
+<p>Fiona: Inflicts 2 by default, achieved 0/6<br>
+Brianna: Inflicts 2 by default, achieved 0/6</p>
+<p>Brianna rolls and scores 11, so picks 3. She goes for Reduced Consequence (-1 consequence), Increased effect (+1 Effect) and Improved Position (+1 forward).<br>
+The GM chooses 1 for Fiona and goes for Increased Effect (+1 Effect).</p>
+<p>Fionna: “They only fought the Buggain for gold and glory and were well paid. They’re nothing but mercenaries and no true friends of ours.”<br>
+Brianna: “Bryn, your sister has always hated outsiders since a wanderer slew her husband, but we have always treated you and your people with respect. We don’t deserve this treatment. You know us well.”</p>
+<p>Fiona: Inflicts 2 (2+1-1), achieved 2/6<br>
+Brianna: Inflicts 3 (2+1), achieved 3/6, gets +1 forward</p>
+<p>Brianna rolls 7-9 so chooses 2.<br>
+The GM knows that Brianna choosing 2 can get +1 effect (3 effect) and -1 consequence (1 consequence). Fiona gets one pick. She could knock the 3 effect down to 2 and stay in the contest, but would still be badly behind. She decides to Force a Concession instead.</p>
+<p>Brianna does as expected, choosing +1 effect and -1 consequence.</p>
+<p>Fiona: Inflicts 1 (2-1), achieved 3/6<br>
+Brianna: Inflicts 3 (2+1), achieved 6/6</p>
+<p>Brianna wins, the PCs can stay, but Fiona demands a concession: “Last time they stayed it was a month, and the hall was strewn with their arms and foreign gear. Let them stay a few days in the barn.”</p>
+<p>The GM says Bryn considers the case. “The barn is no place for guests in good standing, you may sleep in the hall and eat at my table, but Fiona is right. If you stay long it could be trouble for us. You may stay 3 days.”</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931/3</link>
+        <pubDate>Fri, 07 May 2021 16:02:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6931-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931.rss">Generic conflict resolution Apocalypse World style</source>
+      </item>
+      <item>
+        <title>Generic conflict resolution Apocalypse World style</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>Could you illustrate with an example?</p>
+<p>One issue with a choose 1/2/3 move is that sometimes the roll feels it doesn’t really matter (the best and worst outcomes aren’t all that different).</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931/2</link>
+        <pubDate>Fri, 07 May 2021 14:24:36 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6931-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931.rss">Generic conflict resolution Apocalypse World style</source>
+      </item>
+      <item>
+        <title>Generic conflict resolution Apocalypse World style</title>
+        <dc:creator><![CDATA[@Simon_Hibbs]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/simon_hibbs">@Simon_Hibbs</a> wrote:</p>
+          <blockquote>
+              <p>I really like the flexible resolution system in Blades. it’s quite complex and took me a while to get my head around. So I thought I’d try something based on Apocalypse World combat resolution, but more generic so it can be adapted to various kinds of conflicts like BitD. This is intended to be used with harm and progress clocks much like in Blades.</p>
+<p>Effect and consequences are determined much like BitD, which is basically the same scale as Harm in AW. In the terminology borrowed from Blades, Effect is the outcome the PC achieves, while Consequences are the converse of that are suffered by the PC. So you inflict Effect and suffer Consequences, but they’re on the same scale. I just find it easier to use different terminology for clarity. It will be helpful to be familiar with both Apocalypse World and Blades</p>
+<ol>
+<li>The player states their goal and means of pursuing it in the conflict</li>
+<li>The GM establishes the initial Effect and Consequence for the conflict</li>
+<li>The GM determines which Stat is appropriate to roll against</li>
+<li>The player rolls for Engage in a Conflict</li>
+</ol>
+<h2>Engage in a Conflict</h2>
+<ul>
+<li>For social and interpersonal conflicts the +Stat is Charm.</li>
+<li>For conflicts of speed and agility the +Stat is Grace.</li>
+<li>For conflicts of intellect and observation the +Stat is Wits.</li>
+<li>For conflicts of strength and endurance the +Stat is Might.</li>
+<li>For conflicts of magic and will the +Stat is Wyrd.</li>
+</ul>
+<p>When you strive with an adversary or opposing force, exchange the Effect you inflict and the Consequence you suffer, but first roll+Stat. If you are acting defensively, resisting a consequence without attempting to impose an Effect, take +1 on the roll. On a 10+ choose 3, on a 7-9 choose 2, on a miss choose 1.</p>
+<ul>
+<li>Increase the level of Effect you cause by +1.</li>
+<li>Reduce the level of Consequence you suffer by -1.</li>
+<li>Protect someone. They suffer -1 Consequence.</li>
+<li>Improve your position. Take +1 forward.</li>
+<li>Force some concession or compromise from your opponent.</li>
+<li>Disengage from the conflict.</li>
+</ul>
+<p>If your opponent is a PC they also roll. If an NPC, they choose 1 on a hit, 2 on a miss. Choices are made in secret and revealed simultaneously.<br>
+—x</p>
+<p>I’ve been toying with ideas like this for a while and I think this looks reasonably playable, but I’m way too close to it to be objective. I’d really appreciate some input to see if this makes sense. I’ve also worked up a move for dealing with suffering a consequence, inspired by the Suffer Harm move. I think this framework could be quite effective for all sorts of types of conflicts.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931/1</link>
+        <pubDate>Fri, 07 May 2021 13:59:31 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6931-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/generic-conflict-resolution-apocalypse-world-style/6931.rss">Generic conflict resolution Apocalypse World style</source>
+      </item>
+  </channel>
+</rss>

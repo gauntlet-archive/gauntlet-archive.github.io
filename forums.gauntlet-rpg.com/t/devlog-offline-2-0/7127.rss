@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>DevLog: Offline 2.0</title>
+    <link>https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127</link>
+    <description>**THE PITCH:** lightweight generic system for power fantasy games, no prep, worldbuilding + character creation in 20 min, but ANYTHING GOES. As in yes, you can use it to play a cyberpunk with jedi on varitechs and will still feel natural, balanced and have a proper story going on. 
+
+**ALSO:** Nebwie players and GMs welcome. No need to be a genius-level super creative player or an accomplished GM able to make anything work, nor have a degree in creative writing -though now you can benefit from all these without worrying if the system will support it.
+
+**CHASSIS:** resolution system1 or 2d6 with no bonuses against a Difficulty set by GM depending on circumstances, fictional positioning and planning vs the same from opponent&#39;s side. Only the player rolls. 
+
+**HOW &quot;ANYTHING GOES&quot; GETS BALANCED?**
+Yes, your character may have ANY special ability (and any number of them) they want with three caveats:
+1- It ain&#39;t failproof. It may and will fail you, the group can come up with the how on the moment. 
+2- You need to purchase all the Uses it will have. You wanted to have a magic sword but only purchased the Use &quot;Attack&quot;? Fine, you can&#39;t parry with it. Or well, if you do, you only roll 1d6 instead of two. There are 8 Uses (Attack, Defense, Movement, Perception, Intellect, Evasion, Social, Heal). If you didn&#39;t purchase at least a single Use for them, you can&#39;t use it at all.
+3- Additional Benefits like affecting more than one opponent (Area), etc. don&#39;t cost points, you need to put a Flaw to balance.
+
+**HOW DOES THE GM DEAL WITH THIS?**
+GM has 8 sorta&#39; PbtA moves, one for each Use mentioned before. Whatever the special power, mount, pókemon, psychic power, magic type, vampyric power, etc is, the intent and result is the same, the only thing that changes is the explanation of how and why it works or not and that get&#39;s done after the roll with everyone&#39;s help. And if the special, natural, supernatural ability, equipment, etc isn&#39;t applicable in the fiction at all (like using mind-control on an undead) then no, you can&#39;t use it because it makes no sense, sorry. Unless you find a way to explain it to the GM, that is.
+
+Opponents and challenges come in 5 flavors: 
+-*Too low to roll*, player narrates how their PC overcomes it with flying colors
+-*Minions*, easy roll, barely do 1d6 damage if you get hit
+-*Elite*, normal roll, do 2d6 damage
+-*Boss*, difficult roll, do 3d6 damage
+-*Run Fools!*, only roll to escape from it, PCs die if they try to face it.
+
+System doesn&#39;t really escalate with level, PCs just get one more point to spend in their character, maybe get rid of a Flaw and a level up mostly means previous opponents and challenges are now easier. Elites become Minions, etc. Everybody has 20hp tops whatever level they have. (I could have left HP out and do it with descriptive damage, but I believe my audience here in Peru will need something familiar to cling to to grasp the system more easily.)
+
+**CHARACTER, WORLDBUILDING &amp; ADVENTURE READY IN 20 MIN**
+Worldbuilding here only requires brainstorming 9 short questions, rolling a couple of dice and drawing a map with 6 locations. Coming up with your character&#39;s name takes longer.
+
+Speaking of characters, each Advantage (the term used for any ability, equipment, etc) needs to have a Bond with something in the fiction, like a Location, an NPC, another PC, etc. These Bonds along with the worldbuilding help build the premise of the adventure, so by the time you&#39;re done with the worldbuilding and the PCs, you will know where the adventure will start and where it will go. Travel quest with dungeon scenarios are already doable and tested. Mistery and Crime scenarios still need testing.
+
+![Recurso 1|597x423](upload://o3e1l9hmcjm4SmBUkkrdODrBsao.png) 
+
+**OTHER MECHANICS USED**
+Tension is marked by the player when it makes sense that damage affects one Advantage. In the fiction it means the weapon gets jammed or broken, the psychic power is overloaded, the mech shuts down, etc. It lasts until the end of the scene and the player must roleplay a rest scene related with the Bond of that Advantage to fix it, otherwise the Advantage remains unusable for another scene.
+
+Equipment or Contacts is a mechanic donated by someone else and now of public use. Each session a player may say -up to three times- that their PC had something in their backpack / pocket,etc. or that knows somebody that can help with the current issue.</description>
+    
+    <lastBuildDate>Sun, 20 Mar 2022 03:17:44 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>DevLog: Offline 2.0</title>
+        <dc:creator><![CDATA[@Warriormonk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/warriormonk">@Warriormonk</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="Rickard" data-post="33" data-topic="7127">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/rickard/40/4879_2.png" class="avatar"> Rickard:</div>
+<blockquote>
+<p>I would honestly just use the existing Advantage mechanic in some way, either by blocking an advantage, making it more difficult to use, raise tension… something along those lines.</p>
+</blockquote>
+</aside>
+<p>Yeah, I tried that at first too, but didn’t work well. The idea then was that whenever PCs soaked damage, they had to shut down one Advantage. Then I changed it for leaving the players to decide if they took the damage to their HP or shut down an advantage. That’s the version where PCs had to roleplay the bond linked to that advantage. So, if your PC broke their father’s sword, they could get it reforged but had to renew their oath to avenge their father, or change the advantage with a new one. Sounded good for character development, but on the table it fell flat as players too often got blank page syndrome on such occasions. On some others, either “breaking” the advantage wasn’t too apliccable or ways of getting it back could derrail a session/adventure designed for 5 encounters/scenes. And since the system shines the best when used for one-session fast adventures, I ended up dropping it.</p>
+<aside class="quote no-group" data-username="Rickard" data-post="33" data-topic="7127">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/rickard/40/4879_2.png" class="avatar"> Rickard:</div>
+<blockquote>
+<p>Do I interpret this correct, if I say that bonds only color how the action is described? Because that’s a much better way of solving these kind of things, rather than giving bonuses.</p>
+</blockquote>
+</aside>
+<p>It’s more like now Bonds are used by the GM to create the adventure and weave character’s motivations right into it, and make sense of their decision to get into trouble. It remains a core thing because otherwise, players tend to go for PvP and the murderhobo fun, as I found in more than one group. Having the players help create the world helps a great deal to get them invested, but without bonds the nature of the exploration of this world tends to become aimless and that’s when those behaviors appear. I’m not against that kind of fun when players know each other and know what they are doing, but being a game oriented to newbie players I preferred to be more responsible with the kind of fun the game is offering.</p>
+<aside class="quote no-group" data-username="Rickard" data-post="33" data-topic="7127">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/rickard/40/4879_2.png" class="avatar"> Rickard:</div>
+<blockquote>
+<p>These scenes are frames as something in particular that happens. Something I really come to love in the later year are scenes that tells how things should be described, rather than what to be described. Like, we’re going to play out a scene between the grand wizard and the characters, but the scene type is “play with your emotions”</p>
+</blockquote>
+</aside>
+<p>Ah, I get it! Yes, that’s amazing of newer games and at some point I though of taking that route and make a game with more depth, but then I would probably need to focuse more on a particular game experience to model it better and don’t let players wondering how should they manage if they started making a world around a more humorous premise, or an action oriented one. So I ended up going for a really simple adventure spirit for the game and just let players relax by hitting things or maybe solving a crime/mistery.</p>
+<aside class="quote no-group" data-username="Rickard" data-post="33" data-topic="7127">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/rickard/40/4879_2.png" class="avatar"> Rickard:</div>
+<blockquote>
+<p>What’s ICRPG?</p>
+</blockquote>
+</aside>
+<p><a href="https://hankerinferinale.wixsite.com/icrpg" rel="nofollow noopener">This</a></p>
+<aside class="quote no-group" data-username="Rickard" data-post="33" data-topic="7127">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/rickard/40/4879_2.png" class="avatar"> Rickard:</div>
+<blockquote>
+<p>Latin have had a huge impact on the European languages, and knowing three languages helps out a lot when it comes to basic understanding, plus any random expressions I learned when watching Hispanic movies. So it’s not big real, really. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/smiley.png?v=9" title=":smiley:" class="emoji" alt=":smiley:"> Google lens is an awesome tool too.</p>
+</blockquote>
+</aside>
+<p>I’ll definitely have lots of trouble translating game terms, as some make more sense in spanish and for an english version I’d definitely go for more familiar ones to the usual RPG audience. But I’ll let you know once the spanish version is finished so you can try your language skills on it <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/smiley.png?v=9" title=":smiley:" class="emoji" alt=":smiley:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/34">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/34</link>
+        <pubDate>Sun, 20 Mar 2022 03:17:44 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7127-34</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127.rss">DevLog: Offline 2.0</source>
+      </item>
+      <item>
+        <title>DevLog: Offline 2.0</title>
+        <dc:creator><![CDATA[@Rickard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rickard">@Rickard</a> wrote:</p>
+          <blockquote>
+              <p>Mostly giving out ideas in this post. Food for thoughts, rather than full mechanics that I think you should implement. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> (Forums are so bad for these kind of posts)</p>
+<aside class="quote no-group" data-username="Warriormonk" data-post="32" data-topic="7127">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/warriormonk/40/1775_2.png" class="avatar"> Warriormonk:</div>
+<blockquote>
+<p>The descriptive damage got only partially adopted, as a space for Conditions inflicted, where Conditions in the game stands for anything that doesn’t affect the character’s HP. I only kept HP for the sake of offering the players something familiar, as in my country most players will at least have some video gaming background to rely on.</p>
+</blockquote>
+</aside>
+<p>I would honestly just use the existing Advantage mechanic in some way, either by blocking an advantage, making it more difficult to use, raise tension… something along those lines.</p>
+<aside class="quote no-group" data-username="Warriormonk" data-post="32" data-topic="7127">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/warriormonk/40/1775_2.png" class="avatar"> Warriormonk:</div>
+<blockquote>
+<p>Forcing the players to roleplay bonds to gain back advantage didn’t work neither. Bonds are a must on a character and it’s really cool if players get to roleplay them a bit as they want, but having players do that as a penalty game to get back their sacrificed advantages became a bit of a nuisance on resting scenes.</p>
+</blockquote>
+</aside>
+<p>Yeah, I’m not a huge fan of resting scenes in whole. Feels too fabricated, instead of something that flows into the game naturally. Unless you make it a thing of it’s own, like <strong>The One Ring</strong>, that has a adventure phase and a fellowship phase. They are basically a “doing” phase and a “planning” phase, where you play your character in one and do more broad actions in the other. You heal up fully in the latter.</p>
+<aside class="quote no-group" data-username="Warriormonk" data-post="32" data-topic="7127">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/warriormonk/40/1775_2.png" class="avatar"> Warriormonk:</div>
+<blockquote>
+<p>In the final version Bonds got separated from Advantages and now report no mechanical effect to rolls,</p>
+</blockquote>
+</aside>
+<p>Do I interpret this correct, if I say that bonds only color how the action is described? Because that’s a much better way of solving these kind of things, rather than giving bonuses.</p>
+<aside class="quote no-group" data-username="Warriormonk" data-post="32" data-topic="7127">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/warriormonk/40/1775_2.png" class="avatar"> Warriormonk:</div>
+<blockquote>
+<p>For example, here’s a sample of the pages referring to social archetype encounters:</p>
+</blockquote>
+</aside>
+<p>These scenes are frames as something in particular that happens. Something I really come to love in the later year are scenes that tells how things should be described, rather than what to be described. Like, we’re going to play out a scene between the grand wizard and the characters, but the scene type is “play with your emotions”.</p>
+<aside class="quote no-group" data-username="Warriormonk" data-post="32" data-topic="7127">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/warriormonk/40/1775_2.png" class="avatar"> Warriormonk:</div>
+<blockquote>
+<p>but as you can see I took ICRPGs model for encounter archetypes and extended to all kind of encounter types I could think of,</p>
+</blockquote>
+</aside>
+<p>What’s ICRPG?</p>
+<aside class="quote no-group" data-username="Warriormonk" data-post="32" data-topic="7127">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/warriormonk/40/1775_2.png" class="avatar"> Warriormonk:</div>
+<blockquote>
+<p>English version is still gonna take a while but I’ll definitely give you a shout then if you’re still available.</p>
+</blockquote>
+</aside>
+<p>Latin have had a huge impact on the European languages, and knowing three languages helps out a lot when it comes to basic understanding, plus any random expressions I learned when watching Hispanic movies. So it’s not big real, really. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/smiley.png?v=9" title=":smiley:" class="emoji" alt=":smiley:"> Google lens is an awesome tool too.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/33">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/33</link>
+        <pubDate>Sat, 19 Mar 2022 10:03:21 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7127-33</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127.rss">DevLog: Offline 2.0</source>
+      </item>
+      <item>
+        <title>DevLog: Offline 2.0</title>
+        <dc:creator><![CDATA[@Warriormonk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/warriormonk">@Warriormonk</a> wrote:</p>
+          <blockquote>
+              <p>The card deck -wow, I had almost forgot about it!- may be something I go back in the future, but it isn’t needed for this game. That is, at least in the current testing the need for this tool hasn’t arised. I did recycled parts of it for crafting traps and some other archetype challenges I think.</p>
+<p>The descriptive damage got only partially adopted, as a space for Conditions inflicted, where Conditions in the game stands for anything that doesn’t affect the character’s HP. I only kept HP for the sake of offering the players something familiar, as in my country most players will at least have some video gaming background to rely on.</p>
+<p>Also, there’s something not totally intuitive about piling up wounds and other conditions on the same spot until you are left without a place to write them down and have to engage the death mechanic. There’s always a chance social conditions get on the mix and while getting a little wound after being demoralized sounds like a reasonable way of dying, it goes a bit against the power fantasy spirit of the game.</p>
+<p>Forcing the players to roleplay bonds to gain back advantage didn’t work neither. Bonds are a must on a character and it’s really cool if players get to roleplay them a bit as they want, but having players do that as a penalty game to get back their sacrificed advantages became a bit of a nuisance on resting scenes. In the final version Bonds got separated from Advantages and now report no mechanical effect to rolls, but are everything to create the world, the adventure, to put things in motion and keep the PCs together.</p>
+<p>Thanks for having the patience to read it all <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/sparkling_heart.png?v=9" title=":sparkling_heart:" class="emoji" alt=":sparkling_heart:"></p>
+<p>About the scenes, I put that phrase as a way to resume everything. “Things” in that phrase can be replaced with “characters”, “concepts” etc. thus creating vastly different types of scenes. For example, here’s a sample of the pages referring to social archetype encounters:</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/5/50b19bead402b60c6017fd1806040fba7d119e58.jpeg" data-download-href="/uploads/short-url/bvQIQgCGTJuuSLDDcI3unlSj1yM.jpeg?dl=1" title="social encounters-14" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/50b19bead402b60c6017fd1806040fba7d119e58_2_690x487.jpeg" alt="social encounters-14" data-base62-sha1="bvQIQgCGTJuuSLDDcI3unlSj1yM" width="690" height="487" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/50b19bead402b60c6017fd1806040fba7d119e58_2_690x487.jpeg, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/50b19bead402b60c6017fd1806040fba7d119e58_2_1035x730.jpeg 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/50b19bead402b60c6017fd1806040fba7d119e58_2_1380x974.jpeg 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/50b19bead402b60c6017fd1806040fba7d119e58_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">social encounters-14</span><span class="informations">1755×1241 586 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>Sorry it’s in spanish and somewhat unreadable, but as you can see I took ICRPGs model for encounter archetypes and extended to all kind of encounter types I could think of, that can be mixed to generate different types of challenges. If you meant something more like character development scenes or scenes that focus and develop emotional expressions, no, I didn’t made guidelines for those, though the scene framing procedure and the death mechanic may end up going there, if the players don’t do it by themselves. It would be cool though, hadn’t thought of that, but I had my dish somewhat full making guidelines for everything else <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/stuck_out_tongue.png?v=9" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></p>
+<p>And thanks a lot for the offer! English version is still gonna take a while but I’ll definitely give you a shout then if you’re still available.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/32">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/32</link>
+        <pubDate>Sat, 19 Mar 2022 03:57:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7127-32</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127.rss">DevLog: Offline 2.0</source>
+      </item>
+      <item>
+        <title>DevLog: Offline 2.0</title>
+        <dc:creator><![CDATA[@Rickard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rickard">@Rickard</a> wrote:</p>
+          <blockquote>
+              <p>OK, so I took the time to read through everything. I know you got some interesting ideas, from your card deck that generates situations. Have you reused any of those ideas when making this game?</p>
+<p>Also, it’s awesome that you’re a talented artist too, so you can spend sweat instead of cash to finish the game. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> Here are what I think are your Unique Selling Points:</p>
+<aside class="quote no-group">
+<blockquote>
+<p>no prep, worldbuilding + character creation in 20 min /…/  the intent and result is the same, the only thing that changes is the explanation of how … /…/  I was also thinking of a descriptive damage version, where you have 4 slots to fill with Conditions. /…/ And if the 4 slots are filled, that’s it, the character is no longer relevant in the scene.  /…/ All the manual now fits tightly in 28 pages /…/ current rules establish the player must roleplay anything related to the Bond listed in that Advantage. /…/ I realized that with the current GM moves and action economy, players don’t really need to worry about mechanics or balance.</p>
+</blockquote>
+</aside>
+<p>This seems like right up my alley, because this is how I design my games as well. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/smiley.png?v=9" title=":smiley:" class="emoji" alt=":smiley:"> If you need someone to give constructive feedback on your writing (most how you explain your procedures) and someone who knows graphic design, give me a call. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<aside class="quote no-group" data-username="Warriormonk" data-post="10" data-topic="7127">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/warriormonk/40/1775_2.png" class="avatar"> Warriormonk:</div>
+<blockquote>
+<p>When the GM frames a scene, she puts things there for players to interact. If it becomes a challenge, a roll is asked for. If it succeeds, you’re back to framing the scene.</p>
+</blockquote>
+</aside>
+<p>Are these challenging scenes the only types of scenes that exist?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/31">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/31</link>
+        <pubDate>Fri, 18 Mar 2022 09:25:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7127-31</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127.rss">DevLog: Offline 2.0</source>
+      </item>
+      <item>
+        <title>DevLog: Offline 2.0</title>
+        <dc:creator><![CDATA[@Warriormonk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/warriormonk">@Warriormonk</a> wrote:</p>
+          <blockquote>
+              <p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/0/0d998606c87ba54613faedf1d879ee7eee6baf83.jpeg" data-download-href="/uploads/short-url/1Wj82TvzmgqljnpHEDTolB934yv.jpeg?dl=1" title="contraportada_foro" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/0/0d998606c87ba54613faedf1d879ee7eee6baf83_2_353x500.jpeg" alt="contraportada_foro" data-base62-sha1="1Wj82TvzmgqljnpHEDTolB934yv" width="353" height="500" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/0/0d998606c87ba54613faedf1d879ee7eee6baf83_2_353x500.jpeg, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/0/0d998606c87ba54613faedf1d879ee7eee6baf83_2_529x750.jpeg 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/0/0d998606c87ba54613faedf1d879ee7eee6baf83_2_706x1000.jpeg 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/0/0d998606c87ba54613faedf1d879ee7eee6baf83_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">contraportada_foro</span><span class="informations">827×1170 1.22 MB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>Back! All right, after training a bit more and switching drawing apps, here’s the back cover of the game. With this mostly all art is finished and I’ll be making a new editing pass to spell check, trim stuff isf possible and getting rid from things that got forgotten from the first version of the game, like terms I had changed later and such. Still a long way until translating it into english but feels like a nice milestone.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/30">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/30</link>
+        <pubDate>Fri, 18 Mar 2022 02:35:47 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7127-30</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127.rss">DevLog: Offline 2.0</source>
+      </item>
+      <item>
+        <title>DevLog: Offline 2.0</title>
+        <dc:creator><![CDATA[@Rickard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rickard">@Rickard</a> wrote:</p>
+          <blockquote>
+              <p>That looks really awesome!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/29">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/29</link>
+        <pubDate>Fri, 10 Dec 2021 17:40:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7127-29</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127.rss">DevLog: Offline 2.0</source>
+      </item>
+      <item>
+        <title>DevLog: Offline 2.0</title>
+        <dc:creator><![CDATA[@Warriormonk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/warriormonk">@Warriormonk</a> wrote:</p>
+          <blockquote>
+              <p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/a/a0c62367f2cff1196bd342e4ecb497a383acb34e.jpeg" data-download-href="/uploads/short-url/mWgU5pbPWiPsBpsRRFZUPoreS1U.jpeg?dl=1" title="portada offline2b" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/a/a0c62367f2cff1196bd342e4ecb497a383acb34e_2_353x500.jpeg" alt="portada offline2b" data-base62-sha1="mWgU5pbPWiPsBpsRRFZUPoreS1U" width="353" height="500" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/a/a0c62367f2cff1196bd342e4ecb497a383acb34e_2_353x500.jpeg, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/a/a0c62367f2cff1196bd342e4ecb497a383acb34e_2_529x750.jpeg 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/a/a0c62367f2cff1196bd342e4ecb497a383acb34e_2_706x1000.jpeg 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/a/a0c62367f2cff1196bd342e4ecb497a383acb34e_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">portada offline2b</span><span class="informations">1240×1755 2.2 MB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div><br>
+All right I gave it a second try, it was worth it. At least I’m happier with the result <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/stuck_out_tongue.png?v=9" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/28</link>
+        <pubDate>Fri, 10 Dec 2021 16:30:49 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7127-28</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127.rss">DevLog: Offline 2.0</source>
+      </item>
+      <item>
+        <title>DevLog: Offline 2.0</title>
+        <dc:creator><![CDATA[@Warriormonk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/warriormonk">@Warriormonk</a> wrote:</p>
+          <blockquote>
+              <p>Yep, it’s a matter of using more readable silhouettes for the characters. I’ve got more line control now but that got me overboard with the base construction and then it was too late to go back to the composition. I might end up redoing this piece, it was fun learning so much again!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/27">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/27</link>
+        <pubDate>Tue, 30 Nov 2021 22:49:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7127-27</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127.rss">DevLog: Offline 2.0</source>
+      </item>
+      <item>
+        <title>DevLog: Offline 2.0</title>
+        <dc:creator><![CDATA[@Rickard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rickard">@Rickard</a> wrote:</p>
+          <blockquote>
+              <p>I honestly liked the 1.0 more because it was easier to “read” the image, and separate the characters because there were more contrast between the characters. Awesome pic anways!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/26</link>
+        <pubDate>Thu, 25 Nov 2021 14:34:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7127-26</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127.rss">DevLog: Offline 2.0</source>
+      </item>
+      <item>
+        <title>DevLog: Offline 2.0</title>
+        <dc:creator><![CDATA[@Warriormonk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/warriormonk">@Warriormonk</a> wrote:</p>
+          <blockquote>
+              <p>No, I just went back to the basics and upgraded my skills a bit <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/smiley.png?v=9" title=":smiley:" class="emoji" alt=":smiley:"> here’s the 1.0 cover for comparision<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/d/d3ed1d6cc174034b21f9a31956a76deb243d9f2a.jpeg" data-download-href="/uploads/short-url/ueMLhKyboKMHDuiMzFu5uarFumS.jpeg?dl=1" title="cover_offline1" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/d/d3ed1d6cc174034b21f9a31956a76deb243d9f2a.jpeg" alt="cover_offline1" data-base62-sha1="ueMLhKyboKMHDuiMzFu5uarFumS" width="353" height="500" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/d/d3ed1d6cc174034b21f9a31956a76deb243d9f2a_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">cover_offline1</span><span class="informations">679×960 118 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/25</link>
+        <pubDate>Wed, 24 Nov 2021 02:54:31 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7127-25</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127.rss">DevLog: Offline 2.0</source>
+      </item>
+      <item>
+        <title>DevLog: Offline 2.0</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>Indeed! It’s gorgeous!<br>
+Did you change tools, too?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/24</link>
+        <pubDate>Fri, 19 Nov 2021 23:57:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7127-24</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127.rss">DevLog: Offline 2.0</source>
+      </item>
+      <item>
+        <title>DevLog: Offline 2.0</title>
+        <dc:creator><![CDATA[@Warriormonk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/warriormonk">@Warriormonk</a> wrote:</p>
+          <blockquote>
+              <p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/f/f4b387890a981b5137d7abcf3e30235ebcdf8b0f.jpeg" data-download-href="/uploads/short-url/yUJ8R2kzvNFXLWU1dw6AmbhFa8f.jpeg?dl=1" title="portada offline2" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f4b387890a981b5137d7abcf3e30235ebcdf8b0f_2_353x500.jpeg" alt="portada offline2" data-base62-sha1="yUJ8R2kzvNFXLWU1dw6AmbhFa8f" width="353" height="500" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f4b387890a981b5137d7abcf3e30235ebcdf8b0f_2_353x500.jpeg, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f4b387890a981b5137d7abcf3e30235ebcdf8b0f_2_529x750.jpeg 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f4b387890a981b5137d7abcf3e30235ebcdf8b0f_2_706x1000.jpeg 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f4b387890a981b5137d7abcf3e30235ebcdf8b0f_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">portada offline2</span><span class="informations">1755×2481 3.51 MB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div><br>
+And the cover is done! I’m re-drawing interior art as well, as my style upgraded a bit through the pandemic <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/stuck_out_tongue.png?v=9" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/23</link>
+        <pubDate>Fri, 19 Nov 2021 18:02:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7127-23</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127.rss">DevLog: Offline 2.0</source>
+      </item>
+      <item>
+        <title>DevLog: Offline 2.0</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>This looks like a drift in agenda from Winning to Painting a character or a world. I like that feeling when the mechanics have “matured” enough and simply fall into another sphere of attraction. The player experience might be quite different, it’s important to signal it.<br>
+Best !</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/22</link>
+        <pubDate>Wed, 10 Nov 2021 10:23:58 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7127-22</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127.rss">DevLog: Offline 2.0</source>
+      </item>
+      <item>
+        <title>DevLog: Offline 2.0</title>
+        <dc:creator><![CDATA[@Warriormonk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/warriormonk">@Warriormonk</a> wrote:</p>
+          <blockquote>
+              <p>All right, I managed to avoid adding Tiers to the mix and now players can somewhat freely choose and even come up with Advantages of their own. However if they want to activate any Benefit on those they would activate a Prejudice with it (changed the term Flaws into this).</p>
+<p>Benefits: Area, Control, Duration, +Power.<br>
+Prejudices: Slow, Fragile, Unstable, Sacrifice, Untrained, Once per day</p>
+<p>Also, I realized that with the current GM moves and action economy, players don’t really need to worry about mechanics or balance. They can come up with any skill, power, equipment, feats, etc they want. There isn’t even issues if their skills do more than one thing; as long as the GM identifies when they are doing two things at once and have the player roll for each one separately as the move indicates, everything’s cool. The skills can be broad or as detailed as they want. They can have only “Paladin” on their character sheet or identify several separate skills, spells and equipment for the class to create an unique feeling for their build.</p>
+<p>I’ll still make lists of skills/equipment/etc things for different builds, so players can get an idea of the potential of the game or choose themselves one of those.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/21</link>
+        <pubDate>Mon, 08 Nov 2021 21:17:12 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7127-21</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127.rss">DevLog: Offline 2.0</source>
+      </item>
+      <item>
+        <title>DevLog: Offline 2.0</title>
+        <dc:creator><![CDATA[@Warriormonk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/warriormonk">@Warriormonk</a> wrote:</p>
+          <blockquote>
+              <p>These days I went back to an old habit of mine which is hack Anima Beyond Fantasy. Not a thing I’m really proud of as it’s kind of a step back, but at least some good things came from it.</p>
+<p>New GM Move: “improve the Odds”. Whenever a PC does anything that reduces the difficulty of their roll for a subsequent action (either their’s or of another PC) it goes here. It can be an Advantage (like “enchant weapon” or “strenght potion”), a lower risk action taken by the PC (like “flank” or “feint”) etc. Usually it won’t have an inmediate effect other than incliting a Condition on a PC or an opponent.</p>
+<p>Next thing I’m trying is to shorten Advantages into simple keywords that explain how they work, and separating them into tier1 to 4 Advantages, where higher Tier Advantages do more, are bigger and badder but are also slower, then more risky and finally require spending HP. Like, for Tier 1 of Fire Magic your keywords would be your spell list (Tier 1: Create Fire, Flame Arrow, Detect Heat, Tier 2: Wall of Fire, Fireball, etc)</p>
+<p>I’m also thinking about going back to a previous build that took elements from a jrpg (Sword World?) where players choose 3 classes from a list and that was about it. (I’m still searching from where did I pick up that as yes, PCs can have several different classes in Sword World but I still can’t find where in the rules it says that you pick two besides the PC race)</p>
+<p>Also I’ll be taking away all the Uses mechanic from the player’s hands and just putting it on the GM side, so players would only need to care about making their character and giving it Advantages from a previously balanced list, and then the GM will just use their moves to deal with whatever the players want to do with their Advantages. It’s not like the amount of things a PC can do can actually break the system, as the GM moves guaranteed they have to deal with them one at a time. Nobody can hold the spotlight with sheer versatility here.</p>
+<p>I think it can even make the game both really simple or somewhat complex, depending if the players just stick with the heritage and two classes to play or if they add keywords into the mix to further define more precisely what their characters can do and what not.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/20</link>
+        <pubDate>Wed, 03 Nov 2021 03:08:16 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7127-20</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127.rss">DevLog: Offline 2.0</source>
+      </item>
+      <item>
+        <title>DevLog: Offline 2.0</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>Cool! It’s like you’re beginning to see “the angel in the marble”<br>
+I’m thinking maybe try a spreadsheet with one page for questions and one page for the character. I’ve seen beautiful sheets made with Gdoc.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/19</link>
+        <pubDate>Thu, 09 Sep 2021 15:55:36 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7127-19</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127.rss">DevLog: Offline 2.0</source>
+      </item>
+      <item>
+        <title>DevLog: Offline 2.0</title>
+        <dc:creator><![CDATA[@Warriormonk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/warriormonk">@Warriormonk</a> wrote:</p>
+          <blockquote>
+              <p>Update!</p>
+<p>All right, I finally managed to organize a test game last Sunday and faced a few unexpected walls playing it online. We used Trello for brainstorming the world and Owlbear Rodeo for the rolls… I was expecting I could do maps, but gladly we managed without them. Party was mostly newbies to tabletop RPGs. World and character creation usually takes me 20 min at the table, but now it took above 1.5 hours, as both having to explain the system and tech to each player took a toll, even when the system is minimalistic and the tech was quite simple. Next we managed to play for one hour in which we completed 3 scenes that felt like a full episode of a series.</p>
+<p>Sooo I’m looking for some new, automated ways to help players create their characters (my first idea was to make a google drive formulary, though I’m not sure yet if I’ll get the answers in a useful format) as well as ways to make things in the game easier to understand, or just explain them better.</p>
+<p>Changes: I’ll give Bonds their own space on the character sheet and ask the players to choose 3 words from a short list and turn each into a Bond. Without bonds, players get lost easily on a story and may even not care about other NPCs or PCs. Previously each Advantage had a player defined bond, as it sounded like a good way to limit the number of the Advantages a PC could have, but now it doesn’t make too much sense, and it just clutters the space given to Advantages. Surprisingly for me, this change makes the whole character sheet look clearer and easier to understand.</p>
+<p>Advantages also have optional Benefits and Flaws. I had one Flaw named “fragile/limited charges” because mechanically both did the same thing. Now it’s just “Fragile”, as “Slow” fits best the mechanic for limited charges. Shortening the name allowed me to fit both lists of benefits and flaws along with the Advantages, so now most of the character sheet should be somewhat self-explanatory and more intuitive. Won’t be able to tell until I test the character sheet, of course.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/18</link>
+        <pubDate>Thu, 09 Sep 2021 01:16:13 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7127-18</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127.rss">DevLog: Offline 2.0</source>
+      </item>
+      <item>
+        <title>DevLog: Offline 2.0</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>hi, putting players in charge is often safer than putting the load on the GM.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/17</link>
+        <pubDate>Fri, 30 Jul 2021 21:17:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7127-17</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127.rss">DevLog: Offline 2.0</source>
+      </item>
+      <item>
+        <title>DevLog: Offline 2.0</title>
+        <dc:creator><![CDATA[@Warriormonk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/warriormonk">@Warriormonk</a> wrote:</p>
+          <blockquote>
+              <p>I’m waiting for the feedback from the first playtest of the newest version to make more changes but there’s already an idea I’d like to expand. I’ve got a mechanic called <em>Tension</em> that doubles as a safety net for PCs. Essentially, a character can choose to mark Tension on one of their Advantages when they take an amout of damage that could otherwise put their characters out of commision. In the fiction, it means that for the rest of the encounter the Advantage gets damaged and won’t work properly. A weapon jams or gets broken, a psychic power gets overloaded and can’t be used until after the PC rests, etc.</p>
+<p>To get it working again, current rules establish the player must roleplay anything related to the Bond listed in that Advantage. Like, if the sword has the Bond “inherited from my father”, the player can tell a memory their PC had from their father while the sword is reforged again in the next resting scene. It could totally be a conversation with the blacksmith, etc. The mechanic was stolen from Chuubo’s Marvelous Wish-Granting Engine, and it’s meant to be loose, instead of forcing players to roleplay. They can just improvise a bit more of background to their characters and call it a day.</p>
+<p>Now I’m wondering if I should turn this more into a mechanic that has the player relinquish control of those bonds for the GM to use or change, making it a potentially more punitive mechanic. Like, if you broken your father’s sword, you fix it in the next scene but the father NPC now can be used by the GM to advance the plot or give it a twist: it turns your father was the BBEG all this time -koff koffInvinciblekoff- and now the bond changes to “inherited from my father, the BBEG” or “forged after I broke ties with my father”</p>
+<p>The vibe is quite different and I’m still unsure if GMs could really take advantage of it or abuse it.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/16</link>
+        <pubDate>Fri, 30 Jul 2021 02:38:09 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7127-16</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127.rss">DevLog: Offline 2.0</source>
+      </item>
+      <item>
+        <title>DevLog: Offline 2.0</title>
+        <dc:creator><![CDATA[@Warriormonk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/warriormonk">@Warriormonk</a> wrote:</p>
+          <blockquote>
+              <p>Update!</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/2/288f2dcf57d7fdeb54022d8441f9b4783de7b357.png" data-download-href="/uploads/short-url/5MNRdhfvANePpyPe5zwj8iUukWH.png?dl=1" title="image" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/2/288f2dcf57d7fdeb54022d8441f9b4783de7b357_2_690x387.png" alt="image" data-base62-sha1="5MNRdhfvANePpyPe5zwj8iUukWH" width="690" height="387" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/2/288f2dcf57d7fdeb54022d8441f9b4783de7b357_2_690x387.png, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/2/288f2dcf57d7fdeb54022d8441f9b4783de7b357_2_1035x580.png 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/2/288f2dcf57d7fdeb54022d8441f9b4783de7b357.png 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/2/288f2dcf57d7fdeb54022d8441f9b4783de7b357_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1366×768 169 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>32 pages so far, desperately trying not to increase the pagecount, though there are still a few things left out, mainly GM advice. I’m making redaction as less wordly as possible and even simplifying some rules so they take less space. Yet I’m currently double checking not to leave important explanations out, like how turns and initiative works. I had trouble understanding it on AW and DW and didn’t really got it until WoD, so I added an explanation in the GM section that expands another given in the player section. Hopefully that should be enough.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/15</link>
+        <pubDate>Mon, 26 Jul 2021 02:40:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7127-15</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127.rss">DevLog: Offline 2.0</source>
+      </item>
+      <item>
+        <title>DevLog: Offline 2.0</title>
+        <dc:creator><![CDATA[@Warriormonk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/warriormonk">@Warriormonk</a> wrote:</p>
+          <blockquote>
+              <p>I ended up making a list of ideas for monster Advantages instead of including them on a table. After all, it doesn’t make too much sense to roll “claws” for a snake.</p>
+<p>At first I didn’t wanted to include healing Advantages, since the system didn’t have resources as charges, slots or mana points, making healing unlimited. Instead of adding a pool of resources or otherwise limit how many times could the characters heal, I went for defining healing as any other Advantage: free, but with a risk. So now on a fumble ahy healer will make 2d6 of additonal damage to their patient, 1d6 on a failed roll and only heal with a sucess. So, while healing is still free and unlimited, it comes with a risk.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/14</link>
+        <pubDate>Sat, 17 Jul 2021 22:13:13 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7127-14</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127.rss">DevLog: Offline 2.0</source>
+      </item>
+      <item>
+        <title>DevLog: Offline 2.0</title>
+        <dc:creator><![CDATA[@Warriormonk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/warriormonk">@Warriormonk</a> wrote:</p>
+          <blockquote>
+              <p>The last major text correction has been the challenge archetypes for enemies, which used to be 3 (minions, elite and boss) and now became a single entry. I got some extra space that I’m planning to use to add an enemy generator. I found partial concepts I had from older versions of the game that can do a fine work here with the right tweaking. It should give the GMs a general shape of the creature to choose or roll for, Advantages it may have and a random list of drives. Maybe suggested flaws if there’s enough space and I manage to reduce some lists.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/13</link>
+        <pubDate>Sat, 10 Jul 2021 23:35:25 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7127-13</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127.rss">DevLog: Offline 2.0</source>
+      </item>
+      <item>
+        <title>DevLog: Offline 2.0</title>
+        <dc:creator><![CDATA[@Warriormonk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/warriormonk">@Warriormonk</a> wrote:</p>
+          <blockquote>
+              <p>It feels quite natural on the table. Let’s go step by step with an example, perhaps I’m still explaining it poorly:</p>
+<p><strong>(scene framing)</strong> GM: You go deeper and deeper into the dungeon, the corridor narrows. What’s your marching order?"<br>
+Rogue: I go first checking for traps with my trusty 10’ pole<br>
+<strong>(taking the player-suggested challenge)</strong>, GM: All right, roll <em>perception</em>. Any Advantage you can use for that?<br>
+Rogue: My “sixth sense” -rolls 2d6, 4 total.<br>
+<strong>(framing a complication as the roll failed)</strong> GM: you get briefly distracted by a rune etched in the wall. It isn’t dangerous by itself but it triggers an elusive memory in your mind. It’s not until your next step that you notice: it was put there to cancel supernatural perception for a brief moment. The trap springs and more than seeing them you feel the spikes poking down fast from the ceiling to your neck. What do you to?<br>
+Rogue: I jump ahead! I use “Animal reflexes” -rolls 2d6, 3 total.<br>
+<strong>(PC gets Fallout)</strong> GM: you realize too late that’s what the trap’s builder meant to happen, as another set of spikes come thrusting from the floor up. You take 2d6 damage.</p>
+<p>Perhaps I’m missing proper terms or steps here? That’s what we usually do at the table, though if the PC has an armor or other Defensive Advantage, he can still roll to absorb the damage, which would add an additional step.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/12</link>
+        <pubDate>Sat, 10 Jul 2021 23:22:17 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7127-12</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127.rss">DevLog: Offline 2.0</source>
+      </item>
+      <item>
+        <title>DevLog: Offline 2.0</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>I don’t know Apocalypse World very well, but isn’t fallout more flexible ? I think you can hit harder or give another fair warning, depending on the starting position. 0 warning is very unfun, but no second warning seems legitimate. Hitting after only one warning is a good indicator the PCs just stepped into red zone, for instance.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/11</link>
+        <pubDate>Tue, 06 Jul 2021 14:40:01 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7127-11</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127.rss">DevLog: Offline 2.0</source>
+      </item>
+      <item>
+        <title>DevLog: Offline 2.0</title>
+        <dc:creator><![CDATA[@Warriormonk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/warriormonk">@Warriormonk</a> wrote:</p>
+          <blockquote>
+              <p>Managed to explain initiative better and even make space to put a diagram on how Complications and Consequences go. Again, it’s just PbtA stuff renamed but at that something that I needed a lot of time and some tutorials for DW to get from AW. Maybe even didn’t really got it until I read World of Dungeons.</p>
+<p>When the GM frames a scene, she puts things there for players to interact. If it becomes a challenge, a roll is asked for. If it succeeds, you’re back to framing the scene. If it doesn’t, you frame a complication. Only if the roll to get out of the complication fails, the PC gets fallout, as in Damage or a Condition. Perhaps it was due to the term “Fallout” which wasn’t intuitive for me at the moment, though it fits perfectly a post-apocaliptic setting as AW. Gee, it’s like I finally got that one just now. Sometimes I can be that dense.</p>
+<p>More than a mechanic, this is a procedure that it’s crucial to internalize to play PbtA games properly, and somehow I feel like it isn’t usually too well explained or given enough importance, but that might be just my memories from reading first editions of the PbtA rules and hacks.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127/10</link>
+        <pubDate>Tue, 06 Jul 2021 04:45:24 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7127-10</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127.rss">DevLog: Offline 2.0</source>
+      </item>
+  </channel>
+</rss>

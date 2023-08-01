@@ -1,0 +1,828 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  
+<!-- Mirrored from forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 01 Aug 2023 00:12:13 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8">
+    <title>DevLog: Offline 2.0 - Game Design - The Gauntlet Forums</title>
+    <meta name="description" content="THE PITCH: lightweight generic system for power fantasy games, no prep, worldbuilding + character creation in 20 min, but ANYTHING GOES. As in yes, you can use it to play a cyberpunk with jedi on varitechs and will still&amp;hellip;">
+    <meta name="generator" content="Discourse 2.4.0.beta10 - https://github.com/discourse/discourse version 7c30986b5efe231d4b22ad3e657fc83ec452e89c">
+<link rel="icon" type="image/png" href="https://gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f2859febedbe43114f6e22a494620bdc35bf8786_2_32x32.png">
+<link rel="apple-touch-icon" type="image/png" href="https://gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f2859febedbe43114f6e22a494620bdc35bf8786_2_180x180.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover">
+<link rel="canonical" href="7127.html" />
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://forums.gauntlet-rpg.com","potentialAction":{"@type":"SearchAction","target":"https://forums.gauntlet-rpg.com/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link rel="search" type="application/opensearchdescription+xml" href="../../opensearch.xml" title="The Gauntlet Forums Search">
+
+      <link href="../../stylesheets/desktop_55f06712376291d809ecf79aecaf07fd06a8c979.css_%3b%20filename_%3dUTF-8%27%27desktop_55f06712376291d809ecf79aecaf07fd06a8c9791a85.css?__ws=forums.gauntlet-rpg.com" media="all" rel="stylesheet" data-target="desktop" data-theme-id="2"/>
+      <link href="../../stylesheets/desktop_theme_2_2d4c228818bc7664ec196065afb575563959f7b9.css_%3b%20filename_%3dUTF-8%27%27desktop_theme_2_2d4c228818bc7664ec196065afb575563959f7b91a85.css?__ws=forums.gauntlet-rpg.com" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="2"/>
+    
+    
+        <link rel="alternate" type="application/rss+xml" title="RSS feed of &#39;DevLog: Offline 2.0&#39;" href="7127.rss" />
+    <meta property="og:site_name" content="The Gauntlet Forums" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="https://gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/a/a89188e03abef6e6a28f94708071b8fefca7ce9c.png" />
+<meta property="og:image" content="https://gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/a/a89188e03abef6e6a28f94708071b8fefca7ce9c.png" />
+<meta property="og:url" content="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127" />
+<meta name="twitter:url" content="https://forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127" />
+<meta property="og:title" content="DevLog: Offline 2.0" />
+<meta name="twitter:title" content="DevLog: Offline 2.0" />
+<meta property="og:description" content="THE PITCH: lightweight generic system for power fantasy games, no prep, worldbuilding + character creation in 20 min, but ANYTHING GOES. As in yes, you can use it to play a cyberpunk with jedi on varitechs and will still feel natural, balanced and have a proper story going on.  ALSO: Nebwie players and GMs welcome. No need to be a genius-level super creative player or an accomplished GM able to make anything work, nor have a degree in creative writing -though now you can benefit from all these w..." />
+<meta name="twitter:description" content="THE PITCH: lightweight generic system for power fantasy games, no prep, worldbuilding + character creation in 20 min, but ANYTHING GOES. As in yes, you can use it to play a cyberpunk with jedi on varitechs and will still feel natural, balanced and have a proper story going on.  ALSO: Nebwie players and GMs welcome. No need to be a genius-level super creative player or an accomplished GM able to make anything work, nor have a degree in creative writing -though now you can benefit from all these w..." />
+<meta name="twitter:label1" value="Reading time" />
+<meta name="twitter:data1" value="12 mins 🕑" />
+<meta name="twitter:label2" value="Likes" />
+<meta name="twitter:data2" value="33 ❤" />
+<meta property="article:published_time" content="2021-06-27T20:30:36+00:00" />
+<meta property="og:ignore_canonical" content="true" />
+
+        <link rel="next" href="71274658.html?page=2">
+
+
+    
+  </head>
+  <body class="crawler">
+    
+    <header>
+      <a href="../../index.html">
+          <img src="https://gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/1X/90fcb9d8a54a6098ad0291236cecc89a0dda0bed.png" alt="The Gauntlet Forums" id="site-logo" style="max-width: 150px;">
+      </a>
+    </header>
+    <div id="main-outlet" class="wrap">
+        <h1 class="crawler-topic-title">
+    <a href="7127.html">DevLog: Offline 2.0</a>
+  </h1>
+
+  <div id="breadcrumbs" itemscope itemtype="http://schema.org/BreadcrumbList">
+      <div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a href="../../c/game-design.html" class="badge-wrapper bullet" itemprop="item">
+          <span class="badge-category-bg"></span>
+          <span class="category-title" itemprop="name">Game Design</span>
+        </a>
+        <meta itemprop="position" content="1" />
+      </div>
+  </div>
+
+
+  
+
+
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Warriormonk'><span itemprop='name'>Warriormonk</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-06-27T20:30:36Z' class='post-time'>
+                June 27, 2021,  8:30pm
+              </time>
+          <span itemprop='position'>#1</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p><strong>THE PITCH:</strong> lightweight generic system for power fantasy games, no prep, worldbuilding + character creation in 20 min, but ANYTHING GOES. As in yes, you can use it to play a cyberpunk with jedi on varitechs and will still feel natural, balanced and have a proper story going on.</p>
+<p><strong>ALSO:</strong> Nebwie players and GMs welcome. No need to be a genius-level super creative player or an accomplished GM able to make anything work, nor have a degree in creative writing -though now you can benefit from all these without worrying if the system will support it.</p>
+<p><strong>CHASSIS:</strong> resolution system1 or 2d6 with no bonuses against a Difficulty set by GM depending on circumstances, fictional positioning and planning vs the same from opponent’s side. Only the player rolls.</p>
+<p><strong>HOW “ANYTHING GOES” GETS BALANCED?</strong><br>
+Yes, your character may have ANY special ability (and any number of them) they want with three caveats:<br>
+1- It ain’t failproof. It may and will fail you, the group can come up with the how on the moment.<br>
+2- You need to purchase all the Uses it will have. You wanted to have a magic sword but only purchased the Use “Attack”? Fine, you can’t parry with it. Or well, if you do, you only roll 1d6 instead of two. There are 8 Uses (Attack, Defense, Movement, Perception, Intellect, Evasion, Social, Heal). If you didn’t purchase at least a single Use for them, you can’t use it at all.<br>
+3- Additional Benefits like affecting more than one opponent (Area), etc. don’t cost points, you need to put a Flaw to balance.</p>
+<p><strong>HOW DOES THE GM DEAL WITH THIS?</strong><br>
+GM has 8 sorta’ PbtA moves, one for each Use mentioned before. Whatever the special power, mount, pókemon, psychic power, magic type, vampyric power, etc is, the intent and result is the same, the only thing that changes is the explanation of how and why it works or not and that get’s done after the roll with everyone’s help. And if the special, natural, supernatural ability, equipment, etc isn’t applicable in the fiction at all (like using mind-control on an undead) then no, you can’t use it because it makes no sense, sorry. Unless you find a way to explain it to the GM, that is.</p>
+<p>Opponents and challenges come in 5 flavors:<br>
+-<em>Too low to roll</em>, player narrates how their PC overcomes it with flying colors<br>
+-<em>Minions</em>, easy roll, barely do 1d6 damage if you get hit<br>
+-<em>Elite</em>, normal roll, do 2d6 damage<br>
+-<em>Boss</em>, difficult roll, do 3d6 damage<br>
+-<em>Run Fools!</em>, only roll to escape from it, PCs die if they try to face it.</p>
+<p>System doesn’t really escalate with level, PCs just get one more point to spend in their character, maybe get rid of a Flaw and a level up mostly means previous opponents and challenges are now easier. Elites become Minions, etc. Everybody has 20hp tops whatever level they have. (I could have left HP out and do it with descriptive damage, but I believe my audience here in Peru will need something familiar to cling to to grasp the system more easily.)</p>
+<p><strong>CHARACTER, WORLDBUILDING &amp; ADVENTURE READY IN 20 MIN</strong><br>
+Worldbuilding here only requires brainstorming 9 short questions, rolling a couple of dice and drawing a map with 6 locations. Coming up with your character’s name takes longer.</p>
+<p>Speaking of characters, each Advantage (the term used for any ability, equipment, etc) needs to have a Bond with something in the fiction, like a Location, an NPC, another PC, etc. These Bonds along with the worldbuilding help build the premise of the adventure, so by the time you’re done with the worldbuilding and the PCs, you will know where the adventure will start and where it will go. Travel quest with dungeon scenarios are already doable and tested. Mistery and Crime scenarios still need testing.</p>
+<p><img src="http://gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/a/a89188e03abef6e6a28f94708071b8fefca7ce9c.png" alt="Recurso 1" data-base62-sha1="o3e1l9hmcjm4SmBUkkrdODrBsao" width="597" height="423"></p>
+<p><strong>OTHER MECHANICS USED</strong><br>
+Tension is marked by the player when it makes sense that damage affects one Advantage. In the fiction it means the weapon gets jammed or broken, the psychic power is overloaded, the mech shuts down, etc. It lasts until the end of the scene and the player must roleplay a rest scene related with the Bond of that Advantage to fix it, otherwise the Advantage remains unusable for another scene.</p>
+<p>Equipment or Contacts is a mechanic donated by someone else and now of public use. Each session a player may say -up to three times- that their PC had something in their backpack / pocket,etc. or that knows somebody that can help with the current issue.</p>
+        </div>
+
+        <meta itemprop='headline' content='DevLog: Offline 2.0'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="1" />
+           <span class='post-likes'>1 Like</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/DeReel'><span itemprop='name'>DeReel</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <meta itemprop='datePublished' content='2021-06-27T21:03:18Z'>
+              <time itemprop='dateModified' datetime='2021-06-27T21:07:49Z' class='post-time'>
+                June 27, 2021,  9:07pm
+              </time>
+          <span itemprop='position'>#2</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Oh nice. That’s a light traditional game and it sounds like Champions div20. About HP I want to suggest a possibility that some like : describe the harm done, but allow the player to jump in and declare “not so fast, I pay the (rolled damage but one) HP  and my character makes a backflip dodge but there’s a thin cut on his cheek with a drop of blood”. <span class="hashtag">#2097edition</span><br>
+For dramatic effect, you can let them jump in - and then, roll.<br>
+Or a more friendly version : “not so fast, I help X with (remaining unpaid for) HP and break the boar’s charge with my lance”<br>
+That brings description back in combat despite the HP count.</p>
+        </div>
+
+        <meta itemprop='headline' content='DevLog: Offline 2.0'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="2" />
+           <span class='post-likes'>2 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Warriormonk'><span itemprop='name'>Warriormonk</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <meta itemprop='datePublished' content='2021-06-28T01:38:31Z'>
+              <time itemprop='dateModified' datetime='2021-06-28T01:42:20Z' class='post-time'>
+                June 28, 2021,  1:42am
+              </time>
+          <span itemprop='position'>#3</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Might go for that in 3.0. I was also thinking of a descriptive damage version, where you have 4 slots to fill with Conditions. If you get a Condition of any kind, write it down on the slot. You can totally describe it as “a thin cut on my cheek” but still it means the PC is losing control of the situation and things can still get worse. And if the 4 slots are filled, that’s it, the character is no longer relevant in the scene. May got badly wounded or just scared enough to trigger their flight instinctive response, or froze and can’t get out of it alone, etc. the player decides.</p>
+<p>Already in this iteration I’m defining HP as a measurement of how long your PC can remain being relevant in the scene. If the HP reaches zero, the player decides if the PC dies, falls inconscious or just submits to the enemy for the moment. If they choose to die, another mechanic is triggered to make the scene epic, otherwise their direct intervention in the current scene is over until someone heals them or until the next rest scene.</p>
+<p>Gotta check Champions div20, I’d like to see how much it’s alike. I’ve been seeing also other designs come close to what I’m going for, but still enough differences remain to give me a reason to finish my game.</p>
+        </div>
+
+        <meta itemprop='headline' content='DevLog: Offline 2.0'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/DeReel'><span itemprop='name'>DeReel</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-06-28T06:06:47Z' class='post-time'>
+                June 28, 2021,  6:06am
+              </time>
+          <span itemprop='position'>#4</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>I meant Champions (hero system) with values divided by twenty.</p>
+        </div>
+
+        <meta itemprop='headline' content='DevLog: Offline 2.0'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="1" />
+           <span class='post-likes'>1 Like</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Warriormonk'><span itemprop='name'>Warriormonk</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-06-29T17:14:42Z' class='post-time'>
+                June 29, 2021,  5:14pm
+              </time>
+          <span itemprop='position'>#5</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>eventually found out after getting a lot of FIFA related results <img src="../../images/emoji/twitter/stuck_out_tongue_closed_eyesc164.png?v=9" title=":stuck_out_tongue_closed_eyes:" class="emoji" alt=":stuck_out_tongue_closed_eyes:"></p>
+        </div>
+
+        <meta itemprop='headline' content='DevLog: Offline 2.0'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="1" />
+           <span class='post-likes'>1 Like</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Warriormonk'><span itemprop='name'>Warriormonk</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-06-30T03:10:26Z' class='post-time'>
+                June 30, 2021,  3:10am
+              </time>
+          <span itemprop='position'>#6</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>I already posted this somewhere but for the sake of keeping everything together I’ll put it here too. <strong>ICRPG</strong> by Brandish Gilhelm had a neat way to classify and explain encounter types that I found it would be great for newbie GMs. Except that in the core book there aren’t but a couple or more examples and that’s it, and fans haven’t contributed on making a longer list of them, only finished ready-to-use dungeons and modules. So I went on and expanded the list to my best knowledge, including <strong>combat, exploration, social challenges</strong> and some that are a mix of two or three of them. There are also some specific procedures for handling crimes and mysteries that come from Noirlandia. All in all I love how clear and simple can explanations be encoded for things that took me years of trial and error to learn to GM.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="http://gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/9/9067947e4276c6dd438abd037a2459268bb33510.jpeg" data-download-href="/uploads/short-url/kBsFQD1WxmZimQQcWCWmM6WKWfm.jpeg?dl=1" title="encuentros_01-13" rel="nofollow noopener"><img src="http://gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/9/9067947e4276c6dd438abd037a2459268bb33510_2_690x488.jpeg" alt="encuentros_01-13" data-base62-sha1="kBsFQD1WxmZimQQcWCWmM6WKWfm" width="690" height="488" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/9/9067947e4276c6dd438abd037a2459268bb33510_2_690x488.jpeg, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/9/9067947e4276c6dd438abd037a2459268bb33510_2_1035x732.jpeg 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/9/9067947e4276c6dd438abd037a2459268bb33510_2_1380x976.jpeg 2x" data-small-upload="http://gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/9/9067947e4276c6dd438abd037a2459268bb33510_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">encuentros_01-13</span><span class="informations">3509×2482 691 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+        </div>
+
+        <meta itemprop='headline' content='DevLog: Offline 2.0'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+            <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+            </div>
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/DeReel'><span itemprop='name'>DeReel</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-06-30T07:45:51Z' class='post-time'>
+                June 30, 2021,  7:45am
+              </time>
+          <span itemprop='position'>#7</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Hello, can you provide a link to the raw data ? This way I can process it through a translator para los mortales que no entiendan el idioma. <img src="../../images/emoji/twitter/stuck_out_tongue_winking_eyec164.png?v=9" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:"></p>
+        </div>
+
+        <meta itemprop='headline' content='DevLog: Offline 2.0'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Warriormonk'><span itemprop='name'>Warriormonk</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-07-02T23:24:16Z' class='post-time'>
+                July 2, 2021, 11:24pm
+              </time>
+          <span itemprop='position'>#8</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>I’m 90% done with the text and layout, PM me you email and in a few days I can give you a PDF without the illustrations or the comic if you want to playtest.</p>
+        </div>
+
+        <meta itemprop='headline' content='DevLog: Offline 2.0'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="1" />
+           <span class='post-likes'>1 Like</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Warriormonk'><span itemprop='name'>Warriormonk</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-07-05T02:33:59Z' class='post-time'>
+                July 5, 2021,  2:33am
+              </time>
+          <span itemprop='position'>#9</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Another milestone! Mostly finished with the text and layout, now it’s turn for the corrections, proofreading the text while getting ready for playtest. Once I’m ok with it it will come the turn for the illustrations.</p>
+<p>Just noticed some of my worst fears became true: I’ve internalized so much of the system I’m forgetting to explain crucial procedures, like the Chaos Initiative. Sounds cool but it’s just the regular way initiative goes in PbtA, with no rolls and instead letting the first player who talks go first, or having the GM choose who goes first as the fiction demands (e.g. this PC is closer to the enemy so she goes first) and then going to another player, like when in a movie or show the camera sticks on somebody until something happens and then goes with another character. Sounds chaotic on paper but it’s awesome how it works nicely on the table, and it was one of the things that cost me a bit to learn and some more to get the guts to try it in a live session, but once I did it I totally loved it.</p>
+<p>Kinda half assed the explanation on that right now so I’ll have to get back to it later, but at least it’s there now. All the manual now fits tightly in 28 pages with the character sheet on the inside of the cover, so I’m trying to make some more space for a couple explanations and kinda worried I’ll have to add more pages. I’d prefer to have some more space for illustrations and better explanations for some stuff, so in the end it’ll probably become a 32 page manual + cover. The reason I don’t want to add another page is mostly because the tools I use for staples and cutting the paper tend to work worse when publications go above 32 pages, so I prefer a lower number of pages any day.</p>
+        </div>
+
+        <meta itemprop='headline' content='DevLog: Offline 2.0'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="1" />
+           <span class='post-likes'>1 Like</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Warriormonk'><span itemprop='name'>Warriormonk</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-07-06T04:45:24Z' class='post-time'>
+                July 6, 2021,  4:45am
+              </time>
+          <span itemprop='position'>#10</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Managed to explain initiative better and even make space to put a diagram on how Complications and Consequences go. Again, it’s just PbtA stuff renamed but at that something that I needed a lot of time and some tutorials for DW to get from AW. Maybe even didn’t really got it until I read World of Dungeons.</p>
+<p>When the GM frames a scene, she puts things there for players to interact. If it becomes a challenge, a roll is asked for. If it succeeds, you’re back to framing the scene. If it doesn’t, you frame a complication. Only if the roll to get out of the complication fails, the PC gets fallout, as in Damage or a Condition. Perhaps it was due to the term “Fallout” which wasn’t intuitive for me at the moment, though it fits perfectly a post-apocaliptic setting as AW. Gee, it’s like I finally got that one just now. Sometimes I can be that dense.</p>
+<p>More than a mechanic, this is a procedure that it’s crucial to internalize to play PbtA games properly, and somehow I feel like it isn’t usually too well explained or given enough importance, but that might be just my memories from reading first editions of the PbtA rules and hacks.</p>
+        </div>
+
+        <meta itemprop='headline' content='DevLog: Offline 2.0'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="1" />
+           <span class='post-likes'>1 Like</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="2" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/DeReel'><span itemprop='name'>DeReel</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-07-06T14:40:01Z' class='post-time'>
+                July 6, 2021,  2:40pm
+              </time>
+          <span itemprop='position'>#11</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>I don’t know Apocalypse World very well, but isn’t fallout more flexible ? I think you can hit harder or give another fair warning, depending on the starting position. 0 warning is very unfun, but no second warning seems legitimate. Hitting after only one warning is a good indicator the PCs just stepped into red zone, for instance.</p>
+        </div>
+
+        <meta itemprop='headline' content='DevLog: Offline 2.0'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Warriormonk'><span itemprop='name'>Warriormonk</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-07-10T23:22:17Z' class='post-time'>
+                July 10, 2021, 11:22pm
+              </time>
+          <span itemprop='position'>#12</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>It feels quite natural on the table. Let’s go step by step with an example, perhaps I’m still explaining it poorly:</p>
+<p><strong>(scene framing)</strong> GM: You go deeper and deeper into the dungeon, the corridor narrows. What’s your marching order?"<br>
+Rogue: I go first checking for traps with my trusty 10’ pole<br>
+<strong>(taking the player-suggested challenge)</strong>, GM: All right, roll <em>perception</em>. Any Advantage you can use for that?<br>
+Rogue: My “sixth sense” -rolls 2d6, 4 total.<br>
+<strong>(framing a complication as the roll failed)</strong> GM: you get briefly distracted by a rune etched in the wall. It isn’t dangerous by itself but it triggers an elusive memory in your mind. It’s not until your next step that you notice: it was put there to cancel supernatural perception for a brief moment. The trap springs and more than seeing them you feel the spikes poking down fast from the ceiling to your neck. What do you to?<br>
+Rogue: I jump ahead! I use “Animal reflexes” -rolls 2d6, 3 total.<br>
+<strong>(PC gets Fallout)</strong> GM: you realize too late that’s what the trap’s builder meant to happen, as another set of spikes come thrusting from the floor up. You take 2d6 damage.</p>
+<p>Perhaps I’m missing proper terms or steps here? That’s what we usually do at the table, though if the PC has an armor or other Defensive Advantage, he can still roll to absorb the damage, which would add an additional step.</p>
+        </div>
+
+        <meta itemprop='headline' content='DevLog: Offline 2.0'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Warriormonk'><span itemprop='name'>Warriormonk</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-07-10T23:35:25Z' class='post-time'>
+                July 10, 2021, 11:35pm
+              </time>
+          <span itemprop='position'>#13</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>The last major text correction has been the challenge archetypes for enemies, which used to be 3 (minions, elite and boss) and now became a single entry. I got some extra space that I’m planning to use to add an enemy generator. I found partial concepts I had from older versions of the game that can do a fine work here with the right tweaking. It should give the GMs a general shape of the creature to choose or roll for, Advantages it may have and a random list of drives. Maybe suggested flaws if there’s enough space and I manage to reduce some lists.</p>
+        </div>
+
+        <meta itemprop='headline' content='DevLog: Offline 2.0'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Warriormonk'><span itemprop='name'>Warriormonk</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-07-17T22:13:13Z' class='post-time'>
+                July 17, 2021, 10:13pm
+              </time>
+          <span itemprop='position'>#14</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>I ended up making a list of ideas for monster Advantages instead of including them on a table. After all, it doesn’t make too much sense to roll “claws” for a snake.</p>
+<p>At first I didn’t wanted to include healing Advantages, since the system didn’t have resources as charges, slots or mana points, making healing unlimited. Instead of adding a pool of resources or otherwise limit how many times could the characters heal, I went for defining healing as any other Advantage: free, but with a risk. So now on a fumble ahy healer will make 2d6 of additonal damage to their patient, 1d6 on a failed roll and only heal with a sucess. So, while healing is still free and unlimited, it comes with a risk.</p>
+        </div>
+
+        <meta itemprop='headline' content='DevLog: Offline 2.0'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="1" />
+           <span class='post-likes'>1 Like</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Warriormonk'><span itemprop='name'>Warriormonk</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <meta itemprop='datePublished' content='2021-07-26T02:40:33Z'>
+              <time itemprop='dateModified' datetime='2021-07-26T02:41:04Z' class='post-time'>
+                July 26, 2021,  2:41am
+              </time>
+          <span itemprop='position'>#15</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Update!</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="http://gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/2/288f2dcf57d7fdeb54022d8441f9b4783de7b357.png" data-download-href="/uploads/short-url/5MNRdhfvANePpyPe5zwj8iUukWH.png?dl=1" title="image" rel="nofollow noopener"><img src="http://gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/2/288f2dcf57d7fdeb54022d8441f9b4783de7b357_2_690x387.png" alt="image" data-base62-sha1="5MNRdhfvANePpyPe5zwj8iUukWH" width="690" height="387" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/2/288f2dcf57d7fdeb54022d8441f9b4783de7b357_2_690x387.png, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/2/288f2dcf57d7fdeb54022d8441f9b4783de7b357_2_1035x580.png 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/2/288f2dcf57d7fdeb54022d8441f9b4783de7b357.png 2x" data-small-upload="http://gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/2/288f2dcf57d7fdeb54022d8441f9b4783de7b357_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1366×768 169 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>32 pages so far, desperately trying not to increase the pagecount, though there are still a few things left out, mainly GM advice. I’m making redaction as less wordly as possible and even simplifying some rules so they take less space. Yet I’m currently double checking not to leave important explanations out, like how turns and initiative works. I had trouble understanding it on AW and DW and didn’t really got it until WoD, so I added an explanation in the GM section that expands another given in the player section. Hopefully that should be enough.</p>
+        </div>
+
+        <meta itemprop='headline' content='DevLog: Offline 2.0'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="2" />
+           <span class='post-likes'>2 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+            <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+            </div>
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Warriormonk'><span itemprop='name'>Warriormonk</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-07-30T02:38:09Z' class='post-time'>
+                July 30, 2021,  2:38am
+              </time>
+          <span itemprop='position'>#16</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>I’m waiting for the feedback from the first playtest of the newest version to make more changes but there’s already an idea I’d like to expand. I’ve got a mechanic called <em>Tension</em> that doubles as a safety net for PCs. Essentially, a character can choose to mark Tension on one of their Advantages when they take an amout of damage that could otherwise put their characters out of commision. In the fiction, it means that for the rest of the encounter the Advantage gets damaged and won’t work properly. A weapon jams or gets broken, a psychic power gets overloaded and can’t be used until after the PC rests, etc.</p>
+<p>To get it working again, current rules establish the player must roleplay anything related to the Bond listed in that Advantage. Like, if the sword has the Bond “inherited from my father”, the player can tell a memory their PC had from their father while the sword is reforged again in the next resting scene. It could totally be a conversation with the blacksmith, etc. The mechanic was stolen from Chuubo’s Marvelous Wish-Granting Engine, and it’s meant to be loose, instead of forcing players to roleplay. They can just improvise a bit more of background to their characters and call it a day.</p>
+<p>Now I’m wondering if I should turn this more into a mechanic that has the player relinquish control of those bonds for the GM to use or change, making it a potentially more punitive mechanic. Like, if you broken your father’s sword, you fix it in the next scene but the father NPC now can be used by the GM to advance the plot or give it a twist: it turns your father was the BBEG all this time -koff koffInvinciblekoff- and now the bond changes to “inherited from my father, the BBEG” or “forged after I broke ties with my father”</p>
+<p>The vibe is quite different and I’m still unsure if GMs could really take advantage of it or abuse it.</p>
+        </div>
+
+        <meta itemprop='headline' content='DevLog: Offline 2.0'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="1" />
+           <span class='post-likes'>1 Like</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/DeReel'><span itemprop='name'>DeReel</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-07-30T21:17:05Z' class='post-time'>
+                July 30, 2021,  9:17pm
+              </time>
+          <span itemprop='position'>#17</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>hi, putting players in charge is often safer than putting the load on the GM.</p>
+        </div>
+
+        <meta itemprop='headline' content='DevLog: Offline 2.0'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="1" />
+           <span class='post-likes'>1 Like</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Warriormonk'><span itemprop='name'>Warriormonk</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-09-09T01:16:13Z' class='post-time'>
+                September 9, 2021,  1:16am
+              </time>
+          <span itemprop='position'>#18</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Update!</p>
+<p>All right, I finally managed to organize a test game last Sunday and faced a few unexpected walls playing it online. We used Trello for brainstorming the world and Owlbear Rodeo for the rolls… I was expecting I could do maps, but gladly we managed without them. Party was mostly newbies to tabletop RPGs. World and character creation usually takes me 20 min at the table, but now it took above 1.5 hours, as both having to explain the system and tech to each player took a toll, even when the system is minimalistic and the tech was quite simple. Next we managed to play for one hour in which we completed 3 scenes that felt like a full episode of a series.</p>
+<p>Sooo I’m looking for some new, automated ways to help players create their characters (my first idea was to make a google drive formulary, though I’m not sure yet if I’ll get the answers in a useful format) as well as ways to make things in the game easier to understand, or just explain them better.</p>
+<p>Changes: I’ll give Bonds their own space on the character sheet and ask the players to choose 3 words from a short list and turn each into a Bond. Without bonds, players get lost easily on a story and may even not care about other NPCs or PCs. Previously each Advantage had a player defined bond, as it sounded like a good way to limit the number of the Advantages a PC could have, but now it doesn’t make too much sense, and it just clutters the space given to Advantages. Surprisingly for me, this change makes the whole character sheet look clearer and easier to understand.</p>
+<p>Advantages also have optional Benefits and Flaws. I had one Flaw named “fragile/limited charges” because mechanically both did the same thing. Now it’s just “Fragile”, as “Slow” fits best the mechanic for limited charges. Shortening the name allowed me to fit both lists of benefits and flaws along with the Advantages, so now most of the character sheet should be somewhat self-explanatory and more intuitive. Won’t be able to tell until I test the character sheet, of course.</p>
+        </div>
+
+        <meta itemprop='headline' content='DevLog: Offline 2.0'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/DeReel'><span itemprop='name'>DeReel</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-09-09T15:55:36Z' class='post-time'>
+                September 9, 2021,  3:55pm
+              </time>
+          <span itemprop='position'>#19</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Cool! It’s like you’re beginning to see “the angel in the marble”<br>
+I’m thinking maybe try a spreadsheet with one page for questions and one page for the character. I’ve seen beautiful sheets made with Gdoc.</p>
+        </div>
+
+        <meta itemprop='headline' content='DevLog: Offline 2.0'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="1" />
+           <span class='post-likes'>1 Like</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Warriormonk'><span itemprop='name'>Warriormonk</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-11-03T03:08:16Z' class='post-time'>
+                November 3, 2021,  3:08am
+              </time>
+          <span itemprop='position'>#20</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>These days I went back to an old habit of mine which is hack Anima Beyond Fantasy. Not a thing I’m really proud of as it’s kind of a step back, but at least some good things came from it.</p>
+<p>New GM Move: “improve the Odds”. Whenever a PC does anything that reduces the difficulty of their roll for a subsequent action (either their’s or of another PC) it goes here. It can be an Advantage (like “enchant weapon” or “strenght potion”), a lower risk action taken by the PC (like “flank” or “feint”) etc. Usually it won’t have an inmediate effect other than incliting a Condition on a PC or an opponent.</p>
+<p>Next thing I’m trying is to shorten Advantages into simple keywords that explain how they work, and separating them into tier1 to 4 Advantages, where higher Tier Advantages do more, are bigger and badder but are also slower, then more risky and finally require spending HP. Like, for Tier 1 of Fire Magic your keywords would be your spell list (Tier 1: Create Fire, Flame Arrow, Detect Heat, Tier 2: Wall of Fire, Fireball, etc)</p>
+<p>I’m also thinking about going back to a previous build that took elements from a jrpg (Sword World?) where players choose 3 classes from a list and that was about it. (I’m still searching from where did I pick up that as yes, PCs can have several different classes in Sword World but I still can’t find where in the rules it says that you pick two besides the PC race)</p>
+<p>Also I’ll be taking away all the Uses mechanic from the player’s hands and just putting it on the GM side, so players would only need to care about making their character and giving it Advantages from a previously balanced list, and then the GM will just use their moves to deal with whatever the players want to do with their Advantages. It’s not like the amount of things a PC can do can actually break the system, as the GM moves guaranteed they have to deal with them one at a time. Nobody can hold the spotlight with sheer versatility here.</p>
+<p>I think it can even make the game both really simple or somewhat complex, depending if the players just stick with the heritage and two classes to play or if they add keywords into the mix to further define more precisely what their characters can do and what not.</p>
+        </div>
+
+        <meta itemprop='headline' content='DevLog: Offline 2.0'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="1" />
+           <span class='post-likes'>1 Like</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+
+    <div role='navigation' itemscope itemtype='http://schema.org/SiteNavigationElement' class="topic-body crawler-post">
+        <span itemprop='name'><b><a rel="next" itemprop="url" href="71274658.html?page=2">next page →</a></b></span>
+    </div>
+
+
+
+
+
+    </div>
+    <footer class="container wrap">
+      <nav class='crawler-nav' itemscope itemtype='http://schema.org/SiteNavigationElement'>
+        <ul>
+        <li itemprop="name"><a href='../../index.html' itemprop="url">Home </a></li>
+        <li itemprop="name"><a href='../../categories.html' itemprop="url">Categories </a></li>
+        <li itemprop="name"><a href='../../guidelines.html' itemprop="url">FAQ/Guidelines </a></li>
+        <li itemprop="name"><a href='../../tos.html' itemprop="url">Terms of Service </a></li>
+        <li itemprop="name"><a href='../../privacy.html' itemprop="url">Privacy Policy </a></li>
+        </ul>
+      </nav>
+      <p class='powered-by-link'>Powered by <a href="https://www.discourse.org/">Discourse</a>, best viewed with JavaScript enabled</p>
+    </footer>
+    
+    
+  </body>
+  
+
+<!-- Mirrored from forums.gauntlet-rpg.com/t/devlog-offline-2-0/7127 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 01 Aug 2023 00:12:15 GMT -->
+</html>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Bug in Preferences page</title>
+    <link>https://forums.gauntlet-rpg.com/t/bug-in-preferences-page/1219</link>
+    <description>Hi! I don&#39;t know if this is the kind of thing you can fix, but, here&#39;s are some steps to reproduce a minor bug:
+
+1. Go to https://discourse.funtimers.club/u/ewillisson/preferences/account
+2. Click on the &quot;Profile&quot; link
+3. Click on the &quot;Email&quot; link or any other link in that column
+
+Expected behavior: The content changes to preferences relating to the clicked label
+Actual: It keeps showing the &quot;Profile&quot; content, but the URL changes.
+
+I&#39;m able to fix it and start seeing different Preferences pages again by reloading, when there&#39;s a different URL shown (like https://discourse.funtimers.club/u/ewillisson/preferences/emails)
+
+This is on ChromeOS Version 72.0.3626.122 (Official Build) (32-bit)
+
+This definitely isn&#39;t a large problem, but it was surprising, so I wanted to document it.
+
+I just noticed there&#39;s a stack trace in the JavaScript that shows up when I first reproduce this bug. Here it is:
+
+&gt; _application-33e439a93501d47d5972463eed0b760e5607bfd6cf0aadfce080f4b8979f1308.js:47852 Uncaught TypeError: $(...).magnificPopup is not a function
+&gt;     at n.willDestroyElement (_application-33e439a93501d47d5972463eed0b760e5607bfd6cf0aadfce080f4b8979f1308.js:47852)
+&gt;     at n [as willDestroyElement] (_ember_jquery-716f4989c2eb49ad65163ffb56185407340c2b195b81b9392b62cde3e992cade.js:50409)
+&gt;     at n.trigger (_ember_jquery-716f4989c2eb49ad65163ffb56185407340c2b195b81b9392b62cde3e992cade.js:52795)
+&gt;     at n [as trigger] (_ember_jquery-716f4989c2eb49ad65163ffb56185407340c2b195b81b9392b62cde3e992cade.js:50409)
+&gt;     at e.destroy (_ember_jquery-716f4989c2eb49ad65163ffb56185407340c2b195b81b9392b62cde3e992cade.js:32585)
+&gt;     at e.destroy (_ember_jquery-716f4989c2eb49ad65163ffb56185407340c2b195b81b9392b62cde3e992cade.js:23979)
+&gt;     at n.e.destroy (_ember_jquery-716f4989c2eb49ad65163ffb56185407340c2b195b81b9392b62cde3e992cade.js:23979)
+&gt;     at e.destroy (_ember_jquery-716f4989c2eb49ad65163ffb56185407340c2b195b81b9392b62cde3e992cade.js:23979)
+&gt;     at t.didDestroy (_ember_jquery-716f4989c2eb49ad65163ffb56185407340c2b195b81b9392b62cde3e992cade.js:32337)
+&gt;     at n.reset (_ember_jquery-716f4989c2eb49ad65163ffb56185407340c2b195b81b9392b62cde3e992cade.js:24063)
+
+Thank you for creating this forum!</description>
+    
+    <lastBuildDate>Mon, 25 Mar 2019 12:20:39 +0000</lastBuildDate>
+    <category>Site Feedback</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/bug-in-preferences-page/1219.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Bug in Preferences page</title>
+        <dc:creator><![CDATA[@yoshi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/yoshi">@yoshi</a> wrote:</p>
+          <blockquote>
+              
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/bug-in-preferences-page/1219/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/bug-in-preferences-page/1219/4</link>
+        <pubDate>Thu, 28 Mar 2019 21:52:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1219-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/bug-in-preferences-page/1219.rss">Bug in Preferences page</source>
+      </item>
+      <item>
+        <title>Bug in Preferences page</title>
+        <dc:creator><![CDATA[@yoshi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/yoshi">@yoshi</a> wrote:</p>
+          <blockquote>
+              <p>Yeah, you guessed it, this is something we don’t really have control over. Thanks for pointing it out. I’m glad you found a workaround that worked for you. This will be here so if anyone else notices it, they can see your workaround.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/bug-in-preferences-page/1219/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/bug-in-preferences-page/1219/2</link>
+        <pubDate>Mon, 25 Mar 2019 12:20:39 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1219-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/bug-in-preferences-page/1219.rss">Bug in Preferences page</source>
+      </item>
+      <item>
+        <title>Bug in Preferences page</title>
+        <dc:creator><![CDATA[@ewillisson]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/ewillisson">@ewillisson</a> wrote:</p>
+          <blockquote>
+              <p>Hi! I don’t know if this is the kind of thing you can fix, but, here’s are some steps to reproduce a minor bug:</p>
+<ol>
+<li>Go to <a href="https://forums.gauntlet-rpg.com/u/ewillisson/preferences/account">https://forums.gauntlet-rpg.com/u/ewillisson/preferences/account</a>
+</li>
+<li>Click on the “Profile” link</li>
+<li>Click on the “Email” link or any other link in that column</li>
+</ol>
+<p>Expected behavior: The content changes to preferences relating to the clicked label<br>
+Actual: It keeps showing the “Profile” content, but the URL changes.</p>
+<p>I’m able to fix it and start seeing different Preferences pages again by reloading, when there’s a different URL shown (like <a href="https://forums.gauntlet-rpg.com/u/ewillisson/preferences/emails">https://forums.gauntlet-rpg.com/u/ewillisson/preferences/emails</a>)</p>
+<p>This is on ChromeOS Version 72.0.3626.122 (Official Build) (32-bit)</p>
+<p>This definitely isn’t a large problem, but it was surprising, so I wanted to document it.</p>
+<p>I just noticed there’s a stack trace in the JavaScript that shows up when I first reproduce this bug. Here it is:</p>
+<blockquote>
+<p>_application-33e439a93501d47d5972463eed0b760e5607bfd6cf0aadfce080f4b8979f1308.js:47852 Uncaught TypeError: $(…).magnificPopup is not a function<br>
+at n.willDestroyElement (_application-33e439a93501d47d5972463eed0b760e5607bfd6cf0aadfce080f4b8979f1308.js:47852)<br>
+at n [as willDestroyElement] (_ember_jquery-716f4989c2eb49ad65163ffb56185407340c2b195b81b9392b62cde3e992cade.js:50409)<br>
+at n.trigger (_ember_jquery-716f4989c2eb49ad65163ffb56185407340c2b195b81b9392b62cde3e992cade.js:52795)<br>
+at n [as trigger] (_ember_jquery-716f4989c2eb49ad65163ffb56185407340c2b195b81b9392b62cde3e992cade.js:50409)<br>
+at e.destroy (_ember_jquery-716f4989c2eb49ad65163ffb56185407340c2b195b81b9392b62cde3e992cade.js:32585)<br>
+at e.destroy (_ember_jquery-716f4989c2eb49ad65163ffb56185407340c2b195b81b9392b62cde3e992cade.js:23979)<br>
+at n.e.destroy (_ember_jquery-716f4989c2eb49ad65163ffb56185407340c2b195b81b9392b62cde3e992cade.js:23979)<br>
+at e.destroy (_ember_jquery-716f4989c2eb49ad65163ffb56185407340c2b195b81b9392b62cde3e992cade.js:23979)<br>
+at t.didDestroy (_ember_jquery-716f4989c2eb49ad65163ffb56185407340c2b195b81b9392b62cde3e992cade.js:32337)<br>
+at n.reset (_ember_jquery-716f4989c2eb49ad65163ffb56185407340c2b195b81b9392b62cde3e992cade.js:24063)</p>
+</blockquote>
+<p>Thank you for creating this forum!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/bug-in-preferences-page/1219/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/bug-in-preferences-page/1219/1</link>
+        <pubDate>Wed, 20 Mar 2019 13:26:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1219-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/bug-in-preferences-page/1219.rss">Bug in Preferences page</source>
+      </item>
+  </channel>
+</rss>

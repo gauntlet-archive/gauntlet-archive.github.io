@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>RuneSlingers - a WoDu Turbo hack (beta)</title>
+    <link>https://forums.gauntlet-rpg.com/t/runeslingers-a-wodu-turbo-hack-beta/4015</link>
+    <description>Hi. I&#39;m working on a World of Dungeons hack and I think it&#39;s at the point where I could use some input and critical comment.
+
+[RuneSlingers Google Docs](https://docs.google.com/document/d/1agcV-pmvGf2XLGc5u4KcGOkkXE1v3PowMZOrhrOVwM8/edit?usp=sharing)
+
+Commenting is enabled on the Google Doc, so you can comment there or in the thread here. Also it will get updates, until I fork it for a new beta.
+
+I&#39;ve really got into the various WoDu hacks recently, and in particular I found Streets of Marienburg and Rovers really inspiring. I love the minimalism of WoDu, but by itself minimalism isn&#39;t enough. What these two games in particular do is provide a lot of flavour and support for running a certain sort of game, or play in a very specific setting. That combination of strong flavour in a very compact package is really interesting.
+
+So where Marienburg is a love letter to Warhammer Fantasy Roleplaying, and Rovers is a love letter to Traveller, RuneSlingers is a love letter to RuneQuest 2.
+
+Mechanically these games are not all that exciting. They&#39;re just tweaked and tuned variations on WoDu or Breakers, but it&#39;s the instant campaign aspect of them that&#39;s so cool and that&#39;s what I&#39;m trying to do with RS. Runequest 2 was a game of it&#39;s time, it didn&#39;t really support a particular campaign setup in the book, so what I decided to focus on was the fact that the default campaign area had recently been conquered by a powerful Empire. So this is what I made RuneSlingers about. But instead of doing a cookie-cutter of Dragon Pass, in RS you get to define your own Empire, and your own relationship to it. The result can look just as much like Heroes of the Water Margin as it does Runequest.
+
+Some aspects are still a little rudimentary. Tags and equipment and such. I could also use some more charms. Those are a minor issue though, I know they&#39;re work in progress and that&#39;s fine. Where could really use some help is:
+
+* What do you find confusing? I&#39;m a bit too close to it to spot points of confusion or vaguery, so if anything isn&#39;t well defined or isn&#39;t clear what it mans or how it works, please say so.
+
+* Typos and poor phrasing. Please nitpick away.
+
+* Confusing or ungainly layout. Bad font or font size choices. I&#39;ve spent ages tweaking this, but it&#39;s never ending task. Any pointers appreciated.
+
+Please do not spare my feelings. Be brutally honest. Go out of your way to find fault, even if you&#39;re not really sure your criticism is valid. Hit me anyway. That&#39;s exactly what I need at this point. I&#39;m trying to fit this into no more than  8 pages and I&#39;m not far off that already and don&#39;t have names lists and such yet.
+
+Cheers!</description>
+    
+    <lastBuildDate>Sun, 01 Dec 2019 19:24:17 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/runeslingers-a-wodu-turbo-hack-beta/4015.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>RuneSlingers - a WoDu Turbo hack (beta)</title>
+        <dc:creator><![CDATA[@Simon_Hibbs]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/simon_hibbs">@Simon_Hibbs</a> wrote:</p>
+          <blockquote>
+              <p>I’ve removed the link to the PDF as it was very out of date, but the google doc link is still to the current version.</p>
+<p>It’s considerably updated and expanded from when I firs posted. It’s CC licensed and sharing it as a GDoc means to can comment, suggest changes or take a copy and adapt it however you like.</p>
+<p>I’m very happy with using Google Docs for this. It’s almost like Github for formatted documents but without the commit history, still it’s fantastic for collaboration. In particular I’m pretty pleased with the character sheet. It came out far better than I was expecting.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/runeslingers-a-wodu-turbo-hack-beta/4015/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/runeslingers-a-wodu-turbo-hack-beta/4015/5</link>
+        <pubDate>Sun, 01 Dec 2019 19:24:17 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4015-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/runeslingers-a-wodu-turbo-hack-beta/4015.rss">RuneSlingers - a WoDu Turbo hack (beta)</source>
+      </item>
+      <item>
+        <title>RuneSlingers - a WoDu Turbo hack (beta)</title>
+        <dc:creator><![CDATA[@Simon_Hibbs]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/simon_hibbs">@Simon_Hibbs</a> wrote:</p>
+          <blockquote>
+              <p>Thanks for the comments on the doc, it’s always useful to get another opinion. Most of them were straightforward improvements.</p>
+<p>I went with changing the debility condition for Wits from Imapired to Dazed. I’ve never been entirely happy with Impaired as it could apply to any stat. I am considering Addled as well though, but whichever way I finally go it highlighted something I do need to improve.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/runeslingers-a-wodu-turbo-hack-beta/4015/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/runeslingers-a-wodu-turbo-hack-beta/4015/4</link>
+        <pubDate>Sat, 23 Nov 2019 18:57:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4015-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/runeslingers-a-wodu-turbo-hack-beta/4015.rss">RuneSlingers - a WoDu Turbo hack (beta)</source>
+      </item>
+      <item>
+        <title>RuneSlingers - a WoDu Turbo hack (beta)</title>
+        <dc:creator><![CDATA[@Simon_Hibbs]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/simon_hibbs">@Simon_Hibbs</a> wrote:</p>
+          <blockquote>
+              <p>I think the best place to start online is the Glorantha site:</p>
+<p><a href="https://www.glorantha.com/glorantha/" class="onebox" target="_blank" rel="nofollow noopener">https://www.glorantha.com/glorantha/</a></p>
+<p>It’s a nice on-ramp to the setting. The main community site is BRP Central, which has forums for the setting and RuneQuest.</p>
+<p><a href="https://basicroleplaying.org/" class="onebox" target="_blank" rel="nofollow noopener">https://basicroleplaying.org/</a></p>
+<p>In terms of published material the new edition of RuneQuest is gorgeous. The new Bestiary and Glorantha Sourcebook are really nice too.</p>
+<p><a href="https://www.chaosium.com/runequest/" class="onebox" target="_blank" rel="nofollow noopener">https://www.chaosium.com/runequest/</a></p>
+<p>For those on a budget, the old HeroQuest game materials are available at only about $5 each and are packed with setting content. Barbarian Adventures will be very familiar to you coming from King of Dragon Pass.</p>
+<p><a href="https://www.chaosium.com/heroquest-and-glorantha-vault/" class="onebox" target="_blank" rel="nofollow noopener">https://www.chaosium.com/heroquest-and-glorantha-vault/</a></p>
+<p>For fiction, you can’t beat the Griselda stories. It’s a collection of short tales chronicling the adventures of Griselda, a street tough in the city of Pavis. It’s some of the most enjoyable game fiction ever published. Again only $5. I used to read these to my kids when they were 8 or 9. Just brilliant.</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/8/8eb92ccd943adf12f6f7ce94b591d58a717af5bc.gif" class="site-icon" width="16" height="16">
+      <a href="https://www.chaosium.com/the-complete-griselda-pdf/" target="_blank" rel="nofollow noopener">Chaosium Inc.</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:388/500;"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/a/a2d1016fca690431958a2e07712f6e9bd68aa061.jpeg" class="thumbnail"></div>
+
+<h3><a href="https://www.chaosium.com/the-complete-griselda-pdf/" target="_blank" rel="nofollow noopener">The Complete Griselda - PDF</a></h3>
+
+<p>A publisher of books and games since 1975</p>
+
+  <p><span class="label1">Price: USD 5</span>
+    </p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>RuneSlingers isn’t a Runequest clone. It’s more inspired by it and aiming for a Glorantha adjacent feel, but easy enough to use it for Glorantha by anyone who knows RQ and the setting.</p>
+<p>Simon</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/runeslingers-a-wodu-turbo-hack-beta/4015/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/runeslingers-a-wodu-turbo-hack-beta/4015/3</link>
+        <pubDate>Fri, 22 Nov 2019 22:23:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4015-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/runeslingers-a-wodu-turbo-hack-beta/4015.rss">RuneSlingers - a WoDu Turbo hack (beta)</source>
+      </item>
+      <item>
+        <title>RuneSlingers - a WoDu Turbo hack (beta)</title>
+        <dc:creator><![CDATA[@alanmfox]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alanmfox">@alanmfox</a> wrote:</p>
+          <blockquote>
+              <p>Excited to see this. Given that my only exposure to Glorantha has been through the King of Dragon Pass computer game, are there any resources out there I should read to “get” the setting?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/runeslingers-a-wodu-turbo-hack-beta/4015/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/runeslingers-a-wodu-turbo-hack-beta/4015/2</link>
+        <pubDate>Fri, 22 Nov 2019 14:48:16 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4015-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/runeslingers-a-wodu-turbo-hack-beta/4015.rss">RuneSlingers - a WoDu Turbo hack (beta)</source>
+      </item>
+      <item>
+        <title>RuneSlingers - a WoDu Turbo hack (beta)</title>
+        <dc:creator><![CDATA[@Simon_Hibbs]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/simon_hibbs">@Simon_Hibbs</a> wrote:</p>
+          <blockquote>
+              <p>Hi. I’m working on a World of Dungeons hack and I think it’s at the point where I could use some input and critical comment.</p>
+<p><a href="https://docs.google.com/document/d/1agcV-pmvGf2XLGc5u4KcGOkkXE1v3PowMZOrhrOVwM8/edit?usp=sharing" rel="nofollow noopener">RuneSlingers Google Docs</a></p>
+<p>Commenting is enabled on the Google Doc, so you can comment there or in the thread here. Also it will get updates, until I fork it for a new beta.</p>
+<p>I’ve really got into the various WoDu hacks recently, and in particular I found Streets of Marienburg and Rovers really inspiring. I love the minimalism of WoDu, but by itself minimalism isn’t enough. What these two games in particular do is provide a lot of flavour and support for running a certain sort of game, or play in a very specific setting. That combination of strong flavour in a very compact package is really interesting.</p>
+<p>So where Marienburg is a love letter to Warhammer Fantasy Roleplaying, and Rovers is a love letter to Traveller, RuneSlingers is a love letter to RuneQuest 2.</p>
+<p>Mechanically these games are not all that exciting. They’re just tweaked and tuned variations on WoDu or Breakers, but it’s the instant campaign aspect of them that’s so cool and that’s what I’m trying to do with RS. Runequest 2 was a game of it’s time, it didn’t really support a particular campaign setup in the book, so what I decided to focus on was the fact that the default campaign area had recently been conquered by a powerful Empire. So this is what I made RuneSlingers about. But instead of doing a cookie-cutter of Dragon Pass, in RS you get to define your own Empire, and your own relationship to it. The result can look just as much like Heroes of the Water Margin as it does Runequest.</p>
+<p>Some aspects are still a little rudimentary. Tags and equipment and such. I could also use some more charms. Those are a minor issue though, I know they’re work in progress and that’s fine. Where could really use some help is:</p>
+<ul>
+<li>
+<p>What do you find confusing? I’m a bit too close to it to spot points of confusion or vaguery, so if anything isn’t well defined or isn’t clear what it mans or how it works, please say so.</p>
+</li>
+<li>
+<p>Typos and poor phrasing. Please nitpick away.</p>
+</li>
+<li>
+<p>Confusing or ungainly layout. Bad font or font size choices. I’ve spent ages tweaking this, but it’s never ending task. Any pointers appreciated.</p>
+</li>
+</ul>
+<p>Please do not spare my feelings. Be brutally honest. Go out of your way to find fault, even if you’re not really sure your criticism is valid. Hit me anyway. That’s exactly what I need at this point. I’m trying to fit this into no more than  8 pages and I’m not far off that already and don’t have names lists and such yet.</p>
+<p>Cheers!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/runeslingers-a-wodu-turbo-hack-beta/4015/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/runeslingers-a-wodu-turbo-hack-beta/4015/1</link>
+        <pubDate>Thu, 21 Nov 2019 15:54:37 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4015-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/runeslingers-a-wodu-turbo-hack-beta/4015.rss">RuneSlingers - a WoDu Turbo hack (beta)</source>
+      </item>
+  </channel>
+</rss>

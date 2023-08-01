@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Story Synth - a platform for playtesting simple storytelling games online</title>
+    <link>https://forums.gauntlet-rpg.com/t/story-synth-a-platform-for-playtesting-simple-storytelling-games-online/5991</link>
+    <description>Hey all!
+
+I&#39;ve been working on a platform for easily playtesting storytelling games, with content managed in from Google Sheets. I launched it last week and it&#39;s called Story Synth: [https://storysynth.org](https://storysynth.org/)
+
+It already works for several game formats, including For the Queen and The Quiet Year. You can add your custom content by pasting a link to a spreadsheet; no coding needed. There&#39;s more info, including how-to guides, on the About page.
+
+My goal for Story Synth is to lower the bar to designing and testing games. There are three main ways to use it:
+
+1) Running a playtest by pasting in a spreadsheet link
+2) Publishing your game through it (requires some code)
+3) Hacking it to add your own mechanics (lots of code)
+
+Also – here&#39;s a [video tour](https://www.youtube.com/watch?v=TLQk3zyVyVI)
+
+I&#39;m happy to answer any questions and am especially keen to hear feedback and feature requests as I continue building out the platform!</description>
+    
+    <lastBuildDate>Tue, 20 Oct 2020 20:47:09 +0000</lastBuildDate>
+    <category>Hype</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/story-synth-a-platform-for-playtesting-simple-storytelling-games-online/5991.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Story Synth - a platform for playtesting simple storytelling games online</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>Hey, that same information could be a nice addition to the template page !<br>
+I am interested by the slot machine then. Now I see what I can do with it… I’ll tinker with it some before coming back with questions. Thank you !</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/story-synth-a-platform-for-playtesting-simple-storytelling-games-online/5991/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/story-synth-a-platform-for-playtesting-simple-storytelling-games-online/5991/4</link>
+        <pubDate>Tue, 20 Oct 2020 20:47:09 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5991-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/story-synth-a-platform-for-playtesting-simple-storytelling-games-online/5991.rss">Story Synth - a platform for playtesting simple storytelling games online</source>
+      </item>
+      <item>
+        <title>Story Synth - a platform for playtesting simple storytelling games online</title>
+        <dc:creator><![CDATA[@randylubin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/randylubin">@randylubin</a> wrote:</p>
+          <blockquote>
+              <p>It definitely doesn’t cover everything! It’s currently best suited to games that are, at their core, a series of prompts (random, linear, or a mix of both).</p>
+<p>Some examples for the different modes:</p>
+<ul>
+<li>Shuffled: For the Queen, The Quiet Year</li>
+<li>Timed: Find / Fix / Finish (a Jason Morningstar game that takes place in real time</li>
+<li>Secret: likely a better fit for larp where different folks get secret info / prompts</li>
+<li>Monster: custom made for my game <a href="http://monster.diegeticgames.com/" rel="nofollow noopener">Dawn of the Monster Invasion</a> but works if you want to design a mostly linear game with a few player options at different junctures</li>
+<li>SlotMachine: perfect for drawing from multiple decks or rolling on tables (e.g. a random encounter with a setting, a threat, and an opportunity)</li>
+</ul>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/story-synth-a-platform-for-playtesting-simple-storytelling-games-online/5991/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/story-synth-a-platform-for-playtesting-simple-storytelling-games-online/5991/3</link>
+        <pubDate>Tue, 20 Oct 2020 18:25:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5991-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/story-synth-a-platform-for-playtesting-simple-storytelling-games-online/5991.rss">Story Synth - a platform for playtesting simple storytelling games online</source>
+      </item>
+      <item>
+        <title>Story Synth - a platform for playtesting simple storytelling games online</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>I like everything about the project. Yet I don’t see how you can playtest all sorts of story games on the platform. It’s intriguing. I need to push my imagination because I don’t play much online.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/story-synth-a-platform-for-playtesting-simple-storytelling-games-online/5991/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/story-synth-a-platform-for-playtesting-simple-storytelling-games-online/5991/2</link>
+        <pubDate>Tue, 20 Oct 2020 18:14:09 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5991-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/story-synth-a-platform-for-playtesting-simple-storytelling-games-online/5991.rss">Story Synth - a platform for playtesting simple storytelling games online</source>
+      </item>
+      <item>
+        <title>Story Synth - a platform for playtesting simple storytelling games online</title>
+        <dc:creator><![CDATA[@randylubin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/randylubin">@randylubin</a> wrote:</p>
+          <blockquote>
+              <p>Hey all!</p>
+<p>I’ve been working on a platform for easily playtesting storytelling games, with content managed in from Google Sheets. I launched it last week and it’s called Story Synth: <a href="https://storysynth.org/" rel="nofollow noopener">https://storysynth.org</a></p>
+<p>It already works for several game formats, including For the Queen and The Quiet Year. You can add your custom content by pasting a link to a spreadsheet; no coding needed. There’s more info, including how-to guides, on the About page.</p>
+<p>My goal for Story Synth is to lower the bar to designing and testing games. There are three main ways to use it:</p>
+<ol>
+<li>Running a playtest by pasting in a spreadsheet link</li>
+<li>Publishing your game through it (requires some code)</li>
+<li>Hacking it to add your own mechanics (lots of code)</li>
+</ol>
+<p>Also – here’s a <a href="https://www.youtube.com/watch?v=TLQk3zyVyVI" rel="nofollow noopener">video tour</a></p>
+<p>I’m happy to answer any questions and am especially keen to hear feedback and feature requests as I continue building out the platform!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/story-synth-a-platform-for-playtesting-simple-storytelling-games-online/5991/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/story-synth-a-platform-for-playtesting-simple-storytelling-games-online/5991/1</link>
+        <pubDate>Tue, 20 Oct 2020 17:11:55 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5991-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/story-synth-a-platform-for-playtesting-simple-storytelling-games-online/5991.rss">Story Synth - a platform for playtesting simple storytelling games online</source>
+      </item>
+  </channel>
+</rss>

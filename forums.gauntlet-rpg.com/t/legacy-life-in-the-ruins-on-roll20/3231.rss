@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Legacy Life in the Ruins on Roll20</title>
+    <link>https://forums.gauntlet-rpg.com/t/legacy-life-in-the-ruins-on-roll20/3231</link>
+    <description>Been playing around with Roll20 to use with Legacy:  Life in the ruins and i have to say, i&#39;m pretty damn impressed with the map making tools.
+
+Anybody else used it for map making before?
+
+example below.
+
+![legacy%20map%202|506x500](upload://9UQvjhyoCKi0beIhBkm335E60nS.png)
+
+Each of the assets above will let me drop a banner naming them under them and by double clicking on them i can add notes to them.  I suspect this is going to make housekeeping and record keeping so much easier.</description>
+    
+    <lastBuildDate>Thu, 26 Sep 2019 11:21:55 +0000</lastBuildDate>
+    <category>RPG Chat</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/legacy-life-in-the-ruins-on-roll20/3231.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Legacy Life in the Ruins on Roll20</title>
+        <dc:creator><![CDATA[@technoskald]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/technoskald">@technoskald</a> wrote:</p>
+          <blockquote>
+              <p>Normally in Roll20 you are correct, only the GM can add tokens or assets to the canvas. You could set up a “palette” area to the side and add them there, then give players control of them and let them move things around. Alternatively they can use the drawing tools rather than tokens.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/legacy-life-in-the-ruins-on-roll20/3231/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/legacy-life-in-the-ruins-on-roll20/3231/3</link>
+        <pubDate>Thu, 26 Sep 2019 11:21:55 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3231-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/legacy-life-in-the-ruins-on-roll20/3231.rss">Legacy Life in the Ruins on Roll20</source>
+      </item>
+      <item>
+        <title>Legacy Life in the Ruins on Roll20</title>
+        <dc:creator><![CDATA[@Robert]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/robert">@Robert</a> wrote:</p>
+          <blockquote>
+              <p>How do you allow the players the ability to add things and modify the map? I know they can freehand, but I’ve always found it annoying that only the GM can drop art assets in.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/legacy-life-in-the-ruins-on-roll20/3231/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/legacy-life-in-the-ruins-on-roll20/3231/2</link>
+        <pubDate>Thu, 26 Sep 2019 03:51:41 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3231-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/legacy-life-in-the-ruins-on-roll20/3231.rss">Legacy Life in the Ruins on Roll20</source>
+      </item>
+      <item>
+        <title>Legacy Life in the Ruins on Roll20</title>
+        <dc:creator><![CDATA[@GerwynWalters]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gerwynwalters">@GerwynWalters</a> wrote:</p>
+          <blockquote>
+              <p>Been playing around with Roll20 to use with Legacy:  Life in the ruins and i have to say, i’m pretty damn impressed with the map making tools.</p>
+<p>Anybody else used it for map making before?</p>
+<p>example below.</p>
+<p><img src="/uploads/default/original/2X/4/45809dd22e5add7dde93e11e07ff235bce6a76b8.png" alt="legacy%20map%202" data-base62-sha1="9UQvjhyoCKi0beIhBkm335E60nS" width="506" height="500"></p>
+<p>Each of the assets above will let me drop a banner naming them under them and by double clicking on them i can add notes to them.  I suspect this is going to make housekeeping and record keeping so much easier.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/legacy-life-in-the-ruins-on-roll20/3231/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/legacy-life-in-the-ruins-on-roll20/3231/1</link>
+        <pubDate>Sat, 21 Sep 2019 19:42:14 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3231-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/legacy-life-in-the-ruins-on-roll20/3231.rss">Legacy Life in the Ruins on Roll20</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Inserting Date and Time in a post</title>
+    <link>https://forums.gauntlet-rpg.com/t/inserting-date-and-time-in-a-post/183</link>
+    <description>Here&#39;s an image album showing the steps to insert date and time information in a post:
+
+https://imgur.com/a/3OEZxN2
+
+[date=2019-02-21 time=12:26:00 format=&quot;LLLL&quot;  timezone=&quot;America/New_York&quot;] → [date=2019-02-21 time=16:26:00  format=&quot;LLLL&quot; timezone=&quot;America/New_York&quot;] Session 1</description>
+    
+    <lastBuildDate>Tue, 08 Oct 2019 12:03:14 +0000</lastBuildDate>
+    <category>Gauntlet Calendar</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/inserting-date-and-time-in-a-post/183.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Inserting Date and Time in a post</title>
+        <dc:creator><![CDATA[@shane]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/shane">@shane</a> wrote:</p>
+          <blockquote>
+              <p>It appears they interested it directly. Now just click on the little calendar next to the gear.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/inserting-date-and-time-in-a-post/183/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/inserting-date-and-time-in-a-post/183/9</link>
+        <pubDate>Tue, 08 Oct 2019 12:03:14 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-183-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/inserting-date-and-time-in-a-post/183.rss">Inserting Date and Time in a post</source>
+      </item>
+      <item>
+        <title>Inserting Date and Time in a post</title>
+        <dc:creator><![CDATA[@rabalias]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rabalias">@rabalias</a> wrote:</p>
+          <blockquote>
+              <p>Bug report: when I click on the gear icon, insert date isn’t on the list of options.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/inserting-date-and-time-in-a-post/183/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/inserting-date-and-time-in-a-post/183/8</link>
+        <pubDate>Tue, 08 Oct 2019 10:56:04 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-183-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/inserting-date-and-time-in-a-post/183.rss">Inserting Date and Time in a post</source>
+      </item>
+      <item>
+        <title>Inserting Date and Time in a post</title>
+        <dc:creator><![CDATA[@shane]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/shane">@shane</a> wrote:</p>
+          <blockquote>
+              <p>I’ve just updated the images to show how to have the datetime display the day of the week!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/inserting-date-and-time-in-a-post/183/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/inserting-date-and-time-in-a-post/183/7</link>
+        <pubDate>Sun, 17 Mar 2019 18:54:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-183-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/inserting-date-and-time-in-a-post/183.rss">Inserting Date and Time in a post</source>
+      </item>
+      <item>
+        <title>Inserting Date and Time in a post</title>
+        <dc:creator><![CDATA[@Asher]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/asher">@Asher</a> wrote:</p>
+          <blockquote>
+              <p>Bug report: I noticed that when I quote a date in a reply by selecting it in the post the quote includes my view (ie: my timezone) of that date instead of the normal <code>[date=]</code> tag.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/inserting-date-and-time-in-a-post/183/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/inserting-date-and-time-in-a-post/183/6</link>
+        <pubDate>Wed, 13 Mar 2019 17:49:49 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-183-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/inserting-date-and-time-in-a-post/183.rss">Inserting Date and Time in a post</source>
+      </item>
+      <item>
+        <title>Inserting Date and Time in a post</title>
+        <dc:creator><![CDATA[@parham]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/parham">@parham</a> wrote:</p>
+          <blockquote>
+              <p>Perfect, just tested it out based on the bits of text and I could figure it out. Thanks for the help, and also, thanks for picking such an accessible forum application! <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=6" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/inserting-date-and-time-in-a-post/183/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/inserting-date-and-time-in-a-post/183/5</link>
+        <pubDate>Wed, 13 Mar 2019 14:13:13 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-183-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/inserting-date-and-time-in-a-post/183.rss">Inserting Date and Time in a post</source>
+      </item>
+      <item>
+        <title>Inserting Date and Time in a post</title>
+        <dc:creator><![CDATA[@shane]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/shane">@shane</a> wrote:</p>
+          <blockquote>
+              <p>There is text in the album that I would guess a screen reader would parse. If that isn’t enough let me know and I will most definitely update the content of this post.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/inserting-date-and-time-in-a-post/183/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/inserting-date-and-time-in-a-post/183/4</link>
+        <pubDate>Wed, 13 Mar 2019 11:13:08 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-183-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/inserting-date-and-time-in-a-post/183.rss">Inserting Date and Time in a post</source>
+      </item>
+      <item>
+        <title>Inserting Date and Time in a post</title>
+        <dc:creator><![CDATA[@parham]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/parham">@parham</a> wrote:</p>
+          <blockquote>
+              <p>Hey! Thanks a lot for this! Can you please also insert a textual information so that people using screen readers like me can also learn the process?</p>
+<p>Thanks a lot!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/inserting-date-and-time-in-a-post/183/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/inserting-date-and-time-in-a-post/183/3</link>
+        <pubDate>Wed, 13 Mar 2019 09:51:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-183-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/inserting-date-and-time-in-a-post/183.rss">Inserting Date and Time in a post</source>
+      </item>
+      <item>
+        <title>Inserting Date and Time in a post</title>
+        <dc:creator><![CDATA[@shane]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/shane">@shane</a> wrote:</p>
+          <blockquote>
+              
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/inserting-date-and-time-in-a-post/183/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/inserting-date-and-time-in-a-post/183/2</link>
+        <pubDate>Thu, 21 Feb 2019 12:49:00 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-183-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/inserting-date-and-time-in-a-post/183.rss">Inserting Date and Time in a post</source>
+      </item>
+      <item>
+        <title>Inserting Date and Time in a post</title>
+        <dc:creator><![CDATA[@shane]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/shane">@shane</a> wrote:</p>
+          <blockquote>
+              <p>Here’s an image album showing the steps to insert date and time information in a post:</p>
+<p>            <div class="onebox imgur-album">
+              <a href="https://imgur.com/a/3OEZxN2" target="_blank">
+                <span class="outer-box" style="width:600px">
+                  <span class="inner-box">
+                    <span class="album-title">[Album] Imgur</span>
+                  </span>
+                </span>
+                <img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/1X/752c31327a5e32f40f4405cdb5be067730acd07f.jpeg" title="Imgur" height="315" width="600">
+              </a>
+            </div>
+</p>
+<p><span data-date="2019-02-21" data-time="12:26:00" class="discourse-local-date" data-format="LLLL" data-timezone="America/New_York" data-email-preview="2019-02-21T17:26:00Z UTC">Thursday, February 21, 2019 5:26 PM</span> → <span data-date="2019-02-21" data-time="16:26:00" class="discourse-local-date" data-format="LLLL" data-timezone="America/New_York" data-email-preview="2019-02-21T21:26:00Z UTC">Thursday, February 21, 2019 9:26 PM</span> Session 1</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/inserting-date-and-time-in-a-post/183/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/inserting-date-and-time-in-a-post/183/1</link>
+        <pubDate>Thu, 21 Feb 2019 12:42:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-183-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/inserting-date-and-time-in-a-post/183.rss">Inserting Date and Time in a post</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</title>
+    <link>https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890</link>
+    <description>Due to the recent announcement of Diablo 4, I&#39;ve been on a whole dungeon crawl action RPG kinda kick, and while I was playing one I had a bit of a realization:
+
+The whole premise of that genre of videogame seems in one way to be *classic* D&amp;D. It&#39;s *all* about dungeon delving and getting tons of loot and treasure. But the way it happens is that you get just *dozens and hundreds* of pieces of gear dropping as you kill things and open chests, mostly randomly generated, which you then ritually sort through once you get back to town, in order to see what few items you might actually keep, and sell off the rest.
+
+Despite this ostensibly being a very classic dungeon crawling type of fantasy, the on-the-fly generation of hundreds of pieces of loot seems like something that only really took off once you could get a computer to do that in the background for you.
+
+Anyway, that contrast between this classic TTRPG premise and how much it relies on being a videogame and using background algorithms to actually work made me wonder, could you simulate the experience of a game like Diablo, Torchlight, Destiny, etc. in a TTRPG? Have any tabletop games done something similar? Could you do it in a way that&#39;s actually any fun? 
+
+My very first thought would be to have just big ol tables that you roll on and combine the results of, like [Cuirass, Buckler, Helm, Greaves, Sword, Axe, Mace...] + [of the Hawk, of the Templar, of the Revenant, of Strength, of Fire Resistance...] etc. etc. Since it&#39;d bog the game WAY down in play, maybe you just get generic &quot;unopened&quot; loot while you&#39;re dungeon delving, and there&#39;s some sort of post-game phase where you roll it all up and see what you get? I&#39;ve seen plenty of tables for like &quot;If your players search the giant&#39;s pockets, roll on this to see what random junk he has,&quot; but this seems a little different.</description>
+    
+    <lastBuildDate>Sat, 16 Nov 2019 15:26:22 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</title>
+        <dc:creator><![CDATA[@Anders]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/anders">@Anders</a> wrote:</p>
+          <blockquote>
+              <p>While I understand the impulse, I don’t think a TTRPG inspired by this type of game by necessity has to have a thin varnish of story.</p>
+<p>IMO, the loot grind mechanics for combat doesn’t have to impact the non-combat part of the game, even if that may be a natural pairing depending on how much of the loot grind experience you’re trying to import.</p>
+<p>However, there are TTRPG:s that work in a similar vein, like Feng Shui which is explicitly meant to consist of a series of set piece action scenes with the connective tissue mostly used to push the melodrama buttons of the stereotypical player characters’ backgrounds.</p>
+<p>I do agree that if you want to go for the full loot grind experience, a boardgame is a more natural match than a TTRPG, but that doesn’t mean there isn’t room for a TTRPG that takes some inspiration from loot grind computer games. I think it’s a question of what kind of game you’re trying to make.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/28</link>
+        <pubDate>Sat, 16 Nov 2019 15:26:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3890-28</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890.rss">TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</source>
+      </item>
+      <item>
+        <title>TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</title>
+        <dc:creator><![CDATA[@Proto]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/proto">@Proto</a> wrote:</p>
+          <blockquote>
+              <p>I’ve been working on a game that uses randomized video-gamey style loot.</p>
+<p>If anyone’s interested, currently my algorithm for generating it is something like:</p>
+<ul>
+<li>Randomly select a loot “tier” where 90.9% of stuff is tier 0, 7% are tier 1, 2% are tier 2, maybe 0.1% are tier 3. This tier essentially adds weapon “damage” but that damage must be spent on special properties (see below). Resale value is based on tier, and then augmented by a random value.</li>
+<li>Randomly pick an amount of weapon damage to spend on special properties, reduce the weapon’s base damage by this amount and add the bonus “tier damage” generated above to this value.</li>
+<li>Randomly choose special properties until all the damage allocated for abilities is spent. Each special property costs different damage amounts, and a few drawbacks have negative costs.</li>
+</ul>
+<p>It’s pretty heavy at the moment so while it could be done mid game with a handful of d100 rolls and some tables, my current plan is to write a quick program to spit out a big pile of weapons, and just print that out and build an “Item deck” that I can just draw from to generate loot, or to populate a shop. This has the added bonus of being able to print out the weapon ability descriptions and rules on the item cards and just hand them to the players so they don’t need to memorize them or look them up. At this point it should be really smooth at the table (to generate a piece of loot, draw a card).</p>
+<p>During play the idea is (essentially Anders’ point <span class="hashtag">#4</span> and <span class="hashtag">#5</span>) that the players will have to make some decisions and determine what’s worth carrying with them to sell later, what’s worth replacing existing equipment with and what gets thrown out. A lot of what gets spit out (including higher tier weapons) will be complete trash but it’s up to the players to decide what’s good and what’s not.</p>
+<p>So far I’ve only had the opportunity to playtest the loot rules once but folks seemed to enjoy digging through what was available and trying to evaluate what to get, particularly at the character creation “shop”.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/27">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/27</link>
+        <pubDate>Fri, 15 Nov 2019 19:20:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3890-27</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890.rss">TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</source>
+      </item>
+      <item>
+        <title>TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</title>
+        <dc:creator><![CDATA[@Shawn]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/shawn">@Shawn</a> wrote:</p>
+          <blockquote>
+              <p>All my thoughts on this trend away from delving RPGS and towards “mission based boardgame with incredibly thin narrative impetus.”</p>
+<p>You can come up with all sorts of ways to handle loot and bag space.<br>
+You can come up with all sorts of ways to drive them back into the loop.<br>
+But to handle all of the mob grind efficiently, you’re probably collapsing all that back into much fewer rolls. The only real stake is if your resources hold up long enough to acquire more &amp; better resources.<br>
+At very few points do you really engage in story decisions besides talking to someone with a shape above their head and killing or exchanging goods with them.</p>
+<p>…At which point I’d be really interested to see the push your luck dice (dungeoneering) + tile laying (inventory) game.</p>
+<p>To give it a fair crack:<br>
+GM has a worksheet that plans the bare-mknimum-story needed for the backdrop and Dungeon runs. GM scoops their hand into a bucket of small Lego pieces and puts it on the table to represent the loot in a potential encounter.<br>
+Rolls are exchanged based on <em>rules</em>, with the difference each turn removing pips of Lego from the adventurers resources, as represented by their legs on a baseplate.<br>
+If they defeat the mobs, a roll happens to distribute loot legs which they have to fit on their baseplates.<br>
+Colors of Lego represent stat boost gear with each colour boosting a particular stat.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/26</link>
+        <pubDate>Wed, 13 Nov 2019 14:49:38 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3890-26</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890.rss">TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</source>
+      </item>
+      <item>
+        <title>TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</title>
+        <dc:creator><![CDATA[@Anders]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/anders">@Anders</a> wrote:</p>
+          <blockquote>
+              <p>This is a very illuminating discussion.</p>
+<p>Here’s an attempt to describe the core gameplay loop of this type of game from the perspective we’re currently discussing:</p>
+<ol>
+<li>(Optional) <strong>Travel from town to mission location.</strong> Here I’m assuming there’s something you do in the game beyond killing enemies, even if killing enemies is 95 % of what you when solving a quest or fulfilling a mission. I’m also using “mission” in the loosest possible sense, like a daily mission or something like that. Sometimes traveling is almost completely avoided, like in most Diablo 3 missions, but fairly often it takes a couple of minutes to get from the fast travel location to the actual location of the mission.</li>
+<li>
+<strong>Fight enemies until the quest is finished or inventory is full of loot.</strong> This is the core activity of the game, but it’s not the main focus for this discussion so I’m not going to go into detail.</li>
+<li>(Optional) <strong>Travel back to town.</strong> This is often faster than going to the mission location, and if you need to return to the mission you can usually go to the same place you traveled from, like with Diablo’s town portals.</li>
+<li>
+<strong>Sort loot.</strong> Sell or recycle the dross, temporarily keep the high-value items.</li>
+<li>
+<strong>Evaluate interesting items.</strong> This can be a simple comparison of numbers or a more complex process where you figure out whether a given item fits with your current build (whatever that means in the game), if it could enable a new build, or if it would be useful for a different character. In Borderlands it often means test shooting since the “feel” you get from trying it out tells you things the pure numbers won’t give you.</li>
+<li>Decide which items to use, which to keep (for later use or in case you want to switch to a different build or for other characters or some other reason), and which to sell/recycle.</li>
+</ol>
+<p>Repeat as needed.</p>
+<p>The main feedback points:</p>
+<ol>
+<li>This can be a dull necessary evil or a relaxing build up for the main event.</li>
+<li>The most time is spent here. Depending on the difficulty level, this can be high tension adrenaline fueled action or an almost zen-like mostly automated experience. Either way, it’s punctuated by “Ooh, shiny” when a rare item drops, with stronger responses if you’re looking for something specific and get it (for games that have that).</li>
+<li>Anticipation if the new items look interesting, even more so if they seem clearly better than what you already have.</li>
+<li>The enjoyment of trying out new things and trying to puzzle out if the new items are useful or not. If you find something really good this is a big rush.</li>
+</ol>
+<p>If you do find something good, there’s a big payoff when you get to try it out and it works great and a bit of a letdown if it doesn’t function the way you thought it would.</p>
+<p>Does this seem fair? Am I missing something important?</p>
+<p>In my sketch for a starting point above, I was focusing on what I think is the fun part of these games: Fighting and trying out new builds. For me, the inventory management (while adventuring and for item storage) is a necessary restriction to force decision making and not part of the actual fun of the game, but that may be different for others.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/25</link>
+        <pubDate>Mon, 11 Nov 2019 10:16:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3890-25</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890.rss">TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</source>
+      </item>
+      <item>
+        <title>TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</title>
+        <dc:creator><![CDATA[@GuySrinivasan]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/guysrinivasan">@GuySrinivasan</a> wrote:</p>
+          <blockquote>
+              <p>Mechanic idea for loot grinding: Everyone at the table’s got a deck of cards. When you get 4 loot from a mob, three players take their decks. Each turns over the top card, simultaneously. If all cards are different, it’s crap loot that you just leave there. If two cards match, you got something worth 1 Unit Of Currency, if you want to find out what it is, everyone flip up the next card and consult your Massive Table. If three cards match, you got a possibly useful thing, everyone flip up the next card and consult your Other Massive Table to find out what it is and how much Currency it’ll get if you don’t want it. Flip 4 time, because you got 4 loot. And get good at doing it fast and simultaneously, only stopping if there’s a match (at early levels) or a Big Match (at later levels). Now if you get loot from something Important, use 4 decks at once, and a match of 4 simultaneously gets you a lookup on the Final Massive Table Which Is Only Gonna Happen 0-2 Times Per Campaign Probably.</p>
+<p>Haven’t tested, but I feel like this could make a good, hectic, ritual “sort through the loot physically, hoping but not expecting for a gem”.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/24</link>
+        <pubDate>Mon, 11 Nov 2019 03:34:01 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3890-24</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890.rss">TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</source>
+      </item>
+      <item>
+        <title>TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</title>
+        <dc:creator><![CDATA[@Axxroytovu]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/axxroytovu">@Axxroytovu</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="22" data-topic="3890">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/dominik/40/2733_2.png" class="avatar"> dominik:</div>
+<blockquote>
+<p>How about making loot relevant by binding skills (and spells) to gear?</p>
+</blockquote>
+</aside>
+<p>The game Path of Exile does that. You could probably look there for some good inspiration: <a href="https://www.youtube.com/watch?time_continue=1&amp;v=SzkWGiW-usQ" rel="nofollow noopener">https://www.youtube.com/watch?time_continue=1&amp;v=SzkWGiW-usQ</a></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/23</link>
+        <pubDate>Sun, 10 Nov 2019 18:04:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3890-23</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890.rss">TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</source>
+      </item>
+      <item>
+        <title>TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</title>
+        <dc:creator><![CDATA[@dominik]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dominik">@dominik</a> wrote:</p>
+          <blockquote>
+              <p>How about making loot relevant by binding skills (and spells) to gear? Each equipped item adds to skills or - in case of staves and jewelry - contributes to the available spell(s)? This way your loot is your build.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/22</link>
+        <pubDate>Sat, 09 Nov 2019 16:35:34 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3890-22</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890.rss">TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</source>
+      </item>
+      <item>
+        <title>TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</title>
+        <dc:creator><![CDATA[@Anders]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/anders">@Anders</a> wrote:</p>
+          <blockquote>
+              <p>I agree that abilities aren’t what make a looter a looter, but I do think the added combo possibilities make things more interesting in a team game. Without that, you’re mostly just trying to combine the pieces of gear into one set per player that works well and it doesn’t matter much who uses what. Different abilities also means that different pieces of gear can be more or less useful depending on your character setup.</p>
+<p>But I should be clear that my sketched out proposal isn’t the only way to do this type of game as a TTRPG, just what would be my starting point. For example, I’ve pretty much dropped the inventory management aspect mostly because I personally find that a bit tedious.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/21</link>
+        <pubDate>Sat, 09 Nov 2019 15:45:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3890-21</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890.rss">TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</source>
+      </item>
+      <item>
+        <title>TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</title>
+        <dc:creator><![CDATA[@dominik]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dominik">@dominik</a> wrote:</p>
+          <blockquote>
+              <p>I think your setup is the closest to a working solution so far. Archetypes/builds are definitely an important part of looter genre and a lot of motivation behind looting is optimal gear acquisition for a given build. Great point! The only thing I’m not convinced is needed is skill tree. Original Diablo had no skill tree, each class had a single unique ability (and crap one at that: rogue could spot traps that weren’t real danger, warrior could repair weapons permanently decreasing its peak durability, mage could recharge staves permanently decreasing peek charge value) but it was, no, is a great game. <img src="/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>Diversity in Diablo 1 came from the differences in damage output, type of damage produced, character speed and preferred weapons. Magic was available to any character it’s just that inherent stat caps made mages more magical. The skill tree from Diablo 2 was transplanted over to Hellgate: London and didn’t work that well in this otherwise interesting MMO looter. So I don’t think that this is what makes looter a looter.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/20</link>
+        <pubDate>Sat, 09 Nov 2019 14:27:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3890-20</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890.rss">TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</source>
+      </item>
+      <item>
+        <title>TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</title>
+        <dc:creator><![CDATA[@Anders]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/anders">@Anders</a> wrote:</p>
+          <blockquote>
+              <p>Interesting topic! I have some thoughts which I hope I can formulate reasonably coherently despite this being well past midnight and I’m only up because sleep eludes me.</p>
+<p>I’ve played quite a lot of this style of game, mainly Diablo 2 and 3 (and some imitators like Torchlight) and Borderlands 1 and 2 (the Pre-Sequel had some annoying areas so I haven’t played that as much).</p>
+<p>For me, the fun of the loot aspect of these games is that it encourages mixing up your playing style, a feature that was noted upthread. In Borderlands, trying out a weapon that seems interesting and realizing that that specific combination of characteristics makes it hilariously fun in some siutations and useless in others is a big part of the draw, and finding something in Diablo 3 that enables a completely new build is also interesting.</p>
+<p>As a sidenote, many, if not most, MMORPGs have at least some of this even if the emphasis is less on the randomized items in my experience, and for me personally they do it in a much less interesting way where you’re mainly comparing minor bonuses and trying to decide which is slightly more advantageous. That’s even less interesting in a TTRPG, I think, so I’m going to put that up as something to avoid.</p>
+<p>Another attraction, as was also mentioned upthread, is the ability to zone out a bit while you’re playing. When I play these games I’m a bit more engaged than when I do extended mining sessions in Minecraft, but not all that much. However, I don’t think this is something we need to emulate in a TTRPG as I think that’s a pleasure specific to the solitary video game experience.</p>
+<p>Something I think you do want is the fast and furious pace of combat. You don’t want a system where a typical fight takes up most of a session so that a player who chose to go with an unorthodox equipment combination will have a bad time for that whole time. You want combat to be about mowing down hordes of mooks with the occasional tougher enemy that takes a few hits to take down, and some very rare fights against boss type monsters that shake things up. You want a typical fight to be against 20+ enemies rather than a more typical 3-10, but most of those enemies should die on a single hit.</p>
+<p>I think you also want the characters to have enough abilities that interact with the item abilities to make some items clearly better for some characters, or at least clearly different. For example, if one character has an ability that makes lightning attacks chain to additional enemies and another character has an ability that increases the range of lightning attacks, who has more use for the short-range lightning bolt thrower? Is it more useful to kill more enemies close-up or to be able to pick off more dangerous ones at range?</p>
+<p>Another thing to take into consideration is that even with a fairly simple combat system, a TTRPG will never be able to match the pace of a computer game. On the other hand, with a TTRPG you will (hopefully) not be playing through the same story over and over and over again until it becomes more of a nuisance because it stops you from getting straight to the fight-loot-equip loop so there’s a much greater potential for the consequences of the fight to be interesting.</p>
+<p>It was also noted upthread that there are boardgames that do this style of game quite well, like Descent, Zombicide, and Shadows of Brimstone. Rather than that being an argument against making this type of TTRPG, I think those are examples to learn from when making this type of TTRPG, especially when it comes to combat rules.</p>
+<p>One inspiration that can be taken from them, which I think was also mentioned, is the use of cards. Used correctly, I think cards could be used to both make the items feel more substantial and simplify the loot division process. I think you probably want to use card combinations rather than have each item be a single card, if only to retain that sense of RNG created loot.</p>
+<p>To sketch out my ideas for a combat system very stream-of-consciously (bullet-pointed after the fact because it turned into one long-ass rambling paragraph):</p>
+<ul>
+<li>I would start by using zones to simplify range calculations and terrain effects.</li>
+<li>There would be no numbers treadmill - player hit points will go up, but their offensive capabilities will be based around how many enemies they can take out and how powerful effects they can create rather than damage numbers.</li>
+<li>Similarly, enemies will be on a simple scale of something like minion (one hit point), grunt (two hit points), lieutenant (enough hp that it takes one character two turns to take them down, so maybe five?), and boss (enough hp that if the whole party goes all out on them it takes at least three turns to take them down).</li>
+<li>Character classes/playbooks should be clear archetypes with fairly free advancement to enable different builds for replayability, so ability pools rather than trees, with the power coming from synergies between abilities and between abilities and equipment.</li>
+<li>Equipment should be fairly limited, like armor, a couple of weapons, and one or two utility items. (The ability to have more equipment could also be part of increasing in power.)</li>
+<li>Items would be generated through card draws, with one card for the base item, up to maybe two or three for positive abilities, and sometimes a drawback.</li>
+<li>Most characters should be able to use most items, with effectiveness for a particular character being determined more by build and synergies rather than class.</li>
+<li>Players should make at most one die roll during their turn (though that could involve a couple of dice), and no rolls outside their turn.</li>
+<li>Enemies probably shouldn’t roll at all so player characters deploy defenses on their own turn.</li>
+<li>Most characters should probably have some kind of resource management system to keep their turns from being to samey and to add some more texture to the rules. This could be long-term (stretching over multiple combat) and/or short-term (from turn to turn).</li>
+<li>Enemies should generally be fairly predictable to avoid the players doing a lot of second-guessing and trying to figure out what possibilities they need to prepare for.</li>
+<li>A campaign should have a finite, fairly short, length. I think I would aim for three to five sessions, with two or three quick combats per session depending on how much else is going on, and an apetizer followed by a single epic boss battle for the last one. (Or perhaps two boss battles, so you can get some epic loot from the first to use in the second?)</li>
+</ul>
+<p>Whew, that got a lot longer than I had thought. Time to go back to bed now.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/19</link>
+        <pubDate>Sat, 09 Nov 2019 00:24:47 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3890-19</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890.rss">TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</source>
+      </item>
+      <item>
+        <title>TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</title>
+        <dc:creator><![CDATA[@SeanGomes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/seangomes">@SeanGomes</a> wrote:</p>
+          <blockquote>
+              <p>In order to faithfully recreate the <em>feel</em> of the “hack-and-slash looter” vibe, we have to look at a few aspects.</p>
+<p>First is the Skinner Box. That compulsion to keep pulling the lever, in the hopes that you get something good. Because to be true to the genre, most of the time you won’t get anything good. But next time you might. So you delve again. You redo the same area, slay the same bosses, hoping for something new. A ttrpg needs to get that feeling just right; the anticipation, the small thrills, and the big payoff. A big part of this design will be a slot-machine-esque loop.</p>
+<p>Second is the moment-to-moment gameplay vs the “macro” gameplay. This is where the ttrpg will diverge the most. Because, let’s face it, 95% of the Loot Grind is “point mouse cursor at cluster of dudes, they immediately explode in a shower of body parts, loot, and special effects”. However, at a higher level, there’s an efficiency loop, where the player (often unconsciously) balances kill speed, resource management, inventory management, and risk management. The moment-to-moment gameplay could be largely abstracted. Let the players feel like badasses, let them get 130 monster kills with a whirlwind charge, whatever. The “hard” player actions would be focusing on the efficiency management aspects instead. Did they bite off more than they can chew? Did they waste their cooldowns? How fast can they move through this place, or do they get lost and have to waste time backtracking, Etc.</p>
+<p>Third is small, diverse power increments. With stat increases being at the core of the gameplay loop, growth needs to be slow and incremental. Otherwise the numbers will balloon out of control too quickly, and become unmanageable. Similarly, if there are too few stats, it greatly limits the variety of items and, funnily enough, there will be <em>too many</em> useful items. Remember that a big part of the slot machine is getting two out of three cherries before hitting that lemon. An awesome two handed sword that gives +10 to lightning damage (and you don’t deal much lightning damage… maybe you should respec) is exactly the kind of loot that drops most often.</p>
+<p>Fourth is economy. What are the players doing with all that trash? There needs to be a quick way to calculate just how much they can sell that stuff for back in town, or things will bog down. At the same time, there needs to be a money sink to do something with all that gold. A few options:</p>
+<ul>
+<li>Roll up low-, mid- and high-tier items at the start of the game, and keep them available in perpetuity. It’ll give the players something to aim for. New NPCs (unlocked by quests) would roll more purchasable items for the shop.</li>
+<li>More gambling! Let the players spend cash to roll fresh items. Or let them pay to add a random new magic prefix or suffix to an existing weapon.</li>
+<li>New, more dangerous (and more profitable) dungeons unlock at certain wealth tiers, when the heroes have invested enough to excavate the keep, or build the bridge across the valley, or hire a boat to the Broken Islands, or whatever.</li>
+</ul>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/18</link>
+        <pubDate>Fri, 08 Nov 2019 05:27:24 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3890-18</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890.rss">TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</source>
+      </item>
+      <item>
+        <title>TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</title>
+        <dc:creator><![CDATA[@Curubethion]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/curubethion">@Curubethion</a> wrote:</p>
+          <blockquote>
+              <p>So my first question is “how can we use random loot grind for a narrative purpose?” And there’s a <em>very interesting answer</em> that jumps out at me: worldbuilding.</p>
+<p>Every new piece of gear is the chance to build the world a little, to add something to the setting in a small way. I think it would be <em>really cool</em> to have a game where you have these hack-and-slash action sequences against mobs of enemies, where you describe things really colorfully and vibrantly (including the powers of your gear), and then you roll up random loot and weave the story of the world by describing stuff. Like cool, you have an Icy Lance of Kallendan, now we get to learn about Kallendan the ancient city, bastion against the Legion of Demonfire.</p>
+<p>Every weapon, ring, armor, is a miniature story, a piece of history, and it’ll eventually be set aside for new gear, but you fill in the story of the world a little bit at a time. To me, that seems <em>very</em> cool. And very suited to RPGs.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/17</link>
+        <pubDate>Fri, 08 Nov 2019 04:34:17 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3890-17</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890.rss">TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</source>
+      </item>
+      <item>
+        <title>TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</title>
+        <dc:creator><![CDATA[@Axxroytovu]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/axxroytovu">@Axxroytovu</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="14" data-topic="3890">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/deusexbrockina/40/1079_2.png" class="avatar"> DeusExBrockina:</div>
+<blockquote>
+<p>I think TTRPG’s can be designed to simulate or represent something that <em>feels like</em> an experience without literally replicating it.</p>
+</blockquote>
+</aside>
+<p>This immediately makes me think of Dread. Dread doesn’t scare the players by creating scary scenarios, it creates suspense using a physical representation of stress. It might be possible to replicate the <em>feeling</em> of looter games by using physical items to emphasize the feel of “getting loot”. This means you don’t really need a bajillion different items, just enough to last for a few sessions. If you used physical cards as “loot”, you would end up making a kind of combined RPG and collectable card game or deck building game. The reward for finishing a dungeon would be a “booster pack” of cards, that the players can then use to build their character and power up for the next dungeon.</p>
+<p>This type of system would also work really well for a Monster Hunter inspired game, where you use the monster’s drops to upgrade your weapons!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/16</link>
+        <pubDate>Fri, 08 Nov 2019 04:03:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3890-16</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890.rss">TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</source>
+      </item>
+      <item>
+        <title>TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</title>
+        <dc:creator><![CDATA[@dominik]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dominik">@dominik</a> wrote:</p>
+          <blockquote>
+              <p>As <a class="mention" href="/u/radmad">@Radmad</a> succinctly put, ttrpgs are very good and randomizing through rolls and tables. You can easily substitute game rng with the table one. And I don’t think d100 is needed or that GM prep is needed. But everything boils down to: you’ve got the loot, now what? This has to feed into economics of the game or some meta econo systems otherwise there’s no point. This, I think, and not the randomization itself is the difficult problem to solve. You could tie the need for new/different gear to the type of enemies you will encounter next making looting a sort of min-maxing exercise. This doesn’t have to necessarily math heavy and I’m sure there’s some inspiration to be drawn from boardgames.</p>
+<p>But I think that there’s another crucial component of looters that <a class="mention" href="/u/michael">@Michael</a> pointed out above: after some time you play on auto-pilot. It’s not even the endgame that unfolds like that but the moment you’re beyond the complete junk gear, you’re equipped well enough to now die right after you descend to another level.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/15</link>
+        <pubDate>Thu, 07 Nov 2019 19:00:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3890-15</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890.rss">TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</source>
+      </item>
+      <item>
+        <title>TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</title>
+        <dc:creator><![CDATA[@DeusExBrockina]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deusexbrockina">@DeusExBrockina</a> wrote:</p>
+          <blockquote>
+              <p>As everyone has pointed out, there are a number of technical limitations that really hamper somebody’s ability to do these things by hand. My first pass imagined the DM spending a bunch of time between sessions rolling loot on the tables because eh, isn’t it the DM’s job to do tedious prep work for the sake of their players? =P</p>
+<p>But of course that’s no good and quite disrespectful of the theoretical DM’s time. But I do think some level of abstraction could get at something like a similar experience, and I think that’s also kind of my answer as to <em>why!</em></p>
+<p>As <a class="mention" href="/u/radmad">@Radmad</a> is getting at, I think TTRPG’s can be designed to simulate or represent something that <em>feels like</em> an experience without literally replicating it. In this case, that almost definitely means a much simpler set of rules than a computer game is running with, but that doesn’t preclude you from creating a system that’s sort of vaguely giving the experience of “our power curve and reward loop are highly dependent on obtaining randomized loot.”</p>
+<p>What you get in the end is probably in some ways intentionally similar to, and in other ways different from, your original inspiration. So while there is indeed a sort of mindlessness to these games, that’s something you’d probably choose to leave out of your tabletop implementation. On the flip-side, while Diablo has very little story or characterization, adding in some RP elements in a tabletop version seems like an obvious option. I think it ultimately comes down to which “symbols” or experiences from your original inspiration you want to hit on, which you let go from your design, and which new things you want to bring in.</p>
+<p>I think another place tabletop games can shine where computer games don’t is that there are comparatively infinite directions for your story (as much as it exists) to go, limited mainly by the imagination of the players. In a computer game, you’re stuck along the paths that the developers code in, by necessity. For me at least, the sense of personal “immersion” in a tabletop game is usually the reason for pretty much any “What if we take X thing we like and turn it into a TTRPG.” I can imagine wanting to hit on one’s nostalgia and fondness for a certain brand of game while also enjoying the unique benefits that tabletop games provide. I guess put another way, I’m fond of ARPG’s + I’m fond of TTRPG’s = I wanna play a TTARPG!</p>
+<p>Heck, maybe you could go meta with your game and make it a game literally <em>about</em> playing ARPG’s.<br>
+Maybe the players play people playing a game like Diablo online together. You’d have an “in-game” layer where you represent the joys of computer game dungeon crawling and loot grinding, and “out-of-game” layer where you RP your player character… character… as it were… and deal with the highs and lows of maintaining friendships through online gaming! I’ve seen a number of people over the years say they’re designing some sort of MMO or videogame TTRPG, and I think there’s something to be said for how important those things are in many people’s lives, and that people want to represent and experience those things through a tabletop game.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/14</link>
+        <pubDate>Thu, 07 Nov 2019 17:30:09 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3890-14</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890.rss">TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</source>
+      </item>
+      <item>
+        <title>TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</title>
+        <dc:creator><![CDATA[@Michael]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/michael">@Michael</a> wrote:</p>
+          <blockquote>
+              <p>Also, I haven’t played Diablo, but I’ve played Destiny II and Torchlight II.  Part of the allure of these games (I think) is that once you’re pretty accustomed to the systems, you can kind of play on auto-pilot.  Maybe you chat with your friends something unrelated, maybe you just chill out and play on your own for a while.  Perhaps part of the draw is that they don’t take the same level of engagement and mental bandwitdh expected from a tabletop rpg.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/13</link>
+        <pubDate>Thu, 07 Nov 2019 16:31:09 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3890-13</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890.rss">TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</source>
+      </item>
+      <item>
+        <title>TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</title>
+        <dc:creator><![CDATA[@Michael]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/michael">@Michael</a> wrote:</p>
+          <blockquote>
+              <p>Torchbearer is a great game for:</p>
+<ul>
+<li>Random loot rolls</li>
+<li>Meaningful and consistently relevant encumbrance rules</li>
+<li>Stragtegically timed returns to town</li>
+</ul>
+<p>That said, it works nothing like the loot grind you mentioned.  I find it really hard to imagine an rpg where the random generation of huge loot stacks (with only a few worthwhile pieces) would justify the handling time.  I think the kind of granularity that makes thousands of potential loot outcomes significant to play would not be fun for a GM to manage.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/12</link>
+        <pubDate>Thu, 07 Nov 2019 16:28:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3890-12</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890.rss">TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</source>
+      </item>
+      <item>
+        <title>TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</title>
+        <dc:creator><![CDATA[@Radmad]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/radmad">@Radmad</a> wrote:</p>
+          <blockquote>
+              <p>I’d say we can flex the mechanical design of a hack’n’slash and use things ttrpgs do well in place of things videogames do well. Minor variations in stats are weak in ttrpgs, but both types of game use random tables well! Instead of creating a sliding scale of numbers, why not create a variable of play? Have random modifiers that envelop your weapon in flames, but causes everything (<em>everything</em>) flammable near your to catch on fire. Maybe a helmet increase your sight range but limits peripheral vision. Maybe load this like a PbtA tag system and ensure that monsters have lots of interactable aspects/vulnerabilities.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/11</link>
+        <pubDate>Thu, 07 Nov 2019 15:31:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3890-11</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890.rss">TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</source>
+      </item>
+      <item>
+        <title>TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</title>
+        <dc:creator><![CDATA[@Gus.L]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gus.l">@Gus.L</a> wrote:</p>
+          <blockquote>
+              <p>The question I’d have to ask, is why?  Not in a critical way exactly, but it strikes me that (despite some interesting ideas here in this thread) Computer Action RPGs play to the strengths of the CRPG - strengths that TTRPGs almost entirely lack.  They support a playstyle of constant combat based on character builds and player reflexes with very little RP, exploration or puzzle solving. They depend on both the fast processing power of the computer to generate procedural content and graphical and sound cues to reamain interesting. This all strikes me as extremely hard to implement in a TTRPG.</p>
+<p>Even procedural loot (specifically equipment) generation with a lot of variety is linked to other subsystems that are difficult or undesirably time consuming in a TTRPG:  piece-mail armor, statistical multiplicity that plays directly into combat, large numbers of player abilities/feats. To make the whole massive pile of loot remotely meaningful one has to have loot with minor variations that effect game play meaningfully but minimally - a .5% bonus to damage from this and a 5% immunity to certain kinds of damage from that.  Otherwise what’s the difference between a “sturdy light helm of the bear” and a “plated skullcap of the bull”? This all implies a level of granularity in combat mechanics (the only mechanics in such a system I suspect) that means it’s operating with D100’s at the least.   It’s stuff computers do really well, they can put 40 difference modifiers and several calculations/rolls into every attack - but as a TTRPG player or GM even if I can engage in that sort of process I’m not going to want to for very long.</p>
+<p>I think this might be interesting to think about, because the limitations and differences of TTRPG play are interesting but the tedium of implementing it isn’t something I can ever see enjoying.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/10</link>
+        <pubDate>Thu, 07 Nov 2019 15:23:09 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3890-10</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890.rss">TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</source>
+      </item>
+      <item>
+        <title>TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</title>
+        <dc:creator><![CDATA[@dominik]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dominik">@dominik</a> wrote:</p>
+          <blockquote>
+              <p>This hack definitely gives me nice feelings of panic in the unknown and a sense of discovery which are part of an early core gameplay loop in Diablo. But “everything is new and scary” disappears 2-3h into the game and is replaced with “ooooh! shiny!” which Dead Weight, I feel, is not designed to produce. If anything, ignoring tribe mechanics, it feels closer to Demon’s Souls and friends where every encounter is deadly, weird and any piece of loot is life saving.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/9</link>
+        <pubDate>Thu, 07 Nov 2019 15:17:41 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3890-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890.rss">TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</source>
+      </item>
+      <item>
+        <title>TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="4" data-topic="3890">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/dominik/40/2733_2.png" class="avatar"> dominik:</div>
+<blockquote>
+<p>Loot meter is a good idea but ignores inventory space which, I think, is crucial part of Diablo grind. It also simplifies standard/magical split of the gear. But this meter could very well be expanded by simply tracking them separately and gradually adding weight that forces party to go back to town.</p>
+</blockquote>
+</aside>
+<p>This is making me think of Daniel Solis &amp; John Harper’s aborted PbtA game, <em>Dead Weight</em>, and how it used coins of different sizes to reflect the knapsack problem of picking up loot.</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <a href="http://story-games.com/forums/discussion/comment/272392/#Comment_272392" target="_blank" rel="nofollow noopener">Story Games</a>
+  </header>
+  <article class="onebox-body">
+    <img src="/uploads/default/original/2X/c/c8077e805db7bf03f72723da426a00177d66a11d.jpeg" class="thumbnail" width="" height="">
+
+<h3><a href="http://story-games.com/forums/discussion/comment/272392/#Comment_272392" target="_blank" rel="nofollow noopener">[Dead Weight] Survival. Horror. Parkour.</a></h3>
+
+<p>Well heck, when I tossed Dead Weight out to the public, I didn't think the John Harper would take such a keen interest. Then he tweets this on me: Crazy.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://ssl.gstatic.com/docs/documents/images/kix-favicon7.ico" class="site-icon" width="64" height="64">
+      <a href="https://docs.google.com/document/preview?id=1IsjBSLHU871MsXncEVV0jCqR4rcKEZSPGmefT4f1gGo" target="_blank" rel="nofollow noopener">Google Docs</a>
+  </header>
+  <article class="onebox-body">
+    <img src="/uploads/default/original/2X/b/b578926b1061173a97f9b9c6f01a37b1623cbb61.png" class="thumbnail" width="" height="">
+
+<h3><a href="https://docs.google.com/document/preview?id=1IsjBSLHU871MsXncEVV0jCqR4rcKEZSPGmefT4f1gGo" target="_blank" rel="nofollow noopener">[RPG Dead Weight]</a></h3>
+
+<p>DEAD WEIGHT An Apocalypse World Hack  John Harper Daniel Solis thank you Vincent  Setting Up You don't have to explain everything at once. Tell them this:   There was an apocalypse. Everyone is dead, except for you and the other survivors in The...</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/8</link>
+        <pubDate>Thu, 07 Nov 2019 14:21:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3890-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890.rss">TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</source>
+      </item>
+      <item>
+        <title>TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</title>
+        <dc:creator><![CDATA[@dominik]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dominik">@dominik</a> wrote:</p>
+          <blockquote>
+              <p>But would that be Diablo-like looter then? There’s no moral complexity to Diablo, in fact there’s no morality/sanity mechanic in the core gameplay loop or anywhere else[1]. There’s obviously space for a dungeon crawler in which the more wealth you accumulate, the more you’re consumed by darkness - I’d play that (on a surface level at least this reminds me of humanity in CP2020). But I don’t see how ttrpg which core gameplay loop isn’t about grinding would emulate hack &amp; slash looter videogame.</p>
+<p>[1] ok, King Leoric has gone crazy when his son got kidnapped</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/7</link>
+        <pubDate>Thu, 07 Nov 2019 11:42:26 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3890-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890.rss">TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</source>
+      </item>
+      <item>
+        <title>TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</title>
+        <dc:creator><![CDATA[@Radmad]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/radmad">@Radmad</a> wrote:</p>
+          <blockquote>
+              <p>Mechanically, I don’t think we’re treading on particularly new ground, but there still some good narrative structure we could merge with this playstyle. We could make some a la <strong>Trophy</strong> where characters are slowly consumed by the darkness they delve and turn on each other out of greed. We could do something akin to Darkest Dungeon where each player is a “manager” for explorers and while they control a single explorer during dungeon runs, the meta context is them viewing that character as an asset to extract wealth out of and discard when it becomes obsolete.</p>
+<p>Trying not to be exclusively grimdark! Could have something close to the narrative of Diablo, where the longer heroes spend in the dungeon/the more monsters they slay the more evil that assaults their soul. Players would have to balance their physical wellbeing with their moral wellbeing to keep from being possessed by demonic evil and becoming another denizen of the dungeon.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/6</link>
+        <pubDate>Thu, 07 Nov 2019 11:29:38 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3890-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890.rss">TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</source>
+      </item>
+      <item>
+        <title>TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</title>
+        <dc:creator><![CDATA[@Rickard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rickard">@Rickard</a> wrote:</p>
+          <blockquote>
+              <p>I just wonder why you need tabletop roleplaying game for this, when there are excellent boardgames like <a href="https://boardgamegeek.com/boardgame/104162/descent-journeys-dark-second-edition" data-bbcode="true" rel="nofollow noopener">Descent 2</a>, <a href="https://boardgamegeek.com/boardgame/59946/dungeons-dragons-castle-ravenloft-board-game" data-bbcode="true" rel="nofollow noopener">Castle Ravenloft</a> and even <a href="https://boardgamegeek.com/boardgame/124708/mice-and-mystics" data-bbcode="true" rel="nofollow noopener">Mice and Mystics</a> for this experience. You can add any kind of atmosphere to it, on top of the mechanics, and two of these have game master, even though Descent 2 also features an “AI” app.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/5</link>
+        <pubDate>Thu, 07 Nov 2019 10:55:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3890-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890.rss">TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</source>
+      </item>
+      <item>
+        <title>TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</title>
+        <dc:creator><![CDATA[@dominik]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dominik">@dominik</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="2" data-topic="3890">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/radmad/40/2161_2.png" class="avatar"> Radmad:</div>
+<blockquote>
+<p>-randomly generating large quantities of loot by hand is a pain, and largely a waste when you’re going to be creating 95% junk players will offload, so I would abstract out collected valuables to some kind of “loot” meter which you don’t resolve until players make it back to town</p>
+</blockquote>
+</aside>
+<p>Loot meter is a good idea but ignores inventory space which, I think, is crucial part of Diablo grind. It also simplifies standard/magical split of the gear. But this meter could very well be expanded by simply tracking them separately and gradually adding weight that forces party to go back to town. On the other hand this assumes that returning is easy, just use town portal and you’re done.</p>
+<p>But above all else everything has to match looting mechanics. Highly lethal system probably won’t work. System without inventory limitations and bonuses to weapons won’t work either.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890/4</link>
+        <pubDate>Thu, 07 Nov 2019 07:16:14 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3890-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/ttrpgs-like-loot-grind-videogames/3890.rss">TTRPG&#39;s like &quot;Loot Grind&#39; Videogames?</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>How would you implement this in a character keeper?</title>
+    <link>https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461</link>
+    <description>[Homebrew World](https://spoutinglore.blogspot.com/2018/07/homebrew-world.html) is my drift of *Dungeon World*, optimized for one-shot or short-run play, and incorporating a whole bevvy of little (and sometimes not-so-little) changes.  I&#39;d love to start offering some sessions of it on the Gauntlet, but I&#39;m hitting a snag.
+
+Homebrew World gives each playbook a customized **Gear** section, which includes a suite of likely items for that class and some blank slots to fill in with loot or mundane items. You get X &quot;diamonds&quot; worth of gear when you start, and can assign them to specific items on the your list *or* leave them in Undefined until you Have What You Need in play. 
+
+For example, here&#39;s the Gear box for the Thief playbook:
+![image|624x500](upload://mbuJA73m8zKNHdDMarA3OUlFC67.png) 
+
+And here&#39;s the Gear box for the Cleric:
+![image|626x500](upload://8JY6Sb1Lls6YcGMgh8M3KaTciaR.png) 
+
+In face-to-face play with printed playbooks, I&#39;ve found that these gear boxes work really, really well. People grok how it works almost instantly, and the class-specific items seem to inspire folks a lot.  
+
+But... I&#39;m wondering how to get a similar effect in Character Keeper.  Just copy/pasting into slots won&#39;t get that correct feel of &quot;these are all the things you *could* have.  I&#39;d rather that players not have to jump back and forth between paper/PDF playbooks and their character keepers for gear.  Drop-down lists might do it, but I can&#39;t figure out how to change the drop-down list based on your class.  
+
+Additionally, you&#39;ve got some items with &quot;uses&quot; or other tick-off-able items, and some without.  
+
+Anyone have any brilliant ideas on how to pull this off in a Gauntlet-style character keeper?</description>
+    
+    <lastBuildDate>Fri, 05 Jul 2019 15:15:13 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>How would you implement this in a character keeper?</title>
+        <dc:creator><![CDATA[@Alun_R]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alun_r">@Alun_R</a> wrote:</p>
+          <blockquote>
+              <p>This is the approach I’ve taken with Eotenweard - I found it much simpler.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461/15</link>
+        <pubDate>Fri, 05 Jul 2019 15:15:13 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2461-15</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461.rss">How would you implement this in a character keeper?</source>
+      </item>
+      <item>
+        <title>How would you implement this in a character keeper?</title>
+        <dc:creator><![CDATA[@Michael_G_Barford]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/michael_g_barford">@Michael_G_Barford</a> wrote:</p>
+          <blockquote>
+              <p>Yes! This is <em>great!</em> Thank you for teaching me about column groups, those are super handy. If I had to take a guess on the issue with the fighter’s column, it may be due to their data tab being “protected”. Once you’re happy with how they look I usually just “hide” the data tabs to keep them out of the way. But I really love the functionality here.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461/14</link>
+        <pubDate>Fri, 05 Jul 2019 12:56:23 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2461-14</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461.rss">How would you implement this in a character keeper?</source>
+      </item>
+      <item>
+        <title>How would you implement this in a character keeper?</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <p>Okay, check it out!</p>
+<aside class="onebox googledocs">
+  <header class="source">
+      <a href="https://docs.google.com/spreadsheets/d/1ORZU3HN0CNTAoJ_Futju4etV7Pp_cIfyOHhY8MdR-Fk/edit?usp=sharing" target="_blank" rel="nofollow noopener">docs.google.com</a>
+  </header>
+  <article class="onebox-body">
+    <a href="https://docs.google.com/spreadsheets/d/1ORZU3HN0CNTAoJ_Futju4etV7Pp_cIfyOHhY8MdR-Fk/edit?usp=sharing" target="_blank" rel="nofollow noopener"><span class="googledocs-onebox-logo g-sheets-logo"></span></a>
+
+<h3><a href="https://docs.google.com/spreadsheets/d/1ORZU3HN0CNTAoJ_Futju4etV7Pp_cIfyOHhY8MdR-Fk/edit?usp=sharing" target="_blank" rel="nofollow noopener">Homebrew World Keeper</a></h3>
+
+<p>PCs
+
+If unused, click the [-] icon above the column headers to collapse.
+The Fighter,By:,&lt;type player name&gt;
+Character Name,&lt;pick or type&gt;,&lt;pick or type&gt;
+Look,&lt;pick or type&gt;
+&lt;pick or type&gt;
+&lt;pick or type&gt;
+&lt;pick or type&gt;
+&lt;pick or type&gt;
+To insert image:...</p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>You’ll have to Save a Copy to try it out, but I’m pretty happy with this.  Only real grip right now is that the collapsing <em>sometimes</em> triggers the “You shouldn’t change this” warning and sometimes doesn’t, and I can’t figure out why (I’d rather that collapsing never throw that warning).</p>
+<p>A lot of work to get the initial one set up, but hopefully subsequent playbooks will be easier.</p>
+<p>A couple things I’m particularly proud of:</p>
+<ul>
+<li>Marking a debility color-flags the affected stats.</li>
+<li>Choosing the “Cross &amp; bolts” or “Supplies” options reveals a drop-down for uses.</li>
+<li>Choosing the “Veteran of the Wars” background changes the Max Load, number of starting gear options, and available uses for Supplies/More Supplies</li>
+<li>It counts check boxes in the Gear section and gives a current load, and highlights cells in red if encumbered.</li>
+</ul>
+<p>Feedback welcome and appreciated!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461/13</link>
+        <pubDate>Thu, 04 Jul 2019 04:35:04 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2461-13</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461.rss">How would you implement this in a character keeper?</source>
+      </item>
+      <item>
+        <title>How would you implement this in a character keeper?</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <p>Yes. YES.  That’s great.  Much less fiddly than what I was leaning towards.</p>
+<p>There will still likely be fiddliness, but this gives me a great starting point.  Thanks, Michael!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461/12</link>
+        <pubDate>Tue, 02 Jul 2019 03:32:26 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2461-12</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461.rss">How would you implement this in a character keeper?</source>
+      </item>
+      <item>
+        <title>How would you implement this in a character keeper?</title>
+        <dc:creator><![CDATA[@Michael_G_Barford]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/michael_g_barford">@Michael_G_Barford</a> wrote:</p>
+          <blockquote>
+              <p>Here’s a quick mock-up of one way you could do this: <a href="https://docs.google.com/spreadsheets/d/1vCmRHzVBQIt3AbnPixB-vYUR_eDPwiVqn4zhU4dCrTA/edit?usp=sharing" rel="nofollow noopener">https://docs.google.com/spreadsheets/d/1vCmRHzVBQIt3AbnPixB-vYUR_eDPwiVqn4zhU4dCrTA/edit?usp=sharing</a></p>
+<p>Make a copy if you’d like to fiddle with it and see how it could work for you.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461/11</link>
+        <pubDate>Tue, 02 Jul 2019 01:59:41 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2461-11</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461.rss">How would you implement this in a character keeper?</source>
+      </item>
+      <item>
+        <title>How would you implement this in a character keeper?</title>
+        <dc:creator><![CDATA[@Michael_G_Barford]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/michael_g_barford">@Michael_G_Barford</a> wrote:</p>
+          <blockquote>
+              <p>I would recommend making custom Gear section columns for each <em>playbook</em> instead of each character (so, the top row would say “Thief” instead of “Player Name”). That’s a lot simpler than trying to auto-populate the Gear section based on chosen class. I would break each row down into multiple columns, and mostly merge them. Then if you need extra space for more diamonds or uses, you can divide those spaces evenly.</p>
+<p>Furthermore, if you want this to look cleaner afterwards, you may consider making one “Character Creation” tab and one “Character Keeper” tab, that draws from the choices in the CC tab and presents them neatly in the CK tab, perhaps with additional room for adding more items, etc. Personally, I would skip this step as I find too many tabs to be confusing and overwhelming, but extra gear descriptions could be equally distracting.</p>
+<p>Let me know if this is still troubling you and I’ll see if I can offer any more help <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461/10</link>
+        <pubDate>Mon, 01 Jul 2019 21:11:58 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2461-10</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461.rss">How would you implement this in a character keeper?</source>
+      </item>
+      <item>
+        <title>How would you implement this in a character keeper?</title>
+        <dc:creator><![CDATA[@shane]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/shane">@shane</a> wrote:</p>
+          <blockquote>
+              <p>Why not just have one column always be a bunch of check boxes and fill in the things next to them using the conditional?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461/9</link>
+        <pubDate>Sun, 30 Jun 2019 01:46:18 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2461-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461.rss">How would you implement this in a character keeper?</source>
+      </item>
+      <item>
+        <title>How would you implement this in a character keeper?</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <p>Yeah, totally.  It’s just don’t think it’s possible to do that with a drop-down list that’s populated by a conditional set of cells.</p>
+<p>Like, ideally, you’d be able to pick “Supplies (uses [][][])” from the drop-down list and the [] would be checkable boxes. As it is, I’ll probably have to use an extra column for tracking uses, etc. (that doesn’t get used in all rows).</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461/8</link>
+        <pubDate>Sat, 29 Jun 2019 23:16:34 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2461-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461.rss">How would you implement this in a character keeper?</source>
+      </item>
+      <item>
+        <title>How would you implement this in a character keeper?</title>
+        <dc:creator><![CDATA[@JimLikesGames]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jimlikesgames">@JimLikesGames</a> wrote:</p>
+          <blockquote>
+              <p>I do a lot of split-cells that use it.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461/7</link>
+        <pubDate>Sat, 29 Jun 2019 22:39:03 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2461-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461.rss">How would you implement this in a character keeper?</source>
+      </item>
+      <item>
+        <title>How would you implement this in a character keeper?</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <p>I was soooper excited until I realized the checkbox has to be the entire content of the cell.</p>
+<p>Don’t get me wrong, this is still useful. But not <em>quite</em> as useful as embedded check boxes would be.</p>
+<p>Thanks, Jim!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461/6</link>
+        <pubDate>Sat, 29 Jun 2019 05:40:56 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2461-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461.rss">How would you implement this in a character keeper?</source>
+      </item>
+      <item>
+        <title>How would you implement this in a character keeper?</title>
+        <dc:creator><![CDATA[@JimLikesGames]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jimlikesgames">@JimLikesGames</a> wrote:</p>
+          <blockquote>
+              <p>Also, a minor thing, but in case you’re not hip to it, INSERT&gt;&gt;&gt;CHECKBOX is your very good friend here.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461/5</link>
+        <pubDate>Thu, 27 Jun 2019 18:12:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2461-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461.rss">How would you implement this in a character keeper?</source>
+      </item>
+      <item>
+        <title>How would you implement this in a character keeper?</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <p>Awesome! This might be a colossal pita, but that gives a nudge in the right direction. Thanks, Shane!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461/4</link>
+        <pubDate>Thu, 27 Jun 2019 13:55:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2461-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461.rss">How would you implement this in a character keeper?</source>
+      </item>
+      <item>
+        <title>How would you implement this in a character keeper?</title>
+        <dc:creator><![CDATA[@shane]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/shane">@shane</a> wrote:</p>
+          <blockquote>
+              <p>Here’s a post about autopopulating content based on a dropdown choice. You could just auto populate a dropdown list based on a dropdown list:</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/d/d69488e305ab35ef2a5af3b03e1a29a303ff9370.png" class="site-icon" width="125" height="125">
+      <a href="https://infoinspired.com/google-docs/spreadsheet/auto-populate-information-based-on-drop-down-selection/" target="_blank" title="07:10AM - 17 August 2017">InfoInspired – 17 Aug 17</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/460;"><img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/1/1e3cc66a7927930c236523b479eefe91c3b83d01.jpeg" class="thumbnail"></div>
+
+<h3><a href="https://infoinspired.com/google-docs/spreadsheet/auto-populate-information-based-on-drop-down-selection/" target="_blank">Auto Populate Information Based on Drop down Selection</a></h3>
+
+<p>Spreadsheet applications are always enticing me. This time we can learn how to auto populate information based on drop down selection in Google Sheets</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>I would also recommend the Blog posts <a class="mention" href="/u/michael_g_barford">@Michael_G_Barford</a> did which you can find here: <a href="https://www.gauntlet-rpg.com/apps/search?q=Character+Keepers">https://www.gauntlet-rpg.com/apps/search?q=Character+Keepers</a></p>
+<p>I’ll also note: there are checkboxes available in Google Sheets so you coukd just mimic your current physical sheets too (likely just autopopulating based on the character class dropdown):</p>
+<p><a href="https://support.google.com/docs/answer/7684717" class="onebox" target="_blank">https://support.google.com/docs/answer/7684717</a></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461/3</link>
+        <pubDate>Thu, 27 Jun 2019 13:03:52 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2461-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461.rss">How would you implement this in a character keeper?</source>
+      </item>
+      <item>
+        <title>How would you implement this in a character keeper?</title>
+        <dc:creator><![CDATA[@Curufea]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/curufea">@Curufea</a> wrote:</p>
+          <blockquote>
+              <p>There are markdown commands on Roll20 to add additional fields to a character sheet, and you can include icons that will help the player realise where they need to click to put in additional entries.  I was fiddling with this in a Blades in the Dark hack I was doing of Cyberpunk2020 the other month.</p>
+<p>I’m unfamiliar with “Character Keeper” but if uses forms of javascript or HTML it may be possible to translate over.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461/2</link>
+        <pubDate>Thu, 27 Jun 2019 01:35:35 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2461-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461.rss">How would you implement this in a character keeper?</source>
+      </item>
+      <item>
+        <title>How would you implement this in a character keeper?</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <p><a href="https://spoutinglore.blogspot.com/2018/07/homebrew-world.html" rel="nofollow noopener">Homebrew World</a> is my drift of <em>Dungeon World</em>, optimized for one-shot or short-run play, and incorporating a whole bevvy of little (and sometimes not-so-little) changes.  I’d love to start offering some sessions of it on the Gauntlet, but I’m hitting a snag.</p>
+<p>Homebrew World gives each playbook a customized <strong>Gear</strong> section, which includes a suite of likely items for that class and some blank slots to fill in with loot or mundane items. You get X “diamonds” worth of gear when you start, and can assign them to specific items on the your list <em>or</em> leave them in Undefined until you Have What You Need in play.</p>
+<p>For example, here’s the Gear box for the Thief playbook:<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/9/9b7c7e7a5b84a06d4782c67afd8f1c4a4796e91b.png" data-download-href="/uploads/short-url/mbuJA73m8zKNHdDMarA3OUlFC67.png?dl=1" title="image" rel="nofollow noopener"><img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/9/9b7c7e7a5b84a06d4782c67afd8f1c4a4796e91b_2_624x500.png" alt="image" data-base62-sha1="mbuJA73m8zKNHdDMarA3OUlFC67" width="624" height="500" srcset="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/9/9b7c7e7a5b84a06d4782c67afd8f1c4a4796e91b_2_624x500.png, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/9/9b7c7e7a5b84a06d4782c67afd8f1c4a4796e91b_2_936x750.png 1.5x, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/9/9b7c7e7a5b84a06d4782c67afd8f1c4a4796e91b.png 2x" data-small-upload="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/9/9b7c7e7a5b84a06d4782c67afd8f1c4a4796e91b_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1037×830 90.8 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>And here’s the Gear box for the Cleric:<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/3/3d43abdcbe8494a1188348e40a75390387eaa4b9.png" data-download-href="/uploads/short-url/8JY6Sb1Lls6YcGMgh8M3KaTciaR.png?dl=1" title="image" rel="nofollow noopener"><img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/3/3d43abdcbe8494a1188348e40a75390387eaa4b9.png" alt="image" data-base62-sha1="8JY6Sb1Lls6YcGMgh8M3KaTciaR" width="626" height="500" data-small-upload="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/3/3d43abdcbe8494a1188348e40a75390387eaa4b9_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">904×722 37.3 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>In face-to-face play with printed playbooks, I’ve found that these gear boxes work really, really well. People grok how it works almost instantly, and the class-specific items seem to inspire folks a lot.</p>
+<p>But… I’m wondering how to get a similar effect in Character Keeper.  Just copy/pasting into slots won’t get that correct feel of "these are all the things you <em>could</em> have.  I’d rather that players not have to jump back and forth between paper/PDF playbooks and their character keepers for gear.  Drop-down lists might do it, but I can’t figure out how to change the drop-down list based on your class.</p>
+<p>Additionally, you’ve got some items with “uses” or other tick-off-able items, and some without.</p>
+<p>Anyone have any brilliant ideas on how to pull this off in a Gauntlet-style character keeper?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461/1</link>
+        <pubDate>Wed, 26 Jun 2019 23:13:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2461-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-would-you-implement-this-in-a-character-keeper/2461.rss">How would you implement this in a character keeper?</source>
+      </item>
+  </channel>
+</rss>

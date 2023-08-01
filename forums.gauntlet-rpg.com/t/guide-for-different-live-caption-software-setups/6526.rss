@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Guide for Different Live caption software setups</title>
+    <link>https://forums.gauntlet-rpg.com/t/guide-for-different-live-caption-software-setups/6526</link>
+    <description>Hi all. 
+
+I&#39;ve been working on this guide for using different softwares and setups for live captions. Please check it out and give me feedback! Feel free to share wherever you want. I have attached the google drive link here: [Tips for Accessibility for HoH_Deaf Individuals regarding TTRPGS](https://drive.google.com/file/d/1mbqiFozBzp5SZBCbBHRt3qb6Xv4nJ8XU/view?usp=sharing)
+
+Thanks,
+KW</description>
+    
+    <lastBuildDate>Mon, 15 Feb 2021 00:18:19 +0000</lastBuildDate>
+    <category>RPG Chat</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/guide-for-different-live-caption-software-setups/6526.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Guide for Different Live caption software setups</title>
+        <dc:creator><![CDATA[@squaredroots]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/squaredroots">@squaredroots</a> wrote:</p>
+          <blockquote>
+              <p>Oh, I misunderstood you, my bad. You can use the guide for all of those. The guide specifically is just a list of what is available. Like Live Caption works only specific Android Phones (but personally I love it for watching YT or Twitch videos on my phone when I don’t have a computer available).</p>
+<p>I know for streaming many people use webcaptioner or google meet and have it set in the overlay. You can also use webcaptioner for no audience. The only real differences is how exactly you setup the software, which will differ per use. You could also use it to transcript your podcasts. The software don’t care what purpose you use them for, they just translate whatever sound is coming into the “microphone input.”</p>
+<p>For example if you are streaming, you could set it up so that you are using web-captioner and put it on your overlay. You could also do that with the Google meet captions. If you have a windows computer and an android phone with the Your Phone app, you could use the Live Transcribe app on your twitch stream by sharing that in your overlay. All of those  will work in private games as well.</p>
+<p>I will likely make a followup guide that will go into details in specific setups. Currently I’m unsure on what to focus on in that aspect so if you have anything you would want details on, let me know. If you want help with your own setup DM me! I will do what I can.</p>
+<p>For streaming live, my recommendation is to use zoom for the videos, and google meet for the captions. Webcaptioner doesn’t punctuate effectively, so it makes it difficult to follow along sometimes. But some captions are better than no captions! So if Webcaptioner is the best option for your group, then use that.</p>
+<p>For private games, I also use Google meet if people agree to use it, otherwise I use Live Transcribe if I’m the only one who needs the captions since I can just pop it up on my phone or tablet.</p>
+<p>Also, if you do alot of videoconferencing for work or other purposes, live captions are great for generating meeting notes for later.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/guide-for-different-live-caption-software-setups/6526/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/guide-for-different-live-caption-software-setups/6526/5</link>
+        <pubDate>Mon, 15 Feb 2021 00:18:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6526-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/guide-for-different-live-caption-software-setups/6526.rss">Guide for Different Live caption software setups</source>
+      </item>
+      <item>
+        <title>Guide for Different Live caption software setups</title>
+        <dc:creator><![CDATA[@Jesseabe]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jesseabe">@Jesseabe</a> wrote:</p>
+          <blockquote>
+              <p>Thanks, that’s helpful!</p>
+<p>I meant more specifically, is this for streamed/games with an audience, for online games with video but no audience outside of the players, or other contexts?  Thanks!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/guide-for-different-live-caption-software-setups/6526/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/guide-for-different-live-caption-software-setups/6526/4</link>
+        <pubDate>Sun, 14 Feb 2021 23:56:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6526-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/guide-for-different-live-caption-software-setups/6526.rss">Guide for Different Live caption software setups</source>
+      </item>
+      <item>
+        <title>Guide for Different Live caption software setups</title>
+        <dc:creator><![CDATA[@squaredroots]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/squaredroots">@squaredroots</a> wrote:</p>
+          <blockquote>
+              <p>Do you mean why people use them?</p>
+<p>I personally benefit from them because without captions or subtitles, it’s close to impossible for me to capture everything that’s being said. Especially in Tabletops where people can be speaking over each other or have different mic sound settings, my mileage will vary on whether or not I can understand what’s going on at the table. Without captions, I usually have to ask people to repeat themselves many times in a game. Even in situations where the videos have high production quality and everyone is mic’ed (like Dimension 20 or CritRole), I really do need captions. There have been plenty of times where I walk away from a game or just don’t watch a YT video or live stream with no captions.</p>
+<p>My hearing loss is such that I have a lot of difficulty with anyone below a certain pitch (usually males, sub 2k hz). Some people have hearing losses entirely in the spectrum where human voices fall.</p>
+<p>Playing ttrpgs, I can function fine without captions, but it takes a little extra work on my part to keep up. Some games I’ll avoid entirely if I know the speakers are out of my hearing range. Games or streams with live captions releases some of that burden.</p>
+<p>I hope that was helpful. Please let me know if you have more questions!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/guide-for-different-live-caption-software-setups/6526/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/guide-for-different-live-caption-software-setups/6526/3</link>
+        <pubDate>Sun, 14 Feb 2021 23:43:32 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6526-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/guide-for-different-live-caption-software-setups/6526.rss">Guide for Different Live caption software setups</source>
+      </item>
+      <item>
+        <title>Guide for Different Live caption software setups</title>
+        <dc:creator><![CDATA[@Jesseabe]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jesseabe">@Jesseabe</a> wrote:</p>
+          <blockquote>
+              <p>Hey KW,<br>
+Welcome to the Forums!  Do you mind explaining why Live Caption Software settings would be helpful in playing tabletop RPGs or LARPs?  Thanks!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/guide-for-different-live-caption-software-setups/6526/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/guide-for-different-live-caption-software-setups/6526/2</link>
+        <pubDate>Sun, 14 Feb 2021 23:06:37 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6526-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/guide-for-different-live-caption-software-setups/6526.rss">Guide for Different Live caption software setups</source>
+      </item>
+      <item>
+        <title>Guide for Different Live caption software setups</title>
+        <dc:creator><![CDATA[@squaredroots]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/squaredroots">@squaredroots</a> wrote:</p>
+          <blockquote>
+              <p>Hi all.</p>
+<p>I’ve been working on this guide for using different softwares and setups for live captions. Please check it out and give me feedback! Feel free to share wherever you want. I have attached the google drive link here: <a href="https://drive.google.com/file/d/1mbqiFozBzp5SZBCbBHRt3qb6Xv4nJ8XU/view?usp=sharing" rel="nofollow noopener">Tips for Accessibility for HoH_Deaf Individuals regarding TTRPGS</a></p>
+<p>Thanks,<br>
+KW</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/guide-for-different-live-caption-software-setups/6526/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/guide-for-different-live-caption-software-setups/6526/1</link>
+        <pubDate>Sun, 14 Feb 2021 23:02:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6526-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/guide-for-different-live-caption-software-setups/6526.rss">Guide for Different Live caption software setups</source>
+      </item>
+  </channel>
+</rss>

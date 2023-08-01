@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>RPG Layout Design - Format for Digital Content</title>
+    <link>https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025</link>
+    <description>
+
+My question for designers who make games primarily (or solely) for digital consumption: When thinking about layout, do you support players being able to print your material if they want to or not?
+
+In my mind, not being constrained by printable formats opens the door for layouts that are more appropriate for desktop aspect ratios, which is obviously a positive but if you do this then it&#39;s much more difficult for people to play your game physically.
+
+Of course, landscape letter size is a decent viewing experience on desktop, but laying out a game in 16 x 9 or other weird aspects is enticing for me as a design nerd. 
+
+I have no idea what percentage people would expect their games to be played in physical vs digital these days, if anybodies got numbers on that question i&#39;d also love to hear it. A certain number of people playing in person also have the option to use screen devices rather than printing stuff out..
+
+Curious of any perspective on this, either from designers or players who have an opinion on it.</description>
+    
+    <lastBuildDate>Thu, 16 May 2019 20:17:47 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>RPG Layout Design - Format for Digital Content</title>
+        <dc:creator><![CDATA[@wordman]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/wordman">@wordman</a> wrote:</p>
+          <blockquote>
+              <p>How do single-column 6x9 layouts seem to you? As mentioned above, they seem like a good compromise to the things you mentioned. On my ipad or laptop, I can put them in two-page view, so it is sort of a ‘two-column’ experience, while on my phone or other smaller screens, single-page view works. Not as good as real reflowing, but it does seem to work.</p>
+<p>(I handled the complaints of my US Legal layout by converting part of it to 6x9.)</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025/11</link>
+        <pubDate>Thu, 16 May 2019 20:17:47 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2025-11</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025.rss">RPG Layout Design - Format for Digital Content</source>
+      </item>
+      <item>
+        <title>RPG Layout Design - Format for Digital Content</title>
+        <dc:creator><![CDATA[@tina]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/tina">@tina</a> wrote:</p>
+          <blockquote>
+              <p>In my perfect dream world, every (digital) game should come with an epub as well as the obligatory pdf - the reasons have been laid out above by others (accessibility, etc.) But I know that’s a lot of work (I’ve done it myself) and it’s probably not going to happen anytime soon. So for now we’re stuck with pdfs that don’t reflow on smaller screens, like those of smartphones and ereaders.</p>
+<p>So, hear me out: Unlike many people, I find a <strong>two-column pdf layout</strong> the next best solution for me (over full-width lines). My understanding is that short (but not too short) line lengths aid general readability.<br>
+But most importantly I can read the narrower columns on my phone without bouncing and swiping back and forth for every. single. line. They fit on my screen! I only need to scroll up and down! Even my ereader can handle columns reasonably well, jumping from the bottom of one to the top of the next pretty reliably with a tap.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025/10</link>
+        <pubDate>Thu, 16 May 2019 11:31:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2025-10</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025.rss">RPG Layout Design - Format for Digital Content</source>
+      </item>
+      <item>
+        <title>RPG Layout Design - Format for Digital Content</title>
+        <dc:creator><![CDATA[@minx]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/minx">@minx</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="1" data-topic="2025">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/benswinden/40/424_2.png" class="avatar"> benswinden:</div>
+<blockquote>
+<p>Curious of any perspective on this, either from designers or players who have an opinion on it.</p>
+</blockquote>
+</aside>
+<p>Oooooooh, yes, opinions! I have those! XD</p>
+<p>In my Dream Gaming Hobby™, games would come in multiple formats by default:</p>
+<ul>
+<li>An epub file, for easy reading on tablets, phones, eReaders, Text-to-Speech engines, etc.</li>
+<li>Some print-focused digital file, like pdf. There should be some thought put into so that it should print well on as wide a range of formats and printers as possible. Or maybe different files for different print formats, whatever.</li>
+<li>Optionally, some super-pretty full color high-gloss fancy layout thing optimized for screenreading on higher-end tablets or desktops, if you’re into that.</li>
+<li>Actual physical books in whatever format strikes the authors fancy.</li>
+</ul>
+<p>Now, obviously this is somewhat into “I want a pony” territory, but to me the core in this is that different formats do different things well.</p>
+<p>Fancy layout pdfs are pretty and good layout can help communicate information efficiently, but pdfs can be hard or expensive to print, can be a pain accessability wise and even just copy-pasting often sucks. Epubs are generally less pretty, but allow great access, can be read on a wide range of devices, are customizable and even print ok-ish. Print is tactile, pretty and doesn’t need a battery, but isn’t searchable, can’t be used by people with vision problems and shipping physical things comes with its own set of issues.</p>
+<p>So there are all these tradeoffs and more formats means more work, so I get why this is not the norm, I really do. But I still think it could be worthwhile for some designers to investigate the work that happens in other fields regarding multiformat publishing and maybe steal some things for their own work.</p>
+<p>(I know some people write their stuff in LaTeX and/or Markdown and use tools like Pandoc to then generate pdfs and whatnot, so but generating more fancy layouts this way is a very different skillset than using it in Indesign or Scribus.)</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025/9</link>
+        <pubDate>Thu, 16 May 2019 09:55:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2025-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025.rss">RPG Layout Design - Format for Digital Content</source>
+      </item>
+      <item>
+        <title>RPG Layout Design - Format for Digital Content</title>
+        <dc:creator><![CDATA[@wordman]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/wordman">@wordman</a> wrote:</p>
+          <blockquote>
+              <p>Claim was it wasn’t useful on tablets, because it had multiple columns. I dunno. Seems fine on my iPad.</p>
+<p>Really, just supporting ePub would probably be a better move on my part.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025/8</link>
+        <pubDate>Thu, 16 May 2019 00:58:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2025-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025.rss">RPG Layout Design - Format for Digital Content</source>
+      </item>
+      <item>
+        <title>RPG Layout Design - Format for Digital Content</title>
+        <dc:creator><![CDATA[@benswinden]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/benswinden">@benswinden</a> wrote:</p>
+          <blockquote>
+              <p>Complaints about it not being printable?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025/7</link>
+        <pubDate>Wed, 15 May 2019 17:27:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2025-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025.rss">RPG Layout Design - Format for Digital Content</source>
+      </item>
+      <item>
+        <title>RPG Layout Design - Format for Digital Content</title>
+        <dc:creator><![CDATA[@wordman]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/wordman">@wordman</a> wrote:</p>
+          <blockquote>
+              <p>I’ve been messing with layouts on landscape US Legal pages. This type of paper has a ratio right in between to 16:9 and 16:10, so tends to look great when full zoomed on a laptop.</p>
+<p>I have gotten complaints about it, though.</p>
+<p>The document I give my players for my <em>Anima Prime</em> implementation of <em>Exalted</em> is explicitly in 16:10 for laptop use.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025/6</link>
+        <pubDate>Wed, 15 May 2019 17:09:49 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2025-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025.rss">RPG Layout Design - Format for Digital Content</source>
+      </item>
+      <item>
+        <title>RPG Layout Design - Format for Digital Content</title>
+        <dc:creator><![CDATA[@benswinden]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/benswinden">@benswinden</a> wrote:</p>
+          <blockquote>
+              <p>This is off topic, but the way you do it is make the website also the tool you use to play the game. Roll20 is awful so this wouldn’t be a very hard sell. From there the potential is pretty incredible.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025/5</link>
+        <pubDate>Tue, 14 May 2019 18:26:38 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2025-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025.rss">RPG Layout Design - Format for Digital Content</source>
+      </item>
+      <item>
+        <title>RPG Layout Design - Format for Digital Content</title>
+        <dc:creator><![CDATA[@David_Schirduan]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/david_schirduan">@David_Schirduan</a> wrote:</p>
+          <blockquote>
+              <p>it was a typo, haha. Meant to say print vs digital.</p>
+<p>I am also excited!</p>
+<p>The biggest hangup I see is that websites are viewed as temporary things; something you read and then close forever. It will be hard to “sell” a digital book while also making it easy to use and something the players will keep returning to.</p>
+<p>I hope someone pulls it off.</p>
+<p>Until then, I think random generators and tables are the most obvious application for digital tools.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025/4</link>
+        <pubDate>Tue, 14 May 2019 16:59:42 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2025-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025.rss">RPG Layout Design - Format for Digital Content</source>
+      </item>
+      <item>
+        <title>RPG Layout Design - Format for Digital Content</title>
+        <dc:creator><![CDATA[@benswinden]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/benswinden">@benswinden</a> wrote:</p>
+          <blockquote>
+              <p>Cool! Thanks for the input. 6x9 is a cool in between space. Pushing the format to make it a little bit more friendly on screens but still being printable.</p>
+<p>I’m not sure the differentiation you make between “print products” and “physical ones”, to me something that is printed is a physical product, no?</p>
+<p>In terms of products that are built from the ground up to be digital only, I think that’s a whole other world that has barely been touched. Super exciting stuff I think.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025/3</link>
+        <pubDate>Tue, 14 May 2019 16:56:56 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2025-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025.rss">RPG Layout Design - Format for Digital Content</source>
+      </item>
+      <item>
+        <title>RPG Layout Design - Format for Digital Content</title>
+        <dc:creator><![CDATA[@David_Schirduan]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/david_schirduan">@David_Schirduan</a> wrote:</p>
+          <blockquote>
+              <p>Hey <a class="mention" href="/u/benswinden">@benswinden</a> I am still learning my way around game layout, but 6x9 single-column has been my go-to format for games.</p>
+<ul>
+<li>Looks good on mobile devices (two-column layout is DEATH on a screen reader)</li>
+<li>2-page Spreads can be printed on A4 or Letter without too much wasted space</li>
+<li>Those same spreads look nice on a desktop.</li>
+</ul>
+<p>I’ve <a href="https://technicalgrimoire.com/david/2017/10/simple-design" rel="nofollow noopener">been using Gdocs for all my games</a> up until recently, when I picked up Affinity Publisher. Which is incredible.</p>
+<p>Most of the community seems dead-set on preferring print products to digital ones. Reasons I’ve heard range from “easier to read/reference at the table” and “just prettier to enjoy”.</p>
+<p>But I think there’s a market for digital rulebooks. I recently tried that with <a href="https://technicalgrimoire.com/tempered-legacy" rel="nofollow noopener">Tempered Legacy</a> (including some fancy generators).</p>
+<p>But the best digital book presentation I’ve seen is this demo by Mottokrosh:</p>
+<p><a href="https://grove.sidhewoods.com/book/verdant-reaches-players-guide/introduction" class="onebox" target="_blank" rel="nofollow noopener">https://grove.sidhewoods.com/book/verdant-reaches-players-guide/introduction</a></p>
+<p>I am excited to see more designers exploring what digital can bring to the RPG scene.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025/2</link>
+        <pubDate>Tue, 14 May 2019 16:44:25 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2025-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025.rss">RPG Layout Design - Format for Digital Content</source>
+      </item>
+      <item>
+        <title>RPG Layout Design - Format for Digital Content</title>
+        <dc:creator><![CDATA[@benswinden]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/benswinden">@benswinden</a> wrote:</p>
+          <blockquote>
+              <p>My question for designers who make games primarily (or solely) for digital consumption: When thinking about layout, do you support players being able to print your material if they want to or not?</p>
+<p>In my mind, not being constrained by printable formats opens the door for layouts that are more appropriate for desktop aspect ratios, which is obviously a positive but if you do this then it’s much more difficult for people to play your game physically.</p>
+<p>Of course, landscape letter size is a decent viewing experience on desktop, but laying out a game in 16 x 9 or other weird aspects is enticing for me as a design nerd.</p>
+<p>I have no idea what percentage people would expect their games to be played in physical vs digital these days, if anybodies got numbers on that question i’d also love to hear it. A certain number of people playing in person also have the option to use screen devices rather than printing stuff out…</p>
+<p>Curious of any perspective on this, either from designers or players who have an opinion on it.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025/1</link>
+        <pubDate>Tue, 14 May 2019 15:36:54 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2025-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/rpg-layout-design-format-for-digital-content/2025.rss">RPG Layout Design - Format for Digital Content</source>
+      </item>
+  </channel>
+</rss>

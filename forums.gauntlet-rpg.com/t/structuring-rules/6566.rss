@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Structuring rules?</title>
+    <link>https://forums.gauntlet-rpg.com/t/structuring-rules/6566</link>
+    <description>Hello,
+I am looking for structuring rules, all of these you know, you can pile here.
+
+By structuring rules, I mean : rules, verbal (&quot;freeform&quot;) or numerical (&quot;mechanics&quot;) or both, that structure a session, adventure or campaign. I am not looking for a fixed structure that the players have to enforce, but for rules that make structure emerge. 
+Playing only no-prep, I exclude from the search : railroading, modules or sandbox with a gradient of difficulty. Intuitive continuity, where you let players go wherever they wish only to drop your prep in front of them, is acceptable, but only if the rule is more than hastily disguised railroad.
+
+I&#39;ll give a few examples : 
+* character arcs : quests in Chuubo&#39;s, ascend/fall in Law&#39;s out!, selling keys after a few uses in TSoY / SolarSystem / LadyB, all gauges that bring characters toward an end. Like, if there was an IceCube the RPG, the thawing pool.
+* dramatic arcs : 
+- mission type games, scenarios are &quot;open&quot; (not even in the rules) or &quot;freeform&quot; (verbalized in the rules) that. Briefing, casing, heisting, taking the heat : that&#39;s a structure you go through with ease, as if it was developing itself. 
+- all gauges that affect the whole table, often by raising stakes or increasing difficulty : cards in Mesopotamians, clocks in PbtA and FitD.</description>
+    
+    <lastBuildDate>Sun, 21 Feb 2021 15:47:42 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/structuring-rules/6566.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Structuring rules?</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>You’re right : video games are ahead of TTRPGs in these studies, <em>marketshare oblige</em>. That’s not to say TTRPGs can’t do well with some very simple technology .<br>
+Thank you for the pointers !<br>
+For example, I could see that the video game <a href="https://www.youtube.com/watch?v=POv1cOX8xUM">Façade</a>, like MlwM, makes use of the difference between to clocks. The impression given by the games is one of dramatic richness. Simply breaking the “one way track” element seems enough to fool the mind.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/structuring-rules/6566/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/structuring-rules/6566/18</link>
+        <pubDate>Sun, 21 Feb 2021 15:18:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6566-18</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/structuring-rules/6566.rss">Structuring rules?</source>
+      </item>
+      <item>
+        <title>Structuring rules?</title>
+        <dc:creator><![CDATA[@Rickard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rickard">@Rickard</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="DeReel" data-post="16" data-topic="6566">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/dereel/40/3021_2.png" class="avatar"> DeReel:</div>
+<blockquote>
+<p>Two useful concepts for level design : switches and altering the map.</p>
+</blockquote>
+</aside>
+<p>I don’t know if this is useful, but I come to think about procedural storytelling and procedural level design. Sadly, I don’t have any sources other than the book <a href="https://www.amazon.com/Procedural-Storytelling-Design-Tanya-Short/dp/1138595314" data-bbcode="true" rel="nofollow noopener">Procedural Storytelling in Game Design</a>.</p>
+<p>Anyway, it the mention of “switches” that made me think of that, where each elements in the game world can have conditions, like “closed”, “hostile” or whatever and these conditions can be changed.</p>
+<p>I’m currently ploghing throw <a href="https://www.youtube.com/channel/UCov_51F0betb6hJ6Gumxg3Q" data-bbcode="true" rel="nofollow noopener">AI in Games</a>. Even through we’re talking about analogue games, I suppose - in an abstract level - we have something to learn or come to some sort of realization from these ideas.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/structuring-rules/6566/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/structuring-rules/6566/17</link>
+        <pubDate>Sun, 21 Feb 2021 15:11:34 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6566-17</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/structuring-rules/6566.rss">Structuring rules?</source>
+      </item>
+      <item>
+        <title>Structuring rules?</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>Well… you didn’t exactly forget. I troubled the water ruling out “fixed structure” (that players have to enforce). And we’re very close to modules when we speak of (abstract) dungeon design.</p>
+<p>But my ! You all bring here some level / dungeon design goodness !<br>
+Touched by Evil looks like a Fishtank with 1 predator after the players. It’s more practical than having to manage all the actors on the map. I’ll tag these abstract dungeons “non-rooted trees”, because they don’t have a chronological one-way arrow (well they can, for some portions). That’s how I understand “jaquaying a dungeon”. They are sometimes visited from the center (Technoir transmissions) or from the edges (Medical Bay Three Quade diagrams), but they end up being navigated.<br>
+Narrative trees, on the contrary, are “rooted” : they have a starting line and an ending line. In Interactive Fiction they often have key nodes in between. Like Against the Dark Conspiracy I’d say.</p>
+<p>Two useful concepts for level design : switches and altering the map.<br>
+I’ll leave switches because I don’t know much about them.<br>
+Altering the map, on the contrary, I worked on since I’ve read the Fishtank technique. It lets players create nodes and links on the map. Either at character / setting creation (AW session 0, Smallville), or as continuous setting creation (Sign in Stranger). That part interests me, because it’s a feature of Sandbox MMORPGs that many players find attractive, and it’s easy to do in TTRPGs.<br>
+Sign in stranger does something interesting with it, that duplicates the effect of Progress (TbE) or Transmissions (Technoir) : players create links and nodes and their main stat to “take control” of a target node is the number of links they control around it. I like what it simulates from ou reality.<br>
+I am also really interested in original “global effects” of advancing a clock / track such as Opposition in Fateless.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/structuring-rules/6566/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/structuring-rules/6566/16</link>
+        <pubDate>Sun, 21 Feb 2021 13:14:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6566-16</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/structuring-rules/6566.rss">Structuring rules?</source>
+      </item>
+      <item>
+        <title>Structuring rules?</title>
+        <dc:creator><![CDATA[@Radmad]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/radmad">@Radmad</a> wrote:</p>
+          <blockquote>
+              <p>I can’t believe I forgot <em>Fall of Magic</em></p>
+<p>The main game component and driver of the plot is map. The players have a specific starting point and travel along the map, taking forks along the way. Every location on the map has a specific prompt that is responded too.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/structuring-rules/6566/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/structuring-rules/6566/15</link>
+        <pubDate>Sun, 21 Feb 2021 12:48:03 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6566-15</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/structuring-rules/6566.rss">Structuring rules?</source>
+      </item>
+      <item>
+        <title>Structuring rules?</title>
+        <dc:creator><![CDATA[@Alessandro_Piroddi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alessandro_piroddi">@Alessandro_Piroddi</a> wrote:</p>
+          <blockquote>
+              <p>Both <a href="http://thoughtfulgames.com/montsegur1244/" rel="nofollow noopener">Montsegur 1244</a> and <a href="https://unplayablegamesrpg.itch.io/touched-by-evil" rel="nofollow noopener">Touched by Evil</a> use an actual “map” of the story structure that offers to the group different prompts depending on the current chapter of the story.</p>
+<p><strong>Montsegur</strong> advances on it with a simple clock: after X number of scenes the story moves to the next chapter.<br>
+<strong>Touched by Evil</strong> instead advances on it depending on a fictional trigger, kind of like a Move. When X happens, the chapter progresses. There is also a randomizer mechanic that changes the theme of each chapter.</p>
+<p><strong>Touched by Evil</strong> also has the <em>Menace Die</em> mechanic that further paces and structures the game.<br>
+Basically at the end of each Moment of play (each scene) a simple roll is made and depending on it the Menace moves on the story map, practically “chasing” the protagonist.<br>
+When the Menace reaches the same Station where the protagonist currently is in, a special kind of Moment is played… kind of like “dark scenes” (or how the hell they are called) in MLwM.<br>
+The mechanics make it less likely ar the beginning, and more likely as play progresses, injecting a constant sense of threat and urgency in the game, and building dramatic interludes that make the story spiral down further towards the ending.</p>
+<p><a href="https://www.drivethrurpg.com/product/151493/FateLess" rel="nofollow noopener">FateLess</a> uses two tables of random effects, both fictional and mechanical in nature, called <strong>Opposition</strong> that are baked right into the dice roll resolution. A few of such effect modify the fictional positioning in enough of a radical way as to greatly affect the structure of the story…<br>
+Also, the overall progress in the story is emerges procedurally through the… well… <strong>Progress</strong> mechanic. Basically when the fictional positioning allows it, a roll can be attempted, modified by previous activity in the story. The more you act and strive before attempting the final shot, the more likely you are tu succeed when finally you do try.<br>
+A success means that YES, you got here and did the thing, goal accomplished, quest solved. A failure means that NO, somehow something robbed you of the goal/quest/achievement and has now changed the situation drastically… thus revealing a story twist and pushing the END line further down the road.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/structuring-rules/6566/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/structuring-rules/6566/14</link>
+        <pubDate>Sun, 21 Feb 2021 11:26:16 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6566-14</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/structuring-rules/6566.rss">Structuring rules?</source>
+      </item>
+      <item>
+        <title>Structuring rules?</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>Racing clocks like Conspiracy vs Investigators or Locals vs Visitors are rich because : they don’t “flatten” the struggle as a Tug-of-war would. One aspect of it is that you can seamlessly add other clocks in the race, and tie them to factions, characters, themes, setting elements, etc.<br>
+The ideas you all presented here, and the correct HP coining helped me a lot !<br>
+I think I am going to tinker with a few clocks. More than a “combat HP” dynamic, right now I consider : making each clock an Otherkind slot , immobile as long as you don’t engage it. As soon as you engage it, you need to feed it a die (as in  Mesopotamians) whenever you’re active. Failing to do so, you lose initiative, and it begins scoring on its own clock. I picture applying it to represent struggles either external (Goals and Means as in Remember tomorrow) or internal (collective or personal arcs).</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/structuring-rules/6566/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/structuring-rules/6566/13</link>
+        <pubDate>Sat, 20 Feb 2021 21:56:23 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6566-13</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/structuring-rules/6566.rss">Structuring rules?</source>
+      </item>
+      <item>
+        <title>Structuring rules?</title>
+        <dc:creator><![CDATA[@Alun_R]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alun_r">@Alun_R</a> wrote:</p>
+          <blockquote>
+              <p>I should have pointed out that there is also a Heat track which fills if PCs are clumsy.  The track accelerates from Suspicion to Alarmed to Pursued to Attack which describes the posture of the Conspiracy towards the team.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/structuring-rules/6566/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/structuring-rules/6566/12</link>
+        <pubDate>Sat, 20 Feb 2021 19:00:17 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6566-12</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/structuring-rules/6566.rss">Structuring rules?</source>
+      </item>
+      <item>
+        <title>Structuring rules?</title>
+        <dc:creator><![CDATA[@Radmad]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/radmad">@Radmad</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="DeReel" data-post="5" data-topic="6566">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/dereel/40/3021_2.png" class="avatar"> DeReel:</div>
+<blockquote>
+<p>I can’t find how the BE invasion tracks are played. Can you explain ? Is it like a tug of war clock or 2 race clocks, where each camp progresses when they succeed in an operation ?</p>
+</blockquote>
+</aside>
+<p>The game is structured around a conflict between humanity and an alien invader. There are 3 distinct phases (Infiltration, usurpation, &amp; invasion). Each side of the conflict gets essentially an HP track, the value determined by different factors of the planet which is rolled up by the group like a character.</p>
+<p>A game session is composed of “maneuvers” in which each side secretly chooses what meta-move they will be doing. The player’s roleplay and narrative positioning during the maneuver effects what kind of bonuses or negatives the secret move gets. Once that’s done, the moves are made against each other. If the human side reduces the alien HP to 0 at any point, they win, the invasion is stopped. If the alien side reduces the human HP to 0 the game moves on to the next phase where different moves or skills will be more applicable.</p>
+<p>There is a lot more going on as it’s fairly complex how the moves each side does interact with each other and the narrative, but a broad generalization of the system would be that there are two sides in a war with their own HPs. The players control NPCs who have their own goals and may align, betray, or abandon either side in the conflict.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/structuring-rules/6566/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/structuring-rules/6566/11</link>
+        <pubDate>Sat, 20 Feb 2021 16:34:52 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6566-11</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/structuring-rules/6566.rss">Structuring rules?</source>
+      </item>
+      <item>
+        <title>Structuring rules?</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>Totally. It’s like a menu to me.</p>
+<p>This topic looks like this other one, but in part only.<br>
+<aside class="quote quote-modified" data-post="1" data-topic="6361">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="/letter_avatar_proxy/v4/letter/r/b19c9b/40.png" class="avatar">
+    <a href="https://forums.gauntlet-rpg.com/t/what-adventure-structures-if-any-do-gms-use-for-their-fantasy-rpgs/6361">What adventure structures (if any) do GMs use for their fantasy RPGs?</a> <a class="badge-wrapper  bullet" href="/c/rpg-chat"><span class="badge-category-bg" style="background-color: #0088CC;"></span><span style="" data-drop-close="true" class="badge-category clear-badge" title="Chat about actual play of, prepping to play, and running of LARPs and RPGs.">RPG Chat</span></a>
+  </div>
+  <blockquote>
+    When preparing / designing your own adventure for a fantasy RPG, and the game doesn’t provide a definite structure creation procedure (PBtA games are examples that do), are there any well-defined and arguably complete structures that you use? Whether they are ones you have invented or discovered. 
+Some examples. 
+A timeline where events are going to occur regardless of player interaction, but certain spots on the timeline are intended to intersect with the PCs (as scenes) to give the players an …
+  </blockquote>
+</aside>
+</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/structuring-rules/6566/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/structuring-rules/6566/10</link>
+        <pubDate>Sat, 20 Feb 2021 12:12:54 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6566-10</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/structuring-rules/6566.rss">Structuring rules?</source>
+      </item>
+      <item>
+        <title>Structuring rules?</title>
+        <dc:creator><![CDATA[@Alun_R]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alun_r">@Alun_R</a> wrote:</p>
+          <blockquote>
+              <p>The story arc develops in play.<br>
+The GM selects an initial lead e.g. … the GM uses the lead, ‘something mysterious has happened …’ to frame a scene at the start of session 1: homeless people are going missing … they play through investigation scenes and the mission to discover ghouls at play beneath the city.<br>
+Session 2 … based on session 1 the players go with the lead ‘a threat has been identified … eliminate it …’<br>
+And so one with the table building a story arc based on their previous experiences.</p>
+<p>Currently there are 6 of these generic leads to choose from and the 6 locations within which there are 6 more specific targets for the operation, though each of those target has 3 options to add variation (one choice is 'spa or clinic; secret?).</p>
+<p>In terms of escalating threat there are 6 broad categories of threat players can choose from … if their investigation scenes go well … So far they’ve all started with criminal pawns, then opted for a Conspiracy occultist or pseudo scientist before opting for a supernatural threat.</p>
+<p>Does that make sense?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/structuring-rules/6566/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/structuring-rules/6566/9</link>
+        <pubDate>Sat, 20 Feb 2021 12:02:31 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6566-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/structuring-rules/6566.rss">Structuring rules?</source>
+      </item>
+      <item>
+        <title>Structuring rules?</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>Nice. It’s like “positive heat”, in that it is a gauge that depends on how the operation went, only with success instead of failure, and it allows the players to be proactive instead of reactive.<br>
+Is there a “path” for the revelations (1° What is strange about this event ? 2° How does in fit in a series ? 3° How can you tell it’s done with a purpose ? etc.) or is it a menu ?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/structuring-rules/6566/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/structuring-rules/6566/8</link>
+        <pubDate>Sat, 20 Feb 2021 11:32:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6566-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/structuring-rules/6566.rss">Structuring rules?</source>
+      </item>
+      <item>
+        <title>Structuring rules?</title>
+        <dc:creator><![CDATA[@Alun_R]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alun_r">@Alun_R</a> wrote:</p>
+          <blockquote>
+              <p>Against the Dark Conspiracy is designed to put a lot of mission design in the hands of the players so doing stuff gives them a chance to earn Intel which they can spend to define the mission and even the nature of the supernatural foes’ they’ll encounter.<br>
+Update 8 describes a group doing this …</p>
+<p>Against the Dark Conspiracy - ZineQuest 3, via <span class="mention">@Kickstarter</span> <a href="https://www.kickstarter.com/projects/atdc/against-the-dark-conspiracy-zinequest-3?ref=android_project_share">https://www.kickstarter.com/projects/atdc/against-the-dark-conspiracy-zinequest-3?ref=android_project_share</a></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/structuring-rules/6566/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/structuring-rules/6566/7</link>
+        <pubDate>Sat, 20 Feb 2021 10:20:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6566-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/structuring-rules/6566.rss">Structuring rules?</source>
+      </item>
+      <item>
+        <title>Structuring rules?</title>
+        <dc:creator><![CDATA[@Rickard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rickard">@Rickard</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="DeReel" data-post="5" data-topic="6566">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/dereel/40/3021_2.png" class="avatar"> DeReel:</div>
+<blockquote>
+<p>Some boardgame or <a href="https://forums.gauntlet-rpg.com/t/initiative-systems-deep-discussion/1789/9">initiative</a> rules may be worth transposing to dramatic structures.</p>
+</blockquote>
+</aside>
+<p>I would rather look at different hit point systems, because hit points in roleplaying games are pacing mechanisms.</p>
+<p>Like how the cards in <strong>Magic</strong> can affect the players’ hit points - by slowly draining it, by doing massive damage or to build up a combination that totally removes all hit points.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/structuring-rules/6566/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/structuring-rules/6566/6</link>
+        <pubDate>Sat, 20 Feb 2021 10:00:57 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6566-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/structuring-rules/6566.rss">Structuring rules?</source>
+      </item>
+      <item>
+        <title>Structuring rules?</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>These are good !</p>
+<p>I can’t find how the BE invasion tracks are played. Can you explain ? Is it like a tug of war clock or 2 race clocks, where each camp progresses when they succeed in an operation ?</p>
+<p>MLwM is a very good example with its combinations of gauges. If X+Y&gt;Z and X&gt;Y then … Reading it I wondered how complicatesd it felt in game. I fear I would need a spreadsheet to play.</p>
+<p>ZC track is like a clock but what is interesting is the characters progress on it instead of it ticking. It’s like a gauge, but with collective aspects. Strange ! Abstract maps with multiple routes are a structure, too. They are complex and can be interactive, therefore strategic (Cf Daedalus, 2004, Matt Snyder / Chimera Creative, “Causality and choice”, Neel Krishnaswami). To make them interactive, you can make rules for characters in the same space, or within abstract reach. But hey ! that sounds very much like what Initiative is for. Some boardgame or <a href="https://forums.gauntlet-rpg.com/t/initiative-systems-deep-discussion/1789/9">initiative</a> rules may be worth transposing to dramatic structures.</p>
+<p>Analysis of these rules so far :</p>
+<p><strong>output :</strong></p>
+<ul>
+<li>“soft” pace/mood/topic,</li>
+<li>fictional stakes through scene framing “hardness”,</li>
+<li>fictional stakes through move “hardness”</li>
+<li>“hard” distance to the end.</li>
+</ul>
+<p><strong>applies to :</strong></p>
+<ul>
+<li>character</li>
+<li>character but interacts with collective (Cf boardgame &amp; initiative rules)</li>
+<li>collective</li>
+</ul>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/structuring-rules/6566/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/structuring-rules/6566/5</link>
+        <pubDate>Sat, 20 Feb 2021 09:15:39 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6566-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/structuring-rules/6566.rss">Structuring rules?</source>
+      </item>
+      <item>
+        <title>Structuring rules?</title>
+        <dc:creator><![CDATA[@Rickard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rickard">@Rickard</a> wrote:</p>
+          <blockquote>
+              <p><a href="http://www.memento-mori.com/pdf/inspectres" data-bbcode="true" rel="nofollow noopener">InSpectres</a> got a four act structure for playing, that begins with with a roll on the table. It’s a really solid no-prep game that saved me from abandoning roleplaying games all together due to game master burn out.</p>
+<p>You also got <a href="http://erebaltor.se/rickard/playWithIntent_newLayout.pdf" data-bbcode="true" rel="nofollow noopener">Play With Intent</a> - a  collection of Jeepform and Impro techniques by Emily Care Boss and Matthijs Holter.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/structuring-rules/6566/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/structuring-rules/6566/4</link>
+        <pubDate>Sat, 20 Feb 2021 08:31:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6566-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/structuring-rules/6566.rss">Structuring rules?</source>
+      </item>
+      <item>
+        <title>Structuring rules?</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>Horror games sometimes have these.</p>
+<p><em>Dead of Night</em>, <em>Dread</em>, and <em>Zombie Cinema</em> each have a different way of structuring the game and narrative. Dead of Night has a ‘counter’ that tells us how scary things are and determines what kind of bad stuff the GM is allowed to say or introduce to the game. Dread’s tower tells us when characters die and create a sort of ebb and flow, spacing out the deaths. Zombie Cinema has all the “characters” moving all a line (with safety at one end and the zombies at the other), which we use to decide how to frame scenes and when it all ends.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/structuring-rules/6566/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/structuring-rules/6566/3</link>
+        <pubDate>Fri, 19 Feb 2021 22:55:40 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6566-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/structuring-rules/6566.rss">Structuring rules?</source>
+      </item>
+      <item>
+        <title>Structuring rules?</title>
+        <dc:creator><![CDATA[@Radmad]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/radmad">@Radmad</a> wrote:</p>
+          <blockquote>
+              <p><em>My Life With Master</em> has very explicit scenarios for how the game is played that enforce a narrative.</p>
+<p><em>Pendragon</em> has tracking of seasons that create a rythm of play; events happening in the summer and prep in the winter.</p>
+<p><em>Burning Empires</em> has a boardgame-likr victory point/HP tracker for the two sides in the meta-narrative that drives what kind of scenes occur (cloak and dagger/infiltration/all out war)</p>
+<p>In my game (<em>Hesitation at the Gate</em>) I defined “acts” as abstract units of time that frame the narrative, sort of like episodes of a show. They don’t enforce anything in play but exist to make the players perform rests and character recovery in a narrative framework rather than a mechanically optimal one.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/structuring-rules/6566/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/structuring-rules/6566/2</link>
+        <pubDate>Fri, 19 Feb 2021 11:45:40 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6566-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/structuring-rules/6566.rss">Structuring rules?</source>
+      </item>
+      <item>
+        <title>Structuring rules?</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>Hello,<br>
+I am looking for structuring rules, all of these you know, you can pile here.</p>
+<p>By structuring rules, I mean : rules, verbal (“freeform”) or numerical (“mechanics”) or both, that structure a session, adventure or campaign. I am not looking for a fixed structure that the players have to enforce, but for rules that make structure emerge.<br>
+Playing only no-prep, I exclude from the search : railroading, modules or sandbox with a gradient of difficulty. Intuitive continuity, where you let players go wherever they wish only to drop your prep in front of them, is acceptable, but only if the rule is more than hastily disguised railroad.</p>
+<p>I’ll give a few examples :</p>
+<ul>
+<li>character arcs : quests in Chuubo’s, ascend/fall in Law’s out!, selling keys after a few uses in TSoY / SolarSystem / LadyB, all gauges that bring characters toward an end. Like, if there was an IceCube the RPG, the thawing pool.</li>
+<li>dramatic arcs :</li>
+</ul>
+<ul>
+<li>mission type games, scenarios are “open” (not even in the rules) or “freeform” (verbalized in the rules) that. Briefing, casing, heisting, taking the heat : that’s a structure you go through with ease, as if it was developing itself.</li>
+<li>all gauges that affect the whole table, often by raising stakes or increasing difficulty : cards in Mesopotamians, clocks in PbtA and FitD.</li>
+</ul>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/structuring-rules/6566/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/structuring-rules/6566/1</link>
+        <pubDate>Fri, 19 Feb 2021 09:52:25 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6566-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/structuring-rules/6566.rss">Structuring rules?</source>
+      </item>
+  </channel>
+</rss>

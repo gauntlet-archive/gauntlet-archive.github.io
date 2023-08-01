@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  
+<!-- Mirrored from forums.gauntlet-rpg.com/t/twitter-bot-character-creation/4377 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 01 Aug 2023 00:47:55 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8">
+    <title>Twitter Bot Character Creation - RPG Chat - The Gauntlet Forums</title>
+    <meta name="description" content="I saw a tweet from Adam Koebel yesterday suggesting that it’d be cool to have twitter bots that can create characters when you @ them, so I tried it out.  I thought I’d share how I did it in case anyone else wanted to tr&amp;hellip;">
+    <meta name="generator" content="Discourse 2.4.0.beta10 - https://github.com/discourse/discourse version 7c30986b5efe231d4b22ad3e657fc83ec452e89c">
+<link rel="icon" type="image/png" href="https://gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f2859febedbe43114f6e22a494620bdc35bf8786_2_32x32.png">
+<link rel="apple-touch-icon" type="image/png" href="https://gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f2859febedbe43114f6e22a494620bdc35bf8786_2_180x180.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover">
+<link rel="canonical" href="4377.html" />
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://forums.gauntlet-rpg.com","potentialAction":{"@type":"SearchAction","target":"https://forums.gauntlet-rpg.com/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link rel="search" type="application/opensearchdescription+xml" href="../../opensearch.xml" title="The Gauntlet Forums Search">
+
+      <link href="../../stylesheets/desktop_55f06712376291d809ecf79aecaf07fd06a8c979.css_%3b%20filename_%3dUTF-8%27%27desktop_55f06712376291d809ecf79aecaf07fd06a8c9791a85.css?__ws=forums.gauntlet-rpg.com" media="all" rel="stylesheet" data-target="desktop" data-theme-id="2"/>
+      <link href="../../stylesheets/desktop_theme_2_2d4c228818bc7664ec196065afb575563959f7b9.css_%3b%20filename_%3dUTF-8%27%27desktop_theme_2_2d4c228818bc7664ec196065afb575563959f7b91a85.css?__ws=forums.gauntlet-rpg.com" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="2"/>
+    
+    
+        <link rel="alternate" type="application/rss+xml" title="RSS feed of &#39;Twitter Bot Character Creation&#39;" href="4377.rss" />
+    <meta property="og:site_name" content="The Gauntlet Forums" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="https://gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/8/844df8c4a40f99a5c4b9b68d76f7b5cc2d30d40e.png" />
+<meta property="og:image" content="https://gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/8/844df8c4a40f99a5c4b9b68d76f7b5cc2d30d40e.png" />
+<meta property="og:url" content="https://forums.gauntlet-rpg.com/t/twitter-bot-character-creation/4377" />
+<meta name="twitter:url" content="https://forums.gauntlet-rpg.com/t/twitter-bot-character-creation/4377" />
+<meta property="og:title" content="Twitter Bot Character Creation" />
+<meta name="twitter:title" content="Twitter Bot Character Creation" />
+<meta property="og:description" content="I saw a tweet from Adam Koebel yesterday suggesting that it’d be cool to have twitter bots that can create characters when you @ them, so I tried it out.  I thought I’d share how I did it in case anyone else wanted to try it out.  First, I got together the information that I’d need for character creation.  For Goblinville, some parts are collaborative and need to be done at the table,  but most of character creation can be randomized.  I those random lists together as arrays (put each entry in q..." />
+<meta name="twitter:description" content="I saw a tweet from Adam Koebel yesterday suggesting that it’d be cool to have twitter bots that can create characters when you @ them, so I tried it out.  I thought I’d share how I did it in case anyone else wanted to try it out.  First, I got together the information that I’d need for character creation.  For Goblinville, some parts are collaborative and need to be done at the table,  but most of character creation can be randomized.  I those random lists together as arrays (put each entry in q..." />
+<meta name="twitter:label1" value="Reading time" />
+<meta name="twitter:data1" value="1 mins 🕑" />
+<meta name="twitter:label2" value="Likes" />
+<meta name="twitter:data2" value="24 ❤" />
+<meta property="article:published_time" content="2020-01-22T14:57:17+00:00" />
+<meta property="og:ignore_canonical" content="true" />
+
+
+
+    
+  </head>
+  <body class="crawler">
+    
+    <header>
+      <a href="../../index.html">
+          <img src="https://gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/1X/90fcb9d8a54a6098ad0291236cecc89a0dda0bed.png" alt="The Gauntlet Forums" id="site-logo" style="max-width: 150px;">
+      </a>
+    </header>
+    <div id="main-outlet" class="wrap">
+        <h1 class="crawler-topic-title">
+    <a href="4377.html">Twitter Bot Character Creation</a>
+  </h1>
+
+  <div id="breadcrumbs" itemscope itemtype="http://schema.org/BreadcrumbList">
+      <div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a href="../../c/rpg-chat.html" class="badge-wrapper bullet" itemprop="item">
+          <span class="badge-category-bg"></span>
+          <span class="category-title" itemprop="name">RPG Chat</span>
+        </a>
+        <meta itemprop="position" content="1" />
+      </div>
+  </div>
+
+      <div class='crawler-tags-list' itemscope itemtype='http://schema.org/DiscussionForumPosting'>
+          <div itemprop='keywords'>
+            <a href='../../tag/twitter.html' rel="tag">
+              <span itemprop='headline'>twitter</span>
+            </a>
+          </div>
+          <div itemprop='keywords'>
+            <a href='../../tag/goblinville.html' rel="tag">
+              <span itemprop='headline'>goblinville</span>
+            </a>
+          </div>
+      </div>
+
+  
+
+
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Michael'><span itemprop='name'>Michael</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <meta itemprop='datePublished' content='2020-01-22T14:57:17Z'>
+              <time itemprop='dateModified' datetime='2020-01-22T14:59:06Z' class='post-time'>
+                January 22, 2020,  2:59pm
+              </time>
+          <span itemprop='position'>#1</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>I saw a tweet from Adam Koebel yesterday suggesting that it’d be cool to have twitter bots that can create characters when you @ them, so I tried it out.  I thought I’d share how I did it in case anyone else wanted to try it out.</p>
+<p>First, I got together the information that I’d need for character creation.  For Goblinville, some parts are collaborative and need to be done at the table,  but most of character creation can be randomized.  I those random lists together as arrays (put each entry in quotes and separated them with commas.)</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="http://gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/8/844df8c4a40f99a5c4b9b68d76f7b5cc2d30d40e.png" data-download-href="/uploads/short-url/iSq4WLARSBheBCJEo3Sr15lsdX0.png?dl=1" title="gvc"><img src="http://gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/8/844df8c4a40f99a5c4b9b68d76f7b5cc2d30d40e.png" alt="gvc" data-base62-sha1="iSq4WLARSBheBCJEo3Sr15lsdX0" width="283" height="500" data-small-upload="http://gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/8/844df8c4a40f99a5c4b9b68d76f7b5cc2d30d40e_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">gvc</span><span class="informations">364×643 38.8 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>Then I made a new Twitter account <a href="https://twitter.com/goblinville_bot">@Goblinville_Bot</a> using an email that’s not linked to my main twitter account.  I logged into the bot account and went to <a href="https://cheapbotsdonequick.com/">Cheap Bots Done Quick</a>.  This is a site that hosts twitter bots using a tool called Tracery.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="http://gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/9/9d313cd8a115efde7c6376d692c9a6c0d96ec017.png" data-download-href="/uploads/short-url/mqAs9zNXz0EPOgWyXrDalidOuTd.png?dl=1" title="cbdq"><img src="http://gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/9/9d313cd8a115efde7c6376d692c9a6c0d96ec017.png" alt="cbdq" data-base62-sha1="mqAs9zNXz0EPOgWyXrDalidOuTd" width="690" height="227" data-small-upload="http://gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/9/9d313cd8a115efde7c6376d692c9a6c0d96ec017_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">cbdq</span><span class="informations">804×265 19.8 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>To make a tweet template, I wrote a sentence and put each element I wanted to randomize between # symbols.  Then I made sure that the name of each array (age, job, garb, etc) matched what it said in between the # symbols.  When generating a tweet, Tracery starts by printing the contents of “origin” (everything between the brackets, or a random entry if “origin” is an array).  When it scans something between # symbols, it replaces those symbols with a random entry from the corresponding list.  For example, <span class="hashtag">#job</span># gets replaced with a random entry from the array named “job”.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="http://gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/4/494a1207c5263e90c3712542655f148928b937e3.jpeg" data-download-href="/uploads/short-url/asly89OqzsxX7Z51PgHMKPaEyEH.jpeg?dl=1" title="IMG_4556"><img src="http://gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/4/494a1207c5263e90c3712542655f148928b937e3_2_630x500.jpeg" alt="IMG_4556" data-base62-sha1="asly89OqzsxX7Z51PgHMKPaEyEH" width="630" height="500" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/4/494a1207c5263e90c3712542655f148928b937e3_2_630x500.jpeg, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/4/494a1207c5263e90c3712542655f148928b937e3_2_945x750.jpeg 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/4/494a1207c5263e90c3712542655f148928b937e3.jpeg 2x" data-small-upload="http://gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/4/494a1207c5263e90c3712542655f148928b937e3_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">IMG_4556</span><span class="informations">946×750 160 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>Finally, I set the bot to generate a response once a day, and again each time someone tweets <span class="mention">@Goblinville_Bot</span>.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="http://gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/f/f2d2bac1e4d5b1eba42c1401242e94a064f6d93f.jpeg" data-download-href="/uploads/short-url/yE725NeoXzm9OKEOrtCil7zTk0n.jpeg?dl=1" title="IMG_4559"><img src="http://gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f2d2bac1e4d5b1eba42c1401242e94a064f6d93f_2_296x500.jpeg" alt="IMG_4559" data-base62-sha1="yE725NeoXzm9OKEOrtCil7zTk0n" width="296" height="500" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f2d2bac1e4d5b1eba42c1401242e94a064f6d93f_2_296x500.jpeg, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f2d2bac1e4d5b1eba42c1401242e94a064f6d93f_2_444x750.jpeg 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f2d2bac1e4d5b1eba42c1401242e94a064f6d93f_2_592x1000.jpeg 2x" data-small-upload="http://gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f2d2bac1e4d5b1eba42c1401242e94a064f6d93f_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">IMG_4559</span><span class="informations">750×1264 211 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>This stuff is pretty fun for me, so I’m happy to answer any questions about how to make this for another game, or about more detailed bot creation.</p>
+        </div>
+
+        <meta itemprop='headline' content='Twitter Bot Character Creation'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="16" />
+           <span class='post-likes'>16 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+            <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+            </div>
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Coalhada'><span itemprop='name'>Coalhada</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2020-01-25T04:58:00Z' class='post-time'>
+                January 25, 2020,  4:58am
+              </time>
+          <span itemprop='position'>#2</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Thanks for this - I followed your tutorial to make a bot of my very own: <a href="https://twitter.com/EAMB_bot" rel="nofollow noopener">https://twitter.com/EAMB_bot</a></p>
+        </div>
+
+        <meta itemprop='headline' content='Twitter Bot Character Creation'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="3" />
+           <span class='post-likes'>3 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+            <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+            </div>
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Michael'><span itemprop='name'>Michael</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2020-01-25T18:52:06Z' class='post-time'>
+                January 25, 2020,  6:52pm
+              </time>
+          <span itemprop='position'>#3</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Yes, that was the dream!  Well done on your bot.  I like how the sentence structure varies a bit.</p>
+        </div>
+
+        <meta itemprop='headline' content='Twitter Bot Character Creation'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="1" />
+           <span class='post-likes'>1 Like</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Voidlight'><span itemprop='name'>Voidlight</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2020-01-27T15:43:09Z' class='post-time'>
+                January 27, 2020,  3:43pm
+              </time>
+          <span itemprop='position'>#4</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>I made one of these a while ago! It, uh, it generates a dead character.</p>
+<p><a href="https://twitter.com/elegiacrpg" class="onebox" target="_blank" rel="nofollow noopener">https://twitter.com/elegiacrpg</a></p>
+        </div>
+
+        <meta itemprop='headline' content='Twitter Bot Character Creation'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="3" />
+           <span class='post-likes'>3 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+            <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+            </div>
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Michael'><span itemprop='name'>Michael</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2020-01-27T15:45:07Z' class='post-time'>
+                January 27, 2020,  3:45pm
+              </time>
+          <span itemprop='position'>#5</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Neat!  Macabre!</p>
+<p>I think the rhythm of the repeated structure.</p>
+        </div>
+
+        <meta itemprop='headline' content='Twitter Bot Character Creation'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/MrGarland'><span itemprop='name'>MrGarland</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2020-11-08T14:01:23Z' class='post-time'>
+                November 8, 2020,  2:01pm
+              </time>
+          <span itemprop='position'>#6</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>What a fantastic idea and an invaluable guide. In short order, my game — <strong>The Dee Sanction</strong> — has a functional and entertaining generator for new recruits in the form of <a href="https://twitter.com/MrGarland4/with_replies" rel="nofollow noopener">Mister Garland</a></p>
+        </div>
+
+        <meta itemprop='headline' content='Twitter Bot Character Creation'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="1" />
+           <span class='post-likes'>1 Like</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+            <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+            </div>
+
+    </div>
+
+
+
+
+
+
+    </div>
+    <footer class="container wrap">
+      <nav class='crawler-nav' itemscope itemtype='http://schema.org/SiteNavigationElement'>
+        <ul>
+        <li itemprop="name"><a href='../../index.html' itemprop="url">Home </a></li>
+        <li itemprop="name"><a href='../../categories.html' itemprop="url">Categories </a></li>
+        <li itemprop="name"><a href='../../guidelines.html' itemprop="url">FAQ/Guidelines </a></li>
+        <li itemprop="name"><a href='../../tos.html' itemprop="url">Terms of Service </a></li>
+        <li itemprop="name"><a href='../../privacy.html' itemprop="url">Privacy Policy </a></li>
+        </ul>
+      </nav>
+      <p class='powered-by-link'>Powered by <a href="https://www.discourse.org/">Discourse</a>, best viewed with JavaScript enabled</p>
+    </footer>
+    
+    
+  </body>
+  
+
+<!-- Mirrored from forums.gauntlet-rpg.com/t/twitter-bot-character-creation/4377 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 01 Aug 2023 00:47:57 GMT -->
+</html>

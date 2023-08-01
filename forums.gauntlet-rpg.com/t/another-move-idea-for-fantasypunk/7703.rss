@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Another move idea for fantasypunk</title>
+    <link>https://forums.gauntlet-rpg.com/t/another-move-idea-for-fantasypunk/7703</link>
+    <description>Hey, folks! Still working toward the completion of [fantasypunk](https://thegiftofdice.itch.io/fantasypunk) and I came up with an idea for basic moves to replace the current basic moves.
+
+To keep it short, characters have 5 traits: kind, fierce, curious, precise and insightful.
+
+The point is to reduce the list of moves to a single per trait move that is directly related to it and should also help players and GMs avoid choice freeze and flipping through rules.
+
+Here&#39;s an example:
+
+&gt; ## Be Kind
+&gt; 
+&gt; When you are kind, ask the GM or another player what their character needs and ask yourself how you could fulfil that need.
+&gt; 
+&gt; On a solid hit, choose two keys. On a messy hit choose one. On a miss, brace yourself.
+&gt; 
+&gt; Keys: heal, treat, aid, relate, bond, deescalate, trust, inspire, support.
+&gt; 
+&gt; Describe how the keys you picked factor in the outcome.
+
+It&#39;s not written there but you are supposed to roll the kind trait.
+
+Later down, the specialized moves will be written like: &quot;when you do X, be kind&quot;, in which you are expected to roll back to the basic move and compose the result of your moves.
+
+Thoughts? Suggestions? Other games that work similarly?</description>
+    
+    <lastBuildDate>Mon, 03 Jan 2022 19:22:36 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/another-move-idea-for-fantasypunk/7703.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Another move idea for fantasypunk</title>
+        <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="Deodatus" data-post="6" data-topic="7703">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/letter_avatar_proxy/v4/letter/d/ce7236/40.png" class="avatar"> Deodatus:</div>
+<blockquote>
+<p>BTW I would be happy to playtest your basic moves with my players.</p>
+</blockquote>
+</aside>
+<p>I would absolutely love that! yes! I’ll send you a DM later!</p>
+<p>And bottom line a lot of what you replied my friend said too. The idea we came to was to write a piece of guidance on reading and interpreting the keys.</p>
+<p>Another thought was to just have less keys per move.</p>
+<aside class="quote no-group" data-username="Deodatus" data-post="6" data-topic="7703">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/letter_avatar_proxy/v4/letter/d/ce7236/40.png" class="avatar"> Deodatus:</div>
+<blockquote>
+<p>How (on whom) would trust work?</p>
+</blockquote>
+</aside>
+<p>I mean, that one could be how you inspire trust or you show you trust the other? I mean, again, I wrote the lists on the spur of the moment and still need to tailor them. Maybe that word doesn’t work as well as I’d like.</p>
+<aside class="quote no-group" data-username="Deodatus" data-post="6" data-topic="7703">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/letter_avatar_proxy/v4/letter/d/ce7236/40.png" class="avatar"> Deodatus:</div>
+<blockquote>
+<p>And are you familiar with <em>Under Hollow Hills</em> design? If not, the part about <strong>Obvious plays and Cycles</strong> might give you an inspiration: <a href="https://lumpley.games/2021/04/07/powered-by-the-apocalypse-part-6/" rel="nofollow noopener">https://lumpley.games/2021/04/07/powered-by-the-apocalypse-part-6/</a></p>
+</blockquote>
+</aside>
+<p>I’ll have a look at under the hollow hills and re-read that blog. Thanks for the recommendation!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/another-move-idea-for-fantasypunk/7703/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/another-move-idea-for-fantasypunk/7703/7</link>
+        <pubDate>Mon, 03 Jan 2022 19:22:36 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7703-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/another-move-idea-for-fantasypunk/7703.rss">Another move idea for fantasypunk</source>
+      </item>
+      <item>
+        <title>Another move idea for fantasypunk</title>
+        <dc:creator><![CDATA[@Deodatus]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deodatus">@Deodatus</a> wrote:</p>
+          <blockquote>
+              <p>I agree with your analysis.</p>
+<p>If I understand you correctly, you try to find some kind of middle-ground between totally flexible <strong>aspects</strong> (like <em>Fate</em>) and very mechanized options (like <strong>HP</strong> and other pools/stats).</p>
+<p>In <em>Technoir</em> you cause <strong>adjectives</strong> by your actions and you stick these to NPCs or situations. Unfortunately, in play it is often way less interesting than it sounds.</p>
+<p>I think that narrowing down the options by moves (to a set of keys) is a very good design choice, as it informs players and creates a variety of outcomes at the same time.</p>
+<p>But I think these keys need to feel very distinct, otherwise you could still end up at Fate’s Aspect territory. There must be some meaningful difference between them.</p>
+<p>One way of making them distinct is to mechanize them, but you try to avoid that. Another solution is to somehow make each choice very different diegetically and/or procedurally.</p>
+<p>I see how heal, aid, bond, deescalate and inspire are different. But whats the difference between aid &amp; support? Heal &amp; treat? If nothing signicifact, maybe you should group them by “/s”.</p>
+<p>How (on whom) would trust work?</p>
+<p>And are you familiar with <em>Under Hollow Hills</em> design? If not, the part about <strong>Obvious plays and Cycles</strong> might give you an inspiration: <a href="https://lumpley.games/2021/04/07/powered-by-the-apocalypse-part-6/" rel="nofollow noopener">https://lumpley.games/2021/04/07/powered-by-the-apocalypse-part-6/</a></p>
+<p>BTW I would be happy to playtest your basic moves with my players.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/another-move-idea-for-fantasypunk/7703/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/another-move-idea-for-fantasypunk/7703/6</link>
+        <pubDate>Sun, 02 Jan 2022 01:08:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7703-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/another-move-idea-for-fantasypunk/7703.rss">Another move idea for fantasypunk</source>
+      </item>
+      <item>
+        <title>Another move idea for fantasypunk</title>
+        <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/deodatus">@Deodatus</a>, I am still thinking about your questions. I wrote this move shape in the spur of the moment and I am looking at it and wondering what things it does well and haw it may fall short.</p>
+<p>I feel like the “keys” are a different form of “choose x prompts”, being that they are open ended and negotiable.</p>
+<p>Say, in a move like Read a Sitch, when you roll you get to ask a set of specific questions. Each option is specific and does a thing. In this move format, each key is a keyword to form a prompt that is malleable to the situation at hand.</p>
+<p>It seems to me that it’s its strength and also its weakness.</p>
+<p>None of the options do a specific thing like “replenish a resource, deplete another, change a mechanical situation” etc by writing, but the players at the table would discuss where to fit the keys, fictionally or mechanically, or both.</p>
+<p>So in Be Kind, “heal” could mean “restore your resource or someone else’s”, as well as "re-establish a channel of communication with another.</p>
+<p>Of course, this is all theorycrafting. I feel this stuff needs some serious gauntlet of playtest to see what it does and doesn’t do.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/another-move-idea-for-fantasypunk/7703/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/another-move-idea-for-fantasypunk/7703/5</link>
+        <pubDate>Sat, 01 Jan 2022 20:28:47 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7703-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/another-move-idea-for-fantasypunk/7703.rss">Another move idea for fantasypunk</source>
+      </item>
+      <item>
+        <title>Another move idea for fantasypunk</title>
+        <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="Deodatus" data-post="2" data-topic="7703">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/letter_avatar_proxy/v4/letter/d/ce7236/40.png" class="avatar"> Deodatus:</div>
+<blockquote>
+<p>How will the basic moves differ from each other? Only in the introductory sentences and keys, or more structurally (like in AW)?</p>
+</blockquote>
+</aside>
+<p>Forgot to answer this:<br>
+The basic moves don’t differ much beyond their sentences and keys, no. But the specialized moves will be very specific and unique.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/another-move-idea-for-fantasypunk/7703/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/another-move-idea-for-fantasypunk/7703/4</link>
+        <pubDate>Sat, 01 Jan 2022 02:06:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7703-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/another-move-idea-for-fantasypunk/7703.rss">Another move idea for fantasypunk</source>
+      </item>
+      <item>
+        <title>Another move idea for fantasypunk</title>
+        <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+          <blockquote>
+              <p>Happy new year to you too!</p>
+<p>I am still defining <em>exactly</em> what the keys do, but they have a dietetic function of determining what you can accomplish with the use of a trait, and how, and the meta effect of having the players choose less optimal options from time to time, instead of just takin the best trait and rolling it every time.</p>
+<p>But certain things should be negotiable such as choosing “deescalate” or “trust”, which you could pick to change the tone of an encounter, while “heal” and “treat” should allow you to help an ally recover resources, or have an NPC be treated.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/another-move-idea-for-fantasypunk/7703/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/another-move-idea-for-fantasypunk/7703/3</link>
+        <pubDate>Sat, 01 Jan 2022 02:01:24 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7703-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/another-move-idea-for-fantasypunk/7703.rss">Another move idea for fantasypunk</source>
+      </item>
+      <item>
+        <title>Another move idea for fantasypunk</title>
+        <dc:creator><![CDATA[@Deodatus]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deodatus">@Deodatus</a> wrote:</p>
+          <blockquote>
+              <p>Still looks promising!</p>
+<p>Do keys differ from each other in terms of mechanics, or are they only diegetic (‘fluff’) in nature?</p>
+<p>How will the basic moves differ from each other? Only in the introductory sentences and keys, or more structurally (like in AW)?</p>
+<p>Happy New Year! <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/another-move-idea-for-fantasypunk/7703/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/another-move-idea-for-fantasypunk/7703/2</link>
+        <pubDate>Fri, 31 Dec 2021 20:47:13 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7703-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/another-move-idea-for-fantasypunk/7703.rss">Another move idea for fantasypunk</source>
+      </item>
+      <item>
+        <title>Another move idea for fantasypunk</title>
+        <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+          <blockquote>
+              <p>Hey, folks! Still working toward the completion of <a href="https://thegiftofdice.itch.io/fantasypunk" rel="nofollow noopener">fantasypunk</a> and I came up with an idea for basic moves to replace the current basic moves.</p>
+<p>To keep it short, characters have 5 traits: kind, fierce, curious, precise and insightful.</p>
+<p>The point is to reduce the list of moves to a single per trait move that is directly related to it and should also help players and GMs avoid choice freeze and flipping through rules.</p>
+<p>Here’s an example:</p>
+<blockquote>
+<h2>Be Kind</h2>
+<p>When you are kind, ask the GM or another player what their character needs and ask yourself how you could fulfil that need.</p>
+<p>On a solid hit, choose two keys. On a messy hit choose one. On a miss, brace yourself.</p>
+<p>Keys: heal, treat, aid, relate, bond, deescalate, trust, inspire, support.</p>
+<p>Describe how the keys you picked factor in the outcome.</p>
+</blockquote>
+<p>It’s not written there but you are supposed to roll the kind trait.</p>
+<p>Later down, the specialized moves will be written like: “when you do X, be kind”, in which you are expected to roll back to the basic move and compose the result of your moves.</p>
+<p>Thoughts? Suggestions? Other games that work similarly?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/another-move-idea-for-fantasypunk/7703/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/another-move-idea-for-fantasypunk/7703/1</link>
+        <pubDate>Fri, 31 Dec 2021 19:07:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7703-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/another-move-idea-for-fantasypunk/7703.rss">Another move idea for fantasypunk</source>
+      </item>
+  </channel>
+</rss>

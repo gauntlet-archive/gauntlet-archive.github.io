@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Finding Carcosa -- Questions</title>
+    <link>https://forums.gauntlet-rpg.com/t/finding-carcosa-questions/5318</link>
+    <description>I spent a couple of hours playing Finding Carcosa last night, and really enjoyed it! Thanks to @chapofsteel for the game.
+
+Question 1: Table 4 of Age 1 has two entries which call for both advancing and rolling the d6. I assumed this was a typo and I should just advance it, rather than roll it. Correct?
+
+Question 2: advancing the d4 in Age 4 pushes it to a 1 (and in general, advancing a die at max value pushes it to a 1)? 
+
+Question 3: in Age 4, second page, what Artifact is meant to be associated with the ++ footnote?</description>
+    
+    <lastBuildDate>Wed, 27 May 2020 08:45:34 +0000</lastBuildDate>
+    <category>RPG Chat</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/finding-carcosa-questions/5318.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Finding Carcosa -- Questions</title>
+        <dc:creator><![CDATA[@DavidMorrison]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/davidmorrison">@DavidMorrison</a> wrote:</p>
+          <blockquote>
+              <p>Thanks <a class="mention" href="/u/bryant">@Bryant</a> - really glad you’re enjoying it! This is the first full game I’ve published, so it means a lot to hear it. Thanks for picking up these issues.</p>
+<ol>
+<li>
+<p>It looks like there was a copy and paste issue with the Advance entries from the entry above. On table 4 in Age 1 the only entries for Advance should be: Entry 4 (d4) and Entry 12 (d4). All other lines should be blank.</p>
+</li>
+<li>
+<p>Nope, the dice don;t wrap around. In general, this shouldn’t be an issue (Unless I’ve made a mistake, Advance shouldn’t be present in entries where that dice is already at the highest value). In the event of having to advance a dice due to landing in a duplicate entry, you advance the next dice instead. (So if you land on Age 1 - Table 5 - Event 12, you would normally advance the d12 but can’t, so instead you would advance the d6. If you had also already landed on Age 1 - Table 6 - Event 12, then you would advance the d4 to end up on Age 2 - Table 6 - Event 12.) In specific relation to this, it should be noted Age 4 has a Table 7 that can only be reached by landing on duplicate entries.</p>
+</li>
+<li>
+<p>That’s another copy and paste error - it’s just the duplicate note for the Book of the Dead artifact in Age 3</p>
+</li>
+</ol>
+<p>Hope that clears things up a bit! I’m going to take a bit of time to do a proper close read of the new tables in the book versus my working version, and if I notice any further errata, I’ll post here. (And I also want to say props to the team for taking my sprawling google doc spreadsheet and turning it into something both legible and visually appealing!)</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/finding-carcosa-questions/5318/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/finding-carcosa-questions/5318/2</link>
+        <pubDate>Wed, 27 May 2020 08:45:34 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5318-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/finding-carcosa-questions/5318.rss">Finding Carcosa -- Questions</source>
+      </item>
+      <item>
+        <title>Finding Carcosa -- Questions</title>
+        <dc:creator><![CDATA[@Bryant]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/bryant">@Bryant</a> wrote:</p>
+          <blockquote>
+              <p>I spent a couple of hours playing Finding Carcosa last night, and really enjoyed it! Thanks to <span class="mention">@chapofsteel</span> for the game.</p>
+<p>Question 1: Table 4 of Age 1 has two entries which call for both advancing and rolling the d6. I assumed this was a typo and I should just advance it, rather than roll it. Correct?</p>
+<p>Question 2: advancing the d4 in Age 4 pushes it to a 1 (and in general, advancing a die at max value pushes it to a 1)?</p>
+<p>Question 3: in Age 4, second page, what Artifact is meant to be associated with the ++ footnote?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/finding-carcosa-questions/5318/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/finding-carcosa-questions/5318/1</link>
+        <pubDate>Wed, 27 May 2020 02:36:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5318-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/finding-carcosa-questions/5318.rss">Finding Carcosa -- Questions</source>
+      </item>
+  </channel>
+</rss>

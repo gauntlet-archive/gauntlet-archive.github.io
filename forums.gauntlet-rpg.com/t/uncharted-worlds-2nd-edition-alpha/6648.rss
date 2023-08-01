@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Uncharted Worlds 2nd Edition - Alpha</title>
+    <link>https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648</link>
+    <description>Welcome! This is a thread to discuss the Alpha development of **Uncharted Worlds 2nd Edition**!
+___
+
+**[+++ DOWNLOAD UW2 ALPHA v3 +++](https://www.dropbox.com/s/baoyzjryqercx57/UW2_Alpha_v03.pdf?dl=0)**
+
+[Previous UW2 design thread, preserved for posterity.](https://forums.gauntlet-rpg.com/t/designing-uncharted-worlds-2nd-edition/3117)
+
+----
+
+While the ruleset is playable in its current form, it doesn’t exactly teach you how to play yet. I’m also still working on fleshing a number of secondary rules out for a Beta version. Below is a rough roadmap of systems that still need to be designed (in no particular order).
+
+Definite (in the works):
+* Assets – Weapons, Gear, Cybernetics.
+* * Vehicles
+* * Armor
+* Economy – Purchasing, Selling, Cargo, etc.
+* Experience – Earning XP, Levelling, Career Skills
+
+Potential (might be cut?):
+* Crew/Contractors – NPCs as “Assets”
+* Alien Characters – Rules + balancing
+* Psionics – Supernatural abilities/careers
+
+___
+
+Please feel free to check out the latest alpha document. Take it for a spin, try making a particular character archetype, run a few scenarios for yourself, or even run it for your gaming group if you want. I openly and eagerly welcome any feedback or impressions you all may have! I&#39;ll be trying my hardest to respond to this thread in a timely manner, so by all means post your questions and comments here.</description>
+    
+    <lastBuildDate>Sun, 23 Jul 2023 04:04:34 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Uncharted Worlds 2nd Edition - Alpha</title>
+        <dc:creator><![CDATA[@SeanGomes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/seangomes">@SeanGomes</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="CCCXLII" data-post="81" data-topic="6648" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/cccxlii/40/4803_2.png" class="avatar"> CCCXLII:</div>
+<blockquote>
+<p>The Uncharted Worlds SubReddit might be a good place to post future design stuff.</p>
+</blockquote>
+</aside>
+<p>I’m not quite sure about Reddit. That kind of posting doesn’t really encourage responses or discussion in a way that I can easily parse. I much prefer this forum-ish format here.</p>
+<p>I’ve been checking out The Cauldron, which has a very similar format to this place. It seems pretty active and I’m getting a good vibe so far.</p>
+<p>[Edit] Does anyone follow ttrpg designers on Mastodon? How does that work out? Is it mostly announcements “I’ll be at x convention” or “I’m running a kickstarter” or something like that?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/83">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/83</link>
+        <pubDate>Sun, 23 Jul 2023 04:04:34 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6648-83</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648.rss">Uncharted Worlds 2nd Edition - Alpha</source>
+      </item>
+      <item>
+        <title>Uncharted Worlds 2nd Edition - Alpha</title>
+        <dc:creator><![CDATA[@CCCXLII]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/cccxlii">@CCCXLII</a> wrote:</p>
+          <blockquote>
+              <p>The Uncharted Worlds SubReddit might be a good place to post future design stuff.</p>
+<p>What I’ve always really enjoyed about UW is its character creation. You can come to the game with a unique character concept, and every option you choose to build that character will feel really impactful.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/81">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/81</link>
+        <pubDate>Fri, 21 Jul 2023 17:40:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6648-81</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648.rss">Uncharted Worlds 2nd Edition - Alpha</source>
+      </item>
+      <item>
+        <title>Uncharted Worlds 2nd Edition - Alpha</title>
+        <dc:creator><![CDATA[@SeanGomes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/seangomes">@SeanGomes</a> wrote:</p>
+          <blockquote>
+              <p>When returning to UW2, I ended up taking a pretty big step back from my previous designs. I wanted to see if I could approach the same vibe, but questioning the mechanics and systems behind it. Interestingly, the further I strayed from the original design, the more I questioned certain mechanics, the more I started to get an uneasy “but is this Uncharted Worlds” feeling.</p>
+<p>After multiple iterations, I ended up circling back to a lot of the design decisions that I made originally. Partly because they were indeed the more elegant/simple way of handling things, partly because massive overhauls felt like change for the sake of change, and partly because certain elements were central to the UW that folks enjoyed.</p>
+<p>That said, one thing I am doing is changing the dice. I’ll give you all a moment to collectively gasp.</p>
+<p>The old 2d6: 6- | 7-9 | 10+ has served many a story game well, but the range limited stat bonuses, with each +1 disproportionately skewing the expected results. Additionally, I’ve been very happy with the incorporation of Advantage/Disadvantage as a mechanic (Advantage: 3dice + drop lowest. Disadvantage: 3dice drop highest)</p>
+<p>I’ve crunched the numbers here and thought I’d share. Note that a 0 in this scale is the equivalent of a -1 in a 2d6 system; I just felt that starting the characters at 0 across the board and building them up as they chose origins and careers was more aesthetically pleasing than a downer “-1”.</p>
+<div class="md-table">
+<table>
+<thead>
+<tr>
+<th>2d10</th>
+<th>0</th>
+<th>+1</th>
+<th>+2</th>
+<th>+3</th>
+<th>+4</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>17+</td>
+<td>10%</td>
+<td>15%</td>
+<td>21%</td>
+<td>28%</td>
+<td>36%</td>
+</tr>
+<tr>
+<td>11-16</td>
+<td>45%</td>
+<td>49%</td>
+<td>51%</td>
+<td>51%</td>
+<td>49%</td>
+</tr>
+<tr>
+<td>10-</td>
+<td>45%</td>
+<td>36%</td>
+<td>28%</td>
+<td>21%</td>
+<td>15%</td>
+</tr>
+</tbody>
+</table>
+</div><div class="md-table">
+<table>
+<thead>
+<tr>
+<th>3d10 Drop Low</th>
+<th>0</th>
+<th>+1</th>
+<th>+2</th>
+<th>+3</th>
+<th>+4</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>17+</td>
+<td>23.3%</td>
+<td>32.7%</td>
+<td>42.6%</td>
+<td>52.6%</td>
+<td>62.2%</td>
+</tr>
+<tr>
+<td>11-16</td>
+<td>55.2%</td>
+<td>51.9%</td>
+<td>46.8%</td>
+<td>40.5%</td>
+<td>33.6%</td>
+</tr>
+<tr>
+<td>10-</td>
+<td>21.5%</td>
+<td>15.4%</td>
+<td>10.6%</td>
+<td>6.9%</td>
+<td>4.2%</td>
+</tr>
+</tbody>
+</table>
+</div><div class="md-table">
+<table>
+<thead>
+<tr>
+<th>3d10 Drop High</th>
+<th>0</th>
+<th>+1</th>
+<th>+2</th>
+<th>+3</th>
+<th>+4</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>17+</td>
+<td>2.3%</td>
+<td>4.2%</td>
+<td>6.9%</td>
+<td>10.6%</td>
+<td>15.4%</td>
+</tr>
+<tr>
+<td>11-16</td>
+<td>26.7%</td>
+<td>33.6%</td>
+<td>40.5%</td>
+<td>46.8%</td>
+<td>51.9%</td>
+</tr>
+<tr>
+<td>10-</td>
+<td>71.0%</td>
+<td>62.2%</td>
+<td>52.6%</td>
+<td>42.6%</td>
+<td>32.7%</td>
+</tr>
+</tbody>
+</table>
+</div><p>(For reference, an unmodified 2d6 is 41.6% fail, 41.7% mixed, 16.7% hit)</p>
+<p>Of interesting note, a Balanced roll (2d10, no Advantage or Disadvantage) has a 50% chance for a mixed success / success-with-cost <em>no matter what your stat is</em>, which is quite fortuitous.</p>
+<p>Obviously, I’m going to have to playtest the d10 version to make sure it still feels right, but I’m fairly confident that it will provide me with a few opportunities. (Not the least of which is randomized charts are so much easier to do in a d10 system! And UW has 10 origins and 10 careers, so there could even be a life-path-ish randomized character creation. Just spitballing)</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/80">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/80</link>
+        <pubDate>Fri, 21 Jul 2023 01:15:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6648-80</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648.rss">Uncharted Worlds 2nd Edition - Alpha</source>
+      </item>
+      <item>
+        <title>Uncharted Worlds 2nd Edition - Alpha</title>
+        <dc:creator><![CDATA[@SeanGomes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/seangomes">@SeanGomes</a> wrote:</p>
+          <blockquote>
+              <p>Hi folks. It’s been a while. I’m afraid I’m not very good with social media (god how I miss G+). I’m kinda eyeing Mastadon but I also feel too old and tired to throw myself into yet another social platform. (Anyone here on Mastadon?)</p>
+<p>Firstly, to those who have posted here in the past couple of years: Thank you. I can’t emphasize it enough. Thank you. I appreciate all your kind words, your polite inquiries, your condolences, your understanding. From the bottom of my heart, I appreciate you.</p>
+<p>Secondly: How things are going. More good days, fewer bad ones, emotionally. Still some rough patches. Career’s going well, I’m now a Director of Animation in the video game industry, which has been very rewarding and enjoyable (though it has eaten up a LOT of my time).</p>
+<p>Thirdly: Uncharted Worlds 2. I’ve done a lot of thinking about UW2. Thinking about how it fits into the modern ttrpg space, what value it brings, who it’s for, how I can innovate or bring something new, how I can uphold what folks liked about the original, and so forth. I’ve kinda poked and prodded the design, but I’ve honestly been unable to really commit to a plan of action, and of late I’ve been taking steps back to look at the bigger picture.</p>
+<p>It’s been almost 9 years since I started writing the original (9 years! Almost a decade! My 8-year-old son wasn’t even born yet!). Things have moved on, and there’s so much interesting design in the ttrpg space (for example, Scum and Villainy seems to be handily dominating the Space Opera genre, so I’d have to offer a unique experience or flavor to be worth people’s time).</p>
+<p>I think I’m ready to start writing out my musings in the days ahead, to help me organize my thoughts and see if you folk have any opinions, perspectives, or experiences that could help bring things back into focus. I want UW2 to exist, I just don’t quite know how to get there yet.</p>
+<p>Again, thank you all for your interest. It makes me glad you guys have been enjoying the game. I’ll write more soon, I promise.</p>
+<p>EDIT: I did <strong>NOT</strong> see the announcement that the Gauntlet was closing. Well then. <em>/sad trombone</em></p>
+<p>-SG</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/79">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/79</link>
+        <pubDate>Fri, 14 Jul 2023 01:00:21 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6648-79</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648.rss">Uncharted Worlds 2nd Edition - Alpha</source>
+      </item>
+      <item>
+        <title>Uncharted Worlds 2nd Edition - Alpha</title>
+        <dc:creator><![CDATA[@ClashDB]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/clashdb">@ClashDB</a> wrote:</p>
+          <blockquote>
+              <p>Hopefully <a class="mention" href="/u/seangomes">@SeanGomes</a> will be able to return to designing UW2e some day soon, and another home for development of this game will be found. Lots of good game design insights are to be found in this thread (as well as its original)!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/78">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/78</link>
+        <pubDate>Fri, 07 Jul 2023 00:31:53 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6648-78</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648.rss">Uncharted Worlds 2nd Edition - Alpha</source>
+      </item>
+      <item>
+        <title>Uncharted Worlds 2nd Edition - Alpha</title>
+        <dc:creator><![CDATA[@GreenCat]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/greencat">@GreenCat</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/seangomes">@SeanGomes</a> , just learned about UW 2 after I looked something up for the original. UW grew to become my most favorite Sci-Fi system over the years, and I have converted some players to it from more complex or even traditional Sci-Fi systems. There is just something both simple, refreshing, and compelling about the system that makes it work very well for the kind of play I am looking for.</p>
+<p>I registered on these forums to send you my best wishes: I hope things have been a bit easier for you with time, at the very least. I hope things have calmed down and you have been able to regain a bit of your groove.</p>
+<p>If there is any way to support you, what you do, and the project, please do share. I would be more than happy to chip in to your Patreon or “buy you a coffee” to support you in your future endeavors.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/77">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/77</link>
+        <pubDate>Mon, 05 Jun 2023 21:49:24 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6648-77</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648.rss">Uncharted Worlds 2nd Edition - Alpha</source>
+      </item>
+      <item>
+        <title>Uncharted Worlds 2nd Edition - Alpha</title>
+        <dc:creator><![CDATA[@Deckard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deckard">@Deckard</a> wrote:</p>
+          <blockquote>
+              <p>No pressure <a class="mention" href="/u/seangomes">@SeanGomes</a>…I just was thinking of sci-fi rpgs I’d like to play this year and UW 2nd ed. Then, I was thinking…I hope you are doing better.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/76">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/76</link>
+        <pubDate>Wed, 19 Jan 2022 04:09:56 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6648-76</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648.rss">Uncharted Worlds 2nd Edition - Alpha</source>
+      </item>
+      <item>
+        <title>Uncharted Worlds 2nd Edition - Alpha</title>
+        <dc:creator><![CDATA[@Philippe_Racine]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/philippe_racine">@Philippe_Racine</a> wrote:</p>
+          <blockquote>
+              <p>I Hope you’re taking some time for yourself.</p>
+<p>I took a kick read at your new version and I love the “Less is more” approache. The moves are easier to reference and understand and the options are clear. The Core moves seem universal (have not tested them yet).</p>
+<p>I think you did the right thing with regards to the Wealth tiers. The idea was interesting, but really gave a different vibe than what you’re trying to accomplish.</p>
+<p>I also appreciate the Core move explanation at the end.</p>
+<p>I’m still not sure about the use of Creds vs Acquisition Roll of the first edition. Creds bring some simplicity, without having to make new rules for acquiring stuff/in bulk/how many times can you try to acquire. But the fact that Acquisitions were more vague gave it a narrative feel.</p>
+<p>Have fun and take care. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>-Philippe</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/75">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/75</link>
+        <pubDate>Tue, 30 Nov 2021 14:26:41 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6648-75</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648.rss">Uncharted Worlds 2nd Edition - Alpha</source>
+      </item>
+      <item>
+        <title>Uncharted Worlds 2nd Edition - Alpha</title>
+        <dc:creator><![CDATA[@Alun_R]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alun_r">@Alun_R</a> wrote:</p>
+          <blockquote>
+              <p>Condolences, <a class="mention" href="/u/seangomes">@SeanGomes</a>.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/74">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/74</link>
+        <pubDate>Sat, 20 Nov 2021 15:05:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6648-74</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648.rss">Uncharted Worlds 2nd Edition - Alpha</source>
+      </item>
+      <item>
+        <title>Uncharted Worlds 2nd Edition - Alpha</title>
+        <dc:creator><![CDATA[@argel1200]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/argel1200">@argel1200</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/seangomes">@SeanGomes</a> So sorry to hear about your mother!  My father passed away back in Aug 2014. It was a rough time and he was home for the last week or so. I don’t think exhausting begins to cover it. Prayers and/or best wishes!!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/73">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/73</link>
+        <pubDate>Thu, 18 Nov 2021 22:48:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6648-73</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648.rss">Uncharted Worlds 2nd Edition - Alpha</source>
+      </item>
+      <item>
+        <title>Uncharted Worlds 2nd Edition - Alpha</title>
+        <dc:creator><![CDATA[@SeanGomes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/seangomes">@SeanGomes</a> wrote:</p>
+          <blockquote>
+              <p>Hi folks. Quick update. Sadly, things have been rather down lately. My mom’s year-long bout with cancer is at an end. Long weeks at the hospital, staying overnight at her bedside. Then came the funeral arrangements and family gatherings. And soon the estate, government, and bank stuff. It’s been… exhausting.</p>
+<p>Ironically, those long nights in hospital afforded me a bit of time to write, to get my mind off stuff. It was all rather disjointed, notes-to-self and random snippets, but it passed the time and gave me something to occupy my mind.</p>
+<p>One big thing that I’ve been yearning to finalize are the Core Moves (Face Adversity and Seek Opportunity).</p>
+<p>I’ve got a new pdf here for you to check out, if you have a chance. There’s a bunch of random new stuff in there (the Academic and Commercial career Moves have changed, for example) but the most important part is the Moves section, starting on page 51.</p>
+<p>If I could ask a big favor, could you folks give it a read and tell me if it “scans”, if it makes sense as guidance for how to resolve those Moves? I’d appreciate it.</p>
+<hr>
+<h2><strong><a href="https://www.dropbox.com/s/6qsk3ovpmhvu5dm/UW2_Alpha_v072.pdf?dl=0" rel="nofollow noopener">+++ PDF - UNCHARTED WORLDS 2 - v0.72 +++</a></strong></h2>
+<hr>
+<p>Thank you all for your continued interest in UW2 by the way. Hopefully things will calm down in the coming months, and I’ll be able to finish writing. I think I’m close to flipping that switch from Design to Writing.</p>
+<p>-SG</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/72">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/72</link>
+        <pubDate>Thu, 18 Nov 2021 22:07:49 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6648-72</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648.rss">Uncharted Worlds 2nd Edition - Alpha</source>
+      </item>
+      <item>
+        <title>Uncharted Worlds 2nd Edition - Alpha</title>
+        <dc:creator><![CDATA[@Deckard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deckard">@Deckard</a> wrote:</p>
+          <blockquote>
+              <p>Ah shit!  I’m sorry to see this.  I hope that the treatments are going as well as can be expected.  F*ck cancer!  More prayers and best wishes.  The nice thing about this sort of project is it will still be here when you are ready to get back to it.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/71">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/71</link>
+        <pubDate>Wed, 17 Nov 2021 06:02:36 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6648-71</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648.rss">Uncharted Worlds 2nd Edition - Alpha</source>
+      </item>
+      <item>
+        <title>Uncharted Worlds 2nd Edition - Alpha</title>
+        <dc:creator><![CDATA[@Philippe_Racine]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/philippe_racine">@Philippe_Racine</a> wrote:</p>
+          <blockquote>
+              <p>It’s definitely something I could make use of/inspire myself of. There are a couple of useful ideas here <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> Thanks for sharing!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/70">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/70</link>
+        <pubDate>Tue, 02 Nov 2021 15:32:35 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6648-70</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648.rss">Uncharted Worlds 2nd Edition - Alpha</source>
+      </item>
+      <item>
+        <title>Uncharted Worlds 2nd Edition - Alpha</title>
+        <dc:creator><![CDATA[@Alun_R]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alun_r">@Alun_R</a> wrote:</p>
+          <blockquote>
+              <p>Everything that Sean currently has is in the link at the top of this thread.<br>
+There’s nothing much on ships so far and I don’t think there’s a paper character sheet.<br>
+Here’s the link to the online character keeper I used for a playtest, if it’s any use to you:<br>
+<aside class="onebox googledocs">
+  <header class="source">
+      <a href="https://docs.google.com/spreadsheets/d/1EA2NzhEdpI__vPtXyVSRSeD_UFs72glKsrjgoiOtF0E/edit?usp=drivesdk" target="_blank">docs.google.com</a>
+  </header>
+  <article class="onebox-body">
+    <a href="https://docs.google.com/spreadsheets/d/1EA2NzhEdpI__vPtXyVSRSeD_UFs72glKsrjgoiOtF0E/edit?usp=drivesdk" target="_blank"><span class="googledocs-onebox-logo g-sheets-logo"></span></a>
+
+<h3><a href="https://docs.google.com/spreadsheets/d/1EA2NzhEdpI__vPtXyVSRSeD_UFs72glKsrjgoiOtF0E/edit?usp=drivesdk" target="_blank">Uncharted Worlds 2E Traveller</a></h3>
+
+<p>CATS
+
+INTRODUCTION,This is a playtest of the most recent iteration of Uncharted Worlds 2nd Edition, by Sean Gomes. I have a nostalgic itch to scratch as Black Box Traveller was the first RPG I ever played back in late 1976. Specifically I'm making...</p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/69">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/69</link>
+        <pubDate>Mon, 01 Nov 2021 17:44:53 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6648-69</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648.rss">Uncharted Worlds 2nd Edition - Alpha</source>
+      </item>
+      <item>
+        <title>Uncharted Worlds 2nd Edition - Alpha</title>
+        <dc:creator><![CDATA[@HorstWurst]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/horstwurst">@HorstWurst</a> wrote:</p>
+          <blockquote>
+              <p>pinging <a class="mention" href="/u/alun_r">@Alun_R</a> who has 2e playtesting material (I think).</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/68">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/68</link>
+        <pubDate>Mon, 01 Nov 2021 17:42:03 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6648-68</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648.rss">Uncharted Worlds 2nd Edition - Alpha</source>
+      </item>
+      <item>
+        <title>Uncharted Worlds 2nd Edition - Alpha</title>
+        <dc:creator><![CDATA[@Philippe_Racine]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/philippe_racine">@Philippe_Racine</a> wrote:</p>
+          <blockquote>
+              <p>Hi everyone!</p>
+<p>I’m looking around and can’t find it, so I’ll ask the forum crowd. Are there 2e Character/Ship Sheets? I’m looking forward to DMing 2e, but I can’t find those and they would be quite handy.</p>
+<p>Thanks a lot and have a great day!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/67">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/67</link>
+        <pubDate>Mon, 01 Nov 2021 17:25:27 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6648-67</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648.rss">Uncharted Worlds 2nd Edition - Alpha</source>
+      </item>
+      <item>
+        <title>Uncharted Worlds 2nd Edition - Alpha</title>
+        <dc:creator><![CDATA[@argel1200]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/argel1200">@argel1200</a> wrote:</p>
+          <blockquote>
+              <p>Prayers and best wishes <a class="mention" href="/u/seangomes">@SeanGomes</a>!!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/66">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/66</link>
+        <pubDate>Fri, 15 Oct 2021 14:00:17 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6648-66</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648.rss">Uncharted Worlds 2nd Edition - Alpha</source>
+      </item>
+      <item>
+        <title>Uncharted Worlds 2nd Edition - Alpha</title>
+        <dc:creator><![CDATA[@Philippe_Racine]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/philippe_racine">@Philippe_Racine</a> wrote:</p>
+          <blockquote>
+              <p>Québec en fait <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/stuck_out_tongue.png?v=9" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></p>
+<p>Prend surtout soin de toi. Pour avoir vécu une situation similaire dernièrement, je peux comprendre à quel point c’est de la marde. Y a aucune presse, et sache que tu as du support.</p>
+<p>Je vais avoir bien hâte que tu nous revienne en force! Entre temps, je vais profiter de ta première édition, de la alpha et faire du homebrew <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"></p>
+<p>À bientôt! <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/65">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/65</link>
+        <pubDate>Wed, 13 Oct 2021 17:09:51 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6648-65</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648.rss">Uncharted Worlds 2nd Edition - Alpha</source>
+      </item>
+      <item>
+        <title>Uncharted Worlds 2nd Edition - Alpha</title>
+        <dc:creator><![CDATA[@Alun_R]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alun_r">@Alun_R</a> wrote:</p>
+          <blockquote>
+              <p>Look after yourself and those who matter <a class="mention" href="/u/seangomes">@SeanGomes</a> - we’ll see you when we can.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/64">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/64</link>
+        <pubDate>Tue, 05 Oct 2021 17:30:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6648-64</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648.rss">Uncharted Worlds 2nd Edition - Alpha</source>
+      </item>
+      <item>
+        <title>Uncharted Worlds 2nd Edition - Alpha</title>
+        <dc:creator><![CDATA[@SeanGomes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/seangomes">@SeanGomes</a> wrote:</p>
+          <blockquote>
+              <p>Hi folks. Very brief announcement that development is on hold for now, due to family-medical-stuff that has left me utterly drained of motivation and energy (f*ck cancer! ugh)</p>
+<p><a class="mention" href="/u/philippe_racine">@Philippe_Racine</a> Ah, salut, bienvenu! Je me demandais honetement si quelq’un de Montreal jouait au jeu apres les ComicCon. 'Scuse que t’est pas tombé sur un bon moment pour moi, mais quand les choses vont se calmer je serais la pour en parler plus.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/63">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/63</link>
+        <pubDate>Tue, 05 Oct 2021 03:52:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6648-63</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648.rss">Uncharted Worlds 2nd Edition - Alpha</source>
+      </item>
+      <item>
+        <title>Uncharted Worlds 2nd Edition - Alpha</title>
+        <dc:creator><![CDATA[@Alun_R]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alun_r">@Alun_R</a> wrote:</p>
+          <blockquote>
+              <p>Welcome to the community <a class="mention" href="/u/philippe_racine">@Philippe_Racine</a> - I ran sessions with <a class="mention" href="/u/seangomes">@SeanGomes</a> work in progress and we had a great time.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/62">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/62</link>
+        <pubDate>Fri, 01 Oct 2021 18:08:21 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6648-62</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648.rss">Uncharted Worlds 2nd Edition - Alpha</source>
+      </item>
+      <item>
+        <title>Uncharted Worlds 2nd Edition - Alpha</title>
+        <dc:creator><![CDATA[@Philippe_Racine]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/philippe_racine">@Philippe_Racine</a> wrote:</p>
+          <blockquote>
+              <p>Hi,<br>
+I bought the first Edition at Montreal Comiccon a couple years ago, and only in the last months started to look into it. I just finished a Savage Worlds campaign, based in the Halo universe. I like a good crunch side to my games, and I have to say, your game looks like a great balance. I never felt at home with the Apocalypse world clocks, so not any, made me quite happy. I’m eager to see the road you take with the 2nd edition. So far, I like what I see.</p>
+<p>My next campaign will be running on a hybrid of first and second edition. I’ll keep you posted on any bug and stuff I would like to see.</p>
+<p>Thank you for your great work and have a good day.</p>
+<p>-Philippe</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/61">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/61</link>
+        <pubDate>Fri, 01 Oct 2021 16:19:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6648-61</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648.rss">Uncharted Worlds 2nd Edition - Alpha</source>
+      </item>
+      <item>
+        <title>Uncharted Worlds 2nd Edition - Alpha</title>
+        <dc:creator><![CDATA[@Alun_R]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alun_r">@Alun_R</a> wrote:</p>
+          <blockquote>
+              <p>Welcome to the community <a class="mention" href="/u/albx79">@albx79</a> - glad you found this thread.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/60">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/60</link>
+        <pubDate>Tue, 07 Sep 2021 19:35:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6648-60</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648.rss">Uncharted Worlds 2nd Edition - Alpha</source>
+      </item>
+      <item>
+        <title>Uncharted Worlds 2nd Edition - Alpha</title>
+        <dc:creator><![CDATA[@albx79]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/albx79">@albx79</a> wrote:</p>
+          <blockquote>
+              <p>Old time player here, I was a funder in the original kickstarter and ran a quick campaign with my group once. I’ve just found out about this thread (after the G+ diaspora I had lost track of Sean), and read it all in a couple of days (including its precursor thread)!</p>
+<p>Let me just say that I’m still in love with the original game, and I’m even more in love with the direction v2 is taking. I agree 100% with the post-mortem Sean did. So, really, I’m just here to give my moral support, and to ask if there are any updates.</p>
+<p>Also, I was wondering if you would count Farscape among the series that have inspured Uncharted Worlds, or could inspire UWII. I think it was a really imaginative series, but it could have used a bit more grounding and a few more bucks.</p>
+<p>And finally (I promise!), we really liked the leadership rules in UW. The ship’s “captain” had a small squad of marines. It was good fun having them interact with the crew, and be red-shirts in the horror episode. I used them as I would use the biker’s gang from Apocalypse World, which I think is an excellent way to portray secondary characters aligned with the PCs.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/59">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/59</link>
+        <pubDate>Sat, 04 Sep 2021 09:05:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6648-59</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648.rss">Uncharted Worlds 2nd Edition - Alpha</source>
+      </item>
+      <item>
+        <title>Uncharted Worlds 2nd Edition - Alpha</title>
+        <dc:creator><![CDATA[@argel1200]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/argel1200">@argel1200</a> wrote:</p>
+          <blockquote>
+              <p>I like the movie way of thinking of it, but I also kind of agree with Professor Dungeon Master from DungeonCraft that levels are mostly illusory (PCs fighter tougher opponents) and make it harder for the GM to plan as levels go up. Of course, he’s talking about D&amp;D where it’s a real problem. I see it in our system (FAST) too, and our GM in our dungeon crawl had to start giving out consumables to reign in the power creep from giving out too many magic items.</p>
+<p>Our 1950s Super Heroes game has been going for  I think five years now. One of our GMs was running a Victorian era gothic campaign for I think a couple decades. Multiple characters for that one, and some of us joined in for the second round of characters. He eventually connected this campaign in together with his Pulp campaign, and he had a 20 year anniversary finale where time merged and we played both of our characters in the big final battle/effort to stop the ritual and save the world.</p>
+<p>We have had shorter campaigns, and we have a couple settings where we just have a map with several locations and the GM mostly makes things up on the fly. We sort of treat those as one-offs but we’ve never gone back to the same place twice yet. Our GM actually started a campaign during the lockdowns last year for one of those. So they’ve been running for a couple years. Sounds like they could be a better fit for PbtA.</p>
+<p>I just picked up the Starfinder Humble Bundle and have to admit it’s an interesting setting, hence my interest in Far Beyond Humanity for 2E. Might be running this for some new-to-RPG players.</p>
+<p>Anyway, so I’m looking for systems that can work for one-offs, for short campaigns, and long campaigns. But for the long campaigns, I want to avoid too much power creep.</p>
+<p>Edit: And to tie this back to UW 2E, that’s why I’m interested in a lighter-weight economy. I’m looking for something that gives some sense of progression at the end of the session but doesn’t involve much upkeep or power creep.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/58">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648/58</link>
+        <pubDate>Fri, 20 Aug 2021 19:06:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6648-58</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/uncharted-worlds-2nd-edition-alpha/6648.rss">Uncharted Worlds 2nd Edition - Alpha</source>
+      </item>
+  </channel>
+</rss>

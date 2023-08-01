@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Seeking brevity readers for QUARREL AND FABLE quickstart</title>
+    <link>https://forums.gauntlet-rpg.com/t/seeking-brevity-readers-for-quarrel-and-fable-quickstart/3882</link>
+    <description>**Quarrel and Fable** *is my British OSR game that&#39;s been out for a couple of years now, hearkening back to the UK gamebook craze of the fin de siecle.  The digital rules are forever free, but I&#39;m working on a paper quickstart that&#39;ll be a single sheet total.  This is the first draft of that — it&#39;ll be packaged with a short wilderness module and four pregen characters.*
+
+*I&#39;m largely seeking input on its brevity and clarity — does this make sense from a first read, considering you&#39;d be able to tear off and distribute some small character sheets too?*
+
+---
+
+## QUARREL AND FABLE QUICKSTART
+
+Tell stories where YOU are the hero — with only three dice, a pencil, and an eraser. 
+
+---
+
+### Unified resolution
+
+- To achieve an uncertain outcome in a risky situation, roll 2D6 equal to or higher than 9.  This is known as *Testing your Mettle*. 
+- If you have an *advantage*, roll 3D6 and sum the highest two.  If you would gain *advantage* from multiple sources, the situation is no longer risky and you succeed without needing to roll.
+- Combat has a slight variation.  Instead of rolling to hit 9, you need to hit your target&#39;s SKILL or higher: success means you inflict damage on them, failure means they inflict damage on you. In combat, whichever side is smaller gets to act first.
+
+### Three stat system
+
+- SKILL is a catchall measure of martial prowess.  You gain *advantage* when attacking a foe with lower SKILL than your own. 
+- STAMINA dictates longevity and resilience.  Damage you take reduces your STAMINA: if it falls to 0, you fall unconscious; if it falls below 0, you die. 
+- LUCK is self-explanatory.  You may spend a point of LUCK to give *advantage* to any time you *Test your Mettle*.  You can also spend *Special Skill* points in the same way, if the situation is within the remit of the skill. 
+
+### No more Vancian magic 
+
+- Instead of characters, players must memorise the spells by their three letter codes.  Players cannot refer to this list during play.  Players can&#39;t cast non-existent spells: they lose D6^ STAMINA instead. 
+
+**NAD** — *Spend 1 STAMINA.  Thirty seconds later, one ignited source expends all of its energy in a single moment.*
+
+**YAD** — *Spend D6v STAMINA.  Push one creature three feet in any direction.*
+
+**YIP** — *Spend D6v STAMINA.  Summon the shadow of a small dog that lasts until the next dawn.  It loudly barks at unfamiliar people or strange smells.*
+
+- D6v is the lowest of 2D6; D6^ is the highest of 2D6</description>
+    
+    <lastBuildDate>Wed, 06 Nov 2019 16:03:50 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/seeking-brevity-readers-for-quarrel-and-fable-quickstart/3882.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Seeking brevity readers for QUARREL AND FABLE quickstart</title>
+        <dc:creator><![CDATA[@rredmond]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rredmond">@rredmond</a> wrote:</p>
+          <blockquote>
+              <p>Gotcha. I’m a AD&amp;D 1E guy, so pretty pro-Vancian <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> But I enjoy learning how other systems do the casting spells piece. Even though I’m old I can learn. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/smiley.png?v=9" title=":smiley:" class="emoji" alt=":smiley:"> Thanks for the clarifications <a class="mention" href="/u/dominik">@dominik</a>!<br>
+Be well,<br>
+–Ron–</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/seeking-brevity-readers-for-quarrel-and-fable-quickstart/3882/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/seeking-brevity-readers-for-quarrel-and-fable-quickstart/3882/6</link>
+        <pubDate>Wed, 06 Nov 2019 16:03:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3882-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/seeking-brevity-readers-for-quarrel-and-fable-quickstart/3882.rss">Seeking brevity readers for QUARREL AND FABLE quickstart</source>
+      </item>
+      <item>
+        <title>Seeking brevity readers for QUARREL AND FABLE quickstart</title>
+        <dc:creator><![CDATA[@dominik]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dominik">@dominik</a> wrote:</p>
+          <blockquote>
+              <p>Based on the full text - no, they can’t, either you know what you’re doing or problems ensue. All spells are three letters long and you can easily remember them BUT you have to satisfy conditions for the spell to work or bad things happen. If a spell needs depleted torch and you don’t have it - bad luck. Some names are clever like YUM poisoning food. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"></p>
+<p>This doubles down on Maze Rats anti-dnd (or anti-Vancian, label correct but IMO very obscure) magic system. This is probably also why it states that YOU are the hero - either you remember things or you don’t.</p>
+<p>As for special skills - they only seem to affect mettle tests and are featured during character creation and advancement. In terms of mechanics they are more like implanted artifacts that give you advantages. You never roll against them (like you would against skill) and don’t get externaly affected (like stamina) but act like a separate source of luck (hence the line in the next secrion about multiple sources of advantage: luck, special skill, gear). But this is my addition to the onepager so you may be right that it’s confusing.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/seeking-brevity-readers-for-quarrel-and-fable-quickstart/3882/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/seeking-brevity-readers-for-quarrel-and-fable-quickstart/3882/5</link>
+        <pubDate>Wed, 06 Nov 2019 15:38:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3882-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/seeking-brevity-readers-for-quarrel-and-fable-quickstart/3882.rss">Seeking brevity readers for QUARREL AND FABLE quickstart</source>
+      </item>
+      <item>
+        <title>Seeking brevity readers for QUARREL AND FABLE quickstart</title>
+        <dc:creator><![CDATA[@rredmond]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rredmond">@rredmond</a> wrote:</p>
+          <blockquote>
+              <p>The magic system is really interesting. Players never have time to refer to the list during play? Can they refer to their own notes?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/seeking-brevity-readers-for-quarrel-and-fable-quickstart/3882/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/seeking-brevity-readers-for-quarrel-and-fable-quickstart/3882/4</link>
+        <pubDate>Wed, 06 Nov 2019 15:19:18 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3882-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/seeking-brevity-readers-for-quarrel-and-fable-quickstart/3882.rss">Seeking brevity readers for QUARREL AND FABLE quickstart</source>
+      </item>
+      <item>
+        <title>Seeking brevity readers for QUARREL AND FABLE quickstart</title>
+        <dc:creator><![CDATA[@rredmond]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rredmond">@rredmond</a> wrote:</p>
+          <blockquote>
+              <p>I have never heard of this system before, it’s quite interesting.<br>
+I agree with dominik that swapping <strong>TSS</strong> and <strong>UR</strong> helps the flow, I wouldn’t worry about <em>Testing your Mettle</em> because it’s explained really soon after being mentioned in the first section. My only additional comment (coming from someone who doesn’t know the system) is that shouldn’t this bit:</p>
+<aside class="quote no-group" data-post="2" data-topic="3882">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/dominik/40/2733_2.png" class="avatar"> dominik:</div>
+<blockquote>
+<p><em>Persuasion</em> and <em>Balance</em> would be examples of a Special Skill</p>
+</blockquote>
+</aside>
+<p>Be in the SKILL line at the beginning of the <strong>Three stat system</strong>, instead of on the LUCK line at the end?<br>
+Be well and good luck!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/seeking-brevity-readers-for-quarrel-and-fable-quickstart/3882/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/seeking-brevity-readers-for-quarrel-and-fable-quickstart/3882/3</link>
+        <pubDate>Wed, 06 Nov 2019 15:17:38 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3882-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/seeking-brevity-readers-for-quarrel-and-fable-quickstart/3882.rss">Seeking brevity readers for QUARREL AND FABLE quickstart</source>
+      </item>
+      <item>
+        <title>Seeking brevity readers for QUARREL AND FABLE quickstart</title>
+        <dc:creator><![CDATA[@dominik]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dominik">@dominik</a> wrote:</p>
+          <blockquote>
+              <p>//edit: edited with some answers of my own after reading Q&amp;F pdf</p>
+<p>It was hard for me to understand <em>Unified resolution</em> section before reading the <em>Three stat system</em> one so I’d definitely change their order. This leaves reader with a single unknown term - Testing your Mettle - while reading the first section. This can be remedied by noting that mettle and advantages are core things to handle in the system up there in the “Tell stories where…” section. I’d also use 2D6H and 2D6L instead of v^ notation (even if they will be represented with a pictogram in print, which I’m sure they will) and put asterisk the first time any of these is used. <em>(update: actually I like double arrows you’re using, they do work despite me thinking that whey wouldn’t; I’ll keep the HL notation in though)</em></p>
+<p>Some questions IMO unanswered by the onepager:</p>
+<ol>
+<li>What’s a special skill? <em>(update: added example to the quickstart)</em>
+</li>
+<li>Damage is deducted from stamina but how is it measured? <em>(update: added info to the quickstart)</em>
+</li>
+<li>Only one point of luck can be spent per test?</li>
+<li>Can luck points be used in TyM tests exclusively or can they be used in combat as well? What about special skill?</li>
+</ol>
+<p>Ignoring the unknowns, I’d structure this one pager somewhat like this:</p>
+<hr>
+<h2>QUARREL AND FABLE QUICKSTART</h2>
+<p>Tell stories where YOU are the hero — with only three dice, a pencil, and an eraser. Gain strategic <em>advantages</em> through careful play to increase chances of success in risky situations that demand that you <em>Test your Mettle</em>.</p>
+<h3>Three stat system</h3>
+<ul>
+<li>SKILL is a catchall measure of martial prowess. You gain <em>advantage</em> when attacking a foe with lower SKILL than your own.</li>
+<li>STAMINA dictates longevity and resilience. Damage you take reduces your STAMINA: if it falls to 0, you fall unconscious; if it falls below 0, you die. Damage is typically determined by the weapon used.</li>
+<li>LUCK points are spent (one at a time (?)) to gain <em>advantage</em> any time you <em>Test your Mettle</em>. You can also spend <em>Special Skill</em> points in the same way, if the situation is within the remit of the skill. <em>Persuasion</em> and <em>Balance</em> would be examples of a Special Skill.</li>
+</ul>
+<h3>Unified resolution</h3>
+<ul>
+<li>To learn an outcome of a risky situation, roll 2D6 equal to or higher than 9. This is known as <em>Testing your Mettle</em>.</li>
+<li>When <em>Testing your Mettle</em> in combat instead of rolling to hit 9, you need to hit your target’s SKILL or higher: success means you inflict damage on them, failure means they inflict damage on you. In combat, whichever side is smaller gets to act first.</li>
+<li>If you have an <em>advantage</em>, roll 3D6 and sum the highest two. If you would gain <em>advantage</em> from multiple sources, the situation is no longer risky and you succeed without needing to roll.</li>
+</ul>
+<h3>No more Vancian magic</h3>
+<ul>
+<li>Instead of characters, players must memorise spells by their three letter codes. Players cannot refer to this list during play. Players can’t cast non-existent spells: they lose 2D6H* STAMINA instead.</li>
+</ul>
+<p><strong>NAD</strong> — <em>Spend 1 STAMINA. Thirty seconds later, one ignited source expends all of its energy in a single moment.</em></p>
+<p><strong>YAD</strong> — <em>Spend 2D6L* STAMINA. Push one creature three feet in any direction.</em></p>
+<p><strong>YIP</strong> — <em>Spend 2D6L STAMINA. Summon the shadow of a small dog that lasts until the next dawn. It loudly barks at unfamiliar people or strange smells.</em></p>
+<p>* 2D6L is the lowest of 2D6; 2D6H is the highest of 2D6</p>
+<hr>
+<p>On a separate note: original game, I think, had counter attacks that required additional roll, no? <em>(update: no, it was only a matter of who deals damage)</em> And I’ve got to say, I like this system very much.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/seeking-brevity-readers-for-quarrel-and-fable-quickstart/3882/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/seeking-brevity-readers-for-quarrel-and-fable-quickstart/3882/2</link>
+        <pubDate>Tue, 05 Nov 2019 19:13:56 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3882-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/seeking-brevity-readers-for-quarrel-and-fable-quickstart/3882.rss">Seeking brevity readers for QUARREL AND FABLE quickstart</source>
+      </item>
+      <item>
+        <title>Seeking brevity readers for QUARREL AND FABLE quickstart</title>
+        <dc:creator><![CDATA[@seanFsmith]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/seanfsmith">@seanFsmith</a> wrote:</p>
+          <blockquote>
+              <p><strong>Quarrel and Fable</strong> <em>is my British OSR game that’s been out for a couple of years now, hearkening back to the UK gamebook craze of the fin de siecle.  The digital rules are forever free, but I’m working on a paper quickstart that’ll be a single sheet total.  This is the first draft of that — it’ll be packaged with a short wilderness module and four pregen characters.</em></p>
+<p><em>I’m largely seeking input on its brevity and clarity — does this make sense from a first read, considering you’d be able to tear off and distribute some small character sheets too?</em></p>
+<hr>
+<h2>QUARREL AND FABLE QUICKSTART</h2>
+<p>Tell stories where YOU are the hero — with only three dice, a pencil, and an eraser.</p>
+<hr>
+<h3>Unified resolution</h3>
+<ul>
+<li>To achieve an uncertain outcome in a risky situation, roll 2D6 equal to or higher than 9.  This is known as <em>Testing your Mettle</em>.</li>
+<li>If you have an <em>advantage</em>, roll 3D6 and sum the highest two.  If you would gain <em>advantage</em> from multiple sources, the situation is no longer risky and you succeed without needing to roll.</li>
+<li>Combat has a slight variation.  Instead of rolling to hit 9, you need to hit your target’s SKILL or higher: success means you inflict damage on them, failure means they inflict damage on you. In combat, whichever side is smaller gets to act first.</li>
+</ul>
+<h3>Three stat system</h3>
+<ul>
+<li>SKILL is a catchall measure of martial prowess.  You gain <em>advantage</em> when attacking a foe with lower SKILL than your own.</li>
+<li>STAMINA dictates longevity and resilience.  Damage you take reduces your STAMINA: if it falls to 0, you fall unconscious; if it falls below 0, you die.</li>
+<li>LUCK is self-explanatory.  You may spend a point of LUCK to give <em>advantage</em> to any time you <em>Test your Mettle</em>.  You can also spend <em>Special Skill</em> points in the same way, if the situation is within the remit of the skill.</li>
+</ul>
+<h3>No more Vancian magic</h3>
+<ul>
+<li>Instead of characters, players must memorise the spells by their three letter codes.  Players cannot refer to this list during play.  Players can’t cast non-existent spells: they lose D6^ STAMINA instead.</li>
+</ul>
+<p><strong>NAD</strong> — <em>Spend 1 STAMINA.  Thirty seconds later, one ignited source expends all of its energy in a single moment.</em></p>
+<p><strong>YAD</strong> — <em>Spend D6v STAMINA.  Push one creature three feet in any direction.</em></p>
+<p><strong>YIP</strong> — <em>Spend D6v STAMINA.  Summon the shadow of a small dog that lasts until the next dawn.  It loudly barks at unfamiliar people or strange smells.</em></p>
+<ul>
+<li>D6v is the lowest of 2D6; D6^ is the highest of 2D6</li>
+</ul>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/seeking-brevity-readers-for-quarrel-and-fable-quickstart/3882/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/seeking-brevity-readers-for-quarrel-and-fable-quickstart/3882/1</link>
+        <pubDate>Tue, 05 Nov 2019 17:13:28 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3882-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/seeking-brevity-readers-for-quarrel-and-fable-quickstart/3882.rss">Seeking brevity readers for QUARREL AND FABLE quickstart</source>
+      </item>
+  </channel>
+</rss>

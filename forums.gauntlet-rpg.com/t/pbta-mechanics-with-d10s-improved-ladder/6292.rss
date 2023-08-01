@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>PbtA Mechanics with d10s - improved &quot;ladder&quot;</title>
+    <link>https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292</link>
+    <description>I was fooling around with dice and math recently, comparing Blades in the Dark to the standard PbtA 2d6 roll, and I found a really neat spot where they line up.
+
+If you use something like Blades in the Dark dice pools with ten-sided dice, you get very similar probabilities to 2d6+adds rolls, but with more room for differentiation in the &quot;sweet spot&quot; of +1 to +3 stats.
+
+This seems like a natural fit for PbtA design: you get slightly less granularity in the &quot;low end&quot; of the scale, but a bit more in the &quot;sweet spot&quot;, where most PCs live.
+
+*Of course, you need to have d10s on hand, which may limit its utility for some - certainly, they are not as easy to find as 2d6.*
+
+I&#39;ll explain:
+
+*** The Proposed Mechanic ***
+
+Roll a pool of d10&#39;s. Look at your highest result.
+
+On a 7 or lower, it&#39;s a failure.
+On an 8 or 9, it&#39;s a partial success.
+On a 10, it&#39;s a full success.
+
+(Optionally, additional 10&#39;s are some kind of critical result - they will be rare!)
+
+To match PbtA odds, we&#39;re rolling from 1d to 7d, for seven discrete steps, in the usual scale of the game. However, since additional dice give diminishing returns, we can continue to 8d or more, as desired, without ever leaving the desired range. It scales nicely up to about 10d, which happens to match a +4 almost perfectly.
+
+This means that PbtA&#39;s -2 to +4 range (seven discrete steps) converts to a 1d to 10d range (ten discrete steps), but with all the granularity at the &quot;top end&quot;, where &quot;character competence&quot; lives.
+
+If you&#39;re designing a PbtA game where you want incremental character improvement (granted, it&#39;s not the most interesting or fulfilling part of most PbtA games, but there may be a place for more small-steps character development in a particular design), you now have - for example - the equivalent of three separate steps between +3 and +4.
+
+Let&#39;s look in more detail:
+
+*** Comparing Odds ***
+
+The odds are very similar at a few places.
+
+For example, 1d is quite similar to rolling a -2 stat, but with improved odds of a 10+.
+
+(I&#39;m rounding off the odds here.)
+
+**2d6 - 2**
+miss - 72%
+7-9   - 25%
+10+  - 3%
+
+**1d10**
+miss - 70%
+8-9   - 20%
+10    - 10%
+
+I&#39;d argue that this is a more &quot;interesting&quot; distribution, as well, with its increased odds of a 10+/full success.
+
+Now, we have reduced definition through what would be the -1 to +1 zone: there are only two steps here, 2d and 3d (instead of PbtA&#39;s three steps: -1, 0, and +1). 
+
+Rolling 2d is pretty similar to rolling a straight 2d6, no adds (like a +0 stat), but with slightly more misses and full successes and fewer partial successes (~10% fewer). (Personally, I like the volatility here: almost 50% chance of a miss is worse than 2d6+0, but not as punishing as 2d6-1, but our odds of a 10+ are 19%, more than either. It&#39;s very similar to rolling a single die in Blades in the Dark - tense, and the odds are against you, but there are lots of opportunity for success, as well.)
+
+Rolling three dice turns out to be quite similar to rolling at +1:
+
+**2d6 + 1**
+miss - 28%
+7-9   - 44%
+10+  - 28%
+
+**3d10**
+miss - 34%
+8-9   - 39%
+10    - 27%
+
+*This is a really good &quot;baseline&quot; for PbtA rolls; if you&#39;re using this mechanic, I&#39;d advise 3d as the baseline or default roll - just a little worse than a +1 is perfect for most PbtA designs, or a for an average starting stat.*
+
+4d is similar, but just as 3d is like a +1 but very slightly worse, 4d is like a +1 but very slightly better. We effectively have two different &quot;+1&quot;-like rolls available to us, at 3d and 4d. (4d&#39;s distribution is almost the same as 3d&#39;s, but reverse the odds of a miss and a full success.)
+
+From here, things get interesting, though, as in the 4d to 8d range, our partial successes always stay in the 40%-ish range (from 38% to 42%). This tends to be ideal for PbtA, and the range where we tend to play (for most characters and abilities).
+
+While with 2d6, our next step up - (2d6 + 2) - would be just one step forward, with d10s we get a match two steps further, at 5d, and here the match is within 1%!
+
+**2d6 + 2**
+miss - 17%
+7-9   - 42%
+10+  - 42%
+
+**5d10**
+miss - 17%
+8-9   - 42%
+10    - 41%
+
+Then, in PbtA, one more point of improvement would take us to +3. Here, however, with d10s we have room for two more steps - 6d and 7d.
+
+7d turns out to be almost identical to rolling 2d6+3 (with, arguably, a slightly more interesting distribution).
+
+**2d6 + 3**
+miss - 8%
+7-9   - 33%
+10+  - 58%
+
+**7d10**
+miss - 8%
+8-9   - 40%
+10    - 52%
+
+At this point is where PbtA tends to top out, although some games like to give the opportunity for occasional +4 stats. +4 is so unlikely to miss, however, that it&#39;s a rare game where it&#39;s desirable to ever roll at +4.
+
+With d10 pools, though, we now have *three more steps* available to us before we hit that point.
+
+Rolling at +4 in PbtA is almost exactly like rolling 10d with this method (with, arguably, a slightly more interesting distribution, again):
+
+**2d6 + 4**
+miss - 3%
+7-9   - 25%
+10+  - 72%
+
+**10d10**
+miss - 3%
+8-9   - 32%
+10    - 65%
+
+Having three extra &quot;steps&quot; as you move from the equivalent of a +3 (where characters should probably top out) to the equivalent of a +4 (for occasional rolls where you&#39;ve really milked all available advantages) could be good for games where slight, incremental improvement is desirable (you want players to keep chasing those XPs), or you want to be able to pile up bonuses (since each additional die offers diminishing returns), so I think it offers some interesting possibilities for designers.
+
+I&#39;ll leave this here, in case it inspires anyone with something useful. 
+
+The universal appeal of 2d6 is hard to beat, but this requires no math (quicker read of the roll) and could be useful for designs where playing with bonuses, skills, or advantages in the +1 to +4 range is a focus of the game. Instead having only three steps in that range, you now have six or seven, and you can design mechanics which add together dice pools with less fear of &quot;bottoming out&quot;.</description>
+    
+    <lastBuildDate>Tue, 11 Jul 2023 20:25:33 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>PbtA Mechanics with d10s - improved &quot;ladder&quot;</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>This is a good question. I’m considering it - it would be nice!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/56">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/56</link>
+        <pubDate>Tue, 11 Jul 2023 20:25:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6292-56</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292.rss">PbtA Mechanics with d10s - improved &quot;ladder&quot;</source>
+      </item>
+      <item>
+        <title>PbtA Mechanics with d10s - improved &quot;ladder&quot;</title>
+        <dc:creator><![CDATA[@ClashDB]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/clashdb">@ClashDB</a> wrote:</p>
+          <blockquote>
+              <p>Any thoughts about continuing this conversation on some other forum/site after the end of this month?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/55">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/55</link>
+        <pubDate>Fri, 07 Jul 2023 00:33:13 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6292-55</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292.rss">PbtA Mechanics with d10s - improved &quot;ladder&quot;</source>
+      </item>
+      <item>
+        <title>PbtA Mechanics with d10s - improved &quot;ladder&quot;</title>
+        <dc:creator><![CDATA[@dominik]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dominik">@dominik</a> wrote:</p>
+          <blockquote>
+              <p>KULT: Divinity Lost uses 2d10 with a slightly extended bonus range. This results in a very similar probability distribution to the original 2d6 with a finer granularity of results.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/54">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/54</link>
+        <pubDate>Thu, 29 Jun 2023 18:39:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6292-54</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292.rss">PbtA Mechanics with d10s - improved &quot;ladder&quot;</source>
+      </item>
+      <item>
+        <title>PbtA Mechanics with d10s - improved &quot;ladder&quot;</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>Oh, yeah. Those aren’t good numbers for this system.</p>
+<p>Maybe it might work with d20s…</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/53">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/53</link>
+        <pubDate>Thu, 29 Jun 2023 07:06:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6292-53</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292.rss">PbtA Mechanics with d10s - improved &quot;ladder&quot;</source>
+      </item>
+      <item>
+        <title>PbtA Mechanics with d10s - improved &quot;ladder&quot;</title>
+        <dc:creator><![CDATA[@Madame_X]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/madame_x">@Madame_X</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="Paul_T" data-post="51" data-topic="6292">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/paul_t/40/1825_2.png" class="avatar"> Paul_T:</div>
+<blockquote>
+<p>For instance, with 1d, full success is now impossible.</p>
+<p>With 2d, it’s either 1% (your first option) or 5% (your second option).</p>
+</blockquote>
+</aside>
+<p>Well, as I said, I’m doing it for Werewolf, in combat situations only, so the average character rolls at least 6 dice, and it can easily go up to 8 ou 9.</p>
+<p>But I think you’re right in that it doesn’t really change anything for the best.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/52">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/52</link>
+        <pubDate>Thu, 29 Jun 2023 06:18:49 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6292-52</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292.rss">PbtA Mechanics with d10s - improved &quot;ladder&quot;</source>
+      </item>
+      <item>
+        <title>PbtA Mechanics with d10s - improved &quot;ladder&quot;</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>You want to make full success really rare? Are you sure?</p>
+<p>That’s going to be pretty brutal. Basically, you’re going to take away any opportunity for a full success from low ability rollers.</p>
+<p>For instance, with 1d, full success is now impossible.</p>
+<p>With 2d, it’s either 1% (your first option) or 5% (your second option).</p>
+<p>Those are pretty slim pickings. I would imagine it would make games much less interesting and dynamic.</p>
+<p>In the first option, no one will ever have good odds of a full success. In the second, for very skilled characters it won’t make a huge difference (compared to the suggested rules), but it will really really hurt the low dice rollers. Overall, that sounds like the opposite of what I would want! But you do you, of course. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>If you really want to a slightly harsher system for whatever reason, you can cut your odds by 25% or so by using the card deck method, but making one suit “no good”.</p>
+<p>Even better, just switch to d12s instead of d10s. (Partial success 10-11, Full success 12.)</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/51">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/51</link>
+        <pubDate>Thu, 29 Jun 2023 06:00:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6292-51</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292.rss">PbtA Mechanics with d10s - improved &quot;ladder&quot;</source>
+      </item>
+      <item>
+        <title>PbtA Mechanics with d10s - improved &quot;ladder&quot;</title>
+        <dc:creator><![CDATA[@Madame_X]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/madame_x">@Madame_X</a> wrote:</p>
+          <blockquote>
+              <p>Following on my use of this system for Werewolf the Apocalypse, I’m starting to entertain two alternative readings:</p>
+<p><strong>Partial success=</strong> Highest die from 8 to 10 ; <strong>Full success=</strong> two dice come up at 10.</p>
+<p><em>or, more forgiving,</em></p>
+<p><strong>Partial success=</strong> highest die 8-10 ; <strong>full success =</strong> highest die a 10 + second highest die 8-9.</p>
+<p>I have no idea how to calculate the odds on that one.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/50">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/50</link>
+        <pubDate>Wed, 28 Jun 2023 18:43:49 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6292-50</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292.rss">PbtA Mechanics with d10s - improved &quot;ladder&quot;</source>
+      </item>
+      <item>
+        <title>PbtA Mechanics with d10s - improved &quot;ladder&quot;</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>I haven’t had time to look at the SRD, but from what you’re describing here it sounds like it would be OK to use as-is (just a slightly different impact). Generally with this kind of rule/dynamic it is more important to keep the underlying principle/direction moving than the specifics of the numbers involved (although, again, I’m just going by your description here).</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/49">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/49</link>
+        <pubDate>Mon, 06 Feb 2023 07:55:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6292-49</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292.rss">PbtA Mechanics with d10s - improved &quot;ladder&quot;</source>
+      </item>
+      <item>
+        <title>PbtA Mechanics with d10s - improved &quot;ladder&quot;</title>
+        <dc:creator><![CDATA[@ClashDB]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/clashdb">@ClashDB</a> wrote:</p>
+          <blockquote>
+              <p>I will! The Charge SRD is actually free here: <a href="https://fari.games/en/games/fari-rpgs/charge-rpg" rel="nofollow noopener">https://fari.games/en/games/fari-rpgs/charge-rpg</a></p>
+<p>Charge is basically BitD, but it plays around with some mechanics. Most notable to me is Momentum, which replaces the Stress system in BitD. Momentum starts at 2 each session and increases as you make rolls. Momentum is used like Stress to push yourself, assist others, and so on.</p>
+<p>When you make a roll, in addition to the usual results you get 1 Momentum on a Partial Success, 2 on a Success, and 3 on a Critical Success. As you know, these probabilities are different with your d10-based system compared to the standard d6 system Charge uses. So I was wondering how the expected Momentum flow between the two systems would compare.</p>
+<p>Also, because pushing yourself for an extra die costs 2 Momentum, the value of Momentum with the d10 system is a little less than with the d6 system. So I was curious if the cost would need to be tweaked.</p>
+<p>In any case I intend to just implement d10s straight up first and see how that goes. It might work out fine!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/48">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/48</link>
+        <pubDate>Wed, 01 Feb 2023 04:00:18 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6292-48</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292.rss">PbtA Mechanics with d10s - improved &quot;ladder&quot;</source>
+      </item>
+      <item>
+        <title>PbtA Mechanics with d10s - improved &quot;ladder&quot;</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>Feel free to share your findings! Or we can chat about it here - I’m not familiar with Charge.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/47">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/47</link>
+        <pubDate>Wed, 01 Feb 2023 01:42:08 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6292-47</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292.rss">PbtA Mechanics with d10s - improved &quot;ladder&quot;</source>
+      </item>
+      <item>
+        <title>PbtA Mechanics with d10s - improved &quot;ladder&quot;</title>
+        <dc:creator><![CDATA[@ClashDB]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/clashdb">@ClashDB</a> wrote:</p>
+          <blockquote>
+              <p>I definitely like how this method would stretch out progression a bit. I’m thinking about trying it with Charge, as I like Charge’s momentum system. I’ll have to crunch the numbers a bit to see how well momentum gains line up with the standard d6s versus this thread’s d10 approach.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/46">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/46</link>
+        <pubDate>Wed, 01 Feb 2023 01:09:02 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6292-46</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292.rss">PbtA Mechanics with d10s - improved &quot;ladder&quot;</source>
+      </item>
+      <item>
+        <title>PbtA Mechanics with d10s - improved &quot;ladder&quot;</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>Nice to hear it’s working for you!</p>
+<p>It’s an excellent mechanic, and quite robust to tinkering.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/45">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/45</link>
+        <pubDate>Tue, 31 Jan 2023 23:38:27 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6292-45</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292.rss">PbtA Mechanics with d10s - improved &quot;ladder&quot;</source>
+      </item>
+      <item>
+        <title>PbtA Mechanics with d10s - improved &quot;ladder&quot;</title>
+        <dc:creator><![CDATA[@Madame_X]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/madame_x">@Madame_X</a> wrote:</p>
+          <blockquote>
+              <p>I finally got the opportunity to try it and it works. Even with the amount of d10 rolled by a werewolf in battle, they still manage not to get any 10s once in a while, or even nothing over 6.<br>
+Fights are still massively slanted towards the characters (as it should be, they’re Gaïa’s killing machines) but they still start to sweat a little after two or three rounds, since without dodging and soaking, their hitboxes start getting several ticks.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/44">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/44</link>
+        <pubDate>Tue, 31 Jan 2023 21:32:00 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6292-44</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292.rss">PbtA Mechanics with d10s - improved &quot;ladder&quot;</source>
+      </item>
+      <item>
+        <title>PbtA Mechanics with d10s - improved &quot;ladder&quot;</title>
+        <dc:creator><![CDATA[@Madame_X]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/madame_x">@Madame_X</a> wrote:</p>
+          <blockquote>
+              <p>Mmmh, I’m wondering if I could somehow use this mechanics to add a PBTA combat system to my Werewolf The Apocalypse game. Fights are just too boring and protracted, our whole group hates them, but I’d still like them to MEAN something and bring consequences…</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/43">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/43</link>
+        <pubDate>Mon, 07 Nov 2022 03:21:57 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6292-43</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292.rss">PbtA Mechanics with d10s - improved &quot;ladder&quot;</source>
+      </item>
+      <item>
+        <title>PbtA Mechanics with d10s - improved &quot;ladder&quot;</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>As you can see, the d10 pools offer the better odds, for most purposes.</p>
+<p>That was the whole point for this exercise - to avoid awkward techniques like the “cut” roll AND get a better spread of probabilities.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/42">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/42</link>
+        <pubDate>Tue, 22 Mar 2022 03:58:40 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6292-42</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292.rss">PbtA Mechanics with d10s - improved &quot;ladder&quot;</source>
+      </item>
+      <item>
+        <title>PbtA Mechanics with d10s - improved &quot;ladder&quot;</title>
+        <dc:creator><![CDATA[@NoRaptors]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/noraptors">@NoRaptors</a> wrote:</p>
+          <blockquote>
+              <p>Here you go!</p>
+<p>2d10c1: 1/8/91<br>
+3d10c1: 3/19/78<br>
+4d10c1: 5/30/65<br>
+5d10c1: 8/39/53<br>
+6d10c1: 11/47/42<br>
+7d10c1: 15/52/33<br>
+8d10c1: 19/56/26<br>
+9d10c1: 23/58/20<br>
+10d10c1: 26/59/15</p>
+<p>vs</p>
+<p>2d10: 19/32/50<br>
+3d10: 27/39/34<br>
+4d10: 34/42/24<br>
+5d10: 41/42/17<br>
+6d10: 47/41/12<br>
+7d10: 52/40/8<br>
+8d10: 57/37/6<br>
+9d10: 61/35/4<br>
+10d10: 65/32/3</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/41">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/41</link>
+        <pubDate>Mon, 21 Mar 2022 14:07:00 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6292-41</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292.rss">PbtA Mechanics with d10s - improved &quot;ladder&quot;</source>
+      </item>
+      <item>
+        <title>PbtA Mechanics with d10s - improved &quot;ladder&quot;</title>
+        <dc:creator><![CDATA[@Deodatus]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deodatus">@Deodatus</a> wrote:</p>
+          <blockquote>
+              <p>I am wondering what are the chances of ‘xd10 cut highest’?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/40">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/40</link>
+        <pubDate>Sat, 19 Mar 2022 18:21:39 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6292-40</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292.rss">PbtA Mechanics with d10s - improved &quot;ladder&quot;</source>
+      </item>
+      <item>
+        <title>PbtA Mechanics with d10s - improved &quot;ladder&quot;</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>Welcome!</p>
+<p>That’s an interesting idea.</p>
+<p>What I don’t love (and this goes for the d6 pools in general) is how low the chances of failure are, and how quickly they drop off. The method you’ve outlined is a bit better in this sense; you could do it to extend the Blades in the Dark scale a bit (maybe 3d6c1 to 8d6c1 or so, for slightly more range), or design a game where the difference between the 4-5 and the 6 is really really dramatic.</p>
+<p>That’s one of the reasons I went to d10s here - to preserve an interesting chance of failure as things scale up.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/39">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/39</link>
+        <pubDate>Fri, 18 Mar 2022 20:50:55 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6292-39</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292.rss">PbtA Mechanics with d10s - improved &quot;ladder&quot;</source>
+      </item>
+      <item>
+        <title>PbtA Mechanics with d10s - improved &quot;ladder&quot;</title>
+        <dc:creator><![CDATA[@NoRaptors]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/noraptors">@NoRaptors</a> wrote:</p>
+          <blockquote>
+              <p>Hey there!</p>
+<p>So, this is obviously an old topic, but I found it in a round about way and it happened to match up with what I was doing when I found it, so, I thought I’d share.</p>
+<p>I was on Anydice to check out the odds of a “cut the highest” mechanic in a FitD game, read its article on The Pool, googled for more Pool stuff, found your other post, which linked here. And while running my numbers, I noticed something kind of funny… Blades mechanic with a “Cut the Highest” as a difficulty modifier actually gives you similar numbers to your d10 pool, but with a bigger range of Partial in exchange for smaller Miss space while getting to chuck <em>even more</em> dice.</p>
+<p>Makes for an interesting situation where it might be viable to keep the condensed ladder of Blades for standard encounters, and then when you drop Cuts suddenly they need to get real clever with stacking bonuses to take down a tough enemy.</p>
+<p>2d6c1: 3%/22%/75% (Pass/Partial/Miss)<br>
+3d6c1: 7/43/50<br>
+4d6c1: 13/56/31<br>
+5d6c1: 20/62/19<br>
+6d6c1:26/63/11<br>
+7d6c1:33/61/6<br>
+8d6c1: 40/57/4<br>
+9d6c1: 46/52/2<br>
+10d6c1: 52/47/1<br>
+11d6c1: 57/42/1<br>
+12d6c1: 62/38/0<br>
+13d6c1: 66/35/0<br>
+14d6c1: 70/30/0<br>
+15d6c1: 74/26/0</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/38">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/38</link>
+        <pubDate>Fri, 18 Mar 2022 13:21:54 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6292-38</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292.rss">PbtA Mechanics with d10s - improved &quot;ladder&quot;</source>
+      </item>
+      <item>
+        <title>PbtA Mechanics with d10s - improved &quot;ladder&quot;</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>Nice! Makes sense to me. There is something nicely tactile about a pile of dice, and the impact is “felt” rather than just existing in the mind. It’s satisfying to pick up a pile and to feel them rattle in your hand. Almost like an intimidating presence, if you’re rolling in conflict.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/37">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/37</link>
+        <pubDate>Thu, 03 Mar 2022 22:26:32 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6292-37</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292.rss">PbtA Mechanics with d10s - improved &quot;ladder&quot;</source>
+      </item>
+      <item>
+        <title>PbtA Mechanics with d10s - improved &quot;ladder&quot;</title>
+        <dc:creator><![CDATA[@Deodatus]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deodatus">@Deodatus</a> wrote:</p>
+          <blockquote>
+              <p>Yes, somehow it felt waay better than 2d6+2.</p>
+<p>It’s a training game. You collect dice by implementing items from a checklist into your narration.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/36">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/36</link>
+        <pubDate>Mon, 21 Feb 2022 16:38:38 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6292-36</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292.rss">PbtA Mechanics with d10s - improved &quot;ladder&quot;</source>
+      </item>
+      <item>
+        <title>PbtA Mechanics with d10s - improved &quot;ladder&quot;</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>Nice! By “incredible”, do you just means that it feels good to roll them? Or something else?</p>
+<p>What game did you play, and how did you convert the mechanics?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/35">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/35</link>
+        <pubDate>Sun, 20 Feb 2022 23:08:53 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6292-35</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292.rss">PbtA Mechanics with d10s - improved &quot;ladder&quot;</source>
+      </item>
+      <item>
+        <title>PbtA Mechanics with d10s - improved &quot;ladder&quot;</title>
+        <dc:creator><![CDATA[@Deodatus]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deodatus">@Deodatus</a> wrote:</p>
+          <blockquote>
+              <p>We playtested our training game with the initially proposed xd10 mechanic, and I have to tell you that 4d10 and 5d10 just feel much more incredible than 2d6+2, even though they are more or less at the same ballpark.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/34">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/34</link>
+        <pubDate>Sun, 20 Feb 2022 19:13:26 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6292-34</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292.rss">PbtA Mechanics with d10s - improved &quot;ladder&quot;</source>
+      </item>
+      <item>
+        <title>PbtA Mechanics with d10s - improved &quot;ladder&quot;</title>
+        <dc:creator><![CDATA[@_ry]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/_ry">@_ry</a> wrote:</p>
+          <blockquote>
+              <p>adding a die and removing a die are good proxies for advantage / disadvantage</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/33">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/33</link>
+        <pubDate>Fri, 18 Feb 2022 16:05:32 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6292-33</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292.rss">PbtA Mechanics with d10s - improved &quot;ladder&quot;</source>
+      </item>
+      <item>
+        <title>PbtA Mechanics with d10s - improved &quot;ladder&quot;</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>This is the nice thing about this type of mechanic: you don’t need a special rule for something like Advantage or Disadvantage, but you can just add a die to the pool (or take one away).</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/32">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292/32</link>
+        <pubDate>Thu, 17 Feb 2022 19:51:42 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6292-32</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-mechanics-with-d10s-improved-ladder/6292.rss">PbtA Mechanics with d10s - improved &quot;ladder&quot;</source>
+      </item>
+  </channel>
+</rss>

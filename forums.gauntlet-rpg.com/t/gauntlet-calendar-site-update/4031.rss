@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Gauntlet Calendar Site Update</title>
+    <link>https://forums.gauntlet-rpg.com/t/gauntlet-calendar-site-update/4031</link>
+    <description>On Sunday 11/24 from 2AM to 4AM Eastern, the Gauntlet Calendar site will be down. This is to put in some minor fixes and close off a security vulnerability. After the fix, GMs will not receive emails when someone signs up for their game. We hope this will be temporary feature loss and we&#39;ll get that restored soon. We&#39;ll be looking at and testing the functionality of the calendar for the couple of days after that. If you notice any odd behavior or errors, please send me a heads up.</description>
+    
+    <lastBuildDate>Sat, 23 Nov 2019 17:22:48 +0000</lastBuildDate>
+    <category>Announcements</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/gauntlet-calendar-site-update/4031.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Gauntlet Calendar Site Update</title>
+        <dc:creator><![CDATA[@edige23]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/edige23">@edige23</a> wrote:</p>
+          <blockquote>
+              <p>On Sunday 11/24 from 2AM to 4AM Eastern, the Gauntlet Calendar site will be down. This is to put in some minor fixes and close off a security vulnerability. After the fix, GMs will not receive emails when someone signs up for their game. We hope this will be temporary feature loss and we’ll get that restored soon. We’ll be looking at and testing the functionality of the calendar for the couple of days after that. If you notice any odd behavior or errors, please send me a heads up.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/gauntlet-calendar-site-update/4031/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/gauntlet-calendar-site-update/4031/1</link>
+        <pubDate>Sat, 23 Nov 2019 17:22:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4031-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/gauntlet-calendar-site-update/4031.rss">Gauntlet Calendar Site Update</source>
+      </item>
+  </channel>
+</rss>

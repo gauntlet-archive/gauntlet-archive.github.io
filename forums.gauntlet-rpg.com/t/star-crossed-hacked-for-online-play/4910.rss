@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Star Crossed - Hacked for Online Play</title>
+    <link>https://forums.gauntlet-rpg.com/t/star-crossed-hacked-for-online-play/4910</link>
+    <description>Has anyone come across fun Star Crossed ([Link](https://bullypulpitgames.com/games/star-crossed/)) hacks? 
+
+I&#39;m interested in any hacks, but I&#39;d especially love to know if someone found a way to play it online. (By default, Star Crossed is played by pulling blocks from a Jenga tower, but I&#39;m hoping someone came up with a clever way to play over a video chat).
+
+Maybe you could do a dice pool mechanic? The board game &quot;Betrayal at the House on the Hill&quot; had a mechanic where you rolled increasingly large pools of dice, and if you rolld too many 6s you triggered an event. Maybe you could do something like that (adding a die to the pool instead of pulling a block from the tower)?</description>
+    
+    <lastBuildDate>Thu, 09 Apr 2020 23:24:42 +0000</lastBuildDate>
+    <category>RPG Chat</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/star-crossed-hacked-for-online-play/4910.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Star Crossed - Hacked for Online Play</title>
+        <dc:creator><![CDATA[@ancusohm]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/ancusohm">@ancusohm</a> wrote:</p>
+          <blockquote>
+              <p>Ooh, that’s really cool! I wonder how the probabilities work out. I’m gonna have to brush up on my permutation math.</p>
+<p>Thank you!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/star-crossed-hacked-for-online-play/4910/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/star-crossed-hacked-for-online-play/4910/4</link>
+        <pubDate>Thu, 09 Apr 2020 23:24:42 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4910-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/star-crossed-hacked-for-online-play/4910.rss">Star Crossed - Hacked for Online Play</source>
+      </item>
+      <item>
+        <title>Star Crossed - Hacked for Online Play</title>
+        <dc:creator><![CDATA[@yayforbooks]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/yayforbooks">@yayforbooks</a> wrote:</p>
+          <blockquote>
+              <p>Hi! Lauren (<span class="mention">@jl_nicegirl</span> on Twitter) has an online play document for Star Crossed that she put up on her website: <a href="http://www.starvingsoubrette.com/2019/01/28/new-star-crossed-online-play-tracking-sheet/" rel="nofollow noopener">http://www.starvingsoubrette.com/2019/01/28/new-star-crossed-online-play-tracking-sheet/</a></p>
+<p>It’s based on rolling d20s and then hitting the same number five times will cause the tower to fall. I haven’t played Star Crossed (either online or in person), but in this actual play (<a href="https://www.twitch.tv/videos/586098068" rel="nofollow noopener">https://www.twitch.tv/videos/586098068</a>) they also rolled when speaking to simulate touching the tower.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/star-crossed-hacked-for-online-play/4910/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/star-crossed-hacked-for-online-play/4910/3</link>
+        <pubDate>Thu, 09 Apr 2020 18:46:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4910-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/star-crossed-hacked-for-online-play/4910.rss">Star Crossed - Hacked for Online Play</source>
+      </item>
+      <item>
+        <title>Star Crossed - Hacked for Online Play</title>
+        <dc:creator><![CDATA[@ancusohm]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/ancusohm">@ancusohm</a> wrote:</p>
+          <blockquote>
+              <p>I got curious and did the math myself. I think I’ve found a way to adapt Star Crossed to dice pools.</p>
+<p>Long story short: instead of pulling dice from a jenga tower, you roll the dice pool. The dice pool start with 5d6 in the pool.</p>
+<p>Every time you roll, if you roll one or two 6s, add a d6 to the pool. If you roll three or four 6s, add 2d6 to the pool. If you roll five 6s, treat it like the the tower falling.</p>
+<p>By default, games of Star Crossed <em>can</em> involve pulling between 0 and 36 blocks from a tower. Most games will involve pulling 15-22.</p>
+<p>With this dicepool mechanic, you have ~60% chance of completing 15 moves and ~10% change of completing 22 moves. This seems to be more or less in keeping with typical games of Jenga</p>
+<p>I’ll need some playtesting to confirm, but this seems workable.</p>
+<p><strong>Features of this Dicepool</strong><br>
+The chance of rolling 5 6’s accelerates, which seems appropriate given how it becomes increasingly difficult to pull blocks from a Jenga tower</p>
+<p><strong>Drawbacks of this Dicepool</strong><br>
+You may end up rolling upwards of 20d6, but this hack is intended for online play and dice roller sites can handle that (<a href="https://rolz.org/" rel="nofollow noopener">https://rolz.org/</a> allows you to quickly roll a large number of dice and count the 6s if you just type in <span class="hashtag">#D6E6</span>)</p>
+<p>If you’re curious, here’s how I came to this conclusions:</p>
+<ul>
+<li>
+<p>Over the course of a game of Star Crossed, you go through 8 scenes. It is possible to complete all 8 scenes and end the game without knocking over the tower, but the game appears to be designed to generally end with the tower falling.</p>
+</li>
+<li>
+<p>That suggests I should make a dice pool mechanic that will likely ‘fall’ before the completion of all 8 scenes. So, I tried to figure out roughly how many blocks are pulled from the tower over the course of a typical game of Star Crossed</p>
+</li>
+<li>
+<p>Star Crossed allows players to pull 36 blocks maximum. However, you could technically complete an entire game without ever pulling a block from the tower, but seems against the spirit of the game.</p>
+</li>
+<li>
+<p>It seems more likely that each player will pull ~1 block from the tower per scene. With 2 players and 8 scenes, most games will probably pull 16-ish blocks on the low end.</p>
+</li>
+<li>
+<p>That gives a likely range of 16-36 moves per game. Totals closer to 16 seem more likely than totals closer to 36</p>
+</li>
+<li>
+<p>Coincidentally, anecdotes suggest that regular games of Jenga tend to end after 15-30 moves, usually after ~22.</p>
+</li>
+<li>
+<p>I fiddled around with dice pools and statistics until I found mechanics that made the dicepools statistically likely to ‘fall’ between 16 and 22 rolls in.</p>
+</li>
+</ul>
+<p>Let me know if anyone has questions, comments, advice, etc…</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/star-crossed-hacked-for-online-play/4910/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/star-crossed-hacked-for-online-play/4910/2</link>
+        <pubDate>Thu, 09 Apr 2020 16:20:25 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4910-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/star-crossed-hacked-for-online-play/4910.rss">Star Crossed - Hacked for Online Play</source>
+      </item>
+      <item>
+        <title>Star Crossed - Hacked for Online Play</title>
+        <dc:creator><![CDATA[@ancusohm]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/ancusohm">@ancusohm</a> wrote:</p>
+          <blockquote>
+              <p>Has anyone come across fun Star Crossed (<a href="https://bullypulpitgames.com/games/star-crossed/" rel="nofollow noopener">Link</a>) hacks?</p>
+<p>I’m interested in any hacks, but I’d especially love to know if someone found a way to play it online. (By default, Star Crossed is played by pulling blocks from a Jenga tower, but I’m hoping someone came up with a clever way to play over a video chat).</p>
+<p>Maybe you could do a dice pool mechanic? The board game “Betrayal at the House on the Hill” had a mechanic where you rolled increasingly large pools of dice, and if you rolld too many 6s you triggered an event. Maybe you could do something like that (adding a die to the pool instead of pulling a block from the tower)?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/star-crossed-hacked-for-online-play/4910/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/star-crossed-hacked-for-online-play/4910/1</link>
+        <pubDate>Wed, 01 Apr 2020 18:02:57 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4910-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/star-crossed-hacked-for-online-play/4910.rss">Star Crossed - Hacked for Online Play</source>
+      </item>
+  </channel>
+</rss>

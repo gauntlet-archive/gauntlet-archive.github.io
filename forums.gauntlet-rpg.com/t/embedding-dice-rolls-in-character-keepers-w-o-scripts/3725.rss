@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Embedding Dice Rolls in Character Keepers (w/o scripts)</title>
+    <link>https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725</link>
+    <description>I wanted a way to embed rolls in a character keeper becuase I like having every thing I need to play in a single tab.  However, the warning label that comes up in google sheets if you use custom scripts looks off-putting.  After a bit of experimenting, I found I way to simulate and display dice rolls right in Google Sheets.
+
+Here&#39;s the result of my efforts (You need to make a copy of the sheet to use the rollers):
+https://docs.google.com/spreadsheets/d/1f2XwzW1SF72prsNp7JAG-GopbAFnmQ5rqaR5WVl2vhc/edit?usp=sharing
+
+The examples are for common dice systems, but they could be adapted to other systems quite quickly. I&#39;d love to hear what people think and if there are other examples that would be useful.</description>
+    
+    <lastBuildDate>Thu, 24 Oct 2019 10:08:20 +0000</lastBuildDate>
+    <category>RPG Chat</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Embedding Dice Rolls in Character Keepers (w/o scripts)</title>
+        <dc:creator><![CDATA[@Michael]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/michael">@Michael</a> wrote:</p>
+          <blockquote>
+              <p>I had thought about a similar system, inspired by how the modifier decks in gloomhaven are slightly less random (over time) than a die roll.</p>
+<p>If you put it together, let me know!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725/12</link>
+        <pubDate>Thu, 24 Oct 2019 10:08:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3725-12</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725.rss">Embedding Dice Rolls in Character Keepers (w/o scripts)</source>
+      </item>
+      <item>
+        <title>Embedding Dice Rolls in Character Keepers (w/o scripts)</title>
+        <dc:creator><![CDATA[@Gerrit]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gerrit">@Gerrit</a> wrote:</p>
+          <blockquote>
+              <p>So I think there is a way for a script free, cross-users-consistent dice roller in Spreadsheets and that is through pre-generated random tables. They can be hidden and locked in a separate tab (and c’mon who wants to cheat anyway). You then just need to create a starting point in the random table at the beginning of the session and could from then on implement it in such a way that each roll reveals the next random number from the table.</p>
+<p>If I have time later today, I will sit down to write it.</p>
+<p>Which brings me again to a long term project of mine: RPG-session tension arc tweaked random series. The idea is that some random series are more beautiful than others when it comes to a gaming session. We have respect for randomness and enjoy the chaos produced from unexpected hits and misses. However, we all know from moments of frustration for example from this one session where there were no misses or the PbtA session where the GM was swamped in a pile of Hard Moves which brought everything to collapse.</p>
+<p>The idea is then to design finite random tables which respect important metrics like Average and Variance but follow our gut feel about ‘good randomness’.</p>
+<p>My background on this is a Master in Mathematics (Stochastic) but with a separate degree in Philosophy of Science and specifically the history of the theory of randomness. So I have been interested in stuff like this already for a long time.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725/11</link>
+        <pubDate>Thu, 24 Oct 2019 09:27:34 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3725-11</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725.rss">Embedding Dice Rolls in Character Keepers (w/o scripts)</source>
+      </item>
+      <item>
+        <title>Embedding Dice Rolls in Character Keepers (w/o scripts)</title>
+        <dc:creator><![CDATA[@Michael]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/michael">@Michael</a> wrote:</p>
+          <blockquote>
+              <p>I learned an interesting thing about google sheets today! <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/smile.png?v=9" title=":smile:" class="emoji" alt=":smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725/10</link>
+        <pubDate>Sun, 20 Oct 2019 22:14:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3725-10</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725.rss">Embedding Dice Rolls in Character Keepers (w/o scripts)</source>
+      </item>
+      <item>
+        <title>Embedding Dice Rolls in Character Keepers (w/o scripts)</title>
+        <dc:creator><![CDATA[@Gerrit]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gerrit">@Gerrit</a> wrote:</p>
+          <blockquote>
+              <p>Aaah yes, now I remember that this was also my main problem when I implemented an Archipelago resolution cards based spreadsheet once for a game.</p>
+<aside class="onebox googledocs">
+  <header class="source">
+      <a href="https://docs.google.com/spreadsheets/d/18-ntbi2lwe9bt7EFHrXfj_fXvEeuLUBQSzD-2qd1jBk/edit" target="_blank" rel="nofollow noopener">docs.google.com</a>
+  </header>
+  <article class="onebox-body">
+    <a href="https://docs.google.com/spreadsheets/d/18-ntbi2lwe9bt7EFHrXfj_fXvEeuLUBQSzD-2qd1jBk/edit" target="_blank" rel="nofollow noopener"><span class="googledocs-onebox-logo g-sheets-logo"></span></a>
+
+<h3><a href="https://docs.google.com/spreadsheets/d/18-ntbi2lwe9bt7EFHrXfj_fXvEeuLUBQSzD-2qd1jBk/edit" target="_blank" rel="nofollow noopener">Archipelago resolution cards TEMPLATE</a></h3>
+
+<p>Intro
+
+
+Archipelago Resolution Cards
+Drawing a card in Google Spreadsheets
+This document allows you to randomly draw a resolution card from Archipelago III / Itras By. 
+
+Archipelago III is the work of Mathijs Holter. Itras By is by Ole Peder Giaeer...</p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>And here in this Cheat Your Own Adventure (available in <strong>three</strong> languages!) it was the same problem:</p>
+<aside class="onebox googledocs">
+  <header class="source">
+      <a href="https://docs.google.com/spreadsheets/d/1WdPYahV899RoJAKth5noYtWMUfN3HUyEM3C31ykF8ko/edit?usp=drive_web&amp;ouid=102864640366801976667" target="_blank" rel="nofollow noopener">docs.google.com</a>
+  </header>
+  <article class="onebox-body">
+    <a href="https://docs.google.com/spreadsheets/d/1WdPYahV899RoJAKth5noYtWMUfN3HUyEM3C31ykF8ko/edit?usp=drive_web&amp;ouid=102864640366801976667" target="_blank" rel="nofollow noopener"><span class="googledocs-onebox-logo g-sheets-logo"></span></a>
+
+<h3><a href="https://docs.google.com/spreadsheets/d/1WdPYahV899RoJAKth5noYtWMUfN3HUyEM3C31ykF8ko/edit?usp=drive_web&amp;ouid=102864640366801976667" target="_blank" rel="nofollow noopener">Cheat Your Own Adventure EN/DE/ES TEMPLATE</a></h3>
+
+<p>Game
+
+
+Story,DÍA DE LOS MUERTOS, DIRECT TO VIDEO
+Difficulty,Storyteller,Roll dice,Rolled,Result,Players,Failure description:
+equal or higher,Name (optional),"x" for roll,2d6 result,Success or failure,Optional,End of the story...</p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725/9</link>
+        <pubDate>Sun, 20 Oct 2019 22:05:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3725-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725.rss">Embedding Dice Rolls in Character Keepers (w/o scripts)</source>
+      </item>
+      <item>
+        <title>Embedding Dice Rolls in Character Keepers (w/o scripts)</title>
+        <dc:creator><![CDATA[@Michael]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/michael">@Michael</a> wrote:</p>
+          <blockquote>
+              <p>Oh yeah, you’re right. I just tested a roll while viewing under three different accounts.  All three results were different.  I suspect this is inherent to how the RANDBETWEEN function works in google sheets. There might not be a (script-free) fix. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/confused.png?v=9" title=":confused:" class="emoji" alt=":confused:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725/8</link>
+        <pubDate>Sun, 20 Oct 2019 21:41:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3725-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725.rss">Embedding Dice Rolls in Character Keepers (w/o scripts)</source>
+      </item>
+      <item>
+        <title>Embedding Dice Rolls in Character Keepers (w/o scripts)</title>
+        <dc:creator><![CDATA[@RichRogers]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/richrogers">@RichRogers</a> wrote:</p>
+          <blockquote>
+              <p>I just used this in a keeper in a live game. It worked <strong>BUT</strong>, each player saw a different roll result in the same keeper.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725/7</link>
+        <pubDate>Sun, 20 Oct 2019 21:03:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3725-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725.rss">Embedding Dice Rolls in Character Keepers (w/o scripts)</source>
+      </item>
+      <item>
+        <title>Embedding Dice Rolls in Character Keepers (w/o scripts)</title>
+        <dc:creator><![CDATA[@Michael]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/michael">@Michael</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/richrogers">@RichRogers</a> I drafted a version of this in the second tab of the spreadsheet using <a class="mention" href="/u/curubethion">@Curubethion</a>’s checkbox-next-to-stats proposal.  The limitation of this is that dice reroll when any of the check boxes change, so players would want to ‘clear’ their rolls by unchecking the box before someone else goes.  Let me know what you think!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725/6</link>
+        <pubDate>Sun, 20 Oct 2019 20:49:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3725-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725.rss">Embedding Dice Rolls in Character Keepers (w/o scripts)</source>
+      </item>
+      <item>
+        <title>Embedding Dice Rolls in Character Keepers (w/o scripts)</title>
+        <dc:creator><![CDATA[@Gerrit]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gerrit">@Gerrit</a> wrote:</p>
+          <blockquote>
+              <p>Using the checkbox feature for this is an amazing idea, <a class="mention" href="/u/michael">@Michael</a>. Before what I had done was creating a dropdown menu where you would switch from rolling to not rolling. That was just too much effort and not really intuitive.</p>
+<p>Yeah, <a class="mention" href="/u/richrogers">@RichRogers</a>, some nice macros would be even better and Michael has actually done that, too. However, many players in my experience don’t want to give the spreadsheet the permissions necessary for run code.</p>
+<p>I really like your idea, <a class="mention" href="/u/curubethion">@Curubethion</a>, about putting the checkbox next to the Stats and then roll+Stat automatically. That should be doable.</p>
+<p>Personally, I would only use the simplest of all implementations with just 2d6 being rolled and all bonuses and modifications being added manually - just as most people do it in RFYP (rollforyour.party).</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725/5</link>
+        <pubDate>Sun, 20 Oct 2019 20:41:13 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3725-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725.rss">Embedding Dice Rolls in Character Keepers (w/o scripts)</source>
+      </item>
+      <item>
+        <title>Embedding Dice Rolls in Character Keepers (w/o scripts)</title>
+        <dc:creator><![CDATA[@Curubethion]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/curubethion">@Curubethion</a> wrote:</p>
+          <blockquote>
+              <p>Unfortunately, I think anything starting with “click a button” requires scripting, although I do like the use of checkboxes here, as modifying data on the sheet is what causes randomized values to re-compute in Sheets.</p>
+<p>So maybe you have a checkbox next to each stat, and you check it to make a roll with that stat?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725/4</link>
+        <pubDate>Sun, 20 Oct 2019 20:24:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3725-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725.rss">Embedding Dice Rolls in Character Keepers (w/o scripts)</source>
+      </item>
+      <item>
+        <title>Embedding Dice Rolls in Character Keepers (w/o scripts)</title>
+        <dc:creator><![CDATA[@RichRogers]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/richrogers">@RichRogers</a> wrote:</p>
+          <blockquote>
+              <p>Michael,<br>
+This is AMAZING! I am going to try and insert this into a character keeper for a PbtA game.<br>
+I’ll need to do some subtractions, too.<br>
+I wonder, how hard would it be to make it so you could click a button and it calls on the modifier of a particular PC’s stat for the move?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725/3</link>
+        <pubDate>Sun, 20 Oct 2019 19:35:02 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3725-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725.rss">Embedding Dice Rolls in Character Keepers (w/o scripts)</source>
+      </item>
+      <item>
+        <title>Embedding Dice Rolls in Character Keepers (w/o scripts)</title>
+        <dc:creator><![CDATA[@Michael]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/michael">@Michael</a> wrote:</p>
+          <blockquote>
+              <p>Thanks to <a class="mention" href="/u/gerrit">@Gerrit</a> for feedback on the conditionals.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725/2</link>
+        <pubDate>Sun, 20 Oct 2019 17:47:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3725-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725.rss">Embedding Dice Rolls in Character Keepers (w/o scripts)</source>
+      </item>
+      <item>
+        <title>Embedding Dice Rolls in Character Keepers (w/o scripts)</title>
+        <dc:creator><![CDATA[@Michael]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/michael">@Michael</a> wrote:</p>
+          <blockquote>
+              <p>I wanted a way to embed rolls in a character keeper becuase I like having every thing I need to play in a single tab.  However, the warning label that comes up in google sheets if you use custom scripts looks off-putting.  After a bit of experimenting, I found I way to simulate and display dice rolls right in Google Sheets.</p>
+<p>Here’s the result of my efforts (You need to make a copy of the sheet to use the rollers):<br>
+<aside class="onebox googledocs">
+  <header class="source">
+      <a href="https://docs.google.com/spreadsheets/d/1f2XwzW1SF72prsNp7JAG-GopbAFnmQ5rqaR5WVl2vhc/edit?usp=sharing" target="_blank" rel="nofollow noopener">docs.google.com</a>
+  </header>
+  <article class="onebox-body">
+    <a href="https://docs.google.com/spreadsheets/d/1f2XwzW1SF72prsNp7JAG-GopbAFnmQ5rqaR5WVl2vhc/edit?usp=sharing" target="_blank" rel="nofollow noopener"><span class="googledocs-onebox-logo g-sheets-logo"></span></a>
+
+<h3><a href="https://docs.google.com/spreadsheets/d/1f2XwzW1SF72prsNp7JAG-GopbAFnmQ5rqaR5WVl2vhc/edit?usp=sharing" target="_blank" rel="nofollow noopener">Sample Dice Rollers</a></h3>
+
+<p>Sheet1
+
+
+PbtA
+Roll +0,Roll+1,Roll+2,Roll+3,Result
+
+Otherkind / FitD
+# of Dice (6 Max),Roll,Results,Highest,Lowest
+6, , , , , , ,0,0
+D20
+# of Dice (2 Max),Roll,Results
+2, , ,</p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+<p>The examples are for common dice systems, but they could be adapted to other systems quite quickly. I’d love to hear what people think and if there are other examples that would be useful.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725/1</link>
+        <pubDate>Sun, 20 Oct 2019 14:55:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3725-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/embedding-dice-rolls-in-character-keepers-w-o-scripts/3725.rss">Embedding Dice Rolls in Character Keepers (w/o scripts)</source>
+      </item>
+  </channel>
+</rss>

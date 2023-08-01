@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Alternative Magic System for WoDu</title>
+    <link>https://forums.gauntlet-rpg.com/t/alternative-magic-system-for-wodu/6933</link>
+    <description>I am trying to create a magic system to use in my [World of Dungeons](http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf) games that is: 
+  - simple 
+  - has a `Jonathan Strange &amp; Mr. Norrell` vibe
+  - _levelless_
+  - favors creativity/roleplay over math
+
+
+# Magic
+
+## Types
+&gt; magi can cast spells in the following ways...
+
+  1. Learned: +int - cast a number of known spells (equal to your level) or from texts (eg. scrolls, books)   
+  2. Arcane: +wis - cast _experimental_ spells spontaneously by _intuition/feel_ at disadvantage (until you cast it successfully in combat)  
+  3. Ritual: (requires `Ritual`) - 1+ hours time to cast; various components; more powerful spells take longer
+  4. Bargain: +cha (requires `Summon`) - you employ the services of a demon, fae etc... _be careful!_
+  5. Cantrips: (requires `Cantrip`) - parlor tricks can be _powerfully effective!_
+
+## Mechanics
+&gt; magic takes effort and stamina (con) and thus can be _painful_ if overused
+
+  - 2d6+int/wis/cha
+  - cast spells up to your number of hd+con
+  - after casting hd+con number of spells, you take 1d6 damage for each spell cast (regardless of outcome)
+  - spell damage is 2d6+level
+  - spell damage increases +1d6 at 5th and 10th levels
+  - spells are restored after resting in comfort and safety
+
+
+  _Thoughts are most welcome..._</description>
+    
+    <lastBuildDate>Thu, 30 Sep 2021 03:34:18 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/alternative-magic-system-for-wodu/6933.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Alternative Magic System for WoDu</title>
+        <dc:creator><![CDATA[@bigbrother8]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/bigbrother8">@bigbrother8</a> wrote:</p>
+          <blockquote>
+              <p>First, I suggest checking out <em>Whitehack</em> for a great HP-driven free form magic system. Do yourself a favor and buy the book - I cannot recommend it enough.</p>
+<p>Next, I’d suggest looking at <em>Freebooters on the Frontier</em>. While I like the idea of point-buy spellcasting, it was too fiddly at the table.</p>
+<p>Lastly, here’s the system I’ve settled on, borrowing random spell tables from FotF and Maz Rats. These spells are all utility; direct damage requires Evocation.</p>
+<p>Note that I use Mage as the singular spellcasting class; Cleric has morphed into more of a Priest/Paladin.</p>
+<p><code>MAGE: You possess the spellbook of [MASTER]. No class skills. Special Abilities: * FAMILIAR: you always have a minor animal or monster assistant * SORCERY: Roll on the Spellbook table, once per HD. When you cast a spell that has been memorized from your spellbook, describe the intended scope and effects according to the spell name * SUMMONING: Your spellbook contains the rituals necessary to summon spirits, one per HD. Each spirit has a name, skill, want, attributes and HP equal to yours, and do 2d6dmg. When you command a summoned spirit, they will do what your tell them unless it is contrary to their want * EVOCATION: When you unleash arcane projectiles with unerring accuracy, inflict a total of 1d6 damage daily per HD.</code></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/alternative-magic-system-for-wodu/6933/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/alternative-magic-system-for-wodu/6933/8</link>
+        <pubDate>Thu, 30 Sep 2021 03:34:18 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6933-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/alternative-magic-system-for-wodu/6933.rss">Alternative Magic System for WoDu</source>
+      </item>
+      <item>
+        <title>Alternative Magic System for WoDu</title>
+        <dc:creator><![CDATA[@brine]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/brine">@brine</a> wrote:</p>
+          <blockquote>
+              <p>FWIW, here’s what I ended up with: <a href="https://brine.dev/#post?s=a_magic_system" rel="nofollow noopener">https://brine.dev/#post?s=a_magic_system</a></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/alternative-magic-system-for-wodu/6933/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/alternative-magic-system-for-wodu/6933/7</link>
+        <pubDate>Sun, 23 May 2021 21:47:06 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6933-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/alternative-magic-system-for-wodu/6933.rss">Alternative Magic System for WoDu</source>
+      </item>
+      <item>
+        <title>Alternative Magic System for WoDu</title>
+        <dc:creator><![CDATA[@brine]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/brine">@brine</a> wrote:</p>
+          <blockquote>
+              <blockquote>
+<p>There are many systems and if you can express the “problem” you are specifically trying more clearly, this will help guide you to your answer.</p>
+</blockquote>
+<p>Ahhh… good call.</p>
+<p>So, some of my players just immediately fight the quicksilver/mage-in-a-bottle vibe of WoDu. Fair… so the goal is to give WoDu some options.</p>
+<ol>
+<li>learned magic should be a straight-up replication of a <em>more OSR</em> 5e? Maybe?</li>
+<li>arcane is a throw towards Jonathan Strange; I want to offer the ability to: if not straight up <em>create</em> spells, then maybe to always be <em>enhancing them</em>? Also, any new spells in my game likely get added to the list <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:">
+</li>
+<li>Ritual is <em>essentually</em> WoDu <code>Ritual</code>
+</li>
+<li>Bargain == WoDu’s RAW magic system</li>
+</ol>
+<p>I’m liking the idea that:</p>
+<ol>
+<li>different magics logically take different attributes: thus it’s really hard to min/max</li>
+<li>it’s <em>mostly</em> easy/intuative?</li>
+<li>it uses existing mechanices</li>
+<li>magic is hard; dangerous; damaging?</li>
+</ol>
+<p>Magic is hard work and takes a toll on the caster. In my game, you probably don’t want to go with the <em>feeble old wizard</em> trope <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> Using HD basically for <em>spell slots</em> seems logical… but if they want to cast more, they’ll take damage.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/alternative-magic-system-for-wodu/6933/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/alternative-magic-system-for-wodu/6933/6</link>
+        <pubDate>Mon, 10 May 2021 01:59:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6933-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/alternative-magic-system-for-wodu/6933.rss">Alternative Magic System for WoDu</source>
+      </item>
+      <item>
+        <title>Alternative Magic System for WoDu</title>
+        <dc:creator><![CDATA[@Ben_Bisogno]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/ben_bisogno">@Ben_Bisogno</a> wrote:</p>
+          <blockquote>
+              <p>I think part of <a class="mention" href="/u/dereel">@dereel</a>’s question is, what feeling and circumstances would magic be involved with? Do you want a feeling of danger, sacrifice, risk involved in magic?</p>
+<p>There are many systems and if you can express the “problem” you are specifically trying more clearly, this will help guide you to your answer.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/alternative-magic-system-for-wodu/6933/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/alternative-magic-system-for-wodu/6933/5</link>
+        <pubDate>Mon, 10 May 2021 01:23:09 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6933-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/alternative-magic-system-for-wodu/6933.rss">Alternative Magic System for WoDu</source>
+      </item>
+      <item>
+        <title>Alternative Magic System for WoDu</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>Sorry, I don’t know World of Dungeon enough to be of any help.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/alternative-magic-system-for-wodu/6933/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/alternative-magic-system-for-wodu/6933/4</link>
+        <pubDate>Sun, 09 May 2021 21:00:57 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6933-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/alternative-magic-system-for-wodu/6933.rss">Alternative Magic System for WoDu</source>
+      </item>
+      <item>
+        <title>Alternative Magic System for WoDu</title>
+        <dc:creator><![CDATA[@brine]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/brine">@brine</a> wrote:</p>
+          <blockquote>
+              <blockquote>
+<p>Hello, that’s the mechanic. In what “play framework” do you want it to take place ?  Like, problem solving ?</p>
+</blockquote>
+<p>Not sure I understand the question <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/thinking.png?v=9" title=":thinking:" class="emoji" alt=":thinking:"> This is just a replacement for the magic system in the existing WoDu. So… <em>when a pc uses magic</em>.</p>
+<blockquote>
+<p>What function will these magic settings (pain etc.) serve ? Is it, like I suppose, to balance effectiveness ?</p>
+</blockquote>
+<p>Not <em>effectiveness</em> but having some constraints to the amount of spells you can cast. You can attempt to case &gt; hd+con but <em>it’s gonna literally hurt</em>.</p>
+<blockquote>
+<p>In which case, what is the effectiveness of spells ? of other means of solving problems ? and what’s the cost like with these other means ?</p>
+</blockquote>
+<p>I’m not following <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/thinking.png?v=9" title=":thinking:" class="emoji" alt=":thinking:"></p>
+<blockquote>
+<p>Do you see where my questions are leading ? This sounds a bit like SR1 magic to me, definitely not my playstyle so maybe all the answers are obvious.</p>
+</blockquote>
+<p>I’m not sure I do… and I’m not familiar with <em>SR1 magic</em> <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>Thanks for the feedback!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/alternative-magic-system-for-wodu/6933/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/alternative-magic-system-for-wodu/6933/3</link>
+        <pubDate>Sun, 09 May 2021 19:12:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6933-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/alternative-magic-system-for-wodu/6933.rss">Alternative Magic System for WoDu</source>
+      </item>
+      <item>
+        <title>Alternative Magic System for WoDu</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>Hello, that’s the mechanic. In what “play framework” do you want it to take place ? Like, problem solving ? What function will these magic settings (pain etc.) serve ? Is it, like I suppose, to balance effectiveness ? In which case, what is the effectiveness of spells ? of other means of solving problems ? and what’s the cost like with these other means ?<br>
+Do you see where my questions are leading ? This sounds a bit like SR1 magic to me, definitely not my playstyle so maybe all the answers are obvious.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/alternative-magic-system-for-wodu/6933/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/alternative-magic-system-for-wodu/6933/2</link>
+        <pubDate>Sun, 09 May 2021 18:53:44 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6933-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/alternative-magic-system-for-wodu/6933.rss">Alternative Magic System for WoDu</source>
+      </item>
+      <item>
+        <title>Alternative Magic System for WoDu</title>
+        <dc:creator><![CDATA[@brine]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/brine">@brine</a> wrote:</p>
+          <blockquote>
+              <p>I am trying to create a magic system to use in my <a href="http://www.onesevendesign.com/dw/world_of_dungeons_1979.pdf" rel="nofollow noopener">World of Dungeons</a> games that is:</p>
+<ul>
+<li>simple</li>
+<li>has a <code>Jonathan Strange &amp; Mr. Norrell</code> vibe</li>
+<li><em>levelless</em></li>
+<li>favors creativity/roleplay over math</li>
+</ul>
+<h1>Magic</h1>
+<h2>Types</h2>
+<blockquote>
+<p>magi can cast spells in the following ways…</p>
+</blockquote>
+<ol>
+<li>Learned: +int - cast a number of known spells (equal to your level) or from texts (eg. scrolls, books)</li>
+<li>Arcane: +wis - cast <em>experimental</em> spells spontaneously by <em>intuition/feel</em> at disadvantage (until you cast it successfully in combat)</li>
+<li>Ritual: (requires <code>Ritual</code>) - 1+ hours time to cast; various components; more powerful spells take longer</li>
+<li>Bargain: +cha (requires <code>Summon</code>) - you employ the services of a demon, fae etc… <em>be careful!</em>
+</li>
+<li>Cantrips: (requires <code>Cantrip</code>) - parlor tricks can be <em>powerfully effective!</em>
+</li>
+</ol>
+<h2>Mechanics</h2>
+<blockquote>
+<p>magic takes effort and stamina (con) and thus can be <em>painful</em> if overused</p>
+</blockquote>
+<ul>
+<li>2d6+int/wis/cha</li>
+<li>cast spells up to your number of hd+con</li>
+<li>after casting hd+con number of spells, you take 1d6 damage for each spell cast (regardless of outcome)</li>
+<li>spell damage is 2d6+level</li>
+<li>spell damage increases +1d6 at 5th and 10th levels</li>
+<li>spells are restored after resting in comfort and safety</li>
+</ul>
+<p><em>Thoughts are most welcome…</em></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/alternative-magic-system-for-wodu/6933/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/alternative-magic-system-for-wodu/6933/1</link>
+        <pubDate>Sun, 09 May 2021 17:34:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6933-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/alternative-magic-system-for-wodu/6933.rss">Alternative Magic System for WoDu</source>
+      </item>
+  </channel>
+</rss>

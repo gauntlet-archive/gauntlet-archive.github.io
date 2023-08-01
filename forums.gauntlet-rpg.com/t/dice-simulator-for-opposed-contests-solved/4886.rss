@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Dice simulator for opposed contests [Solved]</title>
+    <link>https://forums.gauntlet-rpg.com/t/dice-simulator-for-opposed-contests-solved/4886</link>
+    <description>Hello and sorry in advance : I could do the math, I am just too lazy to think it through...
+Here&#39;s what I am looking for : I want to rank players in a contest situation with N players each throwing an amount of dice (wager1, wager2, ... wagerN). I have various scoring methods available :
+A- Champions killing damage (1=0 success ; 2-5=1 success ; 6=2 successes)
+B- beat a threshold (for instance 4+) for 1 success
+C- take the highest die (then next highest, etc.)
+(D- adding up the value seems boring, but seeing is believing)
+(E- likewise, I don&#39;t like bonuses and maluses, but there may be a case for them that I didn&#39;t notice)
+
+Right now, C seems better simply because it yields less draws. But there is a whole sliding scale between A and B that makes me think there may be a golden spot there to be found for different sets of &#39;wager&#39;. Or maybe the contest situation makes everything equal and it&#39;s just a question of taste. Probabilites can be counter-intuitive at times, but I wouldn&#39;t bet that this is the case here.
+
+Any leads to a refined dice simulator ?</description>
+    
+    <lastBuildDate>Sun, 29 Mar 2020 20:52:19 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/dice-simulator-for-opposed-contests-solved/4886.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Dice simulator for opposed contests [Solved]</title>
+        <dc:creator><![CDATA[@Radmad]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/radmad">@Radmad</a> wrote:</p>
+          <blockquote>
+              <p>there are a couple of ways you can approach this. There’s numerous online dice roll visualizors (I use Anydice but there are other options). There will be a minor amount of learning curve to understand their keywords, but nothing too bad. Or you can use Excel. I prefer this because it offers much better customization at low and high skill levels. Excel’s formulas a very straightforward, all you need is some statistics knowledge.</p>
+<p>Option A: for 6d6 vs 3d6 vs 1d6 you’d have an avg result of 6 hits to 3 hits to 1 (your proposed spread conveniently has an avg result of 1 hit per die).</p>
+<p>Option B: For 6d6 vs  3d6 vs 1d6 with a hit on 4+ you have an avg result of ~3 hits to ~1.5 hits to ~.5 hits.</p>
+<p>For options C or D, 6d6 vs 3d6 vs 1d6 has average results of 21 to 10.5 to 3.5.</p>
+<p>In any example, success scales linearly based on number of dice bid, but for options C and D you guarantee success after a certain threshold (7d6 will always beat 1d6).  Options A and B will always provide a chance, no matter how small, that a lower number of dice bid can beat a higher number, with a large number of ties occurring between equivalent bids.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dice-simulator-for-opposed-contests-solved/4886/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dice-simulator-for-opposed-contests-solved/4886/3</link>
+        <pubDate>Sun, 29 Mar 2020 20:52:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4886-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dice-simulator-for-opposed-contests-solved/4886.rss">Dice simulator for opposed contests [Solved]</source>
+      </item>
+      <item>
+        <title>Dice simulator for opposed contests [Solved]</title>
+        <dc:creator><![CDATA[@Rickard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rickard">@Rickard</a> wrote:</p>
+          <blockquote>
+              <p>Will this help you? I added a die type for the board game Betrayal at the House on the Hill, which uses a sixsided die that has the sides 0, 0, 1, 1, 2, 2. So the number of dice you roll is most likely the result that  you are to end up with.</p>
+<p>Using highest die is rarely a good choice, because you will most likely end up with the max result even on lower number of dice.</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <a href="https://anydice.com/" target="_blank" rel="nofollow noopener">anydice.com</a>
+  </header>
+  <article class="onebox-body">
+    <img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/1X/3bf3f630c88a1a9358a65606e062fa0839265624.jpeg" class="thumbnail onebox-avatar" width="200" height="200">
+
+<h3><a href="https://anydice.com/" target="_blank" rel="nofollow noopener">AnyDice</a></h3>
+
+<p>AnyDice is an advanced dice probability calculator, available online. It is created with roleplaying games in mind.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dice-simulator-for-opposed-contests-solved/4886/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dice-simulator-for-opposed-contests-solved/4886/2</link>
+        <pubDate>Sun, 29 Mar 2020 20:51:38 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4886-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dice-simulator-for-opposed-contests-solved/4886.rss">Dice simulator for opposed contests [Solved]</source>
+      </item>
+      <item>
+        <title>Dice simulator for opposed contests [Solved]</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>Hello and sorry in advance : I could do the math, I am just too lazy to think it through…<br>
+Here’s what I am looking for : I want to rank players in a contest situation with N players each throwing an amount of dice (wager1, wager2, … wagerN). I have various scoring methods available :<br>
+A- Champions killing damage (1=0 success ; 2-5=1 success ; 6=2 successes)<br>
+B- beat a threshold (for instance 4+) for 1 success<br>
+C- take the highest die (then next highest, etc.)<br>
+(D- adding up the value seems boring, but seeing is believing)<br>
+(E- likewise, I don’t like bonuses and maluses, but there may be a case for them that I didn’t notice)</p>
+<p>Right now, C seems better simply because it yields less draws. But there is a whole sliding scale between A and B that makes me think there may be a golden spot there to be found for different sets of ‘wager’. Or maybe the contest situation makes everything equal and it’s just a question of taste. Probabilites can be counter-intuitive at times, but I wouldn’t bet that this is the case here.</p>
+<p>Any leads to a refined dice simulator ?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dice-simulator-for-opposed-contests-solved/4886/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dice-simulator-for-opposed-contests-solved/4886/1</link>
+        <pubDate>Sun, 29 Mar 2020 20:06:04 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4886-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dice-simulator-for-opposed-contests-solved/4886.rss">Dice simulator for opposed contests [Solved]</source>
+      </item>
+  </channel>
+</rss>

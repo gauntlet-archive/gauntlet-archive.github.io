@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>How do you play World of Dungeons?</title>
+    <link>https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593</link>
+    <description>Inspired by [this](https://discourse.funtimers.club/t/how-do-you-play-dungeon-world) post, I&#39;d like to ask:  how do *you* play your personal version of  **World of Dungeons**? This is the sort of thing I&#39;d _love_ to hear answered by folks like @elStiko,  @jasoncordova or @jasonlutes, @Tam and @Michael_G_Barford, if you guys have the time...
+
+Specifically, I&#39;d like to know: 
+
+Do you use the Magic system as-is (essentially bottled spirits your Wizard can *Summon*)?  Or do you do something else? Maybe you use the same mechanic, but theme it differently, perhaps making some small change in the mechanic? For example, Quicksilver could be less damaging, rituals take more/less time or perhaps you include spells like Advanced WoDu? 
+
+What about classes? Standard set, or do you let people mix &amp; match?
+
+Do you use anything like Keys, Drives, Bonds or Flags? Flaws?
+
+What about XP on fail? 
+
+Adventuring Gear or abstracted items?
+
+Inventory? 
+
+Hit Dice/Damage?
+
+Custom Character Sheet?
+
+DW GM Moves?
+
+Setting?
+
+I&#39;m just curious how folks deal with the &quot;rules-lite&quot; nature of the game, especially after having come from heavier systems. Homebrew or hack recommendations are welcome. I&#39;d also love to hear some best practices!
+
+I&#39;m thinking about using Knave&#39;s 100 Level-less spells; it seems like it would work pretty well. Or Marvels &amp; Malisons. I&#39;d also like to look into rolling up a character randomly, like Into The Odd, especially for one shots. 
+
+Thanks!</description>
+    
+    <lastBuildDate>Tue, 05 Apr 2022 16:24:40 +0000</lastBuildDate>
+    <category>RPG Chat</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>How do you play World of Dungeons?</title>
+        <dc:creator><![CDATA[@Chiaroscuro]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/chiaroscuro">@Chiaroscuro</a> wrote:</p>
+          <blockquote>
+              <p>A few months passed, but if you are still there I wanted to ask you more questions about the game, which looks really nice. Specifically, how do you do character creation?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/24</link>
+        <pubDate>Tue, 05 Apr 2022 16:24:40 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1593-24</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593.rss">How do you play World of Dungeons?</source>
+      </item>
+      <item>
+        <title>How do you play World of Dungeons?</title>
+        <dc:creator><![CDATA[@cris_m]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/cris_m">@cris_m</a> wrote:</p>
+          <blockquote>
+              <p>Hey. I am starting a solo game with WoDu. Specifically I will be using Streets of Marienburg, since it seems more fully fleshed, at a sweet spot for me.</p>
+<p>I want to basically play through all the OSR goodies I have collected (Barrowmaze, Carcosa, Highfell, etc.) and never get to play.</p>
+<p>My question is:</p>
+<ul>
+<li>do you incorporate monster stats as is?</li>
+<li>how do you incorporate magic items?</li>
+<li>how about spells?</li>
+</ul>
+<p>Can a Wizard PC get a spellbook of a NPC and cast those spells? Or can they only cast spells using the SoM system? Thanks</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/23</link>
+        <pubDate>Fri, 01 Oct 2021 08:41:28 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1593-23</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593.rss">How do you play World of Dungeons?</source>
+      </item>
+      <item>
+        <title>How do you play World of Dungeons?</title>
+        <dc:creator><![CDATA[@bigbrother8]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/bigbrother8">@bigbrother8</a> wrote:</p>
+          <blockquote>
+              <p>More thread necro here, but I ran WoDu last night and would like to share.</p>
+<p><em>Do you use the Magic system as-is?</em><br>
+No. I use something similar to Freebooters on the Frontier. Spell names are generated through random tables and casters choose options according to very limited parameters each time. Flexible but not wide open.</p>
+<p><em>What about classes? Standard set, or do you let people mix &amp; match?</em><br>
+For this version, I tore out the WoDu engine and put it in a feudal Japan chassis. There are Bushi, Gakusho, Kensei, Ninja, Shugenja, Samurai, and Sohei. None of these correspond directly to traditional classes.</p>
+<p><em>Do you use anything like Keys, Drives, Bonds or Flags? Flaws?</em><br>
+I’ve started using Flags and Drives. The players have really embraced this approach, which is all any of us DMs/GMs ask for.</p>
+<p><em>What about XP on fail?</em><br>
+Nope. I’ve borrowed XP and End of Session from DW and moved it to a beginning of session move. My group isn’t as young as we’d like to be and no one wants to do bookkeeping at the end of a late session. This also serves as a good way to recap the previous session.</p>
+<p><em>Adventuring Gear or abstracted items?</em><br>
+Absolutely. Not just adventuring gear, but thieves’ gear, mystics’ gear and Usage Dice.</p>
+<p><em>Inventory?</em><br>
+We have a limited equipment list using a standard “coin” currency.</p>
+<p><em>Hit Dice/Damage?</em><br>
+Hit Dice and Damage are both by-the-book, surprisingly.</p>
+<p><em>Custom Character Sheet?</em><br>
+Technically, yes. I’m running it online so we’re using something I cooked up in Google Slides.</p>
+<p><em>DW GM Moves?</em><br>
+Absolutely. I rely pretty heavily on these as I’m not yet comfortable just being in the moment and making things up on the fly. I also rely on my understanding of playbook moves to interpret the WoDu results.</p>
+<p><em>Setting?</em><br>
+It’s feudal Japan having borrowed heavily from WOTCs Rokugan setting, Legend of the Five Rings, Bushido from the early 80s, and an OSR thing I found called Shinobi &amp; Samurai. I’ve pulled from these prior works and conducted a limited amount of research to try to be respectful of the era and culture, but know that more could be done. Oh, and I have to acknowledge Usagi Yojimbo and Tomoe Gozen.</p>
+<p>I’m happy with how it worked in play. Here it is if anyone is interested.</p>
+<p><a href="https://docs.google.com/document/d/1BsGOQV7hn8c86bkOPIjnPqa6llH1t4nB-0Jv8ehP0LM/edit" rel="nofollow noopener">World of Jinja</a></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/22</link>
+        <pubDate>Fri, 23 Oct 2020 00:24:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1593-22</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593.rss">How do you play World of Dungeons?</source>
+      </item>
+      <item>
+        <title>How do you play World of Dungeons?</title>
+        <dc:creator><![CDATA[@Dithmer]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dithmer">@Dithmer</a> wrote:</p>
+          <blockquote>
+              <p>I recently ran a one-shot session using the Daughter of Ice dungeon starter, and plugging in the Last Breath move from Dungeon World.</p>
+<p>It was a blast, and my players are incredibly stoked for an eventual campaign. I plan on using a bunch of the world-creation, travelling moves and random tables from Perilous Wilds, but otherwise sticking to the core document.</p>
+<p>(first time posting by the way, I hope resurrecting months-old topics is not bad form)</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/21</link>
+        <pubDate>Thu, 10 Sep 2020 10:42:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1593-21</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593.rss">How do you play World of Dungeons?</source>
+      </item>
+      <item>
+        <title>How do you play World of Dungeons?</title>
+        <dc:creator><![CDATA[@Chiaroscuro]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/chiaroscuro">@Chiaroscuro</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/tam">@Tam</a> I am not using discord, but I will DM you here in the forum with my contact details and we can have a chat.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/20</link>
+        <pubDate>Fri, 21 Feb 2020 09:21:54 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1593-20</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593.rss">How do you play World of Dungeons?</source>
+      </item>
+      <item>
+        <title>How do you play World of Dungeons?</title>
+        <dc:creator><![CDATA[@Tam]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/tam">@Tam</a> wrote:</p>
+          <blockquote>
+              <p>Definitely, I’d be happy to! If you feel like discussing in depth I’m on the DW Discord too. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> And thanks <a class="mention" href="/u/yochaigal">@yochaigal</a> for giving me the heads up on this.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/19</link>
+        <pubDate>Thu, 20 Feb 2020 21:58:41 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1593-19</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593.rss">How do you play World of Dungeons?</source>
+      </item>
+      <item>
+        <title>How do you play World of Dungeons?</title>
+        <dc:creator><![CDATA[@Chiaroscuro]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/chiaroscuro">@Chiaroscuro</a> wrote:</p>
+          <blockquote>
+              <p>Tank you <a class="mention" href="/u/yochaigal">@yochaigal</a>!</p>
+<p><a class="mention" href="/u/tam">@tam</a> are you interested in taking over the WoDu compendium?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/18</link>
+        <pubDate>Mon, 10 Feb 2020 21:00:47 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1593-18</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593.rss">How do you play World of Dungeons?</source>
+      </item>
+      <item>
+        <title>How do you play World of Dungeons?</title>
+        <dc:creator><![CDATA[@yochaigal]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/yochaigal">@yochaigal</a> wrote:</p>
+          <blockquote>
+              <p>If I may be so bold… You should let <a class="mention" href="/u/tam">@Tam</a> manage it. She’s the best, and loves WoDu hacks.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/17</link>
+        <pubDate>Sat, 09 Nov 2019 16:06:44 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1593-17</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593.rss">How do you play World of Dungeons?</source>
+      </item>
+      <item>
+        <title>How do you play World of Dungeons?</title>
+        <dc:creator><![CDATA[@Chiaroscuro]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/chiaroscuro">@Chiaroscuro</a> wrote:</p>
+          <blockquote>
+              <p>Hey <a class="mention" href="/u/paul_t">@Paul_T</a> thanks for bringing that up! I made that compendium a few years ago.<br>
+Some of the new stuff is not there and it needs some organizational effort, but I am very happy to give editing rights to new curators.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/16</link>
+        <pubDate>Wed, 10 Jul 2019 22:52:16 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1593-16</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593.rss">How do you play World of Dungeons?</source>
+      </item>
+      <item>
+        <title>How do you play World of Dungeons?</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>Back in the days of Story Games, someone made this lovely compendium, based on all the conversations:</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/2/26e0e2de1d1bbbdcca2ae21ada1c3cfa32f3981c.png" class="site-icon" width="32" height="32">
+      <a href="https://doubleninja.wordpress.com/2012/12/30/world-of-dungeons-compendium/" target="_blank" title="12:37AM - 30 December 2012">Doubleninja's Blog – 30 Dec 12</a>
+  </header>
+  <article class="onebox-body">
+    <img src="https://secure.gravatar.com/blavatar/47b551edbc99ca1d10dc72eaf7a3cbe2?s=200&amp;ts=1573384335" class="thumbnail onebox-avatar" width="200" height="200">
+
+<h3><a href="https://doubleninja.wordpress.com/2012/12/30/world-of-dungeons-compendium/" target="_blank">World of Dungeons Compendium</a></h3>
+
+<p>UPDATE: I moved the compendium to googledocs. Ask me for editing permission if you would like to contribute:  Here is my Compendium of World of Dungeons Resources, at least until the wiki at is bac…</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>If you are a fan of the game, it is definitely worth taking a look at!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/15</link>
+        <pubDate>Thu, 04 Jul 2019 18:26:13 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1593-15</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593.rss">How do you play World of Dungeons?</source>
+      </item>
+      <item>
+        <title>How do you play World of Dungeons?</title>
+        <dc:creator><![CDATA[@Echo]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/echo">@Echo</a> wrote:</p>
+          <blockquote>
+              <p>How do position and effect factor into the resolution mechanic?<br>
+Or are they just fictional considerations?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/14</link>
+        <pubDate>Sat, 29 Jun 2019 23:55:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1593-14</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593.rss">How do you play World of Dungeons?</source>
+      </item>
+      <item>
+        <title>How do you play World of Dungeons?</title>
+        <dc:creator><![CDATA[@Logan_Bright_Works]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/logan_bright_works">@Logan_Bright_Works</a> wrote:</p>
+          <blockquote>
+              <p>I’m building a homebrew WoDu, blending it with Dungeon Crawl Classics, Apocalypse World 2e, Freebooters 2e, &amp; Blades in the Dark, with some hints of Maze Rats &amp; Freeform Universal. It’s designed to be printed landscape, with the basic moves on the back of the character sheet. The presentation is dense, but I can fit just about everything I need to guide a group through an evening of play in 8 pages; half player-facing, half judge-facing. Two of the 8 are print-outs from Maze Rats &amp; Apocalypse World 2e.</p>
+<p>The adventure design is heavily influenced by Jason Cordova’s Paint the Scene technique. Each “statblock” is a few threat moves (drawn from AW2e) linked to leading questions about the creature. I also use hp, armour (as damage resistance), and WoDu weapons as a guideline for creature damage.</p>
+<p>(Also, you’ll find some text in light grey; I want to leave space for player dictation, while also having something up my sleeve as a backup.)</p>
+<p>Please critique!</p>
+<p><a href="https://drive.google.com/file/d/14IQgpdyj1yNLNw0OCQmXgxEsLyfZr7ZF/view?usp=sharing" class="onebox" target="_blank" rel="nofollow noopener">https://drive.google.com/file/d/14IQgpdyj1yNLNw0OCQmXgxEsLyfZr7ZF/view?usp=sharing</a></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/13</link>
+        <pubDate>Sun, 14 Apr 2019 06:19:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1593-13</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593.rss">How do you play World of Dungeons?</source>
+      </item>
+      <item>
+        <title>How do you play World of Dungeons?</title>
+        <dc:creator><![CDATA[@Liana]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/liana">@Liana</a> wrote:</p>
+          <blockquote>
+              <p>Thanks!<br>
+I just used the basic <a href="http://www.onesevendesign.com/dw/world_of_dungeons_1979_bw.pdf" rel="nofollow noopener">world of dungeons pdf</a> as my base and edited it in adobe acrobat, which did a pretty acceptable job, even if it was a bit inelegant.</p>
+<p>For damage, players take numerical harm, NPCs don’t. If i need a rough scale: a player is hit by a punch they lose 1hp, a weapon 2hp, a serious weapon 3hp, a boulder 4hp, a building 5hp. Light/heavy armor reduces it by 1/2 hp respectively.</p>
+<p>For enemy npcs, if the character could feasibly die to a single blow (goblin, wolf, zombie), then a success when directly fighting the enemy. For a more seriou enemy, they must create the fictional positioning which allows for the killing blow: bring the ogre down the ground, disarm the master swordsman, etc.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/12</link>
+        <pubDate>Sat, 06 Apr 2019 23:09:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1593-12</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593.rss">How do you play World of Dungeons?</source>
+      </item>
+      <item>
+        <title>How do you play World of Dungeons?</title>
+        <dc:creator><![CDATA[@yochaigal]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/yochaigal">@yochaigal</a> wrote:</p>
+          <blockquote>
+              <p>Thanks, this is wonderful. Two questions:</p>
+<p>Do you have any of the original files used to edit the playbook (presuming you didn’t just layer on top of the PDF)?</p>
+<p>And second: How do you handle damage? I would <em>love</em> to hear about that bit.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/11</link>
+        <pubDate>Sat, 06 Apr 2019 22:18:12 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1593-11</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593.rss">How do you play World of Dungeons?</source>
+      </item>
+      <item>
+        <title>How do you play World of Dungeons?</title>
+        <dc:creator><![CDATA[@Liana]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/liana">@Liana</a> wrote:</p>
+          <blockquote>
+              <p>I used it to run a one shot a little while back, though I made quite a few quality of life changes to the game, removing a lot of the more mechanical elements like:</p>
+<ul>
+<li>removing damage rolls</li>
+<li>abilities and skills do the sme thing, (now if you have a skill/ability, it tells us what you’re good at, colouring the fiction) with descriptions for only the not self explanatory</li>
+<li>removed the buying items element of character gen (replaced with choose 4 items or 1 plus a magic item I wrote) because it always slowed the process down.</li>
+<li>removing rolling stats, fun but too slow for a one shot</li>
+<li>added a character introduction questionnaire and starting relationships</li>
+<li>put discern realities on the character sheet</li>
+</ul>
+<p>I have the pdf if anyone would like to critique it: <a href="https://drive.google.com/open?id=1bZaP67cP4gRKTuoBd-nkhw1wxEuIxIeY" rel="nofollow noopener">WorldofdungeonsHack </a></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/10</link>
+        <pubDate>Sat, 06 Apr 2019 20:31:27 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1593-10</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593.rss">How do you play World of Dungeons?</source>
+      </item>
+      <item>
+        <title>How do you play World of Dungeons?</title>
+        <dc:creator><![CDATA[@Tam]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/tam">@Tam</a> wrote:</p>
+          <blockquote>
+              <p><a href="https://drive.google.com/open?id=1d5HphGYKjhDtFnPlEUKu-FcFJ88UlNnX" rel="nofollow noopener">wodu-osr wip</a></p>
+<p>This is my personal cobbled together hack of World of Dungeons and some OSR stuff and some other stuff (mostly existing WoDu hacks). It’s still rough but it’s literally how I play WoDu (usually play-by-post).</p>
+<ul>
+<li>Dungeon turns and a table to roll on every so often. Wandering monsters for the win!</li>
+<li>More abilities, more class packages.</li>
+<li>Two or three magic systems and a crafting system.</li>
+</ul>
+<p>Feedback is welcome, please feel free to share it as well!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/9</link>
+        <pubDate>Sat, 06 Apr 2019 19:24:13 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1593-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593.rss">How do you play World of Dungeons?</source>
+      </item>
+      <item>
+        <title>How do you play World of Dungeons?</title>
+        <dc:creator><![CDATA[@jasonlutes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jasonlutes">@jasonlutes</a> wrote:</p>
+          <blockquote>
+              <p>I’ve never played <em>World of Dungeons</em>! There was a time when we were playing a fair number of John Harper games, and if I recall correctly there was a juncture where we decided to give <em>Bootleggers</em> a spin over <em>WoD</em>. By the time the possibility arose again, I had a draft of <em>Freebooters on the Frontier</em> in hand, so that became our go-to old-school game.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/8</link>
+        <pubDate>Fri, 05 Apr 2019 12:57:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1593-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593.rss">How do you play World of Dungeons?</source>
+      </item>
+      <item>
+        <title>How do you play World of Dungeons?</title>
+        <dc:creator><![CDATA[@jasoncordova]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jasoncordova">@jasoncordova</a> wrote:</p>
+          <blockquote>
+              <p><em>Do you the Magic system as-is (essentially bottled spirits your Wizard can  <em>Summon</em> )? Or do you do something else? Maybe you use the same mechanic, but theme it differently, perhaps making some small change in the mechanic? For example, Quicksilver could be less damaging, rituals take more/less time or perhaps you include spells like Advanced WoDu?</em></p>
+<p>Answer: I run it as written.</p>
+<p><em>What about classes? Standard set, or do you let people mix &amp; match?</em><br>
+Answer: we use the standard classes or folks can make their own following the guidelines in the rules.</p>
+<p><em>Do you use anything like Keys, Drives, Bonds or Flags? Flaws?</em></p>
+<p>Answer: I used to do Flags, but I stopped. I find my groups don’t really need mechanical incentivizers to interact anymore.</p>
+<p><em>What about XP on fail?</em></p>
+<p>Answer: I do XP as written.</p>
+<p><em>Adventuring Gear or abstracted items?</em></p>
+<p>Answer: I do it as presented.</p>
+<p><em>Inventory?</em></p>
+<p>Same.</p>
+<p><em>Hit Dice/Damage?</em><br>
+Answer: I also do this as written, though I add a Black Hack-style “Last Breath” procedure when they hit 0 HP.</p>
+<p><em>Custom Character Sheet?</em><br>
+Answer: I only play online, so I use a custom Google Sheet character keeper, which is typical for Gauntlet Games.</p>
+<p><em>DW GM Moves?</em><br>
+Answer: I guess so? It’s all pretty internalized at this point. I don’t actively think about it.</p>
+<p><em>Setting?</em><br>
+Answer: I strictly run old school and OSR modules in order to support my podcast, Fear of a Black Dragon.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/7</link>
+        <pubDate>Fri, 05 Apr 2019 02:47:18 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1593-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593.rss">How do you play World of Dungeons?</source>
+      </item>
+      <item>
+        <title>How do you play World of Dungeons?</title>
+        <dc:creator><![CDATA[@elStiko]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/elstiko">@elStiko</a> wrote:</p>
+          <blockquote>
+              <p>Those indexers are sweet! Love the innovations. One of these days I want to make something between yours, the black hack 2e sheets, and <a href="http://www.oldschoolhack.net/tag/pregens/" rel="nofollow noopener">the indexers I saw for Old School Hack</a>…</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/6</link>
+        <pubDate>Thu, 04 Apr 2019 22:59:12 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1593-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593.rss">How do you play World of Dungeons?</source>
+      </item>
+      <item>
+        <title>How do you play World of Dungeons?</title>
+        <dc:creator><![CDATA[@elStiko]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/elstiko">@elStiko</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="1" data-topic="1593">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/yochaigal/40/783_2.png" class="avatar"> yochaigal:</div>
+<blockquote>
+<p>Do you use the Magic system as-is (essentially bottled spirits your Wizard can <em>Summon</em> )?</p>
+</blockquote>
+</aside>
+<p>Yep, but kids don’t like hearing they’re out of quicksilver.</p>
+<aside class="quote no-group" data-post="1" data-topic="1593">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/yochaigal/40/783_2.png" class="avatar"> yochaigal:</div>
+<blockquote>
+<p>What about classes? Standard set, or do you let people mix &amp; match?</p>
+</blockquote>
+</aside>
+<p>Standard fits the fast-to-table attraction of the game, but the ability to cutsom build is there whern you have the time/inclination.</p>
+<aside class="quote no-group" data-post="1" data-topic="1593">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/yochaigal/40/783_2.png" class="avatar"> yochaigal:</div>
+<blockquote>
+<p>Do you use anything like Keys, Drives, Bonds or Flags? Flaws?</p>
+</blockquote>
+</aside>
+<p>Not in this game, just slows things down. Actually would love to improve bonds in DW for that matter, but never fell in love with any replacements. I think I’d love to use bonds and just fix the aid move to not tie to roll+bond.</p>
+<aside class="quote no-group" data-post="1" data-topic="1593">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/yochaigal/40/783_2.png" class="avatar"> yochaigal:</div>
+<blockquote>
+<p>What about XP on fail?</p>
+</blockquote>
+</aside>
+<p>Yep, unless it’s a convention one-shot, but I’d love to implement a spend-xp-to-reroll or something instead for those sessions where leveling is out of scope.<br>
+I prefer to just make it 10xp per level if I want a game this simple.<br>
+I don’t use money to level because <em><strong>Death to Capitalism!</strong></em></p>
+<aside class="quote no-group" data-post="1" data-topic="1593">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/yochaigal/40/783_2.png" class="avatar"> yochaigal:</div>
+<blockquote>
+<p>Adventuring Gear or abstracted items?</p>
+</blockquote>
+</aside>
+<p>Yes.<br>
+Specify the interesting ones, abstract the mundane.</p>
+<aside class="quote no-group" data-post="1" data-topic="1593">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/yochaigal/40/783_2.png" class="avatar"> yochaigal:</div>
+<blockquote>
+<p>Inventory?</p>
+</blockquote>
+</aside>
+<p>After discovering Adam Koebel has never used the encumberance rules for DW, I tend to let max capacity slide by unless someone really takes advantage.</p>
+<aside class="quote no-group" data-post="1" data-topic="1593">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/yochaigal/40/783_2.png" class="avatar"> yochaigal:</div>
+<blockquote>
+<p>Hit Dice/Damage?</p>
+</blockquote>
+</aside>
+<p>I like to simplify the damage into 1/2/3d6 based on difficulty, assuming 1d6 to be trivial and 3d6 to be a big deal, and wing it during play.<br>
+HD is not a big deal to leave as-is, but I personally have a grudge against the term and the obscure way they’re used everywhere.</p>
+<aside class="quote no-group" data-post="1" data-topic="1593">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/yochaigal/40/783_2.png" class="avatar"> yochaigal:</div>
+<blockquote>
+<p>Custom Character Sheet?</p>
+</blockquote>
+</aside>
+<p><a href="https://elstiko.itch.io/1a4-wodu" rel="nofollow noopener">You know it</a>. I simply <a href="https://elstiko.itch.io/pocket-wodu" rel="nofollow noopener">can’t stop making them</a> even though I adore The Harper Original.</p>
+<aside class="quote no-group" data-post="1" data-topic="1593">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/yochaigal/40/783_2.png" class="avatar"> yochaigal:</div>
+<blockquote>
+<p>DW GM Moves?</p>
+</blockquote>
+</aside>
+<p>The Things We Did All Along, Then Someone Reminded Us And It Got Easier</p>
+<aside class="quote no-group" data-post="1" data-topic="1593">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/yochaigal/40/783_2.png" class="avatar"> yochaigal:</div>
+<blockquote>
+<p>Setting?</p>
+</blockquote>
+</aside>
+<p>Best WoDu I’ve run with adults was a sidequest from my lunchtime DW campaign after a TPK. We switched to WoDu sheets to explore and escape the afterlife and get back to their bodies in Eberron. WoDu ports of the characters was a great way to simulate being shades, and the currency of the place was the faint memory of your class moves. Failure over there would slowly strip them of moves and drain stats until the sheet was essentially blank.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/5</link>
+        <pubDate>Thu, 04 Apr 2019 22:32:24 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1593-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593.rss">How do you play World of Dungeons?</source>
+      </item>
+      <item>
+        <title>How do you play World of Dungeons?</title>
+        <dc:creator><![CDATA[@EricVulgaris]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/ericvulgaris">@EricVulgaris</a> wrote:</p>
+          <blockquote>
+              <p>the previous response is pretty spot on. Very comprehensive.</p>
+<p>I run the game much more barebones having never used WoDu for anything more than a one shot.</p>
+<p>Come up with a cohesive story and run with it. Make characters and set the scene. To determine the pressure of the scene, roll a 1d6 like you would an engagement roll in blades. 1 is desperate position and 6 is controlled for the players.</p>
+<p>Then just talk and play as you normally would apocalypse world or dungeon world. Every roll besides damage is just defying some sorta danger.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/4</link>
+        <pubDate>Thu, 04 Apr 2019 22:19:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1593-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593.rss">How do you play World of Dungeons?</source>
+      </item>
+      <item>
+        <title>How do you play World of Dungeons?</title>
+        <dc:creator><![CDATA[@Michael_G_Barford]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/michael_g_barford">@Michael_G_Barford</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="1" data-topic="1593">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/yochaigal/40/783_2.png" class="avatar"> yochaigal:</div>
+<blockquote>
+<p>Do you the Magic system as-is (essentially bottled spirits your Wizard can <em>Summon</em> )? Or do you do something else?</p>
+</blockquote>
+</aside>
+<p>Magic in World of Dungeons is actually very interesting! The Wizard is one of my favorite classes in WoDu because it does things <em>differently</em>. The Fighter and Thief are basically more boring versions of their Dungeon World counterparts (like,  Signature Weapon is one of my favorite DW bits and it’s painfully missing from WoDu’s Fighter), but the Wizard is its own unique take on the archetype. It feels much more occult, mysterious, dangerous. And, it does away with spell lists, a personal bugbear.</p>
+<p>I love the ambiguity of the Ritual ability. You start with two known rituals…that is <em>all</em> the rules have to say about that, and it lets me work with players to populate interesting content into the world with easy implied questions: “What rituals do you know? What do you need to do them? Where did you learn of them?”</p>
+<p>The Summon move is also very cool. It makes it clear that magic is dangerous and alien, something that mere mortals really should be leaving alone. But it also takes up a whole sidebar, something no other ability does, which makes it a little unwieldy. To be fair, it’s probably one of the shortest magic sections in any RPG I’ve read, but when the rest of the playbooks fit in a single paragraph it is a notable exception.</p>
+<p>Here’s an alternative set of Wizard abilities I’ve used for one-shots and cons that works pretty well and requires less explanation:</p>
+<blockquote>
+<p>☐ <strong>Kinesis:</strong> You can cast <em>Mage Hand, Floating Disc,</em> and <em>Force Field</em><br>
+☐ <strong>Illusion:</strong> You can cast <em>Invisibility, Charm,</em> and <em>Hologram</em><br>
+☐ <strong>Premonition:</strong> If you spend some time in quiet contemplation, you can receive a vision of the future<br>
+☐ <strong>Arcane Missile:</strong> You can summon a magical projectile that deals d6 damage</p>
+</blockquote>
+<aside class="quote no-group" data-post="1" data-topic="1593">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/yochaigal/40/783_2.png" class="avatar"> yochaigal:</div>
+<blockquote>
+<p>What about classes? Standard set, or do you let people mix &amp; match?</p>
+</blockquote>
+</aside>
+<p>The base classes help to lessen analysis paralysis but mix and match is fine with me! I’ve also used WoDu for “Interdimensional Travellers” and let folks use any ability and reflavor to their liking. We ended up with a beat cop, a space Steve Irwin, and other fun weirdos without much difficulty.</p>
+<aside class="quote no-group" data-post="1" data-topic="1593">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/yochaigal/40/783_2.png" class="avatar"> yochaigal:</div>
+<blockquote>
+<p>Do you use anything like Keys, Drives, Bonds or Flags? Flaws?</p>
+</blockquote>
+</aside>
+<p>WoDu doesn’t have much to say about <em>itself</em>, but this one line always stuck out to me: <strong>“…mainly it’s about the looting.”</strong> I personally really enjoy seeing interpersonal discussions and relationships between characters, but I don’t usually leverage the mechanics to do that. I look for downtime scenes and moments of implied intimacy to ask leading questions. <a class="mention" href="/u/jasoncordova">@jasoncordova</a>’s Perilous Journey questions from the Discern Realities Annual are a particular fave, basically along the lines of, “What’s something another party member does at camp that is particularly annoying or endearing?” When it’s time to use a ration to heal, whom do you share with? If you’re applying bandages or laying on hands, what are the two of you feeling right now? etc.</p>
+<aside class="quote no-group" data-post="1" data-topic="1593">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/yochaigal/40/783_2.png" class="avatar"> yochaigal:</div>
+<blockquote>
+<p>What about XP on fail?</p>
+</blockquote>
+</aside>
+<p><em>I like</em> XP on a fail, but it doesn’t fit into the base WoDu XP structure very well. When you’re hacking/homebrewing WoDu, that’s the bit I would recommend you turn to first, especially if you have specific themes you want to reinforce. If you use DW’s list of questions or a similar system you can incorporate XP on a fail pretty easily.</p>
+<aside class="quote no-group" data-post="1" data-topic="1593">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/yochaigal/40/783_2.png" class="avatar"> yochaigal:</div>
+<blockquote>
+<p>Adventuring Gear or abstracted items?</p>
+</blockquote>
+</aside>
+<p>For some people budgeting for every torch and length of rope is half the fun! I’m not one of those people. I use adventuring gear or “kits” (like a thieves’ kit which probably has lockpicks and probes or a disguise kit with conveniently appropriate wigs, etc.)</p>
+<aside class="quote no-group" data-post="1" data-topic="1593">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/yochaigal/40/783_2.png" class="avatar"> yochaigal:</div>
+<blockquote>
+<p>Hit Dice/Damage?</p>
+</blockquote>
+</aside>
+<p>Here’s some fun things you can fiddle with for Hit Dice:</p>
+<ul>
+<li>During character creation, a level 0 character starts with 1d6 HP, level 1 starts with 6 HP, level 2 has 6 + CONd6, level 3 has 6 + (CON+1)d6, etc.</li>
+<li>When you make camp somewhere that is unsafe, inhospitable, or evil, if your recovery roll is less than your current HP you must still accept it to reflect your fitful sleep. Otherwise, you don’t have to accept it and keep your current HP.</li>
+</ul>
+<p>For damage I also like to use weapon tags from DW, including the ammo tag. When you’re using an ammo weapon, I’ll let you wager ammo to grant “advantage” on damage (like a Light Weapon does) - on a 7-9 you’ve used up your quiver.</p>
+<p>Also, the rules don’t say what Armor or Speed <em>actually do</em> - I have Armor act as damage reduction and Speed is usually just used for fictional positioning.</p>
+<aside class="quote no-group" data-post="1" data-topic="1593">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/yochaigal/40/783_2.png" class="avatar"> yochaigal:</div>
+<blockquote>
+<p>Custom Character Sheet?</p>
+</blockquote>
+</aside>
+<p>Here’s one I’ve printed on 4x6 index cards for one-shots at cons (notably missing references to levels and XP among other things):<br>
+Rules: <a href="https://drive.google.com/open?id=1oSrAuyen87wjWkoHrdqPIq5aN5bTPOx5" rel="nofollow noopener">https://drive.google.com/open?id=1oSrAuyen87wjWkoHrdqPIq5aN5bTPOx5</a><br>
+Classes: <a href="https://drive.google.com/open?id=16BN-Kq6Pkn2LlNnAjqtXvfBYp5APGIl8" rel="nofollow noopener">https://drive.google.com/open?id=16BN-Kq6Pkn2LlNnAjqtXvfBYp5APGIl8</a></p>
+<p>Here’s some online character keepers as well:<br>
+Basic: <a href="https://docs.google.com/spreadsheets/d/1Bbt-RVLl9afSU4wQTN1M40O6R0FkXbRtrYS7Dj1Q2Gk/edit?usp=sharing" rel="nofollow noopener">https://docs.google.com/spreadsheets/d/1Bbt-RVLl9afSU4wQTN1M40O6R0FkXbRtrYS7Dj1Q2Gk/edit?usp=sharing</a><br>
+Automated + Simple XP: <a href="https://docs.google.com/spreadsheets/d/1QqoY-AHmFpeITrt9tYiPs7jr-RWe7uqBOR7OnaE8H0E/edit?usp=sharing" rel="nofollow noopener">https://docs.google.com/spreadsheets/d/1QqoY-AHmFpeITrt9tYiPs7jr-RWe7uqBOR7OnaE8H0E/edit?usp=sharing</a></p>
+<aside class="quote no-group" data-post="1" data-topic="1593">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/yochaigal/40/783_2.png" class="avatar"> yochaigal:</div>
+<blockquote>
+<p>DW GM Moves?</p>
+</blockquote>
+</aside>
+<p>All of them! And all the advice from Discern Realities! The big difference is that instead of “surprising” you with a move on a 6-/7-9, we talk it out first. That’s an important step that is pretty easy to forget. A WoDu GM can benefit a lot from reading DW and becoming familiar with its GM moves and the effects of the various results from the basic moves.</p>
+<p>WoDu is deceptively challenging because coming up with those 9- moves can be <em>tough</em> over time! When in doubt, share that cognitive load with your players. “What’s the one thing you’re most worried about happening as a result of your action?” If there’s nothing that really scary to think of, maybe you don’t need to roll and can just keep moving forward. If there is something scary, think about how things can go <em>even worse</em> on a 6-.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/3</link>
+        <pubDate>Thu, 04 Apr 2019 20:39:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1593-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593.rss">How do you play World of Dungeons?</source>
+      </item>
+      <item>
+        <title>How do you play World of Dungeons?</title>
+        <dc:creator><![CDATA[@Tam]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/tam">@Tam</a> wrote:</p>
+          <blockquote>
+              <p>I rewrote the magic system, so now it keys on HD and abilities/moves, essentially granting uses of them. Works very well in practice and it makes it so easy to come up with new spells.<br>
+I feel like you could make any old school magic system work just fine, with a bit of work – I’ve been considering working up something like The Magician as a general magic system, for example.</p>
+<p>I expanded the classes, adding a few new ones and vastly increasing the moves you can choose from. I consider classes to be “packages” and don’t care if people mix and match or make their own packages, both at generation and over time. Take what reflects your character’s skills and experiences! Levels 10+ you start getting custom moves out of it, even.</p>
+<p>I use standard XP for coin, and it had some advantages, but also felt like a “flourish” more than a necessary aspect – I think XP on fail would work just fine and be a lot less bookkeeping/negotiating. I don’t use any keys, drives, bonds, or the like, but I could <em>easily</em> see Keys working here (I used them in Calypso) and will probably settle on those as my “default XP method” for this WoDu hack.</p>
+<p>I use Adventuring Gear, and expand that to all sets – tools, dungeon gear, etc. Just easier that way.</p>
+<p>Inventory is purely fictional and common sense based.</p>
+<p>I pushed HD up and made it clear +CON is not actual HD, just a bonus. That allows the spell damage and backstab modifiers to key off it.</p>
+<p>Did not do a custom character sheet. I’ll put it on the List.</p>
+<p>I did mix in DW Agenda, Principles, and Moves, much simplified. I also added in a Hazard die and some time-keeping stuff, to give it that “old school dungeon” feel.</p>
+<p>As far as setting goes, I keep it agnostic – there’s an implied light fantasy setting, with some tech (I just loved A-WoDu’s Gadget too much!) but you could use it for any setting with some light skinning. Of course, you know building in setting is something I tend to do lightly and obliquely, for better or worse. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/smiley.png?v=9" title=":smiley:" class="emoji" alt=":smiley:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/2</link>
+        <pubDate>Thu, 04 Apr 2019 20:03:00 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1593-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593.rss">How do you play World of Dungeons?</source>
+      </item>
+      <item>
+        <title>How do you play World of Dungeons?</title>
+        <dc:creator><![CDATA[@yochaigal]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/yochaigal">@yochaigal</a> wrote:</p>
+          <blockquote>
+              <p>Inspired by <a href="https://forums.gauntlet-rpg.com/t/how-do-you-play-dungeon-world">this</a> post, I’d like to ask:  how do <em>you</em> play your personal version of  <strong>World of Dungeons</strong>? This is the sort of thing I’d <em>love</em> to hear answered by folks like <a class="mention" href="/u/elstiko">@elStiko</a>,  <a class="mention" href="/u/jasoncordova">@jasoncordova</a> or <a class="mention" href="/u/jasonlutes">@jasonlutes</a>, <a class="mention" href="/u/tam">@Tam</a> and <a class="mention" href="/u/michael_g_barford">@Michael_G_Barford</a>, if you guys have the time…</p>
+<p>Specifically, I’d like to know:</p>
+<p>Do you use the Magic system as-is (essentially bottled spirits your Wizard can <em>Summon</em>)?  Or do you do something else? Maybe you use the same mechanic, but theme it differently, perhaps making some small change in the mechanic? For example, Quicksilver could be less damaging, rituals take more/less time or perhaps you include spells like Advanced WoDu?</p>
+<p>What about classes? Standard set, or do you let people mix &amp; match?</p>
+<p>Do you use anything like Keys, Drives, Bonds or Flags? Flaws?</p>
+<p>What about XP on fail?</p>
+<p>Adventuring Gear or abstracted items?</p>
+<p>Inventory?</p>
+<p>Hit Dice/Damage?</p>
+<p>Custom Character Sheet?</p>
+<p>DW GM Moves?</p>
+<p>Setting?</p>
+<p>I’m just curious how folks deal with the “rules-lite” nature of the game, especially after having come from heavier systems. Homebrew or hack recommendations are welcome. I’d also love to hear some best practices!</p>
+<p>I’m thinking about using Knave’s 100 Level-less spells; it seems like it would work pretty well. Or Marvels &amp; Malisons. I’d also like to look into rolling up a character randomly, like Into The Odd, especially for one shots.</p>
+<p>Thanks!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593/1</link>
+        <pubDate>Thu, 04 Apr 2019 17:40:53 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1593-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-do-you-play-world-of-dungeons/1593.rss">How do you play World of Dungeons?</source>
+      </item>
+  </channel>
+</rss>

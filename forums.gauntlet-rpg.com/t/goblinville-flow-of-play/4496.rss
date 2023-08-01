@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Goblinville: Flow of Play</title>
+    <link>https://forums.gauntlet-rpg.com/t/goblinville-flow-of-play/4496</link>
+    <description>I made a flowchart outlining the moment-to-moment procedures that pace a session of Goblinville.  I was inspired by John Harper&#39;s diagram showing [&quot;what you *actually* do in World of Dungeons&quot;](https://twitter.com/john_harper/status/1116213309261246464?s=20) and @Jeremy_Strandberg&#39;s [Framework for GMing Dungeon World](https://spoutinglore.blogspot.com/2020/01/my-framework-for-gming-dungeon-world.html).
+
+![Goblinville Procedures|666x500](upload://whhYjTjQNe1tLWpGNM7aAwFIsth.png) 
+
+I think something like this would be really useful for learning new systems and might reveal surprising similarities and differences among systems.  For example, I imagine different PbtA games have very different flows, even when their systems share a lot of elements (2d6+stat, playbook moves, etc).
+
+I&#39;d be curious to hear what people think of this kind of information design as it relates to RPGs.</description>
+    
+    <lastBuildDate>Fri, 07 Feb 2020 16:48:06 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/goblinville-flow-of-play/4496.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Goblinville: Flow of Play</title>
+        <dc:creator><![CDATA[@sjbrown]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/sjbrown">@sjbrown</a> wrote:</p>
+          <blockquote>
+              <p>Hi Michael,</p>
+<p>I commented on Twitter, but this is a better venue for detailed discussion. Great chart!</p>
+<p>I like to consider two audiences: for the designer, this is an analysis tool. One, it helps you check for consistency. Two, it is a measure of complexity.</p>
+<p>For a player, it supports the communication of the rules. Creating flowcharts for players requires some user experience effort and graphic design. So, it’s more costly and has to be weighed against other priorities.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/goblinville-flow-of-play/4496/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/goblinville-flow-of-play/4496/6</link>
+        <pubDate>Fri, 07 Feb 2020 16:48:06 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4496-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/goblinville-flow-of-play/4496.rss">Goblinville: Flow of Play</source>
+      </item>
+      <item>
+        <title>Goblinville: Flow of Play</title>
+        <dc:creator><![CDATA[@Michael]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/michael">@Michael</a> wrote:</p>
+          <blockquote>
+              <p>When I was designing Goblinville I thought a lot about the ways in which it was influenced by PbtA design.  We don’t pitch it as a PbtA game (as this would generate inaccurate expectations) but we acknowledge the influence of PbtA in the text.</p>
+<p>Looking at this diagram makes this influence a lot more overt to me.  There are several ‘moves’ baked into the procedures, even if they aren’t called that:</p>
+<ul>
+<li>The GM makes a move (Target first goblin in marching order) when the players look to them to see what happens next.</li>
+<li>Short of a roll, the GM can “tell them the consequences and ask”.</li>
+<li>The consequences for Dangers and failed Actions (inflict a condition, mess with their stuff, announce offscreen badness) work like GM moves.  (This one might be a stretch, as the GM introducing consequences is nearly universal in GM-ed systems.)</li>
+<li>The core player move (Take a risky action) triggers the roll.</li>
+</ul>
+<p>I’m sure there are others in there.  A lot of these procedures are common across rpg systems, but the way that PbtA explicitly designs for momentum had a strong influence on Goblinville.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/goblinville-flow-of-play/4496/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/goblinville-flow-of-play/4496/5</link>
+        <pubDate>Wed, 05 Feb 2020 14:08:40 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4496-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/goblinville-flow-of-play/4496.rss">Goblinville: Flow of Play</source>
+      </item>
+      <item>
+        <title>Goblinville: Flow of Play</title>
+        <dc:creator><![CDATA[@Michael]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/michael">@Michael</a> wrote:</p>
+          <blockquote>
+              <p>I think you’re right!</p>
+<p>Here’s the passage on Marching Order:<br>
+<img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/0/0c5fbdf9502537143bea66bb1aee97bf766903c4.png" alt="march" data-base62-sha1="1LsR4ULk3YWAX1rK32eBqTyh4gs" width="369" height="331"></p>
+<p>Let’s say the GM tells the player the consequence of their action “If you climb into the nest of the ghost crows, you’ll be in a bad position.  Their call rattles around in your head and throws off your balance”.</p>
+<p>The player declines: they’re curious about the contents of the nest, but not <em>that</em> curious.</p>
+<p>The stakes are unchanged and the GM doesn’t have to establish a new situation, which is why I initially said that the next step is the GM addressing the first goblin in marching order; that tends to keep the momentum up much more than directing the question at the whole table.  However, that’s a practice rather than a procedure (if the situation remains unchanged, don’t wait as long before you escalate).</p>
+<p>Sometimes players will have a question right away or will jump right into an alternate action.  If so, the GM shouldn’t cut them off.  I’m editing the diagram now.  Thanks!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/goblinville-flow-of-play/4496/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/goblinville-flow-of-play/4496/4</link>
+        <pubDate>Tue, 04 Feb 2020 20:28:23 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4496-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/goblinville-flow-of-play/4496.rss">Goblinville: Flow of Play</source>
+      </item>
+      <item>
+        <title>Goblinville: Flow of Play</title>
+        <dc:creator><![CDATA[@Anders]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/anders">@Anders</a> wrote:</p>
+          <blockquote>
+              <p>Very nice!</p>
+<p>One question: Is it intentional that the “Player declines cost” arrow points to “GM Targets first in Marching Order” rather than “GM Establishes Stakes”? It seems counter-intuitive to me, but I haven’t read the rules yet.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/goblinville-flow-of-play/4496/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/goblinville-flow-of-play/4496/3</link>
+        <pubDate>Tue, 04 Feb 2020 18:47:58 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4496-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/goblinville-flow-of-play/4496.rss">Goblinville: Flow of Play</source>
+      </item>
+      <item>
+        <title>Goblinville: Flow of Play</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>Michael,</p>
+<p>That is a seriously well thought-out flowchart - one of the best of this sort I’ve seen. Nice work!</p>
+<p>Diagramming RPGs this way, either from a play flow perspective (as you have done here, with each “box” referring to a game-significant decision or someone saying something out loud) or from a design perspective (showing then function of rules and currencies, as Ron Edwards has done in the past) can be a tremendously useful exercise as well as a great resource.</p>
+<p>This one is particularly good!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/goblinville-flow-of-play/4496/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/goblinville-flow-of-play/4496/2</link>
+        <pubDate>Tue, 04 Feb 2020 17:38:54 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4496-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/goblinville-flow-of-play/4496.rss">Goblinville: Flow of Play</source>
+      </item>
+      <item>
+        <title>Goblinville: Flow of Play</title>
+        <dc:creator><![CDATA[@Michael]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/michael">@Michael</a> wrote:</p>
+          <blockquote>
+              <p>I made a flowchart outlining the moment-to-moment procedures that pace a session of Goblinville.  I was inspired by John Harper’s diagram showing <a href="https://twitter.com/john_harper/status/1116213309261246464?s=20">“what you <em>actually</em> do in World of Dungeons”</a> and <a class="mention" href="/u/jeremy_strandberg">@Jeremy_Strandberg</a>’s <a href="https://spoutinglore.blogspot.com/2020/01/my-framework-for-gming-dungeon-world.html">Framework for GMing Dungeon World</a>.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/e/e239e81f693d85ccf109d4798fe800682293b3b7.png" data-download-href="/uploads/short-url/whhYjTjQNe1tLWpGNM7aAwFIsth.png?dl=1" title="Goblinville Procedures"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/e/e239e81f693d85ccf109d4798fe800682293b3b7_2_666x500.png" alt="Goblinville Procedures" data-base62-sha1="whhYjTjQNe1tLWpGNM7aAwFIsth" width="666" height="500" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/e/e239e81f693d85ccf109d4798fe800682293b3b7_2_666x500.png, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/e/e239e81f693d85ccf109d4798fe800682293b3b7.png 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/e/e239e81f693d85ccf109d4798fe800682293b3b7.png 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/e/e239e81f693d85ccf109d4798fe800682293b3b7_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Goblinville Procedures</span><span class="informations">960×720 94.8 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>I think something like this would be really useful for learning new systems and might reveal surprising similarities and differences among systems.  For example, I imagine different PbtA games have very different flows, even when their systems share a lot of elements (2d6+stat, playbook moves, etc).</p>
+<p>I’d be curious to hear what people think of this kind of information design as it relates to RPGs.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/goblinville-flow-of-play/4496/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/goblinville-flow-of-play/4496/1</link>
+        <pubDate>Tue, 04 Feb 2020 16:26:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4496-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/goblinville-flow-of-play/4496.rss">Goblinville: Flow of Play</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Writing Platforms with history, versioning and release?</title>
+    <link>https://forums.gauntlet-rpg.com/t/writing-platforms-with-history-versioning-and-release/7837</link>
+    <description>I have been using Notion to write but the issue is that I would like to use a platform that tracks changes, issues version release numbers and hopefully that saves what I write in real-time as I write.
+
+The closest thing I found is GitHub but I&#39;d like to find out about other apps I can use especially free ones.</description>
+    
+    <lastBuildDate>Tue, 11 Apr 2023 11:02:16 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/writing-platforms-with-history-versioning-and-release/7837.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Writing Platforms with history, versioning and release?</title>
+        <dc:creator><![CDATA[@dominik]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dominik">@dominik</a> wrote:</p>
+          <blockquote>
+              <p>(another necro, apologies)</p>
+<p>Notion does keep track of history it’s just that “for how long” is limited depending on your tier (Free is 7 days, lowest paid is 30 days). Wiki engines are pretty well suited for this kind of stuff. If you need something online and don’t mind stuff being public, wikidot provides free hosting (I’m sure there are others). Other than that GitHub is a pretty decent option - you can keep your stuff as a source code but you can also use built-in wiki functionality (it’s got history and what not). And if you need that, your repository can be hidden from public view.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/writing-platforms-with-history-versioning-and-release/7837/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/writing-platforms-with-history-versioning-and-release/7837/6</link>
+        <pubDate>Tue, 11 Apr 2023 11:02:16 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7837-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/writing-platforms-with-history-versioning-and-release/7837.rss">Writing Platforms with history, versioning and release?</source>
+      </item>
+      <item>
+        <title>Writing Platforms with history, versioning and release?</title>
+        <dc:creator><![CDATA[@Twonk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/twonk">@Twonk</a> wrote:</p>
+          <blockquote>
+              <p>I’m late to the party, but what you ask are built-in features of the Google Suite, try Google Docs for example. It versions your documents automatically but you can name certain versions, e.g. name version 42 as “Release Version 1”. Obviously the Android apps (and probably the Apple apps) are first-class citizens for mobile working.</p>
+<p>Dropbox offers similiar features but I don’t know about their word processor/editor. I can only guess that Apple’s offering something similiar.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/writing-platforms-with-history-versioning-and-release/7837/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/writing-platforms-with-history-versioning-and-release/7837/5</link>
+        <pubDate>Wed, 02 Mar 2022 18:22:14 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7837-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/writing-platforms-with-history-versioning-and-release/7837.rss">Writing Platforms with history, versioning and release?</source>
+      </item>
+      <item>
+        <title>Writing Platforms with history, versioning and release?</title>
+        <dc:creator><![CDATA[@darkade]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/darkade">@darkade</a> wrote:</p>
+          <blockquote>
+              <p>I use Emacs + Org-mode + Git but if you are not familiar with orgmode and get around with markdown Atom has very good integration with both git and github, and a great markdown preview that renders your markdown side by side with your text</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/writing-platforms-with-history-versioning-and-release/7837/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/writing-platforms-with-history-versioning-and-release/7837/4</link>
+        <pubDate>Mon, 07 Feb 2022 05:57:39 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7837-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/writing-platforms-with-history-versioning-and-release/7837.rss">Writing Platforms with history, versioning and release?</source>
+      </item>
+      <item>
+        <title>Writing Platforms with history, versioning and release?</title>
+        <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="BattleDrumz" data-post="2" data-topic="7837">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/battledrumz/40/5543_2.png" class="avatar"> BattleDrumz:</div>
+<blockquote>
+<p>The best part is you can still use your favorite word-processor!</p>
+</blockquote>
+</aside>
+<p>Sounds great! I’ll look at it! I do a lot of my writing on the phone though. How would I go about it?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/writing-platforms-with-history-versioning-and-release/7837/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/writing-platforms-with-history-versioning-and-release/7837/3</link>
+        <pubDate>Sun, 06 Feb 2022 21:04:35 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7837-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/writing-platforms-with-history-versioning-and-release/7837.rss">Writing Platforms with history, versioning and release?</source>
+      </item>
+      <item>
+        <title>Writing Platforms with history, versioning and release?</title>
+        <dc:creator><![CDATA[@BattleDrumz]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/battledrumz">@BattleDrumz</a> wrote:</p>
+          <blockquote>
+              <p>Hey so you can download git or any of the software based on it (GitHub, etc) for free. Here’s a list: <a href="https://git-scm.com/downloads/guis" rel="nofollow noopener">https://git-scm.com/downloads/guis</a></p>
+<p>It’s basically a repository protector and duplicator with version control all built in… which would mean that all you need to do is set up a git repo in the folder where you write and push updates every day that you write. Every single change is logged and tagged and can be rolled back.</p>
+<p>The best part is you can still use your favorite word-processor!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/writing-platforms-with-history-versioning-and-release/7837/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/writing-platforms-with-history-versioning-and-release/7837/2</link>
+        <pubDate>Sun, 06 Feb 2022 20:45:47 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7837-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/writing-platforms-with-history-versioning-and-release/7837.rss">Writing Platforms with history, versioning and release?</source>
+      </item>
+      <item>
+        <title>Writing Platforms with history, versioning and release?</title>
+        <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+          <blockquote>
+              <p>I have been using Notion to write but the issue is that I would like to use a platform that tracks changes, issues version release numbers and hopefully that saves what I write in real-time as I write.</p>
+<p>The closest thing I found is GitHub but I’d like to find out about other apps I can use especially free ones.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/writing-platforms-with-history-versioning-and-release/7837/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/writing-platforms-with-history-versioning-and-release/7837/1</link>
+        <pubDate>Sun, 06 Feb 2022 04:53:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7837-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/writing-platforms-with-history-versioning-and-release/7837.rss">Writing Platforms with history, versioning and release?</source>
+      </item>
+  </channel>
+</rss>

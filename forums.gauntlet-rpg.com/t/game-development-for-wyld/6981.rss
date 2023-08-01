@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Game Development for Wyld</title>
+    <link>https://forums.gauntlet-rpg.com/t/game-development-for-wyld/6981</link>
+    <description>Wyld is a PBTA fantasy game I&#39;m developing for play with my game group. I think it might have legs though, so have an eye on eventually releasing it as a hack or in zine format.
+
+The game is inspired by ancient Eurpoean history, myths and legends from the bronze and iron ages. The legends of the Mabinogion, tales of Arthur and contemporary accounts of the Celtic and Germanic tribes on the fringes of the Roman Empire. The default culture are called the Brythonai. These were times of massive upheaval as entire tribes migrated across continents, driven by war, disease, famine, conquest and the lure of fresh lands and new opportunities.
+
+The world was a mysterious and dangerous place. Nobody really knew what they would find in the next valley, or past that mountain. It could be strange people speaking unknown tongues, dangerous spirits, fae creatures, or maybe the gods themselves.
+
+Characters are based on playbooks, but these are a bit more like professions or classes than in most PBTAs, while being nothing like D&amp;D or Dungeon World classes. They&#39;re period appropriate for a start. On top of your playbook, you also choose a Tradition. If you know RuneQuest these are much like Cults. They&#39;re the religious traditions and societies of Brythonai culture. Some traditions match up well to certain playbooks, but there&#39;s  plenty of latitude. I only have about half a dozen Traditions written up so far, but it&#39;s a decent mix I think.
+
+Magic uses Power points, which are gained by engaging in religious rituals using a  move called Devotion. You can think of it as a form of hold, which you use to invoke magic moves.
+
+Finally, I&#39;m using a variant dice system. You roll 2D10+stat, not 2D6. You score a strong hit on 16+, weak hit on 11-15 and a miss on 10-. This gives unmodified odds very close to the PBTA default, but with more headroom for modifiers. Overall this mans a +1 modifier is a little less consequential than usual, but not by a lot. A +3 in this system is about equivalent to +2 in 2D6 systems.
+
+[Wyld 0.2 Game Materials](https://drive.google.com/drive/folders/1C17ZoTbU2-nlmJfsr_qSWc_T59eCaXUI?usp=sharing)
+
+That&#39;s a lot to drop in one go, so what do I hope to get from putting this here? Well, I&#39;ve tried to balance things as well as I can, but this has yet to be play-tested. Hopefully I&#39;ll get a chance to do that in a few weeks. I&#39;d love to run this at the Gauntlet, but I&#39;ve not played any games yet so I don&#39;t think I qualify to run something. It&#39;s tricky because I&#39;m in the UK so most Gauntlet games are at impossible times for me.
+
+For now I&#39;m too close to the material to see it objectively. I guarantee you there are things in there that will be obvious problems or questionable decisions to you that I&#39;m not seeing because I&#39;m on my 10th iteration on it. Honestly, just the discipline of sitting down and explaining myself in this post has been incredibly valuable. Anyway, I appreciate your time and any feedback you might have.</description>
+    
+    <lastBuildDate>Thu, 27 May 2021 07:59:03 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/game-development-for-wyld/6981.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Game Development for Wyld</title>
+        <dc:creator><![CDATA[@Simon_Hibbs]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/simon_hibbs">@Simon_Hibbs</a> wrote:</p>
+          <blockquote>
+              <p>Many thanks to  Mike Pureka for the very helpful comments and suggestions on the docs. Challenging but positive feedback of the best sort. I’m working my way through it all.</p>
+<p>There’s a move in the Rascal playbook that I think needs a bit of work.</p>
+<hr>
+<p><strong>Friends in Low Places</strong>: Once per session when you are in a community where you have previously spent a few days, and have offended and befriended some people. You may roll+Charm. On a 16+ hold 3, on 11-15 hold 2. While in the community you may spend your hold 1 for 1 to:</p>
+<ul>
+<li>Get someone to do an errand for you (fetch or deliver something, watch a location, etc).</li>
+<li>Find out who has a thing you’re after.</li>
+<li>Gain entry to a place you shouldn’t be.</li>
+<li>Hide out until things cool down.</li>
+<li>Placate someone you have offended</li>
+</ul>
+<p>On a miss you’ve made a lot of enemies and they’re out to get you.</p>
+<hr>
+<p>I’m concerned that the wording is a bit clunky, also it seems like a nice opportunity to establish links in the community with a bit more persistence. I don’t want to make it too verbose though. I really like this move, but I’m not sure I’m making the most of it.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/game-development-for-wyld/6981/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/game-development-for-wyld/6981/5</link>
+        <pubDate>Thu, 27 May 2021 07:59:03 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6981-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/game-development-for-wyld/6981.rss">Game Development for Wyld</source>
+      </item>
+      <item>
+        <title>Game Development for Wyld</title>
+        <dc:creator><![CDATA[@Simon_Hibbs]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/simon_hibbs">@Simon_Hibbs</a> wrote:</p>
+          <blockquote>
+              <p>Regarding reading a person and manipulating them, Apocalypse World has the same division of roles between Sharp to read someone and Hot to manipulate them, but you make a very good point. The thing that makes social manipulation possible is a solid reading of the target.</p>
+<p>So I can see a certain attraction to the idea of moving the read a person move out of Wits and into Charm.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/game-development-for-wyld/6981/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/game-development-for-wyld/6981/4</link>
+        <pubDate>Fri, 21 May 2021 16:49:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6981-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/game-development-for-wyld/6981.rss">Game Development for Wyld</source>
+      </item>
+      <item>
+        <title>Game Development for Wyld</title>
+        <dc:creator><![CDATA[@Simon_Hibbs]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/simon_hibbs">@Simon_Hibbs</a> wrote:</p>
+          <blockquote>
+              <p>I think you’re correct that Grace is the weakest of the stat names because while it can be used to describe athletic movement, which it how it’s intended here, it can also refer to social behaviour.</p>
+<p>Athletic is the most obvious, but it’s an Adverb and all the others are nouns, and I’d like to be consistent in that respect.</p>
+<p>Maybe Lithe, but again not a noun. Maybe Agility, but it doesn’t have the same terse fluidity of the others. Too many syllables.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/game-development-for-wyld/6981/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/game-development-for-wyld/6981/3</link>
+        <pubDate>Fri, 21 May 2021 16:27:34 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6981-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/game-development-for-wyld/6981.rss">Game Development for Wyld</source>
+      </item>
+      <item>
+        <title>Game Development for Wyld</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>OK, to me it’s a clear, focused and medium weight pbta. By focused, I mean you know what you want combat, travel, healing, etc. to be. I have a problem with the choice of stats, though : it is stuck between being an objective anthropology and story roles. So, what are they ? Like : how is Grace related to Defying danger ? Is it an armor of awe ? or a dodge ? I think you mean a dodge, but that doesn’t work. Grace is not even close to describing a Dodge. I mean, it’s probably a name thing, but there might be more under this rug. Like reading a person vs manipulate. IRL experience tells me they are the same. So stats then are more like story roles. And I’m back to square one…</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/game-development-for-wyld/6981/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/game-development-for-wyld/6981/2</link>
+        <pubDate>Fri, 21 May 2021 12:12:53 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6981-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/game-development-for-wyld/6981.rss">Game Development for Wyld</source>
+      </item>
+      <item>
+        <title>Game Development for Wyld</title>
+        <dc:creator><![CDATA[@Simon_Hibbs]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/simon_hibbs">@Simon_Hibbs</a> wrote:</p>
+          <blockquote>
+              <p>Wyld is a PBTA fantasy game I’m developing for play with my game group. I think it might have legs though, so have an eye on eventually releasing it as a hack or in zine format.</p>
+<p>The game is inspired by ancient Eurpoean history, myths and legends from the bronze and iron ages. The legends of the Mabinogion, tales of Arthur and contemporary accounts of the Celtic and Germanic tribes on the fringes of the Roman Empire. The default culture are called the Brythonai. These were times of massive upheaval as entire tribes migrated across continents, driven by war, disease, famine, conquest and the lure of fresh lands and new opportunities.</p>
+<p>The world was a mysterious and dangerous place. Nobody really knew what they would find in the next valley, or past that mountain. It could be strange people speaking unknown tongues, dangerous spirits, fae creatures, or maybe the gods themselves.</p>
+<p>Characters are based on playbooks, but these are a bit more like professions or classes than in most PBTAs, while being nothing like D&amp;D or Dungeon World classes. They’re period appropriate for a start. On top of your playbook, you also choose a Tradition. If you know RuneQuest these are much like Cults. They’re the religious traditions and societies of Brythonai culture. Some traditions match up well to certain playbooks, but there’s  plenty of latitude. I only have about half a dozen Traditions written up so far, but it’s a decent mix I think.</p>
+<p>Magic uses Power points, which are gained by engaging in religious rituals using a  move called Devotion. You can think of it as a form of hold, which you use to invoke magic moves.</p>
+<p>Finally, I’m using a variant dice system. You roll 2D10+stat, not 2D6. You score a strong hit on 16+, weak hit on 11-15 and a miss on 10-. This gives unmodified odds very close to the PBTA default, but with more headroom for modifiers. Overall this mans a +1 modifier is a little less consequential than usual, but not by a lot. A +3 in this system is about equivalent to +2 in 2D6 systems.</p>
+<p><a href="https://drive.google.com/drive/folders/1C17ZoTbU2-nlmJfsr_qSWc_T59eCaXUI?usp=sharing" rel="nofollow noopener">Wyld 0.2 Game Materials</a></p>
+<p>That’s a lot to drop in one go, so what do I hope to get from putting this here? Well, I’ve tried to balance things as well as I can, but this has yet to be play-tested. Hopefully I’ll get a chance to do that in a few weeks. I’d love to run this at the Gauntlet, but I’ve not played any games yet so I don’t think I qualify to run something. It’s tricky because I’m in the UK so most Gauntlet games are at impossible times for me.</p>
+<p>For now I’m too close to the material to see it objectively. I guarantee you there are things in there that will be obvious problems or questionable decisions to you that I’m not seeing because I’m on my 10th iteration on it. Honestly, just the discipline of sitting down and explaining myself in this post has been incredibly valuable. Anyway, I appreciate your time and any feedback you might have.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/game-development-for-wyld/6981/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/game-development-for-wyld/6981/1</link>
+        <pubDate>Thu, 20 May 2021 18:57:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6981-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/game-development-for-wyld/6981.rss">Game Development for Wyld</source>
+      </item>
+  </channel>
+</rss>

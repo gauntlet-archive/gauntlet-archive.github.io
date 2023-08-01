@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Feedback wanted on Forged Facets</title>
+    <link>https://forums.gauntlet-rpg.com/t/feedback-wanted-on-forged-facets/3208</link>
+    <description>Hey, I designed a thing, and I&#39;d love some feedback and general opinions. 
+
+Below are a few links to the most recent version of my project Forged Facets, which is so far a trimmed down version compared to the previous one (29 vs. 89 pages). It is a fusion of many designs over several years and is designed to bridge the gap between in-character and out-of-character conversations, for online play where you don&#39;t want too much focus on mechanics, in PbP/PbF contexts when being short and to the point is crucial. The playtesting so far is making me happy, and I plan to adapt my upcoming projects to this. But I&#39;d like to hear what you Gauntleteers think.    
+
+Forged Facets is a low fantasy story game system, with heritage from games Powered by the Apocalypse, such as Dungeon World, Apocalypse World, and Blades in the Dark. It is meant to be very streamlined, generic, and hackable in its current form, usable to both players and designers to do what they want with it. So from a story game perspective, it doesn&#39;t promote a particular type of play, just vanilla fantasy. Among other things, it uses:
+
+* Small, simple-to-use playbooks
+* Descriptive traits and facets that build a character&#39;s dice pool
+* A single-move approach with talent variations
+* Dis/Advantage dice as difficulty modifiers
+* A simple comparison mechanic for conflicts
+* A descriptive harm and health system
+* Character development tied to Arcs and Hooks (previously called Levers)
+* A structured flow for running either Playset or Playing-to-find-out
+
+**The Core Game:** https://docs.google.com/document/d/1_--UM6sdZl8VU1Pf2j5MUjUThadi65mi8cBdkhq2zzY/edit?usp=sharing
+(29 pages, appr 45 min reading)
+
+**The Fighter Playbook:** https://docs.google.com/document/d/1cCF1rPocZarpKw8R8pYMritlB_GEjaxkvUIA_Vij9pU/edit?usp=sharing
+(3 pages, character sheet)
+
+**The Rogue Playbook:** https://docs.google.com/document/d/1jYXoktPlUHHn2EhYR2cXBQAPo6_83NKG1JczYbNGOgg/edit?usp=sharing
+(3 pages, character sheet)
+
+**The Thief Playbook:** https://docs.google.com/document/d/1k0xhUhYQ7Mqw26L-oYVuASLtJJPeXdqE29aBtrScm1Q/edit?usp=sharing
+(3 pages, character sheet)
+
+It will be expanded on in the future, and more playbooks, a magic system, and bestiary are on its way... as well as some upcoming editing and art. The above docs are still work in progress so that you know.
+
+If you feel like giving it a read, I&#39;d be happy to hear what you think of the tonality, presentation, legibility, and complexity. Does it assume too much from the reader? Is it too incoherent?  
+
+Any kind of feedback, opinions, or criticism is welcome. There might be ambiguities or strange references here and there (it isn&#39;t correctly edited yet), so if you feel like dropping a comment in the doc, I would be delighted! 
+
+Thanks! /Chris</description>
+    
+    <lastBuildDate>Fri, 20 Sep 2019 20:24:41 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/feedback-wanted-on-forged-facets/3208.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Feedback wanted on Forged Facets</title>
+        <dc:creator><![CDATA[@Svalander]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/svalander">@Svalander</a> wrote:</p>
+          <blockquote>
+              <p>Hey Radmad! You didn’t dump anything on me, I asked for it <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> You got a lot of great and detailed feedback there, and it was <em>exactly</em> what I needed. On my way to bed here, but I’ll get back tomorrow. Thank you so much for taking time to read it! I’ll get back tomorrow! Cheers!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/feedback-wanted-on-forged-facets/3208/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/feedback-wanted-on-forged-facets/3208/3</link>
+        <pubDate>Fri, 20 Sep 2019 20:24:41 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3208-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/feedback-wanted-on-forged-facets/3208.rss">Feedback wanted on Forged Facets</source>
+      </item>
+      <item>
+        <title>Feedback wanted on Forged Facets</title>
+        <dc:creator><![CDATA[@Radmad]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/radmad">@Radmad</a> wrote:</p>
+          <blockquote>
+              <p>Here’s what I came up with after reading through the rulebook, I wrote my notes in the order that they occurred</p>
+<ul>
+<li>“barebones” feels like a needlessly deprecating description of the game, maybe something like “streamlined” or “simplified”<br>
+I promise this is the only time I critique word choice</li>
+<li>The “design goals” chapter feels unnecessary, it’s great that you have those things codified for yourself, but it’s providing a lot of redundant information to a player</li>
+<li>The “Players and Gamemaster” section feels off, it needs more <em>prescriptive</em> language about what each role is expected to do, right now it is <em>descriptive</em> that gives me the impression of what a player and GM are, but doesn’t actually explain it.</li>
+<li>Arcs as goals are narratively focused (they describe what will happen to a character) but the examples are personally focused (they describe goals the character wants to achieve from a first person perspective), which is a bit confusing</li>
+<li>I don’t understand the mechanical difference between <strong>arcs</strong> and <strong>hooks</strong>, aren’t hooks just arcs the GM is trying to get the PCs to follow?</li>
+<li>credits should go at the end of the text to describe your inspirations and provide further reading, very jarring where they occur right now</li>
+<li>Overall I think you need to zoom out and reorganize the text as a whole, there are a lot of sections that don’t flow well (the shield description shows up before I even know how weapons work for example)</li>
+<li>The player safety tools are all described in various levels of detail. I think you should limit it to the tool’s use and a link. Someone already went through the trouble of describing what it is and how it works, you don’t need to repeat it.</li>
+<li>in the <strong>expertise</strong> section, a lot of the samples sound like traits. How come <em>beautiful</em> is a trait but <em>charming</em> isn’t? They feel very mechanically similar but only separated because of semantics</li>
+<li>Same goes for <strong>obligations</strong> versus <strong>troubles</strong>. referencing the playbooks gives me a better idea of how each is used but a lot of the troubles I could think of off the cuff sound like they fit in either category</li>
+<li>in the <strong>friends</strong> section, it tells me to describe the current state of the friendship, but then in the state description says they all start at good, it also states they can degrade, but doesn’t provide a chart of what each level of degradation is</li>
+<li>Is there ever a reason to choose the clothes loadout? There doesn’t seem to be any mechanical drive for ever picking them.</li>
+<li>Loadout use is also a little confusing, if I choose the <em>light</em> loadout, can I then use <em>heavy armor</em> as part of it? On the other side, my warrior could choose the <em>heavy</em> loadout, but then use every slot on camping provisions.</li>
+<li>Once I reach the weapons section this gets even more confusing, if I have the <em>clothes</em> loadout, I can’t bring a warhammer with me by carrying it in my hands?</li>
+<li>The “narration” as described in your play diagram is different than the definition of “narration” right below it. the description sounds more like how a session of play is handled, but the diagram would have me infer it’s the events that happen outside of challenges</li>
+<li>The phrase “If the narration makes sense and the attempted action <strong>isn’t too hard</strong>” is not very informative compared to the much more codified description of what triggers a challenge below, please refrain from using weasel words!</li>
+<li>The game describes everyone taking turns narrating, but never describes how to determine turn order or starting player. Can two players pass turns back and forth?</li>
+<li>Creating die pools is really, really confusing</li>
+<li>The rules never mention that what dice are required, I assume d6s</li>
+<li>The rules state that relevant facets provide levels of advantage, and that if you ever hit 3+ advantage/disadvantage success or failure is automatic. But the anydice link you provide has probabilities for up to 7d6?</li>
+<li>The rules state for rolling with advantage/disadvantage you roll 2 dice, for <em>great</em> advantage/disadvantage do I roll 3?<br>
+Related aside, I don’t think you should include the anydice link of roll probabilities, ditto for the table with redundant information further below in the text, you’re describing a narrative focused game, but all I’m gonna focus on are success rates if I have a table of how likely any roll is to win/lose</li>
+<li>wound types are described exactly the same way twice on the same page?</li>
+<li>So if I get a severe wound my character is out of the action for the foreseeable future? Alternatively, all my friends needs to goof off for 6 months while I get better? Not trying to be harsh, but for a narrative focused game this feels just as bad as my character dying, maybe even worse because I’ll come back with a scar after all that healing</li>
+<li>As the rules are written, it is currently possible for a character to close out all their arcs and have no drive to keep going. Similarly, it is possible for them to keep accumulating arcs and never complete any. If that’s intentional, ok, but that stuck out to me reading those sections back to back</li>
+<li>I don’t understand the <strong>cost</strong> part of the weapon chart, there are no rules for currency</li>
+<li>in the weapons section, you mention modifying “availability” but there are no rules regarding this</li>
+<li>Why would I ever use leather armor when padded armor is exactly the same but free and doesn’t take up a slot? Same for buckle (buckler?) vs. small shield, the buckler even has a <em>quality</em> while the small shield has none.</li>
+<li>I’m not sure I understand the size chart, shouldn’t sizes be traits/facets? I also have no idea what the “complexity” column indicates.</li>
+</ul>
+<p>Overall, I think it’s a good start. I don’t want it to feel like I’m just dumping on you, translating the perfect system living in your head into words that other people can interpret is unreasonably difficult. Right now it feels like there’s some tension between the narrative aims of the system and the mechanical info presented. All of the fluff is telling me this is a quick to learn, pick-up-and-play game but at the end a bunch of charts crash down like a pile of bricks and my mind immediately starts analyzing and optimizing the best choice.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/feedback-wanted-on-forged-facets/3208/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/feedback-wanted-on-forged-facets/3208/2</link>
+        <pubDate>Fri, 20 Sep 2019 20:10:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3208-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/feedback-wanted-on-forged-facets/3208.rss">Feedback wanted on Forged Facets</source>
+      </item>
+      <item>
+        <title>Feedback wanted on Forged Facets</title>
+        <dc:creator><![CDATA[@Svalander]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/svalander">@Svalander</a> wrote:</p>
+          <blockquote>
+              <p>Hey, I designed a thing, and I’d love some feedback and general opinions.</p>
+<p>Below are a few links to the most recent version of my project Forged Facets, which is so far a trimmed down version compared to the previous one (29 vs. 89 pages). It is a fusion of many designs over several years and is designed to bridge the gap between in-character and out-of-character conversations, for online play where you don’t want too much focus on mechanics, in PbP/PbF contexts when being short and to the point is crucial. The playtesting so far is making me happy, and I plan to adapt my upcoming projects to this. But I’d like to hear what you Gauntleteers think.</p>
+<p>Forged Facets is a low fantasy story game system, with heritage from games Powered by the Apocalypse, such as Dungeon World, Apocalypse World, and Blades in the Dark. It is meant to be very streamlined, generic, and hackable in its current form, usable to both players and designers to do what they want with it. So from a story game perspective, it doesn’t promote a particular type of play, just vanilla fantasy. Among other things, it uses:</p>
+<ul>
+<li>Small, simple-to-use playbooks</li>
+<li>Descriptive traits and facets that build a character’s dice pool</li>
+<li>A single-move approach with talent variations</li>
+<li>Dis/Advantage dice as difficulty modifiers</li>
+<li>A simple comparison mechanic for conflicts</li>
+<li>A descriptive harm and health system</li>
+<li>Character development tied to Arcs and Hooks (previously called Levers)</li>
+<li>A structured flow for running either Playset or Playing-to-find-out</li>
+</ul>
+<p><strong>The Core Game:</strong> <a href="https://docs.google.com/document/d/1_--UM6sdZl8VU1Pf2j5MUjUThadi65mi8cBdkhq2zzY/edit?usp=sharing" rel="nofollow noopener">https://docs.google.com/document/d/1_--UM6sdZl8VU1Pf2j5MUjUThadi65mi8cBdkhq2zzY/edit?usp=sharing</a><br>
+(29 pages, appr 45 min reading)</p>
+<p><strong>The Fighter Playbook:</strong> <a href="https://docs.google.com/document/d/1cCF1rPocZarpKw8R8pYMritlB_GEjaxkvUIA_Vij9pU/edit?usp=sharing" rel="nofollow noopener">https://docs.google.com/document/d/1cCF1rPocZarpKw8R8pYMritlB_GEjaxkvUIA_Vij9pU/edit?usp=sharing</a><br>
+(3 pages, character sheet)</p>
+<p><strong>The Rogue Playbook:</strong> <a href="https://docs.google.com/document/d/1jYXoktPlUHHn2EhYR2cXBQAPo6_83NKG1JczYbNGOgg/edit?usp=sharing" rel="nofollow noopener">https://docs.google.com/document/d/1jYXoktPlUHHn2EhYR2cXBQAPo6_83NKG1JczYbNGOgg/edit?usp=sharing</a><br>
+(3 pages, character sheet)</p>
+<p><strong>The Thief Playbook:</strong> <a href="https://docs.google.com/document/d/1k0xhUhYQ7Mqw26L-oYVuASLtJJPeXdqE29aBtrScm1Q/edit?usp=sharing" rel="nofollow noopener">https://docs.google.com/document/d/1k0xhUhYQ7Mqw26L-oYVuASLtJJPeXdqE29aBtrScm1Q/edit?usp=sharing</a><br>
+(3 pages, character sheet)</p>
+<p>It will be expanded on in the future, and more playbooks, a magic system, and bestiary are on its way… as well as some upcoming editing and art. The above docs are still work in progress so that you know.</p>
+<p>If you feel like giving it a read, I’d be happy to hear what you think of the tonality, presentation, legibility, and complexity. Does it assume too much from the reader? Is it too incoherent?</p>
+<p>Any kind of feedback, opinions, or criticism is welcome. There might be ambiguities or strange references here and there (it isn’t correctly edited yet), so if you feel like dropping a comment in the doc, I would be delighted!</p>
+<p>Thanks! /Chris</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/feedback-wanted-on-forged-facets/3208/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/feedback-wanted-on-forged-facets/3208/1</link>
+        <pubDate>Wed, 18 Sep 2019 20:21:35 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3208-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/feedback-wanted-on-forged-facets/3208.rss">Feedback wanted on Forged Facets</source>
+      </item>
+  </channel>
+</rss>

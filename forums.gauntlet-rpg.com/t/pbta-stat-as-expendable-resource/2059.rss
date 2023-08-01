@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>PbtA Stat as Expendable Resource</title>
+    <link>https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059</link>
+    <description>Following up on [this thread,](https://discourse.funtimers.club/t/making-a-pbta-game-where-everybody-fights/1868?u=deusexbrockina) I&#39;ve been trying to figure out a way to have a *Power* or *Energy* stat which would be rolled for *Fight* and *Unleash Your Powers* moves, but could also be expended for a special effect. Everyone would be expected to use this stat, so you aren&#39;t choosing if you want to specialize in it or not (the basic stats are about personality types, emotional/mental/social approaches, etc. and have less to do with physical ability). It&#39;s essentially like a &quot;mana&quot; stat, but doubles up as being both a resource and your modifier on these rolls.
+
+I imagine it going something like: everyone starts at +2 after a rest. They can roll the *Fight* or *Powers* moves with this stat (2d6+2) and as long as it&#39;s at +2, it represents that they&#39;re still strong and full of energy (as they&#39;re more likely to succeed at these rolls). A basic roll doesn&#39;t require any energy to be spent-- fictionally, they&#39;re using their powers at a steady rate such that it&#39;s not noticeably tiring. Then, someone could decide to spend 1 of this stat to do ***something*** particularly grand with a burst of energy-- they&#39;d achieve this special effect, but having spent one energy, they would now be rolling at 2d6+1 for the foreseeable future-- they&#39;re a little worn out now, slightly less likely to succeed at these actions. 
+
+I like this idea thematically for my setting and genre, which is science-fantasy and has a focus on magitech. There are person and vehicle-level layers and everyone/thing is running on some sort of magic energy or fuel, so being conscious of energy levels is appropriate. It would also ideally play out as a form of pacing and stakes-setting, where characters reach 0 energy after a significant period of action and feel appropriately worn down and on their last leg.
+
+I&#39;m having some problems figuring out the specifics of all this though. I&#39;m not sure what&#39;s an appropriate effect to achieve when you expend energy. Some basic options I could imagine:
+
+* pushing a roll result up one tier (a 6- becomes a 7-9, so on)
+* an automatic success on a roll
+* pick more items on a move result list (functionally similar to getting a higher tier of success, maybe)
+* give yourself advantage (roll 3d6, take highest two)
+* something more fictionally interesting than those-- use some special power you couldn&#39;t otherwise (maybe add tags to an attack or action?)
+
+Assuming the +Power stat would at most ever be +3, you only get a few of these to spend per significant period of action, and giving yourself consecutive -1&#39;s to future rolls is a fairly significant penalty. I don&#39;t want it to be the case that people decide to never spend any energy because it&#39;s actually clearly superior to just keep rolling 2d6+3, for example. 
+
+I really like this idea in theory but I&#39;ve been stuck on the specifics of how it could actually work for a few weeks now. Does anyone have any thoughts about a stat as an expendable resource as a concept?</description>
+    
+    <lastBuildDate>Mon, 20 May 2019 18:13:24 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>PbtA Stat as Expendable Resource</title>
+        <dc:creator><![CDATA[@Haladir]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/haladir">@Haladir</a> wrote:</p>
+          <blockquote>
+              <p>GUMSHOE uses a point system, where your rank in a given skill also represents a number of points you can spend for bonus effects. These are two separate things: Your rank is the size of the bucket, and your points are like the amount of water in the bucket.</p>
+<p>Your points refresh either at the end of a scene (General skills) or at the conclusion of the adventure (Investigative skills).</p>
+<p>This means players need to think both strategically and tactically when choosing when and how many point to spend.</p>
+<p>I think it’s an interesting game mechanic, and works very well for the system. However, I don’t see how that approach would work in a PbtA system.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059/13</link>
+        <pubDate>Mon, 20 May 2019 18:13:24 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2059-13</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059.rss">PbtA Stat as Expendable Resource</source>
+      </item>
+      <item>
+        <title>PbtA Stat as Expendable Resource</title>
+        <dc:creator><![CDATA[@rabalias]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rabalias">@rabalias</a> wrote:</p>
+          <blockquote>
+              <p>I’d also say it depends how long-term the loss is. If it’s just kick-out, which recovers after a session or a scene or similar, then I think people would do it at key moments. It wouldn’t feel doomy. But the payoff would need to be big: the ability to do something you normally simply couldn’t do.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059/12</link>
+        <pubDate>Sun, 19 May 2019 15:36:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2059-12</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059.rss">PbtA Stat as Expendable Resource</source>
+      </item>
+      <item>
+        <title>PbtA Stat as Expendable Resource</title>
+        <dc:creator><![CDATA[@Stentor_Danielson]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/stentor_danielson">@Stentor_Danielson</a> wrote:</p>
+          <blockquote>
+              <p>I think spending down your stats is a cool idea, but it creates a very specific dynamic for the game, and you have to think carefully about whether that dynamic suits the game you’re creating. Specifically, I can see it fitting easily into a game about doomed characters who face impossible odds and a fixed endpoint. You can get that feeling of desperately compromising your future in order to survive the present. The mechanic doesn’t fit so well if you’re trying to make a game about competent badasses who sometimes get to do extra-cool stuff.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059/11</link>
+        <pubDate>Sun, 19 May 2019 14:47:51 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2059-11</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059.rss">PbtA Stat as Expendable Resource</source>
+      </item>
+      <item>
+        <title>PbtA Stat as Expendable Resource</title>
+        <dc:creator><![CDATA[@brownorama]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/brownorama">@brownorama</a> wrote:</p>
+          <blockquote>
+              <p>Related, but not quite the same: I developed a parallel currency for my Western-themed game <a href="https://drive.google.com/drive/folders/1g-0371OWpPn6odYLjl3xHKmu89tozaxB?usp=sharing" rel="nofollow noopener"><strong>Lonesome World</strong></a>. Admittedly, this may be more elaborate than you were going for. Lonesome World is meant to be a duet (one-on-one game) so the rules include some mechanisms to help the player compensate for a lack of a party.</p>
+<p>The player holds a hand of cards, and they can trade in a card to earn currency – different suits correspond to different types. They can then spend that currency to activate a separate “power-up” move, where they can choose the effect.</p>
+<p>For example: Players can play a spade to gain Sway. They can then use this move:</p>
+<blockquote>
+<p><strong>Use your influence (Sway)</strong><br>
+Before making a Basic Move, explain how your influence matters. Then spend your SWAY before rolling any move involving Sense, Calm, or Poise to:</p>
+<ul>
+<li>Roll with advantage</li>
+<li>On a 6- draw an extra card</li>
+<li>Have the result affect another person besides the target</li>
+<li>Gain 1-ALLY on any 10+ result</li>
+</ul>
+</blockquote>
+<p>Generally, I tried to make basic moves have more narrative effects and power-up moves like this one have more mechanical effects.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059/10</link>
+        <pubDate>Sun, 19 May 2019 13:46:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2059-10</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059.rss">PbtA Stat as Expendable Resource</source>
+      </item>
+      <item>
+        <title>PbtA Stat as Expendable Resource</title>
+        <dc:creator><![CDATA[@Haladir]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/haladir">@Haladir</a> wrote:</p>
+          <blockquote>
+              <p>Alternatively, introduce some kind of limited-use “hero point” currency that can be used to boost rolls after-the-fact. Systems to think about would include Inspiration from D&amp;D 5e, Bennies from Savage Worlds, or Fate Points from Fate.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059/9</link>
+        <pubDate>Sun, 19 May 2019 13:25:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2059-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059.rss">PbtA Stat as Expendable Resource</source>
+      </item>
+      <item>
+        <title>PbtA Stat as Expendable Resource</title>
+        <dc:creator><![CDATA[@JimLikesGames]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jimlikesgames">@JimLikesGames</a> wrote:</p>
+          <blockquote>
+              <p>And FWIW, I am a big fan of Advantage/Disadvantage where you roll 3d6 and take the 2 highest or the 2 lowest, but I say that without the math chops to offer any real insight into what it actually does odds-wise. I just really feel like you’re doing something <em>extra</em> when you roll that 3rd die.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059/8</link>
+        <pubDate>Sun, 19 May 2019 04:10:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2059-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059.rss">PbtA Stat as Expendable Resource</source>
+      </item>
+      <item>
+        <title>PbtA Stat as Expendable Resource</title>
+        <dc:creator><![CDATA[@Jesseabe]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jesseabe">@Jesseabe</a> wrote:</p>
+          <blockquote>
+              <p>Maybe take a look at the Unicorn playbook from Monsterhearts 2?  There’s a stat/resource called integrity.  You earn integrity by acting in certain ways, then you spend it in order to roll +integrity (the amount you have stored) for particular moves.  I can imagine this working in a similar way.  Depending on the game’s theme (it feels kind of like a supers game, but I have so little to base that on), you could have them earn power by doing something like saving somebody, making an emotional connection, etc…  It could also be playbook specific.  Then you spend one to roll your superpower move.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059/7</link>
+        <pubDate>Sun, 19 May 2019 01:36:56 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2059-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059.rss">PbtA Stat as Expendable Resource</source>
+      </item>
+      <item>
+        <title>PbtA Stat as Expendable Resource</title>
+        <dc:creator><![CDATA[@DeusExBrockina]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deusexbrockina">@DeusExBrockina</a> wrote:</p>
+          <blockquote>
+              <p>Hrmmmm yeah I think you’re right. I landed on the idea because I’m trying to find a way to make a universal stat like this more interesting than just handing every playbook a static +2, so having it fluctuate seemed promising, but this probably isn’t it. Back to the drawing board!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059/6</link>
+        <pubDate>Sat, 18 May 2019 23:41:52 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2059-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059.rss">PbtA Stat as Expendable Resource</source>
+      </item>
+      <item>
+        <title>PbtA Stat as Expendable Resource</title>
+        <dc:creator><![CDATA[@JimLikesGames]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jimlikesgames">@JimLikesGames</a> wrote:</p>
+          <blockquote>
+              <p>I can tell you for 100% certain that no matter how good the effect is, very few players will cash that in if it means a long-term reduction in their stats. For my part, I’d only spend that if I knew for a fact it’d be the last punch I threw in the fight. Ablative resource systems that make it harder to succeed the longer you’re in a scene pretty universally will drag out those scenes, as unqualified success slowly recedes out of reach.</p>
+<p>If I were going to do anything like this, I’d take it out of the hands of the players and give it to the GM as a Hard Move (but I wouldn’t do something like this).</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059/5</link>
+        <pubDate>Sat, 18 May 2019 23:06:53 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2059-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059.rss">PbtA Stat as Expendable Resource</source>
+      </item>
+      <item>
+        <title>PbtA Stat as Expendable Resource</title>
+        <dc:creator><![CDATA[@rabalias]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rabalias">@rabalias</a> wrote:</p>
+          <blockquote>
+              <p>I would suggest something along the lines of the way Magnitude works in Blades; same effect but more potent, acting on a bigger scale, or suchlike. Or to draw an AW analogy, like being a gang one or two sizes bigger than you actually are.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059/4</link>
+        <pubDate>Sat, 18 May 2019 21:02:31 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2059-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059.rss">PbtA Stat as Expendable Resource</source>
+      </item>
+      <item>
+        <title>PbtA Stat as Expendable Resource</title>
+        <dc:creator><![CDATA[@yoshi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/yoshi">@yoshi</a> wrote:</p>
+          <blockquote>
+              <p>Another place you might want to look into is games with a “Team” pool, such as <a href="https://bullypulpitgames.com/games/night-witches/" rel="nofollow noopener">Night Witches</a> and <a href="https://www.magpiegames.com/masks/" rel="nofollow noopener">Masks</a> or<a href="https://www.evilhat.com/home/scum-and-villainy/" rel="nofollow noopener">Scum and Villainy</a>’s Gambit pool. A shared team pool can be that resource that you spend, and it allows lots of different moves to interact with the resource by allowing you to add to it (or spend from it). You could also have a move which allows you to spend from the team pool in ways like your list of suggestion.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059/3</link>
+        <pubDate>Sat, 18 May 2019 19:27:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2059-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059.rss">PbtA Stat as Expendable Resource</source>
+      </item>
+      <item>
+        <title>PbtA Stat as Expendable Resource</title>
+        <dc:creator><![CDATA[@JasonT]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jasont">@JasonT</a> wrote:</p>
+          <blockquote>
+              <p>Have you read the diceless PbtA vampire game Undying? The only stats anyone has are “Blood” (a currency you spend to pick more move options, wager to do battle, and spend for supernatural effects) and “Humanity” (measuring how much blood you can hold, and how much you can hold off on terrorizing humans you feed on). This is more minimalistic than you have in mind, it sounds like, but I think it’s still a good exemplar to refer to.  You might also want to check out what you can do with “Luck” in Monster of the Week, which retains a more standard Apocalypse World dice system.</p>
+<p>For what it’s worth, I’ve had a sort of similar dilemma in some of my own designs — I wanted to add currencies to PbtA hacks I made for Mass Effect (paragon and renegade points) and Fallout (action points), mostly because I like handing tokens around, and I liked the idea of being able to get bonuses on rolls. My takeaways from that:</p>
+<ol>
+<li>If it’s a currency you earn and refresh very infrequently, it should boost the result of a roll just made, or provide a substantial bonus to a roll about to be made (like rolling an extra die and taking the best result, or adding a number higher than 1). If you can store more of it and gain it more often, +1 per point is okay, but it gets fiddly fast.</li>
+<li>Tacking this on top of the standard Apocalypse World dice system just for the sake of having a currency that gives bonuses often ends up feeling unnecessary, or even confusing and disappointing. That’s in contrast to Undying, where managing that resource IS the game, or Monster of the Week, where Luck comes up less often, but always consequentially, and running out of it is a reminder that this genre is depicted as a young folks’ game for a reason.</li>
+</ol>
+<p>Of course, I don’t mean to say that you shouldn’t put in a currency, or that you wouldn’t succeed where I think I failed. I’d just suggest making sure that whatever you add feels purposeful and crucial to the game.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059/2</link>
+        <pubDate>Sat, 18 May 2019 11:16:37 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2059-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059.rss">PbtA Stat as Expendable Resource</source>
+      </item>
+      <item>
+        <title>PbtA Stat as Expendable Resource</title>
+        <dc:creator><![CDATA[@DeusExBrockina]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deusexbrockina">@DeusExBrockina</a> wrote:</p>
+          <blockquote>
+              <p>Following up on <a href="https://forums.gauntlet-rpg.com/t/making-a-pbta-game-where-everybody-fights/1868?u=deusexbrockina">this thread,</a> I’ve been trying to figure out a way to have a <em>Power</em> or <em>Energy</em> stat which would be rolled for <em>Fight</em> and <em>Unleash Your Powers</em> moves, but could also be expended for a special effect. Everyone would be expected to use this stat, so you aren’t choosing if you want to specialize in it or not (the basic stats are about personality types, emotional/mental/social approaches, etc. and have less to do with physical ability). It’s essentially like a “mana” stat, but doubles up as being both a resource and your modifier on these rolls.</p>
+<p>I imagine it going something like: everyone starts at +2 after a rest. They can roll the <em>Fight</em> or <em>Powers</em> moves with this stat (2d6+2) and as long as it’s at +2, it represents that they’re still strong and full of energy (as they’re more likely to succeed at these rolls). A basic roll doesn’t require any energy to be spent-- fictionally, they’re using their powers at a steady rate such that it’s not noticeably tiring. Then, someone could decide to spend 1 of this stat to do <em><strong>something</strong></em> particularly grand with a burst of energy-- they’d achieve this special effect, but having spent one energy, they would now be rolling at 2d6+1 for the foreseeable future-- they’re a little worn out now, slightly less likely to succeed at these actions.</p>
+<p>I like this idea thematically for my setting and genre, which is science-fantasy and has a focus on magitech. There are person and vehicle-level layers and everyone/thing is running on some sort of magic energy or fuel, so being conscious of energy levels is appropriate. It would also ideally play out as a form of pacing and stakes-setting, where characters reach 0 energy after a significant period of action and feel appropriately worn down and on their last leg.</p>
+<p>I’m having some problems figuring out the specifics of all this though. I’m not sure what’s an appropriate effect to achieve when you expend energy. Some basic options I could imagine:</p>
+<ul>
+<li>pushing a roll result up one tier (a 6- becomes a 7-9, so on)</li>
+<li>an automatic success on a roll</li>
+<li>pick more items on a move result list (functionally similar to getting a higher tier of success, maybe)</li>
+<li>give yourself advantage (roll 3d6, take highest two)</li>
+<li>something more fictionally interesting than those-- use some special power you couldn’t otherwise (maybe add tags to an attack or action?)</li>
+</ul>
+<p>Assuming the +Power stat would at most ever be +3, you only get a few of these to spend per significant period of action, and giving yourself consecutive -1’s to future rolls is a fairly significant penalty. I don’t want it to be the case that people decide to never spend any energy because it’s actually clearly superior to just keep rolling 2d6+3, for example.</p>
+<p>I really like this idea in theory but I’ve been stuck on the specifics of how it could actually work for a few weeks now. Does anyone have any thoughts about a stat as an expendable resource as a concept?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059/1</link>
+        <pubDate>Sat, 18 May 2019 02:47:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2059-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-stat-as-expendable-resource/2059.rss">PbtA Stat as Expendable Resource</source>
+      </item>
+  </channel>
+</rss>

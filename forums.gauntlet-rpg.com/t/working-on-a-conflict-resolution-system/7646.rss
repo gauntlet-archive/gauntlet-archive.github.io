@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Working on a conflict resolution system</title>
+    <link>https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646</link>
+    <description>Hey, folks!
+
+I am working on a conflict resolution system for fantasypunk and I could really do with some help.
+
+Essentially, I&#39;ve got three main variations for a conflict system and each has some upsides and downsides.
+
+Please let me know what you think of it.
+
+&gt; # Conflict
+&gt; 
+&gt; In **fantasypunk** conflict refers to **Opposition.**
+&gt; 
+&gt; Opposition happens when something or someone is deliberately trying to stall, defeat or otherwise stop the party from moving on or succeeding.
+&gt; 
+&gt; The prosecutor at a trial, a group of armed soldiers, a troll in the middle of a bridge, children playing tag or a dragon raining fire down on the party are all examples of Opposition.
+&gt; 
+&gt; ## Creating Opposition
+&gt; 
+&gt; 1. Determine the nature of the Opposition the party will face. Examples:
+&gt; - A debate with the High Magistrate;
+&gt; - Traversing a Magic Sigils Room;
+&gt; - Battling a Fiery Dragon.
+&gt; 1. Define what Resistances that Opposition has.
+&gt; 
+&gt; A Resistance is a short phrase that describes how that Opposition attempts to challenge or harm the party, or even perform other actions.
+&gt; 
+&gt; The more Resistances the Opposition has, the harder it is to overcome it.
+&gt; 
+&gt; Some Resistance examples: fire breath, thick skin, razor claws, telepathy, wings, enormous size,  thick fog, strong currents, force field, curse, tight formation, minions, sharp tongue.
+&gt; 
+&gt; &gt; **The High Magistrate**
+&gt; &gt; 
+&gt; &gt; - Eloquence
+&gt; &gt; - Popular support
+&gt; &gt; - Rank and Office
+&gt; 
+&gt; &gt; **Magic Sigils Room;**
+&gt; &gt; 
+&gt; &gt; - Illusion magic
+&gt; &gt; - Sophisticated contraptions
+&gt; &gt; - Trapped control panel
+&gt; &gt; - Golden Sigils
+&gt; 
+&gt; &gt; **Battling a Fiery Dragon.**
+&gt; &gt; 
+&gt; &gt; - Fire Breath
+&gt; &gt; - Minions
+&gt; &gt; - Steel Scales
+&gt; &gt; - Ancient Magica
+&gt; &gt; - Cunning
+&gt; 1. Some forms of Opposition may include a special clock, move or tag.
+&gt; 
+&gt; &gt; **The High Magistrate**
+&gt; &gt; 
+&gt; &gt; - Eloquence
+&gt; &gt; - Popular support
+&gt; &gt; - Rank and Office
+&gt; &gt; 
+&gt; &gt; Clock: Crowd&#39;s Benefit of the Doubt - 8 segments
+&gt; &gt; 
+&gt; &gt; 
+&gt; &gt; **Moves**
+&gt; &gt; 
+&gt; &gt; - **Influence**: for as long as the Magistrate has Popular Support, they can spend it to impose a Vulnerability on a member of the Party.
+&gt; 
+&gt; &gt; **Magic Sigils Room;**
+&gt; &gt; 
+&gt; &gt; - Illusion magic
+&gt; &gt; - Sophisticated contraptions
+&gt; &gt; - Trapped control panel
+&gt; &gt; - Golden Sigils
+&gt; &gt; 
+&gt; &gt; Clock: Magic Sigils Go Off (6 segments)
+&gt; &gt; 
+&gt; &gt; 
+&gt; &gt; **Moves**
+&gt; &gt; 
+&gt; &gt; - Magical backlash: when anyone tries to use magic of any form, they take a minor blow.
+&gt; 
+&gt; &gt; **Fiery Dragon.**
+&gt; &gt; 
+&gt; &gt; - Fire Breath
+&gt; &gt; - Minions
+&gt; &gt; - Steel Scales
+&gt; &gt; - Ancient Magica
+&gt; &gt; - Cunning
+&gt; &gt; 
+&gt; &gt; **Tags**
+&gt; &gt; 
+&gt; &gt; Immunity to Fire and Heat
+&gt; &gt; 
+&gt; &gt; Resistance to mundane attacks 
+&gt; &gt; 
+&gt; &gt; **Moves**
+&gt; &gt; 
+&gt; &gt; - **Survival above all else:** if the dragon becomes certain it&#39;s losing the upper hand, it will attempt to break out.
+&gt; &gt; - **Dragon Fire**: The dragon&#39;s fire causes a magical burn that causes otherworldly pain and can only be fully healed with special magic.
+&gt; 
+&gt; ## Overcoming Opposition
+&gt; 
+&gt; Overcoming Opposition doesn&#39;t mean necessarily Overcoming each and all of its Resistances.
+&gt; 
+&gt; Every time a Resistance is Overcome, the fiction must change.
+&gt; 
+&gt; For example: by Overcoming the Fiery Dragon&#39;s Cunning, the dragon will change tactics to a more direct and dangerous approach, which could mean that the characters now have more opportunities against it, but may also mean that the dragon will hit more recklessly.
+&gt; 
+&gt; Some Opposition might be overcome by defeating only some of its resistances.
+&gt; 
+&gt; For example: by defusing the Illusion Magic and the Trapped Control Pannel, the characters might be able to punch a command that will allow them to move forward before the Sigils go off.
+&gt; 
+&gt; Maybe by pursuing complete defeat of the Opposition, the party might earn a greater benefit, while it might cost them a lot more to do it.
+&gt; 
+&gt; On the other hand, by only engaging certain Resistances, the party might create new circumstances to engage their Opposition, and even deescalate conflict.
+&gt; 
+&gt; # Resolving Conflict
+&gt; 
+&gt; &lt;aside&gt;
+&gt; 🎲 Designer note. Currently, I have three different possibilities and I can&#39;t just yet decide which is best. Or maybe they&#39;re all best in different circumstances. Playtest will show. The naming conventions will likely change too, but let&#39;s work with this for now.
+&gt; 
+&gt; &lt;/aside&gt;
+&gt; 
+&gt; ## Method 1: Resist Blows
+&gt; 
+&gt; When a character strikes a Blow against a Resistance, the GM will create a dice pool. 
+&gt; 
+&gt; Lesser Blow: 1d6
+&gt; 
+&gt; Mean Blow: 2d6
+&gt; 
+&gt; Hard Blow: 3d6
+&gt; 
+&gt; Add +1d6 for every point of Damage that Resistance has.
+&gt; 
+&gt; If the GM rolls a 1, that Resistance gets crossed out and is overcome. If not, add 1 damage to it.
+&gt; 
+&gt; Example:
+&gt; 
+&gt; | Magic Sigils Room; | Damage |
+&gt; | --- | --- |
+&gt; | Illusion Magic | X |
+&gt; | Sophisticated Contraptions | X X X |
+&gt; | Trapped Control Panel | XX |
+&gt; | Golden Sigils |  |
+&gt; 
+&gt; If a character strikes a Mean Blow against Illusion Magic, the GM will roll 3d6.
+&gt; 
+&gt; When the GM strikes a Blow against a character, the procedure is similar. The character will roll as many dice as established by the severity of the blow, +1d6 if they are Vulnerable. If they roll a 1, they lose 1 Hold.
+&gt; 
+&gt; &lt;aside&gt;
+&gt; 🎲 Variation: rolling double 1s.
+&gt; 
+&gt; When the GM rolls a double 1, they cross out a Resistance and add 1 damage to a different resistance.
+&gt; 
+&gt; When a character rolls a double 1, they lose 2 Hold instead of 1.
+&gt; 
+&gt; &lt;/aside&gt;
+&gt; 
+&gt; ## Method 2: Active Rolls
+&gt; 
+&gt; The true difference between this and the previous method is who makes the rolls.
+&gt; 
+&gt; When a character strikes a Blow against a Resistance, that character will create a dice pool.
+&gt; 
+&gt; Lesser Blow: 1d6
+&gt; 
+&gt; Mean Blow: 2d6
+&gt; 
+&gt; Hard Blow: 3d6
+&gt; 
+&gt; Add +1d6 for every point of Damage that Resistance has.
+&gt; 
+&gt; If the character rolls a 6, that Resistance gets crossed out and is overcome. If not, add 1 damage to it.
+&gt; 
+&gt; Example:
+&gt; 
+&gt; | Magic Sigils Room; | Damage |
+&gt; | --- | --- |
+&gt; | Illusion Magic | X |
+&gt; | Sophisticated Contraptions | X X X |
+&gt; | Trapped Control Panel | XX |
+&gt; | Golden Sigils |  |
+&gt; 
+&gt; If a character strikes a Mean Blow against Illusion Magic, they roll 3d6.
+&gt; 
+&gt; When the GM strikes a Blow against a character, the procedure is similar. The GM will roll as many dice as established by the severity of the blow, +1d6 if the character is Vulnerable. If the GM rolls a 6, the character loses 1 Hold.
+&gt; 
+&gt; &lt;aside&gt;
+&gt; 🎲 Variation: rolling double 6s.
+&gt; 
+&gt; When the character rolls a double 6, the GM crosses out a Resistance and add 1 damage to a different resistance.
+&gt; 
+&gt; When the GM rolls a double 6, the character loses 2 Hold instead of 1.
+&gt; 
+&gt; &lt;/aside&gt;
+&gt; 
+&gt; ## Method 3: Damage as Established
+&gt; 
+&gt; This is the simplest and most direct method.
+&gt; 
+&gt; When creating Opposition, the GM will distribute a number of Resistance Points among all Resistances. I&#39;d recommend 5 points for an easy Opposition and about 15 points for a very hard Opposition.
+&gt; 
+&gt; Once any Resistance has lost all of is Resistance Points, it is Overcome.
+&gt; 
+&gt; When a character or the GM strikes a Blow, they deal 1-3 damage according to the severity of the Blow.
+&gt; 
+&gt; Lesser Blow: 1 damage
+&gt; 
+&gt; Mean Blow: 2 damage
+&gt; 
+&gt; Hard Blow: 3 damage
+&gt; 
+&gt; Example:
+&gt; 
+&gt; | Magic Sigils Room; | Resistance |
+&gt; | --- | --- |
+&gt; | Illusion Magic | X |
+&gt; | Sophisticated Contraptions | X X X X X |
+&gt; | Trapped Control Panel | X X |
+&gt; | Golden Sigils | X X |
+&gt; 
+&gt; If a character strikes a Mean Blow against Golden Sigils, it loses 2 Resistance Points and is Overcome.
+&gt; 
+&gt; If the GM strikes a Mean Blow against a character, that character loses 2 Hold.</description>
+    
+    <lastBuildDate>Tue, 18 Jan 2022 17:59:49 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Working on a conflict resolution system</title>
+        <dc:creator><![CDATA[@CowsRespectMe]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/cowsrespectme">@CowsRespectMe</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="holothuroid" data-post="17" data-topic="7646" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/holothuroid/40/5242_2.png" class="avatar"> holothuroid:</div>
+<blockquote>
+<p>Would it be possible to include the idea of hold into method 2? Like, you lose hold, when the majority of your dice is odd?</p>
+</blockquote>
+</aside>
+<p>This would mean players would lose hold on almost half of their rolls. This seems overly punshing to me for the base gameplay loop.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/18</link>
+        <pubDate>Tue, 18 Jan 2022 17:59:49 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7646-18</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646.rss">Working on a conflict resolution system</source>
+      </item>
+      <item>
+        <title>Working on a conflict resolution system</title>
+        <dc:creator><![CDATA[@holothuroid]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/holothuroid">@holothuroid</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="TheGiftOfGabes" data-post="12" data-topic="7646">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/thegiftofgabes/40/5229_2.png" class="avatar"> TheGiftOfGabes:</div>
+<blockquote>
+<p>If there is a result higher than the Resistance Points, that resistance is defeated.</p>
+</blockquote>
+</aside>
+<p>What i enjoyed about the previous attempts was that there was no need to establish a level for resistances. That felt more direct and I would find it easier to use.</p>
+<p>Would it be possible to include the idea of hold into method 2? Like, you lose hold, when the majority of your dice is odd?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/17</link>
+        <pubDate>Mon, 06 Dec 2021 07:50:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7646-17</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646.rss">Working on a conflict resolution system</source>
+      </item>
+      <item>
+        <title>Working on a conflict resolution system</title>
+        <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="DeReel" data-post="15" data-topic="7646">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/dereel/40/3021_2.png" class="avatar"> DeReel:</div>
+<blockquote>
+<p>2 sixes beat any challenge.</p>
+</blockquote>
+</aside>
+<p>no, 2 6s beat a single Resistance and deal 1 damage to another</p>
+<p>like, the challenge won’t be over in a single roll</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/16</link>
+        <pubDate>Sun, 05 Dec 2021 18:58:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7646-16</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646.rss">Working on a conflict resolution system</source>
+      </item>
+      <item>
+        <title>Working on a conflict resolution system</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>Thx.<br>
+2 sixes beat any challenge.<br>
+It can break an encounter drama/pace.<br>
+Right?<br>
+Can it be a problem?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/15</link>
+        <pubDate>Sun, 05 Dec 2021 18:32:44 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7646-15</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646.rss">Working on a conflict resolution system</source>
+      </item>
+      <item>
+        <title>Working on a conflict resolution system</title>
+        <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="DeReel" data-post="13" data-topic="7646">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/dereel/40/3021_2.png" class="avatar"> DeReel:</div>
+<blockquote>
+<p>What’s the Hold for ?</p>
+</blockquote>
+</aside>
+<p>Hold is how you “resilience/harm” track is called.</p>
+<aside class="quote no-group" data-username="DeReel" data-post="13" data-topic="7646">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/dereel/40/3021_2.png" class="avatar"> DeReel:</div>
+<blockquote>
+<p>Does 2x6 boxcars killing any challenge prevent precise encounter preparation ?</p>
+</blockquote>
+</aside>
+<p>not sure I understand the question</p>
+<aside class="quote no-group" data-username="DeReel" data-post="13" data-topic="7646">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/dereel/40/3021_2.png" class="avatar"> DeReel:</div>
+<blockquote>
+<p>Dis/Advantage would sound simpler as “reroll high/low-est”</p>
+</blockquote>
+</aside>
+<p>I’m using the Forged in the Dark dice system… Oh I get it! It means the same, but the wording is simpler <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/14</link>
+        <pubDate>Sun, 05 Dec 2021 18:06:27 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7646-14</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646.rss">Working on a conflict resolution system</source>
+      </item>
+      <item>
+        <title>Working on a conflict resolution system</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>Hi,<br>
+This feels a lot like Danger Patrol<br>
+What’s the Hold for ?<br>
+Does 2x6 boxcars killing any challenge prevent precise encounter preparation ?<br>
+Dis/Advantage would sound simpler as “reroll high/low-est”</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/13</link>
+        <pubDate>Sun, 05 Dec 2021 17:35:40 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7646-13</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646.rss">Working on a conflict resolution system</source>
+      </item>
+      <item>
+        <title>Working on a conflict resolution system</title>
+        <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+          <blockquote>
+              <p>I just came up with a new method last night and I think this is my favourite.</p>
+<blockquote>
+<h2>Method 4 - Fantasy &amp; Feelings</h2>
+<p>When a character strikes a Blow against a resistance, that character will roll a d6 pool as stablished.</p>
+<p>Lesser Blow: 1d6</p>
+<p>Mean Blow: 2d6</p>
+<p>Hard Blow: 3d6</p>
+<p>Don’t ignore any dice.</p>
+<p>If there is a result higher than the Resistance Points, that resistance is defeated. If not, it loses 1 point.</p>
+<p>If there is a 1, that character loses 1 Hold.</p>
+<p>Using an opening adds 1 die and drops the lowest die. Being vulnerable adds 1 die and drops the highest die.</p>
+<p>Variation: double 1s and double 6s.</p>
+<p>If the result is a double 6, Overcome that resistance and deal 1 damage to a different resistance.</p>
+<p>If the result is a double 1, the character loses 2 Hold.</p>
+<p>When determining Resistances, spend a number of points among them. I’d say 5 to 15 points depending on how hard the challenge the Opposition presents.</p>
+<p>Example:</p>
+<div class="md-table">
+<table>
+<thead>
+<tr>
+<th>Magic Sigils Room;</th>
+<th>Resistance (10 pts)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Illusion Magic</td>
+<td>X X</td>
+</tr>
+<tr>
+<td>Sophisticated Contraptions</td>
+<td>X X X</td>
+</tr>
+<tr>
+<td>Trapped Control Panel</td>
+<td>X</td>
+</tr>
+<tr>
+<td>Golden Sigils</td>
+<td>X X X X</td>
+</tr>
+</tbody>
+</table>
+</div>
+</blockquote>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/12</link>
+        <pubDate>Sun, 05 Dec 2021 16:01:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7646-12</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646.rss">Working on a conflict resolution system</source>
+      </item>
+      <item>
+        <title>Working on a conflict resolution system</title>
+        <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="Eck" data-post="9" data-topic="7646" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/eck/40/5265_2.png" class="avatar"> Eck:</div>
+<blockquote>
+<p>Me too. Is it strong-arming us to sign in and accept their (kinda pushy-sounding) terms of service, or just a rendering issue?</p>
+</blockquote>
+</aside>
+<p>No it’s not. It’s supposed to show you the content on the page but some setting or feature is not working as I would like it.</p>
+<aside class="quote no-group" data-username="Deodatus" data-post="10" data-topic="7646">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/letter_avatar_proxy/v4/letter/d/ce7236/40.png" class="avatar"> Deodatus:</div>
+<blockquote>
+<p>Nothing found after signing in <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+</blockquote>
+</aside>
+<p>Yeah, I gave up and just pasted the content in my post here.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/11</link>
+        <pubDate>Sun, 05 Dec 2021 14:57:53 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7646-11</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646.rss">Working on a conflict resolution system</source>
+      </item>
+      <item>
+        <title>Working on a conflict resolution system</title>
+        <dc:creator><![CDATA[@Deodatus]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deodatus">@Deodatus</a> wrote:</p>
+          <blockquote>
+              <p>Nothing found after signing in <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/10</link>
+        <pubDate>Sun, 05 Dec 2021 11:02:32 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7646-10</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646.rss">Working on a conflict resolution system</source>
+      </item>
+      <item>
+        <title>Working on a conflict resolution system</title>
+        <dc:creator><![CDATA[@Eck]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/eck">@Eck</a> wrote:</p>
+          <blockquote>
+              <p>Me too.  Is it strong-arming us to sign in and accept their (kinda pushy-sounding) terms of service, or just a rendering issue?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/9</link>
+        <pubDate>Sun, 05 Dec 2021 06:53:42 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7646-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646.rss">Working on a conflict resolution system</source>
+      </item>
+      <item>
+        <title>Working on a conflict resolution system</title>
+        <dc:creator><![CDATA[@Deodatus]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deodatus">@Deodatus</a> wrote:</p>
+          <blockquote>
+              <p>For me, all the Chapters are blank pages <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/8</link>
+        <pubDate>Sat, 04 Dec 2021 17:01:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7646-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646.rss">Working on a conflict resolution system</source>
+      </item>
+      <item>
+        <title>Working on a conflict resolution system</title>
+        <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+          <blockquote>
+              <p>It’s updated. Apparently it changed the link address. I really need a proper static site haha!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/7</link>
+        <pubDate>Sat, 04 Dec 2021 16:44:51 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7646-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646.rss">Working on a conflict resolution system</source>
+      </item>
+      <item>
+        <title>Working on a conflict resolution system</title>
+        <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+          <blockquote>
+              <p>That’s odd! Let me check it, hang on!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/6</link>
+        <pubDate>Sat, 04 Dec 2021 16:42:44 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7646-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646.rss">Working on a conflict resolution system</source>
+      </item>
+      <item>
+        <title>Working on a conflict resolution system</title>
+        <dc:creator><![CDATA[@Deodatus]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deodatus">@Deodatus</a> wrote:</p>
+          <blockquote>
+              <p>What happened to your Notion page?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/5</link>
+        <pubDate>Sat, 04 Dec 2021 16:08:26 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7646-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646.rss">Working on a conflict resolution system</source>
+      </item>
+      <item>
+        <title>Working on a conflict resolution system</title>
+        <dc:creator><![CDATA[@Deodatus]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deodatus">@Deodatus</a> wrote:</p>
+          <blockquote>
+              <p>Which version is closer to your vision and why?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/4</link>
+        <pubDate>Sat, 04 Dec 2021 13:53:17 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7646-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646.rss">Working on a conflict resolution system</source>
+      </item>
+      <item>
+        <title>Working on a conflict resolution system</title>
+        <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+          <blockquote>
+              <p>Yes, they are not conceptually different but they imply a different tone. In one the players are the acting party, in the other, they are the receiving party.</p>
+<p>That said, one could merge both and players roll both to strike their blows and o resist them.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/3</link>
+        <pubDate>Sat, 04 Dec 2021 13:11:09 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7646-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646.rss">Working on a conflict resolution system</source>
+      </item>
+      <item>
+        <title>Working on a conflict resolution system</title>
+        <dc:creator><![CDATA[@Deodatus]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deodatus">@Deodatus</a> wrote:</p>
+          <blockquote>
+              <p>Very interesting concept for Method 1 &amp; 2. I’d prefer these over the traditional Method 3 for curiositys sake <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> Also, they don’t seem to be too different, so maybe they are two sides of the same move?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/2</link>
+        <pubDate>Sat, 04 Dec 2021 07:09:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7646-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646.rss">Working on a conflict resolution system</source>
+      </item>
+      <item>
+        <title>Working on a conflict resolution system</title>
+        <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+          <blockquote>
+              <p>Hey, folks!</p>
+<p>I am working on a conflict resolution system for fantasypunk and I could really do with some help.</p>
+<p>Essentially, I’ve got three main variations for a conflict system and each has some upsides and downsides.</p>
+<p>Please let me know what you think of it.</p>
+<blockquote>
+<h1>Conflict</h1>
+<p>In <strong>fantasypunk</strong> conflict refers to <strong>Opposition.</strong></p>
+<p>Opposition happens when something or someone is deliberately trying to stall, defeat or otherwise stop the party from moving on or succeeding.</p>
+<p>The prosecutor at a trial, a group of armed soldiers, a troll in the middle of a bridge, children playing tag or a dragon raining fire down on the party are all examples of Opposition.</p>
+<h2>Creating Opposition</h2>
+<ol>
+<li>Determine the nature of the Opposition the party will face. Examples:</li>
+</ol>
+<ul>
+<li>A debate with the High Magistrate;</li>
+<li>Traversing a Magic Sigils Room;</li>
+<li>Battling a Fiery Dragon.</li>
+</ul>
+<ol>
+<li>Define what Resistances that Opposition has.</li>
+</ol>
+<p>A Resistance is a short phrase that describes how that Opposition attempts to challenge or harm the party, or even perform other actions.</p>
+<p>The more Resistances the Opposition has, the harder it is to overcome it.</p>
+<p>Some Resistance examples: fire breath, thick skin, razor claws, telepathy, wings, enormous size,  thick fog, strong currents, force field, curse, tight formation, minions, sharp tongue.</p>
+<blockquote>
+<p><strong>The High Magistrate</strong></p>
+<ul>
+<li>Eloquence</li>
+<li>Popular support</li>
+<li>Rank and Office</li>
+</ul>
+</blockquote>
+<blockquote>
+<p><strong>Magic Sigils Room;</strong></p>
+<ul>
+<li>Illusion magic</li>
+<li>Sophisticated contraptions</li>
+<li>Trapped control panel</li>
+<li>Golden Sigils</li>
+</ul>
+</blockquote>
+<blockquote>
+<p><strong>Battling a Fiery Dragon.</strong></p>
+<ul>
+<li>Fire Breath</li>
+<li>Minions</li>
+<li>Steel Scales</li>
+<li>Ancient Magica</li>
+<li>Cunning</li>
+</ul>
+</blockquote>
+<ol>
+<li>Some forms of Opposition may include a special clock, move or tag.</li>
+</ol>
+<blockquote>
+<p><strong>The High Magistrate</strong></p>
+<ul>
+<li>Eloquence</li>
+<li>Popular support</li>
+<li>Rank and Office</li>
+</ul>
+<p>Clock: Crowd’s Benefit of the Doubt - 8 segments</p>
+<p><strong>Moves</strong></p>
+<ul>
+<li>
+<strong>Influence</strong>: for as long as the Magistrate has Popular Support, they can spend it to impose a Vulnerability on a member of the Party.</li>
+</ul>
+</blockquote>
+<blockquote>
+<p><strong>Magic Sigils Room;</strong></p>
+<ul>
+<li>Illusion magic</li>
+<li>Sophisticated contraptions</li>
+<li>Trapped control panel</li>
+<li>Golden Sigils</li>
+</ul>
+<p>Clock: Magic Sigils Go Off (6 segments)</p>
+<p><strong>Moves</strong></p>
+<ul>
+<li>Magical backlash: when anyone tries to use magic of any form, they take a minor blow.</li>
+</ul>
+</blockquote>
+<blockquote>
+<p><strong>Fiery Dragon.</strong></p>
+<ul>
+<li>Fire Breath</li>
+<li>Minions</li>
+<li>Steel Scales</li>
+<li>Ancient Magica</li>
+<li>Cunning</li>
+</ul>
+<p><strong>Tags</strong></p>
+<p>Immunity to Fire and Heat</p>
+<p>Resistance to mundane attacks</p>
+<p><strong>Moves</strong></p>
+<ul>
+<li>
+<strong>Survival above all else:</strong> if the dragon becomes certain it’s losing the upper hand, it will attempt to break out.</li>
+<li>
+<strong>Dragon Fire</strong>: The dragon’s fire causes a magical burn that causes otherworldly pain and can only be fully healed with special magic.</li>
+</ul>
+</blockquote>
+<h2>Overcoming Opposition</h2>
+<p>Overcoming Opposition doesn’t mean necessarily Overcoming each and all of its Resistances.</p>
+<p>Every time a Resistance is Overcome, the fiction must change.</p>
+<p>For example: by Overcoming the Fiery Dragon’s Cunning, the dragon will change tactics to a more direct and dangerous approach, which could mean that the characters now have more opportunities against it, but may also mean that the dragon will hit more recklessly.</p>
+<p>Some Opposition might be overcome by defeating only some of its resistances.</p>
+<p>For example: by defusing the Illusion Magic and the Trapped Control Pannel, the characters might be able to punch a command that will allow them to move forward before the Sigils go off.</p>
+<p>Maybe by pursuing complete defeat of the Opposition, the party might earn a greater benefit, while it might cost them a lot more to do it.</p>
+<p>On the other hand, by only engaging certain Resistances, the party might create new circumstances to engage their Opposition, and even deescalate conflict.</p>
+<h1>Resolving Conflict</h1>
+<aside>
+🎲 Designer note. Currently, I have three different possibilities and I can't just yet decide which is best. Or maybe they're all best in different circumstances. Playtest will show. The naming conventions will likely change too, but let's work with this for now.
+</aside>
+<h2>Method 1: Resist Blows</h2>
+<p>When a character strikes a Blow against a Resistance, the GM will create a dice pool.</p>
+<p>Lesser Blow: 1d6</p>
+<p>Mean Blow: 2d6</p>
+<p>Hard Blow: 3d6</p>
+<p>Add +1d6 for every point of Damage that Resistance has.</p>
+<p>If the GM rolls a 1, that Resistance gets crossed out and is overcome. If not, add 1 damage to it.</p>
+<p>Example:</p>
+<div class="md-table">
+<table>
+<thead>
+<tr>
+<th>Magic Sigils Room;</th>
+<th>Damage</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Illusion Magic</td>
+<td>X</td>
+</tr>
+<tr>
+<td>Sophisticated Contraptions</td>
+<td>X X X</td>
+</tr>
+<tr>
+<td>Trapped Control Panel</td>
+<td>XX</td>
+</tr>
+<tr>
+<td>Golden Sigils</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>If a character strikes a Mean Blow against Illusion Magic, the GM will roll 3d6.</p>
+<p>When the GM strikes a Blow against a character, the procedure is similar. The character will roll as many dice as established by the severity of the blow, +1d6 if they are Vulnerable. If they roll a 1, they lose 1 Hold.</p>
+<aside>
+🎲 Variation: rolling double 1s.
+<p>When the GM rolls a double 1, they cross out a Resistance and add 1 damage to a different resistance.</p>
+<p>When a character rolls a double 1, they lose 2 Hold instead of 1.</p>
+</aside>
+<h2>Method 2: Active Rolls</h2>
+<p>The true difference between this and the previous method is who makes the rolls.</p>
+<p>When a character strikes a Blow against a Resistance, that character will create a dice pool.</p>
+<p>Lesser Blow: 1d6</p>
+<p>Mean Blow: 2d6</p>
+<p>Hard Blow: 3d6</p>
+<p>Add +1d6 for every point of Damage that Resistance has.</p>
+<p>If the character rolls a 6, that Resistance gets crossed out and is overcome. If not, add 1 damage to it.</p>
+<p>Example:</p>
+<div class="md-table">
+<table>
+<thead>
+<tr>
+<th>Magic Sigils Room;</th>
+<th>Damage</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Illusion Magic</td>
+<td>X</td>
+</tr>
+<tr>
+<td>Sophisticated Contraptions</td>
+<td>X X X</td>
+</tr>
+<tr>
+<td>Trapped Control Panel</td>
+<td>XX</td>
+</tr>
+<tr>
+<td>Golden Sigils</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>If a character strikes a Mean Blow against Illusion Magic, they roll 3d6.</p>
+<p>When the GM strikes a Blow against a character, the procedure is similar. The GM will roll as many dice as established by the severity of the blow, +1d6 if the character is Vulnerable. If the GM rolls a 6, the character loses 1 Hold.</p>
+<aside>
+🎲 Variation: rolling double 6s.
+<p>When the character rolls a double 6, the GM crosses out a Resistance and add 1 damage to a different resistance.</p>
+<p>When the GM rolls a double 6, the character loses 2 Hold instead of 1.</p>
+</aside>
+<h2>Method 3: Damage as Established</h2>
+<p>This is the simplest and most direct method.</p>
+<p>When creating Opposition, the GM will distribute a number of Resistance Points among all Resistances. I’d recommend 5 points for an easy Opposition and about 15 points for a very hard Opposition.</p>
+<p>Once any Resistance has lost all of is Resistance Points, it is Overcome.</p>
+<p>When a character or the GM strikes a Blow, they deal 1-3 damage according to the severity of the Blow.</p>
+<p>Lesser Blow: 1 damage</p>
+<p>Mean Blow: 2 damage</p>
+<p>Hard Blow: 3 damage</p>
+<p>Example:</p>
+<div class="md-table">
+<table>
+<thead>
+<tr>
+<th>Magic Sigils Room;</th>
+<th>Resistance</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Illusion Magic</td>
+<td>X</td>
+</tr>
+<tr>
+<td>Sophisticated Contraptions</td>
+<td>X X X X X</td>
+</tr>
+<tr>
+<td>Trapped Control Panel</td>
+<td>X X</td>
+</tr>
+<tr>
+<td>Golden Sigils</td>
+<td>X X</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>If a character strikes a Mean Blow against Golden Sigils, it loses 2 Resistance Points and is Overcome.</p>
+<p>If the GM strikes a Mean Blow against a character, that character loses 2 Hold.</p>
+</blockquote>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646/1</link>
+        <pubDate>Sat, 04 Dec 2021 04:36:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7646-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-on-a-conflict-resolution-system/7646.rss">Working on a conflict resolution system</source>
+      </item>
+  </channel>
+</rss>

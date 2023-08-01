@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Responsible Portrayal of Addiction in System</title>
+    <link>https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006</link>
+    <description>CW: drug and alcohol use, addiction
+
+Has anyone written or read something good about how to incorporate addiction into an RPG in a responsible, respectful, and safe way? How would you handle it in game design?
+
+I have seen a lot of RPGs that include it - as a flaw in the World of Darkness, as a trauma in Gumshoe games, as a drawback for using combat drugs in Shadowrun, as a stress relieving mechanic in Forged in the Dark, etc.
+
+Some things that seem a given:
+- The people playing are assumed to be adults or old enough teens that they&#39;ve gotten core &quot;don&#39;t abuse drugs&quot; &quot;this is what addiction looks like&quot; messages.
+- Don&#39;t punch down. Addicts function and deserve respect as people, and many substances (painkillers, beer, weed) are fine if used safely.
+- Don&#39;t glamorize addiction either. It&#39;s not OK. Addiction should have realistic symptoms in a game that deals with this sort of issue, or don&#39;t involve it at all.
+- Players still want to play a competent/interesting protagonist. Addiction doesn&#39;t make people useless, and it would make someone two dimensional if that was their only/overwhelmingly dominant trait.
+-Content warnings and safety mechanics to the nines.  Allow ANY player to veto the whole thing, etc.
+
+Imagine a PbtA game with an &quot;Addict&quot; playbook or an addiction move, or a Fate game that encourages addiction aspects, etc.  How would you handle it responsibly?
+
+I worked at a crisis center for years, and I&#39;ve seen its varying impact on hundreds of people. I just want to hear others&#39; perspective on how to incorporate it responsibly.</description>
+    
+    <lastBuildDate>Wed, 07 Aug 2019 10:26:58 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Responsible Portrayal of Addiction in System</title>
+        <dc:creator><![CDATA[@Teylen]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/teylen">@Teylen</a> wrote:</p>
+          <blockquote>
+              <p>I think the take of &lt;abbr=“Vampire: The Masquerade 5th Edition”&gt;V5 is quite interesting.</p>
+<p>Not in regards how it handles real drugs, which are covered within the flaws and a linked merit. More how they implemented hunger for blood as effectively an addiction that every vampire has to deal with to a certain degree.</p>
+<p>The hunger does replace a number of dice in the pool.<br>
+Which might lead to an success with likely unwanted side-effects or a failure which initiates a compulsion. An increased amount of hunger leads to a higher probability to have the aforementioned effects and urges the player to see it satisfied.</p>
+<p>All while hunger is usually increased by trying to be more competent like increasing attributes, healing, using various powers.</p>
+<p>While the game thereby facilitates having the characters addicted, it doesn’t offer the option to get rid of the innate blood hunger.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/44">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/44</link>
+        <pubDate>Wed, 07 Aug 2019 10:26:58 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2006-44</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006.rss">Responsible Portrayal of Addiction in System</source>
+      </item>
+      <item>
+        <title>Responsible Portrayal of Addiction in System</title>
+        <dc:creator><![CDATA[@doyce]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/doyce">@doyce</a> wrote:</p>
+          <blockquote>
+              <p>This is one I’ve cobbled together for my current Masks game. It’s a follow-up move after an NPC in the game started using a super-power drug after homecoming (a possible plot element of the homecoming event from the recent Masks “Fan Favorite” fanzine).</p>
+<p>It’s basically a Masks spin on the Infernal additions in Monsterhearts.</p>
+<hr>
+<p><strong>When you’re addicted to Invictus, either physically, psychologically, or both</strong> , Invictus has Influence over you.</p>
+<ul>
+<li>It can use its Influence to shift your labels by making you believe you know how the world works.</li>
+<li>It can and will use its Influence to Provoke you to rash action.</li>
+<li>The roll to reject Influence against Invictus is always -Conditions.</li>
+<li>Per the original Invictus rules, you  <em>may</em>  have super powers while Invictus has influence over you. (Depends on the original results of usage from <em>Fan Favorite</em>.)</li>
+<li>To retain those powers, Invictus must be given influence over you at the end of every session, instead of giving influence to someone on your team. If you do so, keep your powers. If Invictus already had influence over you when you do this, Invictus shifts your labels ( <em><strong>always</strong></em>  Freak up, Mundane down, even and especially if this would give you a condition for shifting something that can’t shift).</li>
+<li>You  <em>never</em>  keep your powers if Invictus does not have Influence over you. The rumor you can is a lie told by Invictus dealers - the powers never ‘stick’. Ever.</li>
+</ul>
+<p>You can remove Invictus’s Influence as the result of rejecting its influence, but that influence can (and probably will) come back as the result certain 6- rolls (or even a 7-9, if you ignore the impending threat). The only mechanical way to permanently remove the threat of Invictus Influence is using a “permanently remove someone’s influence” playbook advance - assuming that advance is also reflected within the fiction.</p>
+<p>Somebody can help you remove Invictus’s influence (again, not permanently - only you can do that), if you are currently free of Conditions. The roll will probably be either +Freak or +Mundane, depending on the fiction, rolling against Unleash Your Powers results. If they successfully help you remove Invictus’s influence, they mark potential, and you gain Influence with them.</p>
+<ul>
+<li>You can always give Invictus influence over you for a +2 on any roll, including a roll you have just made. If Invictus already has influence over you, it will shift your labels instead (1 up, 1 down), and then give you a condition.</li>
+<li>You can give Invictus influence over you to allow use any other playbook’s move you don’t have, “just this once.” Take a condition.</li>
+</ul>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/43">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/43</link>
+        <pubDate>Wed, 07 Aug 2019 01:38:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2006-43</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006.rss">Responsible Portrayal of Addiction in System</source>
+      </item>
+      <item>
+        <title>Responsible Portrayal of Addiction in System</title>
+        <dc:creator><![CDATA[@Christo]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/christo">@Christo</a> wrote:</p>
+          <blockquote>
+              <p>Thank you for the excellent examples!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/42">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/42</link>
+        <pubDate>Tue, 11 Jun 2019 23:06:49 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2006-42</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006.rss">Responsible Portrayal of Addiction in System</source>
+      </item>
+      <item>
+        <title>Responsible Portrayal of Addiction in System</title>
+        <dc:creator><![CDATA[@Dutch]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dutch">@Dutch</a> wrote:</p>
+          <blockquote>
+              <p>One thing that genuinely bugs me about the conventional portrayal of addiction in roleplaying games is leaving the social implications up to the players who in many types of fictions are naturally motivated to keep the character group functional and cohesive.</p>
+<p>This is not aligned with the truth of addiction that I know. Addiction that shows up only when it’s convenient and never threatens the social cohesion of the “adventuring party” rings terribly false to me. I want to see the addicted character lie and steal from their friends when necessary because the game system creates incentives the player cannot resist.</p>
+<p>An abstract, simplistic idea: the stronger the hunger, the better the character becomes at anything that relates to satisfying the hunger and pursuing their personal goals, and the worse they become at doing their job as defined by the game’s concept (adventuring, fighting) and forming meaningful relationships with other player characters.</p>
+<p>Keeping the character just as strong, just strong in different, less pro-social areas, avoids deprotagonizing the character the way just draining their health and piling on penalty dice often does.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/41">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/41</link>
+        <pubDate>Sat, 08 Jun 2019 19:16:38 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2006-41</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006.rss">Responsible Portrayal of Addiction in System</source>
+      </item>
+      <item>
+        <title>Responsible Portrayal of Addiction in System</title>
+        <dc:creator><![CDATA[@Jon]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jon">@Jon</a> wrote:</p>
+          <blockquote>
+              <p>100% agree.</p>
+<p>I’ve decided not to flirt with addiction in mechanics at all, though I am still thinking about drug use mechanics, without addiction.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/40">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/40</link>
+        <pubDate>Thu, 06 Jun 2019 13:57:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2006-40</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006.rss">Responsible Portrayal of Addiction in System</source>
+      </item>
+      <item>
+        <title>Responsible Portrayal of Addiction in System</title>
+        <dc:creator><![CDATA[@mease19]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/mease19">@mease19</a> wrote:</p>
+          <blockquote>
+              <p>For me, drugs/addiction fall into a loose category of topics that you shouldn’t include/mechanize lightly and, if you do decide to include them, you should both have something specific to say about them and give them an appropriate degree of focus/gravity within the game (i.e. don’t trivialize them and/or use them as a means to some other end).</p>
+<p>I guess I’m most okay with the approach taken by Blades, because it has something to say about drugs and doesn’t glorify them, and the approach you’d likely take with Fate, because, at least, aspects challenge you to think specifically about why you use, the role addiction plays in your life, and how it/they might cause problems for you in every situation.</p>
+<p>I wouldn’t want <em>The Addict</em> as a protagonist playbook/archetype because it’s a challenge one faces and not a defining quality or identity, i.e. you are not your disease (though I guess I could maybe see it as a secondary antagonist playbook, e.g. if you were effectively embodying another character’s addiction).</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/39">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/39</link>
+        <pubDate>Wed, 05 Jun 2019 22:17:40 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2006-39</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006.rss">Responsible Portrayal of Addiction in System</source>
+      </item>
+      <item>
+        <title>Responsible Portrayal of Addiction in System</title>
+        <dc:creator><![CDATA[@Jon]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jon">@Jon</a> wrote:</p>
+          <blockquote>
+              <p>I also like how Blades handles it. But that’s just one approach, and this amazing community has such smart people, I wanted to see what everyone thought. There have been some wonderful posts on this thread!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/38">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/38</link>
+        <pubDate>Sun, 19 May 2019 22:11:36 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2006-38</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006.rss">Responsible Portrayal of Addiction in System</source>
+      </item>
+      <item>
+        <title>Responsible Portrayal of Addiction in System</title>
+        <dc:creator><![CDATA[@Julian]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/julian">@Julian</a> wrote:</p>
+          <blockquote>
+              <p>I think the kind of game that has to worry about a responsible portrayal most (if even possible in that case) is one where addiction is used to heighten the experience somehow. I’m thinking about Delta Green here, where “disorders”, addiction being one of them, are used as part of a game mechanical downward spiral. Accrued due to stress they irrevocably break down parts of my character’s personality (taking away one of their motivations) and I have to manage them by taking penalties to tests or eating into my budget of bonds representing important personal relationships. Again, that might be trivializing the issue no matter how responsible the designer tries to be, so I’d want games like this to at least be clear about the fact that a real experience is being used that way and what to do if people are uncomfortable with it, how to replace it with something else for example.</p>
+<p>Both for the above and for games where it is more about representation and less about unrelated mechanical considerations, I find it helpful to include text expounding the “things that seem a given” from the OP. Lovecraftesque for example has an essay on “Mental Health and Lovecraft.”</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/37">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/37</link>
+        <pubDate>Sun, 19 May 2019 09:30:47 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2006-37</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006.rss">Responsible Portrayal of Addiction in System</source>
+      </item>
+      <item>
+        <title>Responsible Portrayal of Addiction in System</title>
+        <dc:creator><![CDATA[@badspeler]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/badspeler">@badspeler</a> wrote:</p>
+          <blockquote>
+              <p>My game Living Alchemy is expressly about playing deeply afflicted characters. Addict is associated with a dice pool that represents how well you cope with it.</p>
+<p>The game’s core mechanic allows you to use extra dice at the risk of triggering your affliction. Once your affliction is triggered, you need to satisfy it. In the case of addiction, that means indulging in it. I actually got the idea from <a href="https://www.youtube.com/watch?v=kI-BhQGwDO8" rel="nofollow noopener">Craig Ferguson talking about his experience with alcoholism</a>.</p>
+<p>In other words, addiction is a way of dealing with stress. Players are tempted to accrue a bunch of stress and deal with it through indulging in it. If they don’t have a reliable dealer, they’re in an incredibly rough spot. If an adversary becomes aware of their addiction, they may be in peril.</p>
+<p>The game never provides any way to get rid of your addiction. It’s something that is considered a part of your character that you simply need to learn to deal with.</p>
+<p>I’ve spent my whole life around people with psychological problems so I really tried to do it justice.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/36">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/36</link>
+        <pubDate>Sun, 19 May 2019 08:49:31 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2006-36</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006.rss">Responsible Portrayal of Addiction in System</source>
+      </item>
+      <item>
+        <title>Responsible Portrayal of Addiction in System</title>
+        <dc:creator><![CDATA[@MPA]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/mpa">@MPA</a> wrote:</p>
+          <blockquote>
+              <p>Absolutely. Maybe he will in the future?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/35">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/35</link>
+        <pubDate>Sun, 19 May 2019 00:10:12 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2006-35</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006.rss">Responsible Portrayal of Addiction in System</source>
+      </item>
+      <item>
+        <title>Responsible Portrayal of Addiction in System</title>
+        <dc:creator><![CDATA[@yoshi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/yoshi">@yoshi</a> wrote:</p>
+          <blockquote>
+              <p>Thank you for your response.</p>
+<p>It sounds like to me, you would suggest using the same method the creator of Godbound used for Madness.</p>
+<aside class="quote no-group quote-modified" data-post="30" data-topic="2006">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/letter_avatar_proxy/v3/letter/m/ee59a6/40.png" class="avatar"> MPA:</div>
+<blockquote>
+<p>players should discuss how this would affect the PC as someone they know may suffer from [addiction]</p>
+</blockquote>
+</aside>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/31">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/31</link>
+        <pubDate>Sat, 18 May 2019 19:45:49 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2006-31</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006.rss">Responsible Portrayal of Addiction in System</source>
+      </item>
+      <item>
+        <title>Responsible Portrayal of Addiction in System</title>
+        <dc:creator><![CDATA[@MPA]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/mpa">@MPA</a> wrote:</p>
+          <blockquote>
+              <p>I think that the creators have a responsibility to address the issue of co-dependency, because of the ramifications of their spells/psionics.</p>
+<p>As I said before, in Godbound the creator did address the godly power Madness. He stated that the GM and players should discuss how this would affect the PC as someone they know may suffer from mental illness.</p>
+<p>But nothing is said for the powers Desire or Intoxication.  If I may give you an excerpt for the divine power:</p>
+<p><em>Some powers induce or use drug addictions. An addict will perform</em><br>
+<em>any inoffensive act in exchange for their drug of choice, and</em><br>
+<em>lesser foes must save versus the worse of their Hardiness or Spirit</em><br>
+<em>saves to resist doing even very harmful or immoral acts in exchange</em><br>
+<em>for an offer of their craved substance.</em></p>
+<p>As conclusion, I would challenge GM’s to step in where the creator(s)  haven’t.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/30">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/30</link>
+        <pubDate>Sat, 18 May 2019 19:35:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2006-30</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006.rss">Responsible Portrayal of Addiction in System</source>
+      </item>
+      <item>
+        <title>Responsible Portrayal of Addiction in System</title>
+        <dc:creator><![CDATA[@yoshi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/yoshi">@yoshi</a> wrote:</p>
+          <blockquote>
+              <p>Whether you answer or not is up to you. I, would like to see your answer to the question posed in this topic.</p>
+<p>Your original response was flagged for carelessly addressing a sensitive subject that doesn’t belong in this discussion. The way you address, discuss, and bring in this sensitive topic was not appropriate for this conversation. It is possible that it could be included in a conversation about Responsible portrayal of Addiction in System, but your original response was not one of those ways. You have the ability to edit the post and re-release it from being temporarily hidden. If you would like to discuss more, please message me or anyone of the moderators and we can discuss it more away from this topic.</p>
+<p>We strive at the Gauntlet Forums to maintain a safe space. The flag system is one of those methods. It allows general users to flag individual posts. Moderators will review those flags and take action, even if that action is to ignore the flag and let the post stand on it’s own as is.</p>
+<p>Again my direct messages are open to you, or anyone if you would like to discuss this, but let’s return to the proposed topic of “Responsible Portrayal of Addiction in System”.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/29">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/29</link>
+        <pubDate>Sat, 18 May 2019 18:51:41 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2006-29</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006.rss">Responsible Portrayal of Addiction in System</source>
+      </item>
+      <item>
+        <title>Responsible Portrayal of Addiction in System</title>
+        <dc:creator><![CDATA[@MPA]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/mpa">@MPA</a> wrote:</p>
+          <blockquote>
+              <p>Well I don’t know if I want to answer now, since my comment was flagged as inappropriate.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/24</link>
+        <pubDate>Sat, 18 May 2019 01:36:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2006-24</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006.rss">Responsible Portrayal of Addiction in System</source>
+      </item>
+      <item>
+        <title>Responsible Portrayal of Addiction in System</title>
+        <dc:creator><![CDATA[@Stentor_Danielson]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/stentor_danielson">@Stentor_Danielson</a> wrote:</p>
+          <blockquote>
+              <p>I don’t have any good answers, but this is something I’m wrestling with in writing Get Ready 2 Rock. I don’t want to include addiction mechanics in the rules, because I don’t want to steer players toward that topic (because it’s meant to be a super goofy game). But at the same time, players are going to want to do that sometimes anyway, because drug and alcohol abuse are such a big part of our cultural narrative about rock stars. Including a “how to play with drugs and alcohol responsibly” section in the rulebook seems quite inadequate, since 90% of the people who play the game won’t have read the rulebook.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/23</link>
+        <pubDate>Fri, 17 May 2019 19:36:58 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2006-23</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006.rss">Responsible Portrayal of Addiction in System</source>
+      </item>
+      <item>
+        <title>Responsible Portrayal of Addiction in System</title>
+        <dc:creator><![CDATA[@Chad_Walker]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/chad_walker">@Chad_Walker</a> wrote:</p>
+          <blockquote>
+              <p>In Cryptomancer, drug addiction manifested in a single way. If you were addicted to “soma” (fantasy opiate), you’d have to make a roll to see if you could spend your downtime action. If you failed your role, you were likely using during that period, or looking for soma, or dealing with something soma-related (perhaps a friend was having troubles related to withdrawal or supply) and didn’t complete the task you thought you would.</p>
+<p>Addiction had zero impact on the “action” or “in the now” scenes and play… it was more about “when we went are seperate ways to execute on a plan, they didn’t follow through this time.” Whether that not following through was actually related to soma or just normal logistical failure, no one really knew.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/22</link>
+        <pubDate>Fri, 17 May 2019 15:28:49 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2006-22</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006.rss">Responsible Portrayal of Addiction in System</source>
+      </item>
+      <item>
+        <title>Responsible Portrayal of Addiction in System</title>
+        <dc:creator><![CDATA[@yoshi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/yoshi">@yoshi</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/mpa">@MPA</a>, I see that you are familiar with Godbound. You mention that you think the way this game handles several of the godly powers could lead to abuse. Since this topic is on “Responsible portrayal of Addiction in System”, and it looks like you don’t feel this game handles Addiction responsibly.</p>
+<aside class="quote no-group" data-post="1" data-topic="2006">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/jon/40/701_2.png" class="avatar"> Jon:</div>
+<blockquote>
+<p>How would you handle it responsibly?</p>
+</blockquote>
+</aside>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/21</link>
+        <pubDate>Thu, 16 May 2019 08:19:35 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2006-21</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006.rss">Responsible Portrayal of Addiction in System</source>
+      </item>
+      <item>
+        <title>Responsible Portrayal of Addiction in System</title>
+        <dc:creator><![CDATA[@MPA]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/mpa">@MPA</a> wrote:</p>
+          <blockquote>
+              <p>Hello.  I would like to start out that Godbound at least issues an opinion on one of it’s godly powers “Madness”.  They ask the GM and players to discuss the issues of mental health, if need be, with each other as some people maybe a diagnosis or know some who does.</p>
+<p>But the other godly power “Intoxication” carries no such opinion.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/20</link>
+        <pubDate>Wed, 15 May 2019 11:37:36 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2006-20</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006.rss">Responsible Portrayal of Addiction in System</source>
+      </item>
+      <item>
+        <title>Responsible Portrayal of Addiction in System</title>
+        <dc:creator><![CDATA[@William_Nichols]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/william_nichols">@William_Nichols</a> wrote:</p>
+          <blockquote>
+              <p>I really am a fan of how Blades handles it. The Vices start off as ignorable but, as Trauma grows, you really stop being able to ignore them.</p>
+<p>I like that a lot:</p>
+<ul>
+<li>It escalates, and does so almost invisibly to the character.</li>
+<li>It starts as a mere “vice”, which we all have.</li>
+<li>It is used to blow off steam, which is likely healthy! But, overdoing it is bad.</li>
+</ul>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/19</link>
+        <pubDate>Tue, 14 May 2019 14:45:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2006-19</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006.rss">Responsible Portrayal of Addiction in System</source>
+      </item>
+      <item>
+        <title>Responsible Portrayal of Addiction in System</title>
+        <dc:creator><![CDATA[@shane]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/shane">@shane</a> wrote:</p>
+          <blockquote>
+              <p>IIRC the Infernal playbook in Monsterhearts is for the most part about addiction?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/18</link>
+        <pubDate>Mon, 13 May 2019 23:35:17 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2006-18</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006.rss">Responsible Portrayal of Addiction in System</source>
+      </item>
+      <item>
+        <title>Responsible Portrayal of Addiction in System</title>
+        <dc:creator><![CDATA[@Michael]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/michael">@Michael</a> wrote:</p>
+          <blockquote>
+              <p>I think this depends on the goals of the system.  For a game about a party of player characters that mostly collaborate toward an external goal (but go through some character development along the way) I think Blades does it pretty well.  The use of Fate compels people describe above makes sense to me, too.  In both instances. addiction is a source of complications that impact (without distracting from) the thing the game is mostly about.  Vices matter in Blades because stress is an important part of your ability to complete scores, and overindulging might mess up your standing with contacts (who you need to complete scores).</p>
+<aside class="quote no-group" data-post="1" data-topic="2006">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/jon/40/701_2.png" class="avatar"> Jon:</div>
+<blockquote>
+<p>Imagine a PbtA game with an “Addict” playbook or an addiction move,</p>
+</blockquote>
+</aside>
+<p>Here it sounds like you are considering designs where addiction would be a more significant focus of play.  I would say this only makes sense to do if your game is primarily about character development and relationships, because giving a topic like this nuance requires committing a lot of air time to it.<br>
+Also, addiction and recovery have a strong component of inner struggle and I think relatively few games handle inner conflict well.  <a href="https://forums.gauntlet-rpg.com/t/systems-that-drive-toward-inner-conflict/864">[Here’s a thread on the topic.]</a></p>
+<p>Using systems that have the tools to make inner conflict an interesting component of play, here are two ways I think you could do it:</p>
+<p><strong>Example 1:</strong><br>
+Dogs in the Vineyard Initiation, where the challenge the would-be Dog is facing is addiction.  The player scripts the conflict as the version of themselves who is able to get clean.  The GM plays out all the internal and external challenges to doing so.</p>
+<p>Each time the GM pushes forward a die, they say something like:</p>
+<ul>
+<li>You find a bottle of whiskey when cleaning up an old camp site.  No one else is around and they don’t expect you back for a couple of hours.</li>
+<li>Things are going well, which only heightens your anxiety.  You know deep down it’s only a matter of time until you blow it.</li>
+<li>You’re into a another initiate who grew up apostates, he admits that he has a bottle of bitter church wine stowed in his pack.  He wants to give it up and come clean, but he’s worried he’ll lose his shot at becoming a Dog.</li>
+</ul>
+<p><strong>Example 2:</strong><br>
+The Burning Wheel, where a player character has a belief about addiction.  “I have become a drunk, and I failed my queen; it cannot happen again.”</p>
+<p>The GM introduces NPCs and situations that challenge that belief and test its limits:</p>
+<ul>
+<li>Introduce a rival who drinks too much, but has avoided the consequences (from luck or the strength of their name).</li>
+<li>Introduce situations with intense social pressure to drink, a diplomatic dinner or long sea journey.</li>
+<li>If the player character drinks, their actions push a relationship with someone they rely on to a breaking point.</li>
+<li>If they sober up, they still face judgement from others.  Some friendly NPCs go cold, others act condescending or start to pry.</li>
+<li>Fallout from past mistakes causes economic hardship.</li>
+<li>Introduce an NPC that they need help from now, but have wronged in the past.</li>
+<li>They make a small mistake, unrelated to their addiction, and others assume the worst.</li>
+<li>Give them a reason to need privacy or trust (an important piece of intrigue, for example) and then have the people around them read their secrecy as evidence of a relapse.</li>
+</ul>
+<p>I think it would take a lot of buy-in and agreement about expectations to have either of these play out smoothly, perhaps especially the Burning Wheel example, because of the prolonged focus on a difficult topic.</p>
+<p>Another reason I included extended examples was to make a point (and clarify it for myself).  If you are dealing with topic like addiction in detail, it makes sense to me to not make it a numeric system about manipulating your odds of success (+1/-1 to a stat, etc).  Instead, it can frame the stakes of your character’s decisions and the consequences of your actions.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/17</link>
+        <pubDate>Mon, 13 May 2019 21:21:28 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2006-17</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006.rss">Responsible Portrayal of Addiction in System</source>
+      </item>
+      <item>
+        <title>Responsible Portrayal of Addiction in System</title>
+        <dc:creator><![CDATA[@Haladir]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/haladir">@Haladir</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="14" data-topic="2006" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="/user_avatar/forums.gauntlet-rpg.com/shane/40/186_2.png" class="avatar"> shane:</div>
+<blockquote>
+<p>Yeah… That is a part of Fate I have always felt uncomfortable about. (It feels like a warped (in the favor of the GM) consent mechanic…)</p>
+</blockquote>
+</aside>
+<p>The Fate point mechanic can get a little tricky. I found that it took a fair amount of practice as a Fate GM before you get it right. In Fate, all PC Aspects were defined by the player, and are effectively telling the GM how they want their character to interact with the narrative. So, if you’ve defined your character’s Trouble aspect as “Heavy drinker”, then you are telling your GM that you <em>want</em> alcohol to be a complicating factor in your character’s story. You should then expect the GM to offer you a Fate point to, say, be too drunk to drive when you leave the bar.</p>
+<p>That said, unless the game itself is about addiction, I would shy away from setting mechanics around it. Addiction is a medical condition, not a vice. I’m fine with mechanics around a character’s vices (e.g. “When you’re intoxicated, take a -2 penalty,”) but not so much with medical conditions.</p>
+<p>I’ve seen addiction mechanics in games where the rules feel bolted-on and weren’t well thought through. Such mechanics don’t seem to have a lot of respect for people in the real world that struggle with addiction. (I’m looking at you, <em>Pathfinder.</em>)</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/16</link>
+        <pubDate>Sun, 12 May 2019 20:53:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2006-16</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006.rss">Responsible Portrayal of Addiction in System</source>
+      </item>
+      <item>
+        <title>Responsible Portrayal of Addiction in System</title>
+        <dc:creator><![CDATA[@SabineV5]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/sabinev5">@SabineV5</a> wrote:</p>
+          <blockquote>
+              <p>The player always has to consent that a compel is fair, though. If you think that compel is unfairly prescribing something that you wouldn’t want as a difficulty in the game, you should step out and explain why this is not what the aspect was supposed to be about, and then the GM should withdraw the compel.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/15</link>
+        <pubDate>Sun, 12 May 2019 20:51:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2006-15</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006.rss">Responsible Portrayal of Addiction in System</source>
+      </item>
+      <item>
+        <title>Responsible Portrayal of Addiction in System</title>
+        <dc:creator><![CDATA[@shane]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/shane">@shane</a> wrote:</p>
+          <blockquote>
+              <p>Yeah… That is a part of Fate I have always felt uncomfortable about. (It feels like a warped (in the favor of the GM) consent mechanic…)</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/14</link>
+        <pubDate>Sun, 12 May 2019 18:45:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2006-14</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006.rss">Responsible Portrayal of Addiction in System</source>
+      </item>
+      <item>
+        <title>Responsible Portrayal of Addiction in System</title>
+        <dc:creator><![CDATA[@Jon]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jon">@Jon</a> wrote:</p>
+          <blockquote>
+              <p>You spend 1 fate point to do so, but you get to narrate how your character awesomely avoids the harm or cost.  So in the example, you could have your character drink but call the contact and change the meet time, or make a healthy decision for once, or something.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006/13</link>
+        <pubDate>Sun, 12 May 2019 18:42:01 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2006-13</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/responsible-portrayal-of-addiction-in-system/2006.rss">Responsible Portrayal of Addiction in System</source>
+      </item>
+  </channel>
+</rss>

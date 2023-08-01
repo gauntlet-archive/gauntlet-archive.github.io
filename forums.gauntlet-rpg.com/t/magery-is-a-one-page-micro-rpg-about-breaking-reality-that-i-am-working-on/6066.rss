@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Magery is a one-page micro rpg about breaking reality that I am working on</title>
+    <link>https://forums.gauntlet-rpg.com/t/magery-is-a-one-page-micro-rpg-about-breaking-reality-that-i-am-working-on/6066</link>
+    <description>Magery (v0.3.2 as of this post):
+https://docs.google.com/spreadsheets/d/1PwMlFnw8zSBvFUmXSiPVaxVliF5Skb_OFw6NACSV9TI/
+
+Some design pillars:
+* Extraordinary power with extreme cost
+* Always succeed; focus on mitigating the consequences
+* Quick to play; quick to make a character
+* Flexible magic system based on Mage
+* Dangerous; surviving even one session is an accomplishment
+
+You&#39;ll see the &quot;best&quot; route is to behave prudently, avoiding using your powers.  Or, you can go all-out, tearing reality and yourself apart.  Maybe that&#39;s better? ;)
+
+There&#39;s some rough notes in another tab where I muse over what might change with the next version.  I&#39;m pretty sure this would benefit from a 2nd, GM-facing page.
+
+I&#39;d love to hear any feedback!
+Also, hello!  I just got here :slight_smile:</description>
+    
+    <lastBuildDate>Sat, 14 Nov 2020 08:23:26 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/magery-is-a-one-page-micro-rpg-about-breaking-reality-that-i-am-working-on/6066.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Magery is a one-page micro rpg about breaking reality that I am working on</title>
+        <dc:creator><![CDATA[@Rickard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rickard">@Rickard</a> wrote:</p>
+          <blockquote>
+              <blockquote>
+<p>This is high praise! But also, Lady Blackbird is 14x bigger than this rpg so it’s an odd comparison.</p>
+</blockquote>
+<p>Do note that I wrote <em>character sheet</em>. If you look at the character sheet alone for Lady Blackbird, you wouldn’t understand how to play the game. You would know how to go through with a challenge (based on the knowledge a roleplaying gamer would have), and somewhat to strive for as a character, but not how to actually play the game.</p>
+<p>Looking forward to see the second page. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/magery-is-a-one-page-micro-rpg-about-breaking-reality-that-i-am-working-on/6066/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/magery-is-a-one-page-micro-rpg-about-breaking-reality-that-i-am-working-on/6066/8</link>
+        <pubDate>Sat, 14 Nov 2020 08:23:26 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6066-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/magery-is-a-one-page-micro-rpg-about-breaking-reality-that-i-am-working-on/6066.rss">Magery is a one-page micro rpg about breaking reality that I am working on</source>
+      </item>
+      <item>
+        <title>Magery is a one-page micro rpg about breaking reality that I am working on</title>
+        <dc:creator><![CDATA[@dontnormally]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dontnormally">@dontnormally</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="Alun_R" data-post="6" data-topic="6066" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/alun_r/40/1473_2.png" class="avatar"> Alun_R:</div>
+<blockquote>
+<p>I am not familiar with Mage so can’t comment on genre-emulation, but in terms of clarity I’d move the info about ‘if you’re not using magic or doing difficult stuff, you just succeed’ up to the top of ‘Resolving Actions’ section … that’s a really important thing to know from the off.</p>
+</blockquote>
+</aside>
+<p>This is a great suggestion, easily actionable.  I agree that’d be a good  move!</p>
+<aside class="quote no-group" data-username="Alun_R" data-post="6" data-topic="6066" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/alun_r/40/1473_2.png" class="avatar"> Alun_R:</div>
+<blockquote>
+<p>I’m also curious about the use of d4 … I hate the feel of them in my hand and they don’t really ‘roll’, they just ‘land’. Outcomes seem driven by odd vs even so could I use d6’s? Or is there something in the economy that requires a limit of 4 in outcomes?</p>
+</blockquote>
+</aside>
+<p>The reason for using d4 (other than novelty) is so 1s are 25% chance of being rolled and make up 50% of the “positive” rolls.  1s are different when doing Sphere magic; when you are doing Sphere magic 1s play a big part in the Stress/Paradox economy.  Since Odds are counted to determine what sort of success you get (with or without complication or disaster), removing a 1 effects the outcome.  At the same time, keeping 1s results in Paradox.</p>
+<p>Thanks for the feedback!  And the reminder that I never replied to <a class="mention" href="/u/dereel">@DeReel</a> (hi DeReel, I’m going to reply to you next)</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/magery-is-a-one-page-micro-rpg-about-breaking-reality-that-i-am-working-on/6066/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/magery-is-a-one-page-micro-rpg-about-breaking-reality-that-i-am-working-on/6066/7</link>
+        <pubDate>Thu, 12 Nov 2020 14:27:00 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6066-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/magery-is-a-one-page-micro-rpg-about-breaking-reality-that-i-am-working-on/6066.rss">Magery is a one-page micro rpg about breaking reality that I am working on</source>
+      </item>
+      <item>
+        <title>Magery is a one-page micro rpg about breaking reality that I am working on</title>
+        <dc:creator><![CDATA[@Alun_R]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alun_r">@Alun_R</a> wrote:</p>
+          <blockquote>
+              <p>I am not familiar with Mage so can’t comment on genre-emulation, but in terms of clarity I’d move the info about ‘if you’re not using magic or doing difficult stuff, you just succeed’ up to the top of ‘Resolving Actions’ section … that’s a really important thing to know from the off.</p>
+<p>I’m also curious about the use of d4 … I hate the feel of them in my hand and they don’t really ‘roll’, they just ‘land’.  Outcomes seem driven by odd vs even so could I use d6’s? Or is there something in the economy that requires a limit of 4 in outcomes?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/magery-is-a-one-page-micro-rpg-about-breaking-reality-that-i-am-working-on/6066/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/magery-is-a-one-page-micro-rpg-about-breaking-reality-that-i-am-working-on/6066/6</link>
+        <pubDate>Thu, 12 Nov 2020 13:32:04 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6066-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/magery-is-a-one-page-micro-rpg-about-breaking-reality-that-i-am-working-on/6066.rss">Magery is a one-page micro rpg about breaking reality that I am working on</source>
+      </item>
+      <item>
+        <title>Magery is a one-page micro rpg about breaking reality that I am working on</title>
+        <dc:creator><![CDATA[@dontnormally]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dontnormally">@dontnormally</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="Rickard" data-post="3" data-topic="6066">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/rickard/40/2924_2.png" class="avatar"> Rickard:</div>
+<blockquote>
+<p>The page is, to me, basically a character generation system together with a resolution system.</p>
+</blockquote>
+</aside>
+<p>You’re not wrong!  That is indeed what is on the page.  If you’re familiar with Mage: The Ascension, this is probably enough for you go with.  If you’re not, you may need some additional material, such as the planned / in progress GM-facing 2nd page.</p>
+<aside class="quote no-group" data-username="Rickard" data-post="3" data-topic="6066">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/rickard/40/2924_2.png" class="avatar"> Rickard:</div>
+<blockquote>
+<p>I’m missing the whole process of how the game should be played, and what kind of world it is. Nothing of this is explained.</p>
+</blockquote>
+</aside>
+<p>I hear you, though I think there may be more woven into the mechanics than is apparent at first glance (at least I hope so):</p>
+<p>In the resolution phase, you have:</p>
+<aside class="quote no-group">
+<blockquote>
+<ul>
+<li>Odd &gt; Even:  Success.  Player describes exactly what happens.</li>
+<li>Odd = Even:  Success + Complication.  GM describes exactly what happens.</li>
+<li>Odd &lt; Even:  Success + Disaster.  Player describes exactly what happens.</li>
+</ul>
+</blockquote>
+</aside>
+<p>Under <em>all</em> circumstances, the player Succeeds at what they want to do.</p>
+<p>Under <em>most</em> circumstances, notably during Disaster, the player still has complete control over describing <em>exactly</em> what happens.</p>
+<p>Under <em>all</em> circumstances, the player gets to decide between what sort of Success they have by manipulating the results of their roll (reality) and adjusting their consequences.</p>
+<p>And that’s the theme - you have complete control over what happens but only limited ability to mitigate the consequences.</p>
+<p>You have control over reality.</p>
+<aside class="quote no-group" data-username="Rickard" data-post="3" data-topic="6066">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/rickard/40/2924_2.png" class="avatar"> Rickard:</div>
+<blockquote>
+<p>Your game reminds me of the character sheet to <a href="https://ladyblackbird.org/" rel="nofollow noopener">Lady Blackbird </a>.</p>
+</blockquote>
+</aside>
+<p>This is high praise!  But also, Lady Blackbird is 14x bigger than this rpg so it’s an odd comparison.  Something more in the same scale to compare it to would be Lasers and Feelings: <a href="http://onesevendesign.com/lasers_and_feelings_rpg.pdf" rel="nofollow noopener">http://onesevendesign.com/lasers_and_feelings_rpg.pdf</a></p>
+<hr>
+<p>Thanks for the feedback!  I hope the 2nd page addresses all of your points; I’ll certainly be keeping them in mind while I make it. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>edit:</p>
+<aside class="quote no-group" data-username="Rickard" data-post="3" data-topic="6066">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/rickard/40/2924_2.png" class="avatar"> Rickard:</div>
+<blockquote>
+<p>Look at, for example, <a href="http://nickwedig.libraryofhighmoon.com/2011/03/fortune-cookies-and-nuclear-war/" rel="nofollow noopener">Fortune Cookies and Nuclear War </a> and how it conveys the whole structure of play with enough text that fits on a business card. It also gives a backdrop, and something to relate to. It clearly states all the roles for the participants in the game and how they should act.</p>
+</blockquote>
+</aside>
+<p>I had never heard of this and it is a wonderful example, thanks for linking it!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/magery-is-a-one-page-micro-rpg-about-breaking-reality-that-i-am-working-on/6066/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/magery-is-a-one-page-micro-rpg-about-breaking-reality-that-i-am-working-on/6066/5</link>
+        <pubDate>Sun, 08 Nov 2020 18:44:18 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6066-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/magery-is-a-one-page-micro-rpg-about-breaking-reality-that-i-am-working-on/6066.rss">Magery is a one-page micro rpg about breaking reality that I am working on</source>
+      </item>
+      <item>
+        <title>Magery is a one-page micro rpg about breaking reality that I am working on</title>
+        <dc:creator><![CDATA[@Rickard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rickard">@Rickard</a> wrote:</p>
+          <blockquote>
+              <p>The page is, to me, basically a character generation system together with a resolution system.</p>
+<p>I’m missing the whole process of how the game should be played, and what kind of world it is. Nothing of this is explained.</p>
+<p>Look at, for example, <a href="http://nickwedig.libraryofhighmoon.com/2011/03/fortune-cookies-and-nuclear-war/" data-bbcode="true" rel="nofollow noopener">Fortune Cookies and Nuclear War</a> and how it conveys the whole structure of play with enough text that fits on a business card. It also gives a backdrop, and something to relate to. It clearly states all the roles for the participants in the game and how they should act.</p>
+<p>Your game reminds me of the character sheet to <a href="https://ladyblackbird.org/" data-bbcode="true" rel="nofollow noopener">Lady Blackbird</a>.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/magery-is-a-one-page-micro-rpg-about-breaking-reality-that-i-am-working-on/6066/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/magery-is-a-one-page-micro-rpg-about-breaking-reality-that-i-am-working-on/6066/3</link>
+        <pubDate>Sun, 08 Nov 2020 09:52:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6066-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/magery-is-a-one-page-micro-rpg-about-breaking-reality-that-i-am-working-on/6066.rss">Magery is a one-page micro rpg about breaking reality that I am working on</source>
+      </item>
+      <item>
+        <title>Magery is a one-page micro rpg about breaking reality that I am working on</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>Hello,<br>
+And welcome to the Gauntlet.<br>
+Like you I enjoy Mage simplification of Ars Magica semi-linguistic approach to magic. Your game is clear and concise and it does light the old Mage fire in me. Also, the “gather a powerful pool then try to cheat the consequences” approach is clever !<br>
+I’ll point at some things that could be better :</p>
+<ul>
+<li>font : for those who don’t have a place for Mage in their hearts, a nice font will help bring fantastic imagery back from the cave of dreams.</li>
+<li>thesaurus : for each stat, you give various words. That’s how oral works : addition, correction, hint by hint, shaping the conceptual dough. But for a reference document, it creates all kinds of quirks. If I act with “authority, intensity, unwavering focus” which Attribute do I pick ? I know you worked on precision and concision and it shows in that all your writing is very neat. I also guess that you changed the words many times. And you know what ? I think you can do more with less effort. If you define the stats <em>core</em> rather than the stats <em>field</em>, you leave fringe case interpretation to the players, and that’s fine. I believe your audience already knows what they have to do there. It’s not like they aren’t going to roll with their best stat anyway <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/stuck_out_tongue_winking_eye.png?v=9" title=":stuck_out_tongue_winking_eye:" class="emoji" alt=":stuck_out_tongue_winking_eye:">
+</li>
+<li>That’s rather taste than mechanic, but here is : for the outcome, I’d make it a Question and an Answer rather than a Tell. Like : “You get the orb, but the road traffic situation becomes apocalyptic. What major collision is underway ?” Speaking of which, I’d keep the outcome table redacted in “you” rather than “player”, as in “You get to ask how it happens”.</li>
+<li>Paradox roll seems very harsh, counter-intuitively so. With 1 paradox point I have 50/50 chance of being  teared down, while more paradox acts as a buffer. Why not drop the odd/even thing here ? Rolling one die over the paradox gauge seems simple enough.</li>
+<li>Using Order, the sentence “remove both a 4 and a 1” is clear but not foolproof.</li>
+<li>modifications to the rolls before result : until you explain what they do in action they look arbitrary. I’d say that mechanic needs a knob for the player to grasp. But I see it’s part of v0.4 already.</li>
+<li>metaphysics : maybe the openness to interpretation of the spheres system is bound to produce this, but I have a totally different order for the Spheres, scavenged from  gnosis, kaballah and all the Gaiman / Moore metaphysic fiction. The Path are perfect, only for me it goes like this : Shadow is not a veil, it’s the <em>Source</em> (1) of reality. Fabric is the mold where Reality is injected (2). Then it takes form and consciousness still hot from the mold. Mage states that Life and Mind are fluid, <em>Dynamic</em> (3) systems (“free quintessence”) while Forces, and Matter even more, are Static (4). A materialist view would put Static as the “realer” thing and Fabric as the last step (a framework for human consciousness, <em>a la</em> Kant). Only I don’t see what a materialist view would be doing anywhere near Mage magic system <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"> I don’t mean to say that my vision is correct, only that there will be conflicting interpretations. The solution I think is what they did in Mage : to make a very abstract / general diagram of how it works. Or maybe “paths/spheres still confuses some folks” can be a good thing, the game being a pretext to start metaphysical debates.</li>
+</ul>
+<p>Of course, all this is said to engage with an attractive work, not to attack a faulty one.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/magery-is-a-one-page-micro-rpg-about-breaking-reality-that-i-am-working-on/6066/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/magery-is-a-one-page-micro-rpg-about-breaking-reality-that-i-am-working-on/6066/2</link>
+        <pubDate>Sun, 08 Nov 2020 09:24:36 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6066-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/magery-is-a-one-page-micro-rpg-about-breaking-reality-that-i-am-working-on/6066.rss">Magery is a one-page micro rpg about breaking reality that I am working on</source>
+      </item>
+      <item>
+        <title>Magery is a one-page micro rpg about breaking reality that I am working on</title>
+        <dc:creator><![CDATA[@dontnormally]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dontnormally">@dontnormally</a> wrote:</p>
+          <blockquote>
+              <p>Magery (v0.3.2 as of this post):<br>
+<aside class="onebox googledocs">
+  <header class="source">
+      <a href="https://docs.google.com/spreadsheets/d/1PwMlFnw8zSBvFUmXSiPVaxVliF5Skb_OFw6NACSV9TI/edit" target="_blank" rel="nofollow noopener">docs.google.com</a>
+  </header>
+  <article class="onebox-body">
+    <a href="https://docs.google.com/spreadsheets/d/1PwMlFnw8zSBvFUmXSiPVaxVliF5Skb_OFw6NACSV9TI/edit" target="_blank" rel="nofollow noopener"><span class="googledocs-onebox-logo g-sheets-logo"></span></a>
+
+<h3><a href="https://docs.google.com/spreadsheets/d/1PwMlFnw8zSBvFUmXSiPVaxVliF5Skb_OFw6NACSV9TI/edit" target="_blank" rel="nofollow noopener">magery</a></h3>
+
+<p>magery v0.3.2 (current)
+
+
+magery,0.3.2,Name:
+Reality is a malleable construct 
+built by a sea of competing 
+Paradigms and held together,Stress:
+with the Consensus of the
+Sleepers who stumble through it.,Attributes:
+O,O,Grace
+You are a Mager and you...</p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+<p>Some design pillars:</p>
+<ul>
+<li>Extraordinary power with extreme cost</li>
+<li>Always succeed; focus on mitigating the consequences</li>
+<li>Quick to play; quick to make a character</li>
+<li>Flexible magic system based on Mage</li>
+<li>Dangerous; surviving even one session is an accomplishment</li>
+</ul>
+<p>You’ll see the “best” route is to behave prudently, avoiding using your powers.  Or, you can go all-out, tearing reality and yourself apart.  Maybe that’s better? <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"></p>
+<p>There’s some rough notes in another tab where I muse over what might change with the next version.  I’m pretty sure this would benefit from a 2nd, GM-facing page.</p>
+<p>I’d love to hear any feedback!<br>
+Also, hello!  I just got here <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/magery-is-a-one-page-micro-rpg-about-breaking-reality-that-i-am-working-on/6066/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/magery-is-a-one-page-micro-rpg-about-breaking-reality-that-i-am-working-on/6066/1</link>
+        <pubDate>Sun, 08 Nov 2020 06:29:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6066-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/magery-is-a-one-page-micro-rpg-about-breaking-reality-that-i-am-working-on/6066.rss">Magery is a one-page micro rpg about breaking reality that I am working on</source>
+      </item>
+  </channel>
+</rss>

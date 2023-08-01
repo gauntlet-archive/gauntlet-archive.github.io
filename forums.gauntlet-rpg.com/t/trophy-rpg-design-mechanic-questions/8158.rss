@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Trophy RPG design / mechanic questions</title>
+    <link>https://forums.gauntlet-rpg.com/t/trophy-rpg-design-mechanic-questions/8158</link>
+    <description>Hello all, 
+
+First off, I&#39;ve been a lurker here for a short while and am a huge fan of the things the Gauntlet community do; in particular, I&#39;m very interested in Trophy RPG.
+
+I have a few questions about Trophy and I apologise in advance if these have already been asked –– I did my best to search for the answers myself (both here on the forum and via Google / Reddit) but haven&#39;t been able to find anything.
+
+In terms of mechanics, I&#39;d like to know: when rolling a dark die and a light die, where they both roll the same result (e.g. 4) what happens in terms of resolution? Does the person re-roll or does one die take precedence over the other? 
+
+Regarding design: I am thinking of possibly creating some Trophy resources and wondered what fonts are used in the Trophy Dark, Loom and Gold books? (I checked the SRD and Design documents as well as the books themselves but I couldn&#39;t find any reference to fonts used).
+
+Finally, I&#39;m trying to set out (in a way that makes sense in my mind) how the flow of gameplay works, and have written down a few steps –– am I on the right track here? (I&#39;ve watched a few gameplay videos on YouTube from the community to help me get a sense of how the game operates).
+
+![Trophy RPG|552x500](upload://coCQSKVVOslSmJpN6NN1mjRQP6P.png) 
+
+I&#39;ll replicate in text form, too, just in case the image above doesn&#39;t work: 
+
+* 1. Create character;
+* 2. Embark on incursion
+* 3. Explore the world (triggering a Hunt Roll or Risk Roll, if the action is perilous?)
+* 4. Possibility for a Combat or Risk Roll arising from the Hunt Roll
+* 5. Resolve the rolls (updating tokens and ruin as necessary)
+* 6. Complete Set goal (progress to next Set)
+* 7. Repeat 3. - 6. for each Set
+* 8. Conclusion / Epilogue
+
+
+Thanks for reading / any help with these questions! :slight_smile:</description>
+    
+    <lastBuildDate>Wed, 22 Jun 2022 16:01:35 +0000</lastBuildDate>
+    <category>RPG Chat</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/trophy-rpg-design-mechanic-questions/8158.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Trophy RPG design / mechanic questions</title>
+        <dc:creator><![CDATA[@jesseross]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jesseross">@jesseross</a> wrote:</p>
+          <blockquote>
+              <p>Yep! There will be more contests in the future. I’m not sure when yet, but when we announce the next one, we’ll make sure to share it far and wide so you don’t miss it.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/trophy-rpg-design-mechanic-questions/8158/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/trophy-rpg-design-mechanic-questions/8158/7</link>
+        <pubDate>Wed, 22 Jun 2022 16:01:35 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8158-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/trophy-rpg-design-mechanic-questions/8158.rss">Trophy RPG design / mechanic questions</source>
+      </item>
+      <item>
+        <title>Trophy RPG design / mechanic questions</title>
+        <dc:creator><![CDATA[@Kiltia]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/kiltia">@Kiltia</a> wrote:</p>
+          <blockquote>
+              <p>Hi Jesse,</p>
+<p>Thank you so much for this!</p>
+<p>I can’t believe I missed that very clearly marked ‘Forest’s Rule’! <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/man_facepalming.png?v=9" title=":man_facepalming:" class="emoji" alt=":man_facepalming:"> So sorry for not reading the text closely enough! And thank you very much for the font list, that’s really helpful!</p>
+<p>Glad the flow works in terms of Gold –– I’ll have to do an alternative version for Trophy Dark.</p>
+<p>Just as an aside, are there plans to do more Trophy contests in the future? I’ve come to the game rather late in the day so I think I missed the earlier ones.</p>
+<p>Thanks for your time!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/trophy-rpg-design-mechanic-questions/8158/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/trophy-rpg-design-mechanic-questions/8158/6</link>
+        <pubDate>Wed, 22 Jun 2022 15:37:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8158-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/trophy-rpg-design-mechanic-questions/8158.rss">Trophy RPG design / mechanic questions</source>
+      </item>
+      <item>
+        <title>Trophy RPG design / mechanic questions</title>
+        <dc:creator><![CDATA[@jesseross]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jesseross">@jesseross</a> wrote:</p>
+          <blockquote>
+              <p>Hey Kiltia!</p>
+<p>When a dark die and a light die tie, the dark die is considered the highest. You can find this on page 16 in Trophy Dark and page 15 in Trophy Gold.</p>
+<p>In terms of fonts, the main body font is Garamond Premier Pro (usually Medium Caption size) available from Adobe. The subheadlines use the font <a href="https://www.myfonts.com/fonts/cdtype/dual/" rel="nofollow noopener">Dual</a>, and the headlines use a custom font based on the font <a href="https://creativemarket.com/Twinbrush/5048533-Candelabra-Font-Extras" rel="nofollow noopener">Candelabra</a>. The dice font is also custom, but I’d suggest <a href="https://speakthesky.itch.io/typeface-dicier" rel="nofollow noopener">Dicier</a> as a replacement.</p>
+<p>And in terms of your flow, yep, that looks right to me for Trophy Gold – Trophy Dark would be a bit different due to the rings and one-shot nature of the game.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/trophy-rpg-design-mechanic-questions/8158/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/trophy-rpg-design-mechanic-questions/8158/5</link>
+        <pubDate>Wed, 22 Jun 2022 14:34:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8158-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/trophy-rpg-design-mechanic-questions/8158.rss">Trophy RPG design / mechanic questions</source>
+      </item>
+      <item>
+        <title>Trophy RPG design / mechanic questions</title>
+        <dc:creator><![CDATA[@Kiltia]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/kiltia">@Kiltia</a> wrote:</p>
+          <blockquote>
+              <p>Thank you for this! I’ll have to check out the Discord server.</p>
+<p>I think I might have found the font used for the body text: Looks like <a href="https://fonts.google.com/specimen/EB+Garamond" rel="nofollow noopener">EB Garamond</a> (possibly medium type face) to me?</p>
+<p>As for the dice, possibly the <a href="https://speakthesky.itch.io/typeface-dicier" rel="nofollow noopener">Dicer font</a> by Speak the Sky or the dice images from <a href="https://game-icons.net/tags/dice.html" rel="nofollow noopener">Game-icons.net</a>?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/trophy-rpg-design-mechanic-questions/8158/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/trophy-rpg-design-mechanic-questions/8158/4</link>
+        <pubDate>Mon, 20 Jun 2022 10:57:27 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8158-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/trophy-rpg-design-mechanic-questions/8158.rss">Trophy RPG design / mechanic questions</source>
+      </item>
+      <item>
+        <title>Trophy RPG design / mechanic questions</title>
+        <dc:creator><![CDATA[@Sandy]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/sandy">@Sandy</a> wrote:</p>
+          <blockquote>
+              <p>I reckon someone will be able to answer these here, but you might also try the Trophy Discord server, which is pretty active - <a href="https://discord.gg/eFBR2Vg" rel="nofollow noopener">https://discord.gg/eFBR2Vg</a></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/trophy-rpg-design-mechanic-questions/8158/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/trophy-rpg-design-mechanic-questions/8158/3</link>
+        <pubDate>Mon, 20 Jun 2022 06:01:51 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8158-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/trophy-rpg-design-mechanic-questions/8158.rss">Trophy RPG design / mechanic questions</source>
+      </item>
+      <item>
+        <title>Trophy RPG design / mechanic questions</title>
+        <dc:creator><![CDATA[@Kiltia]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/kiltia">@Kiltia</a> wrote:</p>
+          <blockquote>
+              <p>Just for context, here’s a sample of the sort of content I’m thinking of creating (this is a very rough draft / unfinished, as you can probably tell!):</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/c/cd767474020bcc8f3358a21d667c271d3b024876.jpeg" data-download-href="/uploads/short-url/tjBFx2dw8O6vLEAKcznvO90zUs6.jpeg?dl=1" title="Relic-Blood" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/c/cd767474020bcc8f3358a21d667c271d3b024876_2_500x500.jpeg" alt="Relic-Blood" data-base62-sha1="tjBFx2dw8O6vLEAKcznvO90zUs6" width="500" height="500" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/c/cd767474020bcc8f3358a21d667c271d3b024876_2_500x500.jpeg, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/c/cd767474020bcc8f3358a21d667c271d3b024876_2_750x750.jpeg 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/c/cd767474020bcc8f3358a21d667c271d3b024876_2_1000x1000.jpeg 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/c/cd767474020bcc8f3358a21d667c271d3b024876_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Relic-Blood</span><span class="informations">1425×1425 353 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/trophy-rpg-design-mechanic-questions/8158/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/trophy-rpg-design-mechanic-questions/8158/2</link>
+        <pubDate>Sun, 19 Jun 2022 21:55:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8158-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/trophy-rpg-design-mechanic-questions/8158.rss">Trophy RPG design / mechanic questions</source>
+      </item>
+      <item>
+        <title>Trophy RPG design / mechanic questions</title>
+        <dc:creator><![CDATA[@Kiltia]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/kiltia">@Kiltia</a> wrote:</p>
+          <blockquote>
+              <p>Hello all,</p>
+<p>First off, I’ve been a lurker here for a short while and am a huge fan of the things the Gauntlet community do; in particular, I’m very interested in Trophy RPG.</p>
+<p>I have a few questions about Trophy and I apologise in advance if these have already been asked –– I did my best to search for the answers myself (both here on the forum and via Google / Reddit) but haven’t been able to find anything.</p>
+<p>In terms of mechanics, I’d like to know: when rolling a dark die and a light die, where they both roll the same result (e.g. 4) what happens in terms of resolution? Does the person re-roll or does one die take precedence over the other?</p>
+<p>Regarding design: I am thinking of possibly creating some Trophy resources and wondered what fonts are used in the Trophy Dark, Loom and Gold books? (I checked the SRD and Design documents as well as the books themselves but I couldn’t find any reference to fonts used).</p>
+<p>Finally, I’m trying to set out (in a way that makes sense in my mind) how the flow of gameplay works, and have written down a few steps –– am I on the right track here? (I’ve watched a few gameplay videos on YouTube from the community to help me get a sense of how the game operates).</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/5/56e2bdb69319fed6864b901ab035b1198fb4d2c3.png" data-download-href="/uploads/short-url/coCQSKVVOslSmJpN6NN1mjRQP6P.png?dl=1" title="Trophy RPG" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/56e2bdb69319fed6864b901ab035b1198fb4d2c3_2_552x500.png" alt="Trophy RPG" data-base62-sha1="coCQSKVVOslSmJpN6NN1mjRQP6P" width="552" height="500" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/56e2bdb69319fed6864b901ab035b1198fb4d2c3_2_552x500.png, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/56e2bdb69319fed6864b901ab035b1198fb4d2c3_2_828x750.png 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/56e2bdb69319fed6864b901ab035b1198fb4d2c3_2_1104x1000.png 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/56e2bdb69319fed6864b901ab035b1198fb4d2c3_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Trophy RPG</span><span class="informations">2364×2140 304 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>I’ll replicate in text form, too, just in case the image above doesn’t work:</p>
+<ul>
+<li>
+<ol>
+<li>Create character;</li>
+</ol>
+</li>
+<li>
+<ol start="2">
+<li>Embark on incursion</li>
+</ol>
+</li>
+<li>
+<ol start="3">
+<li>Explore the world (triggering a Hunt Roll or Risk Roll, if the action is perilous?)</li>
+</ol>
+</li>
+<li>
+<ol start="4">
+<li>Possibility for a Combat or Risk Roll arising from the Hunt Roll</li>
+</ol>
+</li>
+<li>
+<ol start="5">
+<li>Resolve the rolls (updating tokens and ruin as necessary)</li>
+</ol>
+</li>
+<li>
+<ol start="6">
+<li>Complete Set goal (progress to next Set)</li>
+</ol>
+</li>
+<li>
+<ol start="7">
+<li>Repeat 3. - 6. for each Set</li>
+</ol>
+</li>
+<li>
+<ol start="8">
+<li>Conclusion / Epilogue</li>
+</ol>
+</li>
+</ul>
+<p>Thanks for reading / any help with these questions! <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/trophy-rpg-design-mechanic-questions/8158/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/trophy-rpg-design-mechanic-questions/8158/1</link>
+        <pubDate>Sun, 19 Jun 2022 15:13:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8158-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/trophy-rpg-design-mechanic-questions/8158.rss">Trophy RPG design / mechanic questions</source>
+      </item>
+  </channel>
+</rss>

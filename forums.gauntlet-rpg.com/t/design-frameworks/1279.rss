@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Design Frameworks</title>
+    <link>https://forums.gauntlet-rpg.com/t/design-frameworks/1279</link>
+    <description>​Sometimes, it helps to look at your game in a structured way. These are some ways of thinking about your game that I&#39;ve found useful. They&#39;re basically a way to focus your thoughts on one specific aspect of the game at a time. When I&#39;m working on a game and I find myself stuck, I will sometimes turn to one of these tools to focus my thoughts and reflect on it to see if that helps clarify things. Sometimes it helps. (*Sometimes it doesn&#39;t*.)
+
+[This worksheet](http://www.genesisoflegend.com/2016/04/rpg-design-overview-sheet/)​​ starts you thinking about how to allocate resources, and what is important for your game. 
+
+[The Power 19](http://socratesrpg.blogspot.com/2006/01/what-are-power-19-pt-1.html)​ is a list of questions to ask yourself about your game. It&#39;s a way to make sure you&#39;re thinking about different aspects of it, and how they all tie together to reinforce what your game is about. 
+
+[Vince Baker suggests that all games necessarily make statements about different topics](http://lumpley.com/index.php/anyway/thread/490)​: about your fictional subject matter, about roleplaying as a practice, and about human nature. So it&#39;s useful to ask yourself what your game is saying about each of those. What insights is your game built around? ​Is it saying what you want to say about each?
+
+[ *The Art of Game Design: A Book of Lenses* ](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965)​ by Jesse Shell is a book structured as a series of thought experiments, to help you think through different aspects of your game design. It&#39;s primarily aimed at videogames (the industry Shell works in) but has lessons applicable to tabletop games as we ll. (There&#39;s a [free app for the lenses](https://play.google.com/store/apps/details?id=com.schellgames.deckoflenses), which is more useful if you&#39;ve read the book.)
+
+Each of these has underlying assumptions that might not apply to your project (e.g., the worksheet&#39;s Allocate Authorities section doesn&#39;t make sense in a GMless or single player game, many lenses in Schell&#39;s book don&#39;t apply to analog RPGs.) But they still can be useful mental tools for thinking about a game. Even realizing that your game doesn&#39;t fit the author&#39;s assumptions is a significant thing to know about your game. Just don&#39;t let yourself fall into the trap of taking the author&#39;s assumptions for granted. That would lead to less creative games, when these tools are supposed to help you create more creative games.
+
+Maybe you have some other similar frameworks for thinking about game design? I&#39;d be interested to  see what you use to structure your thoughts.</description>
+    
+    <lastBuildDate>Sat, 14 Sep 2019 09:01:28 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/design-frameworks/1279.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Design Frameworks</title>
+        <dc:creator><![CDATA[@Rickard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rickard">@Rickard</a> wrote:</p>
+          <blockquote>
+              <p><a href="http://www.levity-rpg.net/en/?p=252" rel="nofollow noopener">Levity</a> by Roberto Grassi writes about how to create a narrative game. He presents three essences – three mantras in how new fictional content around the table should be thought of – and three powers of how the new fictional content is handled while playing.</p>
+<p><a href="https://circularexchange.wordpress.com/" rel="nofollow noopener">Theory of Engagement</a> is my own take that combines everything I linked above, and more, in order to see what else lies beyond the regular playstyles within our hobby. The blog is just a starting project. It started as just a RPG theory, and then it became a game theory, but now it’s more like a theory that tells us why we ever engage in anything. We got WHY (we play) that we combine with HOW (we play) while using WHAT (we play with).</p>
+<p>Each subcateory within these three gives our a lot different ways of playing, and I’ve written shorter games following this frameworks just to see if the frameworks holds up. New ways of playing roleplaying games (or “storytelling games”). Games I didn’t even know would be fun when I wrote them because I focus more on the emergent behavior (the result of the interaction). The games had to teach me what was fun with them. Games like <a href="https://www.urverkspel.com/vara-spel/oevriga-projekt" rel="nofollow noopener">Imagine, and The Murder of Mr. Crow</a>.</p>
+<p><img src="/uploads/default/original/2X/b/b9bfe14645b49d4c3582a16457448a4da01dd5f0.png" alt="HOWtoPlay_participationVSun" data-base62-sha1="qvdqQpTDg0DR4Pqvtqwfipa1cyc" width="690" height="156"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/design-frameworks/1279/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/design-frameworks/1279/9</link>
+        <pubDate>Sat, 14 Sep 2019 08:53:09 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1279-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/design-frameworks/1279.rss">Design Frameworks</source>
+      </item>
+      <item>
+        <title>Design Frameworks</title>
+        <dc:creator><![CDATA[@Rickard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rickard">@Rickard</a> wrote:</p>
+          <blockquote>
+              <p><a href="https://www.nicolelazzaro.com/the4-keys-to-fun/" rel="nofollow noopener">Four Keys to Fun</a> by Nicole Lazarro takes on different player motivations and tells you how to add design elements to make your game appealing to a wider audience.</p>
+<p><a href="https://en.wikipedia.org/wiki/Flow_(psychology)" rel="nofollow noopener">Flow state</a> by Mihály Csíkszentmihályi explains how to get your participants engaged through repeating a certain process. I myself think of <em>immersion</em> and <em>presence</em> (being caught up in the environment – usually in video games) as the same thing as flow, but being engaged through different states of minds.</p>
+<p><a href="https://en.wikipedia.org/wiki/MDA_framework" rel="nofollow noopener">MDA framework</a> by Marc LeBlanc talks about how you create Mechanics that uses Dynamics presented through Aesthetics, and how the designer usually designs a game through D -&gt; M -&gt; A but the participants first experience the order A -&gt; D -&gt; M.</p>
+<p><a href="https://www.amazon.com/Understanding-Comics-Invisible-Scott-McCloud/dp/006097625X" rel="nofollow noopener">Understanding Comics</a> by Scott McCloud is basically MDA+, where he adds three more layers on top of the MDA that takes about what medium used to create a gam … comic.</p>
+<p><a href="https://www.youtube.com/watch?v=sioZd3AxmnE" rel="nofollow noopener">Start with Why</a> by Simon Sinek talks about economy and how to write pitches, but it’s basically another – lighter – variant of MDA.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/design-frameworks/1279/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/design-frameworks/1279/8</link>
+        <pubDate>Sat, 14 Sep 2019 08:30:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1279-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/design-frameworks/1279.rss">Design Frameworks</source>
+      </item>
+      <item>
+        <title>Design Frameworks</title>
+        <dc:creator><![CDATA[@il_fabbro]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/il_fabbro">@il_fabbro</a> wrote:</p>
+          <blockquote>
+              <p>Sorry for exhuming an old thread but I wanted to add the Rpg Design Zine that Nathan D. Paoletta published through Kickstarter a couple of mounths ago. The zine is made like a bunch of notations and diagrams with examples on rpg-design core elements, so it can be cosidered a <em>collection of frameworks</em>. Or at least I’m using it in that way! Cheers</p>
+<p><a href="https://ndpdesign.com/zines" class="onebox" target="_blank" rel="nofollow noopener">https://ndpdesign.com/zines</a></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/design-frameworks/1279/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/design-frameworks/1279/7</link>
+        <pubDate>Sat, 31 Aug 2019 21:08:14 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1279-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/design-frameworks/1279.rss">Design Frameworks</source>
+      </item>
+      <item>
+        <title>Design Frameworks</title>
+        <dc:creator><![CDATA[@Stentor_Danielson]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/stentor_danielson">@Stentor_Danielson</a> wrote:</p>
+          <blockquote>
+              <p>I think a framework is different from a process. A framework reminds you of things that you need to take into consideration. A process gives you a set of steps in order. I personally shy away from defining a process because it feels too much like an industrialization of game production (and likewise for map-drawing). Part of what makes game design fun for me is that it can start from any point. Frameworks kick in at the “consolidation” stage when I’ve decided that this idea is something real that I want to put real publication effort behind.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/design-frameworks/1279/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/design-frameworks/1279/6</link>
+        <pubDate>Sun, 24 Mar 2019 15:04:54 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1279-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/design-frameworks/1279.rss">Design Frameworks</source>
+      </item>
+      <item>
+        <title>Design Frameworks</title>
+        <dc:creator><![CDATA[@Alex]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alex">@Alex</a> wrote:</p>
+          <blockquote>
+              <p>I’m tempted to say that I’ve got a zen like strategy of no strategy. My first game was the result of several decades of play and then playtesting, using three/four different systems before ultimate publication. My current game in development hit me in 15 minutes just as I was falling asleep on a red eye flight back from the USA, just sprung into my mind and I scribbled it down.</p>
+<p>However, since then I’ve had two more ideas, and in each of them after I’ve thought of a high concept my next thought is “what do I want this game to say” which is then closely allied with “what mechanics could I use to reinforce what this game wants to say”.</p>
+<p>Is the game going to be serious? Light hearted? Satirical? Is it broad enough to be worth using an established rule set, or is it narrow enough that its worth thinking of something specific for this?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/design-frameworks/1279/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/design-frameworks/1279/5</link>
+        <pubDate>Fri, 22 Mar 2019 23:47:26 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1279-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/design-frameworks/1279.rss">Design Frameworks</source>
+      </item>
+      <item>
+        <title>Design Frameworks</title>
+        <dc:creator><![CDATA[@rabalias]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rabalias">@rabalias</a> wrote:</p>
+          <blockquote>
+              <p>(I guess that’s maybe more a process than a framework, but there’s a framework embedded in there I think.)</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/design-frameworks/1279/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/design-frameworks/1279/4</link>
+        <pubDate>Fri, 22 Mar 2019 16:28:14 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1279-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/design-frameworks/1279.rss">Design Frameworks</source>
+      </item>
+      <item>
+        <title>Design Frameworks</title>
+        <dc:creator><![CDATA[@rabalias]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rabalias">@rabalias</a> wrote:</p>
+          <blockquote>
+              <p>My framework is pretty much this:</p>
+<ul>
+<li>Start with an initial concept that I’m excited about. “A Lovecraftian story game”, “Dream Askew but solving the problems my group had with it”, “a game that creates complex conspiracies without one person having to take all the burden for designing them” and “a game that delivers stories like Battlestar Galactica” are recentish examples.</li>
+<li>Write my design goals. This is where I analyse the concept into specific things I want to see in the game. So for Lovecraftesque it’s something like “feels like a Lovecraft story in terms of pace, structure and tone”, “surgically excises the terrible stuff about Lovecraft”, “enables genuinely fresh creativity and shared storytelling”, “nobody should know what the truth behind the mystery is until right at the end”. It’s at this stage that I make sure the overall vision and elevator pitch are compelling and novel, not just a rewrite of an existing game.</li>
+<li>After that I need to start working on a design approach. It’s here that I’d decide if I’m doing a PBTA game, or a forge-ish story game, or similar. I’d probably sketch out the key mechanics, at a high level. Hopefully at this stage everything will deliver my design goals, because I haven’t got far enough into the weeds of detailed design to lose touch with them.</li>
+<li>Then I’ll flesh out the mechanics in detail. I don’t necessarily do that in a hyper-structured way, I just write the bits I’m excited about. Here is where I might inadvertently start to drift from the design goals. I’ll need to review how things fit together, check the mechanics are doing what I really want them to, perhaps through playtesting, perhaps just through thinking about them. But everything comes back to the design goals.</li>
+<li>And from this point on, I’m writing the manual as I go. That helps me to sort out issues like what my elevator pitch is, and therefore making sure I have good answers to questions like “what will the characters do in this game”. I try to get to this quite early on, because I tend to think without a structured attempt to <em>explain</em> the rules, it’s easy for there to be inconsistencies or gaps which only emerge through articulating the game in words.</li>
+</ul>
+<p>I think a lot of the stuff mentioned in e.g. the Power 19 emerges through this process. I don’t try to answer them all at once; the more strategic / big picture issues are hashed out first, and the more time passes the more I get into detail and ensure everything reinforces everything else.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/design-frameworks/1279/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/design-frameworks/1279/3</link>
+        <pubDate>Fri, 22 Mar 2019 16:27:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1279-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/design-frameworks/1279.rss">Design Frameworks</source>
+      </item>
+      <item>
+        <title>Design Frameworks</title>
+        <dc:creator><![CDATA[@BeckyA]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/beckya">@BeckyA</a> wrote:</p>
+          <blockquote>
+              <p>I have always started with the premise ‘how do I want this game to make my players feel’ then ‘what do I want this game to do’ and then I design the mechanics to elicit that.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/design-frameworks/1279/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/design-frameworks/1279/2</link>
+        <pubDate>Fri, 22 Mar 2019 14:33:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1279-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/design-frameworks/1279.rss">Design Frameworks</source>
+      </item>
+      <item>
+        <title>Design Frameworks</title>
+        <dc:creator><![CDATA[@Nickwedig]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/nickwedig">@Nickwedig</a> wrote:</p>
+          <blockquote>
+              <p>​Sometimes, it helps to look at your game in a structured way. These are some ways of thinking about your game that I’ve found useful. They’re basically a way to focus your thoughts on one specific aspect of the game at a time. When I’m working on a game and I find myself stuck, I will sometimes turn to one of these tools to focus my thoughts and reflect on it to see if that helps clarify things. Sometimes it helps. (<em>Sometimes it doesn’t</em>.)</p>
+<p><a href="http://www.genesisoflegend.com/2016/04/rpg-design-overview-sheet/" rel="nofollow noopener">This worksheet</a>​​ starts you thinking about how to allocate resources, and what is important for your game.</p>
+<p><a href="http://socratesrpg.blogspot.com/2006/01/what-are-power-19-pt-1.html" rel="nofollow noopener">The Power 19</a>​ is a list of questions to ask yourself about your game. It’s a way to make sure you’re thinking about different aspects of it, and how they all tie together to reinforce what your game is about.</p>
+<p><a href="http://lumpley.com/index.php/anyway/thread/490" rel="nofollow noopener">Vince Baker suggests that all games necessarily make statements about different topics</a>​: about your fictional subject matter, about roleplaying as a practice, and about human nature. So it’s useful to ask yourself what your game is saying about each of those. What insights is your game built around? ​Is it saying what you want to say about each?</p>
+<p><a href="https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965" rel="nofollow noopener"> <em>The Art of Game Design: A Book of Lenses</em> </a>​ by Jesse Shell is a book structured as a series of thought experiments, to help you think through different aspects of your game design. It’s primarily aimed at videogames (the industry Shell works in) but has lessons applicable to tabletop games as we ll. (There’s a <a href="https://play.google.com/store/apps/details?id=com.schellgames.deckoflenses" rel="nofollow noopener">free app for the lenses</a>, which is more useful if you’ve read the book.)</p>
+<p>Each of these has underlying assumptions that might not apply to your project (e.g., the worksheet’s Allocate Authorities section doesn’t make sense in a GMless or single player game, many lenses in Schell’s book don’t apply to analog RPGs.) But they still can be useful mental tools for thinking about a game. Even realizing that your game doesn’t fit the author’s assumptions is a significant thing to know about your game. Just don’t let yourself fall into the trap of taking the author’s assumptions for granted. That would lead to less creative games, when these tools are supposed to help you create more creative games.</p>
+<p>Maybe you have some other similar frameworks for thinking about game design? I’d be interested to  see what you use to structure your thoughts.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/design-frameworks/1279/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/design-frameworks/1279/1</link>
+        <pubDate>Fri, 22 Mar 2019 12:50:00 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1279-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/design-frameworks/1279.rss">Design Frameworks</source>
+      </item>
+  </channel>
+</rss>

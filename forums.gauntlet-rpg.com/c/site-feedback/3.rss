@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Site Feedback - The Gauntlet Forums</title>
+    <link>https://forums.gauntlet-rpg.com/c/site-feedback</link>
+    <description>Topics in the &#39;Site Feedback&#39; category Discussion about this site, its organization, how it works, and how we can improve it.</description>
+    
+      <lastBuildDate>Wed, 22 Jun 2022 11:09:02 +0000</lastBuildDate>
+      <atom:link href="https://forums.gauntlet-rpg.com/c/site-feedback.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>What do you like about the Gauntlet Forums?</title>
+          <dc:creator><![CDATA[@ex1st]]></dc:creator>
+          <category>Site Feedback</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/ex1st">@ex1st</a> wrote:</p>
+            <blockquote>
+              <p>I just wanted to say that I really like the forum design and functionality. A lot of care has gone into making this. I’m really impressed.</p>
+            </blockquote>
+            <p>Posts: 5</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/what-do-you-like-about-the-gauntlet-forums/8167">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/what-do-you-like-about-the-gauntlet-forums/8167</link>
+          <pubDate>Wed, 22 Jun 2022 11:09:02 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8167</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/what-do-you-like-about-the-gauntlet-forums/8167.rss">What do you like about the Gauntlet Forums?</source>
+        </item>
+        <item>
+          <title>Email address</title>
+          <dc:creator><![CDATA[@DerGreif]]></dc:creator>
+          <category>Site Feedback</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/dergreif">@DerGreif</a> wrote:</p>
+            <blockquote>
+              <p>An email address somewhere on the site would be extremely helpful, I think.</p>
+<p>Kind regards,<br>
+G.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/email-address/8053">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/email-address/8053</link>
+          <pubDate>Wed, 27 Apr 2022 10:17:36 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8053</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/email-address/8053.rss">Email address</source>
+        </item>
+        <item>
+          <title>I suggest a change to the Gauntlet Calendar time display format</title>
+          <dc:creator><![CDATA[@DeReel]]></dc:creator>
+          <category>Site Feedback</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+            <blockquote>
+              <p>Hello,<br>
+It seems that I missed my first game on the Gauntlet Calendar because of a stupid mistake: the game was announced in the Calendar as “Tuesday, March 22nd 2022, 12:00 am”<br>
+To frenchie me, this was obviously on tuesday, march the 22nd, one hour after 11:00 am. I still wonder why it’s not. Right now I’m angry at the persons who thought that error (I can’t think of it any other way) needed to exist, because I both missed a much waited game and was rude to my partners by not showing up.</p>
+<p>I <a href="https://en.wikipedia.org/wiki/12-hour_clock#Confusion_at_noon_and_midnight">strongly suggest</a> changing the time display format on the Calendar.</p>
+            </blockquote>
+            <p>Posts: 7</p>
+            <p>Participants: 5</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/i-suggest-a-change-to-the-gauntlet-calendar-time-display-format/7962">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/i-suggest-a-change-to-the-gauntlet-calendar-time-display-format/7962</link>
+          <pubDate>Tue, 22 Mar 2022 11:14:24 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-7962</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/i-suggest-a-change-to-the-gauntlet-calendar-time-display-format/7962.rss">I suggest a change to the Gauntlet Calendar time display format</source>
+        </item>
+        <item>
+          <title>Podcast feed limit</title>
+          <dc:creator><![CDATA[@JMnitup]]></dc:creator>
+          <category>Site Feedback</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/jmnitup">@JMnitup</a> wrote:</p>
+            <blockquote>
+              <p>Hi, I started listening to Discern Realities and love it, and wanted to add +1 forward to my playlist… However, the RSS feed only lists the last 100 episodes, and I can’t find any way to get a feed that properly contains all of the episodes… I’m kind of weird, I need to start from the beginning of things, hard for me to jump in mid-stream.</p>
+<p>Any idea how I can get an RSS with all the episodes that I can either link to or import into my podcast app?  (I’m using Overcast, or Downcast, and I tried aggregations from a few sites like PodChaser, RPGGeeks, and the Gauntlet site itself, but the only feeds I could get to work were the 100-limited ones.</p>
+<p>Any thoughts appreciated!  Thanks!</p>
+            </blockquote>
+            <p>Posts: 11</p>
+            <p>Participants: 4</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/podcast-feed-limit/7961">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/podcast-feed-limit/7961</link>
+          <pubDate>Sun, 20 Mar 2022 07:38:27 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-7961</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/podcast-feed-limit/7961.rss">Podcast feed limit</source>
+        </item>
+        <item>
+          <title>Seeking Games To Playtest?</title>
+          <dc:creator><![CDATA[@Jonahknight]]></dc:creator>
+          <category>Site Feedback</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/jonahknight">@Jonahknight</a> wrote:</p>
+            <blockquote>
+              <p>I don’t have a game to test but, I do have a group interested in testing games.</p>
+<p>I didn’t see an obvious way to make that as a general offer. Should I just post that in Game Design?</p>
+            </blockquote>
+            <p>Posts: 12</p>
+            <p>Participants: 10</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/seeking-games-to-playtest/7337">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/seeking-games-to-playtest/7337</link>
+          <pubDate>Sun, 29 Aug 2021 23:00:38 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-7337</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/seeking-games-to-playtest/7337.rss">Seeking Games To Playtest?</source>
+        </item>
+        <item>
+          <title>New here - how can I contribute a character keeper?</title>
+          <dc:creator><![CDATA[@oskel]]></dc:creator>
+          <category>Site Feedback</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/oskel">@oskel</a> wrote:</p>
+            <blockquote>
+              <p>I’ve made a large update to the existing Cartel character keeper from the Gauntlet g-drive, and would like to share it, how can I go about submitting it to go onto the g-drive?</p>
+            </blockquote>
+            <p>Posts: 6</p>
+            <p>Participants: 4</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/new-here-how-can-i-contribute-a-character-keeper/7315">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/new-here-how-can-i-contribute-a-character-keeper/7315</link>
+          <pubDate>Sun, 22 Aug 2021 08:53:37 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-7315</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/new-here-how-can-i-contribute-a-character-keeper/7315.rss">New here - how can I contribute a character keeper?</source>
+        </item>
+        <item>
+          <title>Signed up on Patreon for Hangouts Keeper $10 per month — now what?</title>
+          <dc:creator><![CDATA[@amazingrando]]></dc:creator>
+          <category>Site Feedback</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/amazingrando">@amazingrando</a> wrote:</p>
+            <blockquote>
+              <p>I’m new to Gauntlet. I would like to RSVP for a few games before they are available to all, which I believe is one of the benefits of the $10/month tier.</p>
+<p>How do I know my account at <a href="https://gauntlet-hangouts.firebaseapp.com" rel="nofollow noopener">https://gauntlet-hangouts.firebaseapp.com</a> is set up correctly?</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/signed-up-on-patreon-for-hangouts-keeper-10-per-month-now-what/7166">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/signed-up-on-patreon-for-hangouts-keeper-10-per-month-now-what/7166</link>
+          <pubDate>Fri, 09 Jul 2021 03:42:42 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-7166</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/signed-up-on-patreon-for-hangouts-keeper-10-per-month-now-what/7166.rss">Signed up on Patreon for Hangouts Keeper $10 per month — now what?</source>
+        </item>
+        <item>
+          <title>Cannot create a new topic in Hype section?</title>
+          <dc:creator><![CDATA[@SaintAndSinner]]></dc:creator>
+          <category>Site Feedback</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/saintandsinner">@SaintAndSinner</a> wrote:</p>
+            <blockquote>
+              <p>Not sure why but I’m probably missing something. Would like to reach out to members about Games on Demand at Gencon. Please help.</p>
+            </blockquote>
+            <p>Posts: 6</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/cannot-create-a-new-topic-in-hype-section/7130">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/cannot-create-a-new-topic-in-hype-section/7130</link>
+          <pubDate>Mon, 28 Jun 2021 20:16:05 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-7130</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/cannot-create-a-new-topic-in-hype-section/7130.rss">Cannot create a new topic in Hype section?</source>
+        </item>
+        <item>
+          <title>Number of likes per day</title>
+          <dc:creator><![CDATA[@Rickard]]></dc:creator>
+          <category>Site Feedback</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/rickard">@Rickard</a> wrote:</p>
+            <blockquote>
+              <p>What’s the limit for the number of likes per day on Gauntlet?</p>
+<p>I recently received the Regular badge, where it said: “and you’ll also get lots more likes per day.”</p>
+<p>Seemed weird, so I looked it up: “Daily like limit increased by 2×”</p>
+<p>Weird that there is a built in mechanic that makes new people feel unappreciated.</p>
+            </blockquote>
+            <p>Posts: 5</p>
+            <p>Participants: 4</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/number-of-likes-per-day/6875">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/number-of-likes-per-day/6875</link>
+          <pubDate>Sat, 24 Apr 2021 18:58:54 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-6875</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/number-of-likes-per-day/6875.rss">Number of likes per day</source>
+        </item>
+        <item>
+          <title>Play by Forum?</title>
+          <dc:creator><![CDATA[@Hopeless_Wanderer]]></dc:creator>
+          <category>Site Feedback</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/hopeless_wanderer">@Hopeless_Wanderer</a> wrote:</p>
+            <blockquote>
+              <p>Hello! Is played by a forum allowed here at the Gauntlet?</p>
+<p>Thanks</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/play-by-forum/6283">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/play-by-forum/6283</link>
+          <pubDate>Mon, 28 Dec 2020 05:28:21 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-6283</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/play-by-forum/6283.rss">Play by Forum?</source>
+        </item>
+        <item>
+          <title>How does one get involved in playing games?</title>
+          <dc:creator><![CDATA[@dontnormally]]></dc:creator>
+          <category>Site Feedback</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/dontnormally">@dontnormally</a> wrote:</p>
+            <blockquote>
+              <p>On this page:<br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <a href="https://www.gauntlet-rpg.com/gauntlet-hangouts.html" target="_blank" rel="nofollow noopener">THE GAUNTLET</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:667/500;"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/0/04eda95ccdc3a9e4f4bbd2e17d99cec1eb05f104_2_667x500.png" class="thumbnail" width="667" height="500" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/0/04eda95ccdc3a9e4f4bbd2e17d99cec1eb05f104_2_667x500.png, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/0/04eda95ccdc3a9e4f4bbd2e17d99cec1eb05f104_2_1000x750.png 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/0/04eda95ccdc3a9e4f4bbd2e17d99cec1eb05f104.png 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/0/04eda95ccdc3a9e4f4bbd2e17d99cec1eb05f104_2_10x10.png"></div>
+
+<h3><a href="https://www.gauntlet-rpg.com/gauntlet-hangouts.html" target="_blank" rel="nofollow noopener">Gauntlet Hangouts</a></h3>
+
+<p>Gauntlet Hangouts is our space for playing roleplaying games online. Our calendar hosts over 100 game events per month. We play a variety of systems and genres, with an emphasis on indie RPGs, story...</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+<p>It says:</p>
+<aside class="quote no-group">
+<blockquote>
+<h2>Three Steps to Getting Involved</h2>
+<h2>Step 1: Check the RSVP Site</h2>
+<p>To see the schedule of games and to RSVP, go to the website linked below. Once you login, event start times will be listed in your local timezone (when not logged in, times shown are EDT). By default, games are presented in a list, with upcoming games at the top. You can see the games presented in different forms by clicking All Events Info or Calendar.</p>
+</blockquote>
+</aside>
+<p>So I:</p>
+<ol>
+<li>go to the RSVP Site</li>
+<li>click Login up top</li>
+<li>select my google account</li>
+<li>Login window closes but I am not logged in</li>
+<li>click Login up top, again</li>
+<li>Login window pops up, quick loading animation, and it closes again</li>
+</ol>
+<p>Alright, so I click About, at the top:<br>
+<a href="https://gauntlet-hangouts.firebaseapp.com/about" class="onebox" target="_blank" rel="nofollow noopener">https://gauntlet-hangouts.firebaseapp.com/about</a></p>
+<p>and it says:</p>
+<aside class="quote no-group">
+<blockquote>
+<p>Gauntlet Hangouts is our space for playing roleplaying games online. Our calendar hosts over 200 game events per month. The games played cover a variety of systems and genres, with an emphasis on indie RPGs, story games, and the OSR. People who subscribe to our Patreon at the $8+ level get one week of RSVP priority for all new games. After that week is over, anyone can join a game. If the game you want to join doesn’t have room, join the waitlist! You’ll receive an email notification if space opens up.</p>
+</blockquote>
+</aside>
+<p>This <em>seems</em> to suggest, since Patreon = priority, there is a non-Patreon (non-priority) way to engage as well, but I’m still not seeing how to proceed.</p>
+<p>There is a button that says:</p>
+<aside class="quote no-group">
+<blockquote>
+<p>Visit the Gauntlet</p>
+</blockquote>
+</aside>
+<p>which takes you back to:<br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <a href="https://www.gauntlet-rpg.com/" target="_blank" rel="nofollow noopener">THE GAUNTLET</a>
+  </header>
+  <article class="onebox-body">
+    <span class="broken-image" title="This image is broken"><svg class="fa d-icon d-icon-unlink svg-icon" aria-hidden="true"><use xlink:href="#unlink"></use></svg></span>
+
+<h3><a href="https://www.gauntlet-rpg.com/" target="_blank" rel="nofollow noopener">THE GAUNTLET</a></h3>
+
+<p>We send out a monthly newsletter letting folks know about everything going on in The Gauntlet community, from special game events to podcasts to publishing projects. We also do regular prize drawings...</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+<hr>
+<p>How can I get into the system for playing games?  I’d love to join some time. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>Thanks!</p>
+<hr>
+<p>Edit:</p>
+<p>Also FYI this page:<br>
+<a href="https://gauntlet-hangouts.firebaseapp.com/about" class="onebox" target="_blank" rel="nofollow noopener">https://gauntlet-hangouts.firebaseapp.com/about</a></p>
+<p>Says:</p>
+<aside class="quote no-group">
+<blockquote>
+<p>People who subscribe to our Patreon at the $8+ level get one week of RSVP priority for all new games.</p>
+</blockquote>
+</aside>
+<p>which contradicts this page:<br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <a href="https://www.gauntlet-rpg.com/gauntlet-hangouts.html" target="_blank" rel="nofollow noopener">THE GAUNTLET</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:667/500;"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/0/04eda95ccdc3a9e4f4bbd2e17d99cec1eb05f104_2_667x500.png" class="thumbnail" width="667" height="500" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/0/04eda95ccdc3a9e4f4bbd2e17d99cec1eb05f104_2_667x500.png, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/0/04eda95ccdc3a9e4f4bbd2e17d99cec1eb05f104_2_1000x750.png 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/0/04eda95ccdc3a9e4f4bbd2e17d99cec1eb05f104.png 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/0/04eda95ccdc3a9e4f4bbd2e17d99cec1eb05f104_2_10x10.png"></div>
+
+<h3><a href="https://www.gauntlet-rpg.com/gauntlet-hangouts.html" target="_blank" rel="nofollow noopener">Gauntlet Hangouts</a></h3>
+
+<p>Gauntlet Hangouts is our space for playing roleplaying games online. Our calendar hosts over 100 game events per month. We play a variety of systems and genres, with an emphasis on indie RPGs, story...</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+<p>which says:</p>
+<aside class="quote no-group">
+<blockquote>
+<p>Gamers who subscribe to our Patreon at the $15+ level get one week of RSVP priority for all new games.</p>
+</blockquote>
+</aside>
+            </blockquote>
+            <p>Posts: 9</p>
+            <p>Participants: 5</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/how-does-one-get-involved-in-playing-games/6070">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/how-does-one-get-involved-in-playing-games/6070</link>
+          <pubDate>Mon, 09 Nov 2020 05:01:47 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-6070</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/how-does-one-get-involved-in-playing-games/6070.rss">How does one get involved in playing games?</source>
+        </item>
+        <item>
+          <title>Requirements to post in Hype?</title>
+          <dc:creator><![CDATA[@RobertBohl]]></dc:creator>
+          <category>Site Feedback</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/robertbohl">@RobertBohl</a> wrote:</p>
+            <blockquote>
+              <p>Hey folks, I’d like to post in Hype about a going out of business sale I’m doing, but I don’t seem to have posting privileges. Is that only for Patreon backers, perhaps?</p>
+            </blockquote>
+            <p>Posts: 8</p>
+            <p>Participants: 6</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/requirements-to-post-in-hype/5598">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/requirements-to-post-in-hype/5598</link>
+          <pubDate>Wed, 15 Jul 2020 15:01:18 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-5598</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/requirements-to-post-in-hype/5598.rss">Requirements to post in Hype?</source>
+        </item>
+        <item>
+          <title>Discourse Plugins</title>
+          <dc:creator><![CDATA[@darren]]></dc:creator>
+          <category>Site Feedback</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/darren">@darren</a> wrote:</p>
+            <blockquote>
+              <p>I’m sure all of this has been considered, but I stumbled on Discourse’s plugin page while I was looking for BBCode or Markdown explanations (never found it, the internet continues to be a complete mystery). Anyway, I thought these looked interesting (linked at the bottom).</p>
+<p>The Slack integration might be great so that people could just post on the forum and the plugin would automatically spit it into Slack’s g_hangouts channel! Especially helpful for people who run games but may not have Slack access.<br>
+The Perspectives API might be really helpful for the moderators, especially with its auto-flagging. Could also be overwhelming.<br>
+And, while Google Translate isn’t amazing, a quick translate button might help expand the reach outside of English? Not a great solution, but could be helpful.</p>
+<p><aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/1/1b0984d7ee08bce90572f46a1950e1ced436d028.png" class="site-icon" width="32" height="32">
+      <a href="https://meta.discourse.org/t/chatroom-integration-plugin-discourse-chat-integration/66522" target="_blank" title="04:27PM - 29 August 2019">Discourse Meta – 29 Aug 19</a>
+  </header>
+  <article class="onebox-body">
+    <img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/e/ecc92a52ee7353e03d5c0d1ea6521ce4541d9c25_2_500x500.png" class="thumbnail onebox-avatar" width="500" height="500" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/e/ecc92a52ee7353e03d5c0d1ea6521ce4541d9c25_2_500x500.png, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/e/ecc92a52ee7353e03d5c0d1ea6521ce4541d9c25.png 1.5x, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/e/ecc92a52ee7353e03d5c0d1ea6521ce4541d9c25.png 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/e/ecc92a52ee7353e03d5c0d1ea6521ce4541d9c25_2_10x10.png">
+
+<h3><a href="https://meta.discourse.org/t/chatroom-integration-plugin-discourse-chat-integration/66522" target="_blank">Chatroom Integration Plugin (discourse-chat-integration)</a></h3>
+
+<p>Continuing from Common event system for chatrooms   💬 discourse-chat-integration 💬  discourse-chat-integration is the product of my Google Summer of Code project with Discourse. It allows sending notifications about new Discourse posts to ‘group...</p>
+
+  <p><span class="label1">Reading time: 9 mins 🕑</span>
+    <span class="label2">Likes: 80 ❤</span></p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+<br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/1/1b0984d7ee08bce90572f46a1950e1ced436d028.png" class="site-icon" width="32" height="32">
+      <a href="https://meta.discourse.org/t/google-perspective-api-plugin/98733" target="_blank" title="07:05AM - 05 October 2018">Discourse Meta – 5 Oct 18</a>
+  </header>
+  <article class="onebox-body">
+    <img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/7/70faba4253cd675bcc01c8446b044744a45cd887.png" class="thumbnail onebox-avatar" width="400" height="400">
+
+<h3><a href="https://meta.discourse.org/t/google-perspective-api-plugin/98733" target="_blank">Google Perspective API Plugin</a></h3>
+
+<p>Official Google Perspective API Plugin for Discourse    What is the Perspective API? https://www.perspectiveapi.com/  From the official site, “Perspective is an API that makes it easier to host better conversations.The API uses machine learning...</p>
+
+  <p><span class="label1">Reading time: 3 mins 🕑</span>
+    <span class="label2">Likes: 50 ❤</span></p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+<br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/1/1b0984d7ee08bce90572f46a1950e1ced436d028.png" class="site-icon" width="32" height="32">
+      <a href="https://meta.discourse.org/t/discourse-translator/32630" target="_blank" title="12:29AM - 15 July 2019">Discourse Meta – 15 Jul 19</a>
+  </header>
+  <article class="onebox-body">
+    <img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/e/ecc92a52ee7353e03d5c0d1ea6521ce4541d9c25_2_500x500.png" class="thumbnail onebox-avatar" width="500" height="500" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/e/ecc92a52ee7353e03d5c0d1ea6521ce4541d9c25_2_500x500.png, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/e/ecc92a52ee7353e03d5c0d1ea6521ce4541d9c25.png 1.5x, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/e/ecc92a52ee7353e03d5c0d1ea6521ce4541d9c25.png 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/e/ecc92a52ee7353e03d5c0d1ea6521ce4541d9c25_2_10x10.png">
+
+<h3><a href="https://meta.discourse.org/t/discourse-translator/32630" target="_blank">Discourse Translator</a></h3>
+
+<p>discourse-translator - GitHub - discourse/discourse-translator    Features++  Each post is only translated once per locale which saves you 💰  Note that language detection is also run once for every post. Be careful when enabling this on old and large...</p>
+
+  <p><span class="label1">Reading time: 2 mins 🕑</span>
+    <span class="label2">Likes: 85 ❤</span></p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 4</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/discourse-plugins/4669">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/discourse-plugins/4669</link>
+          <pubDate>Tue, 25 Feb 2020 15:10:10 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-4669</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/discourse-plugins/4669.rss">Discourse Plugins</source>
+        </item>
+        <item>
+          <title>Is there a forum suitable for seeking playtesters?</title>
+          <dc:creator><![CDATA[@Alex]]></dc:creator>
+          <category>Site Feedback</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/alex">@Alex</a> wrote:</p>
+            <blockquote>
+              <p>I’m hoping to find some people interested in playtesting the new game which I’m designing, but I’m not sure whether there is any part of these forums where that is an appropriate place to do so. I don’t want to seek interest in an inappropriate area.</p>
+<p>Any suggestions?</p>
+<p>Thanks</p>
+            </blockquote>
+            <p>Posts: 14</p>
+            <p>Participants: 4</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/is-there-a-forum-suitable-for-seeking-playtesters/4649">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/is-there-a-forum-suitable-for-seeking-playtesters/4649</link>
+          <pubDate>Sun, 23 Feb 2020 16:41:07 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-4649</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/is-there-a-forum-suitable-for-seeking-playtesters/4649.rss">Is there a forum suitable for seeking playtesters?</source>
+        </item>
+        <item>
+          <title>Is there a way to DM someone in the Gauntlet?</title>
+          <dc:creator><![CDATA[@chrisshorb]]></dc:creator>
+          <category>Site Feedback</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/chrisshorb">@chrisshorb</a> wrote:</p>
+            <blockquote>
+              <p>Hello all -</p>
+<p>Just wondering if there is a way to Direct Message a user here.</p>
+<p>Thanks,<br>
+Chris</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/is-there-a-way-to-dm-someone-in-the-gauntlet/4629">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/is-there-a-way-to-dm-someone-in-the-gauntlet/4629</link>
+          <pubDate>Thu, 20 Feb 2020 17:29:04 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-4629</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/is-there-a-way-to-dm-someone-in-the-gauntlet/4629.rss">Is there a way to DM someone in the Gauntlet?</source>
+        </item>
+        <item>
+          <title>Any way to edit original posts?</title>
+          <dc:creator><![CDATA[@Radmad]]></dc:creator>
+          <category>Site Feedback</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/radmad">@Radmad</a> wrote:</p>
+            <blockquote>
+              <p>Wondering if there’s a way to edit old posts for topics you’ve started. I wanted to add links to the most current version of my game to the OP for my feedback topic and fix the picture which broke.</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/any-way-to-edit-original-posts/4380">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/any-way-to-edit-original-posts/4380</link>
+          <pubDate>Thu, 23 Jan 2020 03:02:39 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-4380</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/any-way-to-edit-original-posts/4380.rss">Any way to edit original posts?</source>
+        </item>
+        <item>
+          <title>Unable to post in Hype</title>
+          <dc:creator><![CDATA[@Scott_Selvidge]]></dc:creator>
+          <category>Site Feedback</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/scott_selvidge">@Scott_Selvidge</a> wrote:</p>
+            <blockquote>
+              <p>Hello! New to the forums and I was trying to post to Hype, but it didn’t come up in my options for topics. Does anyone have any insight into this? Thanks in advance!</p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/unable-to-post-in-hype/4272">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/unable-to-post-in-hype/4272</link>
+          <pubDate>Sun, 05 Jan 2020 00:38:18 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-4272</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/unable-to-post-in-hype/4272.rss">Unable to post in Hype</source>
+        </item>
+        <item>
+          <title>Using topic tags on the forums</title>
+          <dc:creator><![CDATA[@DavidMK]]></dc:creator>
+          <category>Site Feedback</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/davidmk">@DavidMK</a> wrote:</p>
+            <blockquote>
+              <p>Would there be any value in being able to add tags, like for games played, or games run, or games designed as a thing on the Gauntlet Forums and if so, where would be the best way to show or share that with others? I ask because I see this on other websites and I wonder how useful that is to connect people or not. Thoughts appreciated.</p>
+            </blockquote>
+            <p>Posts: 7</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/using-topic-tags-on-the-forums/4140">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/using-topic-tags-on-the-forums/4140</link>
+          <pubDate>Sat, 07 Dec 2019 01:09:53 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-4140</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/using-topic-tags-on-the-forums/4140.rss">Using topic tags on the forums</source>
+        </item>
+        <item>
+          <title>Moderation Team Volunteer Request &amp; Response to Requests for More Information</title>
+          <dc:creator><![CDATA[@RedMagus77]]></dc:creator>
+          <category>Site Feedback</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/redmagus77">@RedMagus77</a> wrote:</p>
+            <blockquote>
+              <p>Evening everyone, Ferrell here, speaking as part of the Mod Team and for the Mod Team of the Forums.</p>
+<p>First off, apologies for letting <a href="https://forums.gauntlet-rpg.com/t/seeking-volunteers-for-moderator-team/4005/1">this thread</a> get completely out of control; until today none of us had been able to check back in and see things were getting out of hand, and we were trying to stay hands off until we all had some agreement on the text we wanted to post in response to everyone’s inquiries. Unfortunately, this lead to the original thread going away from a request for Volunteers and into a discussion of the issue before we had a chance to respond. We apologize for this and want to rectify the situation, so that thread has been locked but preserved, and it has been linked to this message, and this message linked back, so we can ensure full transparency, and avoid any implication that we are trying to bury or hide the problems that must be addressed.</p>
+<p>The text we agreed upon up to this point is as follows:</p>
+<hr>
+<blockquote>
+<p>In late June, the person responsible for the day-to-day running of the Gauntlet community spaces abused his power over a personal dispute and has since then stepped down from those responsibilities as well as stepping away from the community side of the Gauntlet entirely - namely, Slack and the gaming calendar - and hand the reigns over to Lowell. For more information, see these posts:<br>
+<a href="https://www.gauntlet-rpg.com/blog/these-games-i-love-part-two">https://www.gauntlet-rpg.com/blog/these-games-i-love-part-two</a><br>
+<a href="https://forums.gauntlet-rpg.com/t/gauntlet-changes/2823" class="inline-onebox">Gauntlet Changes</a></p>
+<p>Since Lowell has taken over, the Gauntlet Care Committee was formed and has been working to form a more concrete and agreed-upon Code of Conduct and while it’s been slow, issues are being addressed and worked through.</p>
+<p>On November 9th, Shane locked down the forums into read-only mode and made a post (<a href="https://forums.gauntlet-rpg.com/t/the-future-of-the-forums/3914/13">The Future of the Forums</a>) indicating his desire to step away from the Gauntlet over decisions made by “the management of the Gauntlet”.</p>
+<p>Given that Shane set the forums up and was responsible for many of the resources required to maintain the forums, stepping away from the Gauntlet was a process that would include transitioning maintenance of the forums off to someone else. The lockdown of the forums came as a surprise as Shane didn’t let anyone know ahead of time that this was his plan. Shane provided a backup of the forums which was then used to set up a new environment for the forums to run in. That process was completed on November 10th.</p>
+<p>In addition, we have had individuals decide to leave the message board for their own reasons. In the case of these moderator/admin team of these forums, the departures included Shane &amp; Joao (formerly admins) as well as Cass (formerly a moderator). Yoshi has also stepped down from the moderator team though he has indicated that he’ll still be around as a member of the forums.</p>
+<p>Despite any disagreements or anything that’s happened, the moderator team would like to thank Shane, Joao, Cass, Yoshi, and for everything they’ve done in service of getting these forums up and maintaining them as a place for high quality discussion of TTRPGs and LARP play and design.</p>
+<p>As the first sentence of the Gauntlet Inclusivity Policy states,  <strong>“The Gauntlet strives to create an inclusive, safe, fun and engaging community for gamers of all kinds.”</strong>  That is still the goal of the remaining mod team and we’re dedicated to uphold those values. The only change anyone should notice from here on out is maybe a few new faces on the mod team.</p>
+<p>We would now like to open this up for discussion and feedback. We want to stress that anything posted in this thread should still follow all guidelines (<a href="https://forums.gauntlet-rpg.com/faq">https://forums.gauntlet-rpg.com/faq</a>) - we ask that you please be civil and constructive in your feedback. If you have any feedback that you don’t feel comfortable posting publicly, we encourage you to send a message directly to the mod team.</p>
+</blockquote>
+<p>We still welcome your feedback and inquiries, but we will be heavily moderating this post to keep it on topic of looking for help being a moderator on this site.  Some comments on the post “Seeking volunteers for moderator team” have been moved here, as they better suit this topic. We will leave comments open on the <a href="https://forums.gauntlet-rpg.com/t/seeking-volunteers-for-moderator-team/4005/1">previous post</a> for 24 hours, and lock it on 12/3/2019 @ 8PM (GMT -6) so that people can have their say and ask questions, after which <a href="https://forums.gauntlet-rpg.com/t/seeking-volunteers-for-moderator-team/4005/1">that post</a> will be locked.</p>
+<p>To go back to our original request, I will copy the former Opening Post below:<br>
+Right now we have a skeleton crew of forum moderators helping out – we are looking to expand that team to make sure things continue to run smoothly here. We’d especially appreciate members of marginalized communities to help bring better perspective and more representation to this space, and to make the voices of PoC, disabled or non-cishet people heard clearer. Going forward we’re asking that moderators (and other volunteers) serve at most one year, to keep people from getting burned out and reduce exploitation.</p>
+<p>If you’re interested in volunteering to help out, please contact <a class="mention" href="/u/sabinev5">@SabineV5</a> or <a class="mention" href="/u/robert">@Robert</a> and one of us will reach out to discuss further.<br>
+Thank you to everybody for your participation in the forums and for what you do for this community.</p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 4</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/moderation-team-volunteer-request-response-to-requests-for-more-information/4101">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/moderation-team-volunteer-request-response-to-requests-for-more-information/4101</link>
+          <pubDate>Tue, 03 Dec 2019 02:30:46 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-4101</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/moderation-team-volunteer-request-response-to-requests-for-more-information/4101.rss">Moderation Team Volunteer Request &amp; Response to Requests for More Information</source>
+        </item>
+        <item>
+          <title>Blue Dot Not Appearing Since Site Ported</title>
+          <dc:creator><![CDATA[@Christo]]></dc:creator>
+          <category>Site Feedback</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/christo">@Christo</a> wrote:</p>
+            <blockquote>
+              <p>Since the site was ported this week, I’ve noticed that the blue “unread” dots don’t appear in the posts anymore. This includes posts made since the port. Hopefully this can be fixed?</p>
+            </blockquote>
+            <p>Posts: 18</p>
+            <p>Participants: 6</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949</link>
+          <pubDate>Tue, 12 Nov 2019 17:37:12 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-3949</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949.rss">Blue Dot Not Appearing Since Site Ported</source>
+        </item>
+        <item>
+          <title>If you start posts with “I don’t”</title>
+          <dc:creator><![CDATA[@_ry]]></dc:creator>
+          <category>Site Feedback</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/_ry">@_ry</a> wrote:</p>
+            <blockquote>
+              <p>First: I’m not a mod.</p>
+<p>I just notice that when someone starts a post with a negative<br>
+“I don’t agree.”<br>
+“That’s wrong.”<br>
+“It doesn’t work like that.”<br>
+That’s all language that asserts (a little) “I know better” / “I’m staking our a place of opposition.”</p>
+<p>In my experience anything else in the post isn’t as likely to be useful, and it’s likelier that the thread details after. So I tend to breeze past those.</p>
+<p>But what can you do?</p>
+<p>Why not try<br>
+“I’ve had a different experience…” (And say what it is!)<br>
+“Why do you think that? Are you saying (restate as you understand it)”<br>
+“It works like this: (and explain)</p>
+<p>I just find a little positive phrasing goes a long way to convey that I’m  being constructive.</p>
+            </blockquote>
+            <p>Posts: 6</p>
+            <p>Participants: 4</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/if-you-start-posts-with-i-don-t/3860">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/if-you-start-posts-with-i-don-t/3860</link>
+          <pubDate>Mon, 04 Nov 2019 12:26:48 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-3860</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/if-you-start-posts-with-i-don-t/3860.rss">If you start posts with “I don’t”</source>
+        </item>
+        <item>
+          <title>Death Frost Doom from Fear of a Black Dragon is down!</title>
+          <dc:creator><![CDATA[@Volsung_2d6plusCool]]></dc:creator>
+          <category>Site Feedback</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/volsung_2d6pluscool">@Volsung_2d6plusCool</a> wrote:</p>
+            <blockquote>
+              <p>Sorry I didn’t know where I should post this^^<br>
+But Death Frost Doom from Fear of a Black Dragon  is down ^^;<br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <a href="https://www.gauntlet-rpg.com/fear-of-a-black-dragon/death-frost-doom" target="_blank" rel="nofollow noopener">THE GAUNTLET</a>
+  </header>
+  <article class="onebox-body">
+    <img src="/uploads/default/original/2X/9/97749f32dd71fef929ef825040ebd5ae3a62645c.png" class="thumbnail" width="" height="">
+
+<h3><a href="https://www.gauntlet-rpg.com/fear-of-a-black-dragon/death-frost-doom" target="_blank" rel="nofollow noopener">Death Frost Doom</a></h3>
+
+<p>Fear of a Black Dragon is hosted by Tom McGrenery and Jason Cordova, with production by Lu Quade.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/death-frost-doom-from-fear-of-a-black-dragon-is-down/3707">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/death-frost-doom-from-fear-of-a-black-dragon-is-down/3707</link>
+          <pubDate>Fri, 18 Oct 2019 09:31:25 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-3707</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/death-frost-doom-from-fear-of-a-black-dragon-is-down/3707.rss">Death Frost Doom from Fear of a Black Dragon is down!</source>
+        </item>
+        <item>
+          <title>Follow/subscribe user?</title>
+          <dc:creator><![CDATA[@usnavi]]></dc:creator>
+          <category>Site Feedback</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/usnavi">@usnavi</a> wrote:</p>
+            <blockquote>
+              <p>Is there a way to follow/subscribe to a particular user’s posts?  Apologies if this has already been covered.  Didn’t see it mentioned when I did a quick search.</p>
+<p>thanks!</p>
+            </blockquote>
+            <p>Posts: 5</p>
+            <p>Participants: 5</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/follow-subscribe-user/2827">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/follow-subscribe-user/2827</link>
+          <pubDate>Fri, 09 Aug 2019 20:58:00 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-2827</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/follow-subscribe-user/2827.rss">Follow/subscribe user?</source>
+        </item>
+        <item>
+          <title>Minimum Title Length</title>
+          <dc:creator><![CDATA[@DavidMorrison]]></dc:creator>
+          <category>Site Feedback</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/davidmorrison">@DavidMorrison</a> wrote:</p>
+            <blockquote>
+              <p>Would it be possible to reduce the minimum title length, at least for the Hangouts category? 15 characters seems like quite few when posting games with short titles, and having to pad out the title to make up the minimum feels messy.</p>
+<p>Signed, guy running DIE and Heart <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/sweat_smile.png?v=9" title=":sweat_smile:" class="emoji" alt=":sweat_smile:"></p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/minimum-title-length/2617">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/minimum-title-length/2617</link>
+          <pubDate>Mon, 15 Jul 2019 11:40:40 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-2617</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/minimum-title-length/2617.rss">Minimum Title Length</source>
+        </item>
+        <item>
+          <title>Where is the &quot;New user tutorial&quot;?</title>
+          <dc:creator><![CDATA[@Big_Hammers]]></dc:creator>
+          <category>Site Feedback</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/big_hammers">@Big_Hammers</a> wrote:</p>
+            <blockquote>
+              <p>I was looking at the badge list and saw “Certified -Completed the new user tutorial” but I can’t find a link or mention of it. Where is?</p>
+<p><a href="https://forums.gauntlet-rpg.com/badges/100/certified">https://forums.gauntlet-rpg.com/badges/100/certified</a></p>
+            </blockquote>
+            <p>Posts: 12</p>
+            <p>Participants: 8</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/where-is-the-new-user-tutorial/1579">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/where-is-the-new-user-tutorial/1579</link>
+          <pubDate>Wed, 03 Apr 2019 16:31:06 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-1579</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/where-is-the-new-user-tutorial/1579.rss">Where is the &quot;New user tutorial&quot;?</source>
+        </item>
+  </channel>
+</rss>

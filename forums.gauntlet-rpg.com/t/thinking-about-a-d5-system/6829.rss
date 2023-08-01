@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Thinking about a d5 system</title>
+    <link>https://forums.gauntlet-rpg.com/t/thinking-about-a-d5-system/6829</link>
+    <description>In the game I made recently ([Battlestreets](https://dannythewall.itch.io/battlestreets)), I used a dice pool mechanic, a basic &quot;count 4-5 as successes, and 6s as double&quot; with the idea that you build a power bar from the successes you accrue.
+
+I still like that basic idea of using 6s as something special, then it occured to me, you could have a d5 system by rolling, say, 4d6, but remove the 6s -- they count as 0 for the total but are kept as &quot;power results&quot; to build a resource bank. What&#39;s left is a result from 0 - 20. What a sweet DnD-ish result with a nice bell curve!
+
+I also like that 10 is the basic target number with a 55% chance a nice tier of difficulties at 12, 14, and 16,. (My attempt at [Anydice](https://anydice.com/program/219d7) here.) Unfortunately, if you use stat bonuses, you can only really get up to +3, as +4s will yeild almost a 90% chance rate, so it&#39;s not as granular as I&#39;d like it to be.
+
+Still, I got excited enough about it that I wanted to share. :blush:  Is it unrealistic to think that this might be a thing? Even if the 6s removed got to be a cool resource, for stunts, etc., I think a lot of people might balk at it being a bit unconventional.</description>
+    
+    <lastBuildDate>Fri, 16 Apr 2021 17:22:25 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/thinking-about-a-d5-system/6829.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Thinking about a d5 system</title>
+        <dc:creator><![CDATA[@Airk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/airk">@Airk</a> wrote:</p>
+          <blockquote>
+              <p>This feels vaguely like a slight inversion of the dice rules for The One Ring.</p>
+<p>In The One Ring, you roll a d12 (the “fate die” or something IIRC), and d6s equal to your skill.  You sum them all (Okay, fine, the d12 is really 1-10, zero and auto-success but we’re not talking about the d12 here I promise) and use the total to see IF you succeed… but then the number of 6’s rolled on the d6s are what tells you how WELL you succeed.</p>
+<p>You’ve obviously gone for different maths, but I feel like the core conceit here is pretty similar.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/thinking-about-a-d5-system/6829/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/thinking-about-a-d5-system/6829/7</link>
+        <pubDate>Fri, 16 Apr 2021 17:22:25 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6829-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/thinking-about-a-d5-system/6829.rss">Thinking about a d5 system</source>
+      </item>
+      <item>
+        <title>Thinking about a d5 system</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>Finally, if you do make this a system, you can play with the 6s in all kinds of ways.</p>
+<p>For instance, for a temporary advantage that makes a relatively little difference but will <em>feel</em> very dramatic, allow a single ‘6’ to be kept and added to the other dice. A small change, in terms of probabilities, but will feel like a big deal if it comes up.</p>
+<p>Allowing all 6s to be kept and scored would be a powerful “advantage”-type mechanic, which you could use to underscore some important themes in the game.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/thinking-about-a-d5-system/6829/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/thinking-about-a-d5-system/6829/6</link>
+        <pubDate>Tue, 13 Apr 2021 21:49:32 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6829-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/thinking-about-a-d5-system/6829.rss">Thinking about a d5 system</source>
+      </item>
+      <item>
+        <title>Thinking about a d5 system</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>I agree that adding four dice is not ideal, but fine for many/some groups.</p>
+<p>It was bugging me that I know of a game that does a thing like this, but couldn’t remember.</p>
+<p>It’s a bit of an obscure OSR game, called <em>Five Ancient Kingdoms</em>.</p>
+<p>It’s less elegant than this idea, I think, but similar:</p>
+<p>A basic roll is 2d6, but dropping any 1s (they’re counted as a zero, effectively). Roll two 1s, and you “zero out”, which is presumably quite terrible.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/thinking-about-a-d5-system/6829/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/thinking-about-a-d5-system/6829/5</link>
+        <pubDate>Tue, 13 Apr 2021 21:47:47 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6829-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/thinking-about-a-d5-system/6829.rss">Thinking about a d5 system</source>
+      </item>
+      <item>
+        <title>Thinking about a d5 system</title>
+        <dc:creator><![CDATA[@Deodatus]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deodatus">@Deodatus</a> wrote:</p>
+          <blockquote>
+              <p>I also like the the concept. I see two problems though:</p>
+<ol>
+<li>I can add four numbers together, but I really do not enjoy doing it. I assume that most role-players are the same.</li>
+<li>Another disadvantage is that some of the players might hate the idea that rolling a six adds 0 to the outcome. I can hear some of my players: “The highest roll is the worst result plus some long-term bonus. Ah, man, that is demotivating!” It blame this on some weird evolutionary trait <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:">
+</li>
+</ol>
+<p>Both problem disappear in a dice roller application.</p>
+<p>I think this idea worths and needs some player-experience testing <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/thinking-about-a-d5-system/6829/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/thinking-about-a-d5-system/6829/4</link>
+        <pubDate>Tue, 13 Apr 2021 20:42:32 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6829-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/thinking-about-a-d5-system/6829.rss">Thinking about a d5 system</source>
+      </item>
+      <item>
+        <title>Thinking about a d5 system</title>
+        <dc:creator><![CDATA[@dannythewall]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dannythewall">@dannythewall</a> wrote:</p>
+          <blockquote>
+              <p>Haha well for now, it’s just “for” fun as I let the idea percolate. I like magical realism kind of stories and that intersects with supers and sci fi stuff, so I’m thinking this could be a kind of “build up your misfortunes until you unleash” kind of things. Taking away a 6 would more often than not lead to results below a target, so maybe call them “Danger” dice. In a player-facing game, this gives the GM a trigger (or allows a GM-less game), plus there’s an incentive to bank up the Danger to spend on stunts and special moves.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/thinking-about-a-d5-system/6829/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/thinking-about-a-d5-system/6829/3</link>
+        <pubDate>Tue, 13 Apr 2021 17:25:02 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6829-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/thinking-about-a-d5-system/6829.rss">Thinking about a d5 system</source>
+      </item>
+      <item>
+        <title>Thinking about a d5 system</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>I like it, in theory. I’m not sure what it’s for, necessarily, but adding together d6s while taking away 6s is a solid way to fool around with some probabilities.</p>
+<p>Depending on how many dice you “remove”, you can do all kinds of fun dice tricks… I’ll leave those as an exercise to the reader for now. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/thinking-about-a-d5-system/6829/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/thinking-about-a-d5-system/6829/2</link>
+        <pubDate>Tue, 13 Apr 2021 17:04:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6829-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/thinking-about-a-d5-system/6829.rss">Thinking about a d5 system</source>
+      </item>
+      <item>
+        <title>Thinking about a d5 system</title>
+        <dc:creator><![CDATA[@dannythewall]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dannythewall">@dannythewall</a> wrote:</p>
+          <blockquote>
+              <p>In the game I made recently (<a href="https://dannythewall.itch.io/battlestreets" rel="nofollow noopener">Battlestreets</a>), I used a dice pool mechanic, a basic “count 4-5 as successes, and 6s as double” with the idea that you build a power bar from the successes you accrue.</p>
+<p>I still like that basic idea of using 6s as something special, then it occured to me, you could have a d5 system by rolling, say, 4d6, but remove the 6s – they count as 0 for the total but are kept as “power results” to build a resource bank. What’s left is a result from 0 - 20. What a sweet DnD-ish result with a nice bell curve!</p>
+<p>I also like that 10 is the basic target number with a 55% chance a nice tier of difficulties at 12, 14, and 16,. (My attempt at <a href="https://anydice.com/program/219d7" rel="nofollow noopener">Anydice</a> here.) Unfortunately, if you use stat bonuses, you can only really get up to +3, as +4s will yeild almost a 90% chance rate, so it’s not as granular as I’d like it to be.</p>
+<p>Still, I got excited enough about it that I wanted to share. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/blush.png?v=9" title=":blush:" class="emoji" alt=":blush:">  Is it unrealistic to think that this might be a thing? Even if the 6s removed got to be a cool resource, for stunts, etc., I think a lot of people might balk at it being a bit unconventional.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/thinking-about-a-d5-system/6829/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/thinking-about-a-d5-system/6829/1</link>
+        <pubDate>Tue, 13 Apr 2021 16:36:42 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6829-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/thinking-about-a-d5-system/6829.rss">Thinking about a d5 system</source>
+      </item>
+  </channel>
+</rss>

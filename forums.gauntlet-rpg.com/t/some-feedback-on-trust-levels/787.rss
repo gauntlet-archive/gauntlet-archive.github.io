@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Some Feedback on Trust Levels</title>
+    <link>https://forums.gauntlet-rpg.com/t/some-feedback-on-trust-levels/787</link>
+    <description>In the descriptions of the trust levels, it is unclear if you need to meet _either one_ or _all_ of the conditions listed.
+I guess it must be all conditions, right? Otherwise I&#39;d already be member (which is only possible after 15 days).
+It would really help to mention this specifically.
+
+I&#39;m also unclear about the varies badges. If they are  nothing but &quot;participation trophies&quot;, I would prefer sticking to things that are truly empowering like the trust levels.
+Anything else just clutters my notifications (esp. in the beginning) and personally I don&#39;t feel like I need a gamified incentive to participate.
+
+Other than that I&#39;m really excited to see a forum grow  next to the Slack!</description>
+    
+    <lastBuildDate>Fri, 15 Mar 2019 05:04:50 +0000</lastBuildDate>
+    <category>Site Feedback</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/some-feedback-on-trust-levels/787.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Some Feedback on Trust Levels</title>
+        <dc:creator><![CDATA[@beepeegee]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/beepeegee">@beepeegee</a> wrote:</p>
+          <blockquote>
+              <p>OK, thanks for taking time for informing us.</p>
+<p>Since this is “out of the box” Discourse behaviour, please ignore my remarks on the badges.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/some-feedback-on-trust-levels/787/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/some-feedback-on-trust-levels/787/8</link>
+        <pubDate>Fri, 15 Mar 2019 05:04:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-787-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/some-feedback-on-trust-levels/787.rss">Some Feedback on Trust Levels</source>
+      </item>
+      <item>
+        <title>Some Feedback on Trust Levels</title>
+        <dc:creator><![CDATA[@RedMagus77]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/redmagus77">@RedMagus77</a> wrote:</p>
+          <blockquote>
+              <p>Just posting to confirm that <a class="mention" href="/u/astralfrontier">@astralfrontier</a> is correct, we’re using the Discourse system pretty much “Out of the Box” with regards to the Badge system, as well as the Trust system.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/some-feedback-on-trust-levels/787/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/some-feedback-on-trust-levels/787/5</link>
+        <pubDate>Thu, 14 Mar 2019 12:52:32 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-787-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/some-feedback-on-trust-levels/787.rss">Some Feedback on Trust Levels</source>
+      </item>
+      <item>
+        <title>Some Feedback on Trust Levels</title>
+        <dc:creator><![CDATA[@astralfrontier]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/astralfrontier">@astralfrontier</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="3" data-topic="787">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/beepeegee/40/342_2.png" class="avatar"> beepeegee:</div>
+<blockquote>
+<p>OK, if this is hard- baked into the infrastructure</p>
+</blockquote>
+</aside>
+<p>I’m an admin on a Discourse site (not this one). Some random notes for anyone who cares.</p>
+<ul>
+<li>Badges are a core feature of Discourse</li>
+<li>It’s possible for a site to introduce its own badges (and you must know some SQL and the Discourse table structure to do so), but the ones you see in the Badges list here come standard with any Discourse installation</li>
+<li>It’s a single config switch to disable the badge system site-wide, but that affects everyone</li>
+<li>You can go to Settings &gt; Preferences &gt; Notifications &gt; Users and mute the “system” user to stop hearing about them, but that affects more than just badges</li>
+<li>As far as I know, there’s no way to mute <em>just</em> badge notifications, but the rate of notifications should be vanishingly small compared to other types (e.g. likes and new posts)</li>
+<li>Aside from just notifying you personally, badges also indicate to site admins how common a given action or feature was used by the user base, which is sometimes useful to know (e.g. how many of our users know that wiki posts are a thing, and should we talk more about them?)</li>
+<li>As far as I know, you must meet all requirements for a give trust level to be granted it</li>
+<li>The rules for which actions bump your trust level up are hard-coded but the thresholds are configurable, e.g. TL2 requires you enter N topics, but the admins can adjust the value of N</li>
+</ul>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/some-feedback-on-trust-levels/787/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/some-feedback-on-trust-levels/787/4</link>
+        <pubDate>Thu, 14 Mar 2019 09:53:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-787-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/some-feedback-on-trust-levels/787.rss">Some Feedback on Trust Levels</source>
+      </item>
+      <item>
+        <title>Some Feedback on Trust Levels</title>
+        <dc:creator><![CDATA[@beepeegee]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/beepeegee">@beepeegee</a> wrote:</p>
+          <blockquote>
+              <p>OK, if this is hard- baked into the infrastructure,  of course we cannot do anything about it.</p>
+<aside class="quote no-group" data-post="2" data-topic="787">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/noellarh/40/397_2.png" class="avatar"> noellarh:</div>
+<blockquote>
+<p>One thing to remember is that while badges might not seem necessary to you personally, they may have positive effects on others.</p>
+</blockquote>
+</aside>
+<p>Well, my whole point was to challenge this idea. My intention here is to help improve useability, not defend my personal taste. I’m glad to be proven wrong.  On the other hand, if the overall impression of most users is that badges aren’t that helpful, this may be something to consider.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/some-feedback-on-trust-levels/787/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/some-feedback-on-trust-levels/787/3</link>
+        <pubDate>Thu, 14 Mar 2019 09:08:39 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-787-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/some-feedback-on-trust-levels/787.rss">Some Feedback on Trust Levels</source>
+      </item>
+      <item>
+        <title>Some Feedback on Trust Levels</title>
+        <dc:creator><![CDATA[@noellarh]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/noellarh">@noellarh</a> wrote:</p>
+          <blockquote>
+              <p>from looking at the meta discourse forum, it seems like they are built into discourse. Not sure how much control the admin have over them.</p>
+<p>One thing to remember is that while badges might not seem necessary to you personally, they may have positive effects on others.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/some-feedback-on-trust-levels/787/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/some-feedback-on-trust-levels/787/2</link>
+        <pubDate>Thu, 14 Mar 2019 08:51:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-787-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/some-feedback-on-trust-levels/787.rss">Some Feedback on Trust Levels</source>
+      </item>
+      <item>
+        <title>Some Feedback on Trust Levels</title>
+        <dc:creator><![CDATA[@beepeegee]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/beepeegee">@beepeegee</a> wrote:</p>
+          <blockquote>
+              <p>In the descriptions of the trust levels, it is unclear if you need to meet <em>either one</em> or <em>all</em> of the conditions listed.<br>
+I guess it must be all conditions, right? Otherwise I’d already be member (which is only possible after 15 days).<br>
+It would really help to mention this specifically.</p>
+<p>I’m also unclear about the varies badges. If they are  nothing but “participation trophies”, I would prefer sticking to things that are truly empowering like the trust levels.<br>
+Anything else just clutters my notifications (esp. in the beginning) and personally I don’t feel like I need a gamified incentive to participate.</p>
+<p>Other than that I’m really excited to see a forum grow  next to the Slack!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/some-feedback-on-trust-levels/787/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/some-feedback-on-trust-levels/787/1</link>
+        <pubDate>Thu, 14 Mar 2019 05:52:03 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-787-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/some-feedback-on-trust-levels/787.rss">Some Feedback on Trust Levels</source>
+      </item>
+  </channel>
+</rss>

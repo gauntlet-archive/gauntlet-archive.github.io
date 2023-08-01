@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Spelljammer</title>
+    <link>https://forums.gauntlet-rpg.com/t/spelljammer/8370</link>
+    <description>Hello humans,
+
+I am going to be running my first Spelljammer campaign (using the stock adventure that comes with the set). I would love to hear from anyone who has run a game in this setting and get some tips/advice on what worked, what didn&#39;t, etc. I am planning to allow firearms and am wondering how that goes, since I have not used firearms in DnD before. 
+
+Also, I have a little trepidation jumping back into running combat in DnD versus Dungeon World. I love how, in DW, I can hold suspended multiple player, monster, GM, etc., moves at once, crafting an exciting scene that keeps everyone at the table engaged. I dread the pacing of DnD battles, which often feel boring to me as a player, and stressful to me as a GM (stressed about players feeling bored). Any tips on making DnD battles more like DW battles? Eschew &quot;initiative?&quot; Allow simultaneous turns?</description>
+    
+    <lastBuildDate>Mon, 12 Sep 2022 23:28:31 +0000</lastBuildDate>
+    <category>RPG Chat</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/spelljammer/8370.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Spelljammer</title>
+        <dc:creator><![CDATA[@OuiPatron]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/ouipatron">@OuiPatron</a> wrote:</p>
+          <blockquote>
+              <p>Nice! Towards the end of my campaign I found myself bringing more and more mechanics from other games to abstract things that 5e doesn’t do very well. One the players enjoyed in the finale was a countdown clock for the villain’s plan. Each round of combat party members had the choice of either</p>
+<ol>
+<li>
+<p>Performing actions to slow down or stop the villain. Success of failure meant the countdown clock would tick down using smaller or bigger die sizes. (e.g. success meant the clock would only go down 1d4 vs 1d6 or 1d8 for failure)</p>
+</li>
+<li>
+<p>Fight the villain’s minions. Success or failure meant taking less or more damage and being hampered lees or more in actions to stop the villain. I didn’t even bother with enemy numbers and HP.</p>
+</li>
+</ol>
+<p>This ratcheted up the tension as they needed to get the balance right to stop the villain AND survive. In the end it came down to 3 left on the countdown clock and the party having to decide whether to risk a final 1d4 reduction and save everyone or ensure the victory but with one or more of them sacrificing themselves.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/spelljammer/8370/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/spelljammer/8370/7</link>
+        <pubDate>Mon, 12 Sep 2022 23:28:31 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8370-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/spelljammer/8370.rss">Spelljammer</source>
+      </item>
+      <item>
+        <title>Spelljammer</title>
+        <dc:creator><![CDATA[@Matt_Hall]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/matt_hall">@Matt_Hall</a> wrote:</p>
+          <blockquote>
+              <p>Thanks to you both for the great suggestions!</p>
+<p>I ran a bit of a test campaign yesterday with two players. They really enjoyed playing plasmoids (named Jelly and Jellamy) and were very creative with the uses of pseudopods and slipping through spaces. If you’re interested to hear the deets, read on <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>I set them up as muscle on a Dohwar trading vessel en route to the Rock of Braal. Jelly is a rogue and Jellamy is a bit of a custom class I found online, a “trick shot” bard, both level 6. Anyhow, they failed to perceive the spelljammer wasp ship in time to evade it, and so their ship was boarded by space pirates dressed like clowns who immediately went for their spelljammer helm. As they tried to deal with these pirates (Bandit stat block), a crying little girl appeared on their deck, claiming to be trying to escape the pirates. Not trusting the little girl one bit, Jellamy cast sleep on her, but it failed, and the little girl revealed her true identity, a ghoulish space clown with black bloody sockets where her eyes should have been. The PCs were able to take out 3 of the 4 pirates, but it took both of them to defeat the space clown, Giselle, and the 4th pirate escaped with their spelljamming helm. I was particularly glad to have Jellamy subjected to the side effect of the space clown ray gun (similar to Tasha’s Hideous laughter). Super fun battle.</p>
+<p>So, their ship, the Allegro, was adrift for 3 days until it literally crashed into the docks of a dwarvish asteroid mine (Moradin’s Mine). The dwarves confiscated their cargo (about 3000gp worth of goods) and put the Dohwar to work in the mines as further payment for the damage. The PCs are able to strike a deal with Moradin to greatly reduce what they owe and avoid enslavement. Basically, dwarves have been going missing from the mine lately, and Moradin is concerned about labor union activity. The mine is a very lucrative one for Moradin, since it contains the crystal components required to make spelljamming helms. The missing miners is a major concern for him, since it is resulting in a loss of production in and of itself, and if it is due to labor union activity, Moradin wants to squash it right away.</p>
+<p>To set up the delve I actually used the Perilous Wilds dungeon generation tool (my favorite GM tool!). I had them roll a d12, and right off the bat it was a <em>danger</em>! Originally, in my head I thought I would set them against a minor trap. Jellamy avoided falling when part of a bridge crumbled, and my thought was to have them roll again (wanting them to continue exploring). Jelly was particularly interested in the room, however, and was really doing a great job “discerning realities.” Even though we were playing DnD, I’ve played a fair amount of Dungeon World with these two players, so they are skilled at being a part of the narrative. Jellamy cast dancing lights up at the ceiling of the cavern, and soon we could see that the room was like one giant geode, lined with large cuboidal crystal stacks with the floor about 30 feet below. Jelly noticed a dwarf spying on them from amid the crystal forest below and climbed down quickly to investigate (level 6 thief). He came upon two dwarves conferring in a bit of a clearing, but he found their behavior strange, since they weren’t really speaking so much as standing there staring intently at one another, as if communicating by other means.</p>
+<p>Jellamy took longer to climb down, and she decided to sneak around and try to observe from another vantage point. While she was observing the dwarves, a third was able to get the drop on her, smashing her against one of the crystals with great force. Jellamy took a lot of damage that battle, getting down to just 10 health. Jelly was able to sneak attack and one-shot one of the two dwarves, who melted into a grey blob of flesh and bones as he died. Jellamy grappled with her opponent using the pseudopod rules for plasmoids and was able to blast her with her pistol and then finish her off with a short sword. Next turn she cast <em>major image</em> as a distraction, which succeeded, and Jelly polished off the last dwarf with a sneak attack empowered rapier strike!</p>
+<p>We had to end the session at that point, so the players did not have a chance (yet) to inspect the blobby remains of the three dwarves. These are not actually dwarves but psurlon ringers who have consumed dwarves and transformed. The psurlons secretly invaded the mine months ago to engage in one of their feasting rituals. Future encounters will include more psurlon ringers as well as, once I build up some more tension by causing most of the inhabitants of the mine to go missing, normal psurlons (which are more difficult enemies). Eventually, they will have to take out the psurlon leader, or perhaps try to escape the mines on another vessel (or by stealing a spelljammer helm).</p>
+<p>For both combats I used the idea from the youtube link posted above. I don’t know if it is because the players had played DW with me before or what, but it pretty much played out like DW combat with little intrusion by the DnD mechanics. The addition of using a timer really added pressure for the players to think on their toes, and no one had to wait for someone else’s turn. Narrating what happened based on the results of the rolls was really fun, especially since both players kept rolling so badly!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/spelljammer/8370/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/spelljammer/8370/6</link>
+        <pubDate>Mon, 12 Sep 2022 19:06:56 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8370-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/spelljammer/8370.rss">Spelljammer</source>
+      </item>
+      <item>
+        <title>Spelljammer</title>
+        <dc:creator><![CDATA[@OuiPatron]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/ouipatron">@OuiPatron</a> wrote:</p>
+          <blockquote>
+              <p>I don’t have any experience with Spelljammer nor firearms in 5e but here are a few things that helped me with combat pacing:</p>
+<ol>
+<li>Keep in mind what the objectives of each side are. The goal isn’t (or at least shouldn’t be) to reduce the other side to zero HP. Steak an item, chase off intruders, get a VIP through? That will make enemy actions more interesting and, depending on how strongly they feel about their goal have many of them surrender or flee well below 0hp.</li>
+<li>Introduce mook rules</li>
+<li>Introduce a time limit for player decisions. Not choosing an action for their character means they make some predetermined default action</li>
+<li>Frame the scene for each player’s turn to help them decide what to do. This might actually take longer but IME helps keep the feel of the action flowing.</li>
+</ol>
+<blockquote>
+<p>Taran, the Cauldron-Born have knocked Fflewddur unconscious and cornered Doli. There are three Huntsmen menacing you to cover the Horned King’s retreat, as he has captured Dyrnwyn and bearing it away. What do you do?</p>
+</blockquote>
+<p>(5e is a terrible system for the Chronicles of Prydain but that’s a separate discussion)</p>
+<ol start="5">
+<li>Introduce a rule where attacks always hit (my group vetoed this)</li>
+</ol>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/spelljammer/8370/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/spelljammer/8370/5</link>
+        <pubDate>Sun, 11 Sep 2022 08:03:38 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8370-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/spelljammer/8370.rss">Spelljammer</source>
+      </item>
+      <item>
+        <title>Spelljammer</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>2097 has some variations on DnD 5e combat. Pick your choice.</p>
+<p><a href="https://idiomdrottning.org/rpg" class="onebox" target="_blank">https://idiomdrottning.org/rpg</a></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/spelljammer/8370/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/spelljammer/8370/4</link>
+        <pubDate>Fri, 09 Sep 2022 13:00:01 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8370-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/spelljammer/8370.rss">Spelljammer</source>
+      </item>
+      <item>
+        <title>Spelljammer</title>
+        <dc:creator><![CDATA[@Matt_Hall]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/matt_hall">@Matt_Hall</a> wrote:</p>
+          <blockquote>
+              <p>Blerg, yep. I have a one-off DW campaign I was going to run with them, but they are just really stuck on DnD. I might try to run the one off at my local game shop or whatever, since DW is just much more my speed. I.e., I believe that the line between combat and story should be nearly seamless and certainly fluid.</p>
+<p>I found this guy (<a href="https://www.youtube.com/watch?v=y_mxYKzEjms" rel="nofollow noopener">https://www.youtube.com/watch?v=y_mxYKzEjms</a>), and I think he has a good system that is as close to how I run DW combat (which is basically just to go with the flow of the narrative and freeze/refocus the action here and there to make sure that every player feels like they are kicking ass (or at least getting their ass kicked)). I think this method will also allow me to hand the narrative over to the players more to again, give more of that DW feel to the combat/game.</p>
+<p>I’ll circle back here to report how it goes! In the meantime, still hoping for tips on firearms and Spelljammer in Dnd <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/spelljammer/8370/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/spelljammer/8370/3</link>
+        <pubDate>Thu, 08 Sep 2022 20:35:39 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8370-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/spelljammer/8370.rss">Spelljammer</source>
+      </item>
+      <item>
+        <title>Spelljammer</title>
+        <dc:creator><![CDATA[@OuiPatron]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/ouipatron">@OuiPatron</a> wrote:</p>
+          <blockquote>
+              <p>Does it have to be run in D&amp;D? As someone who recently ended a 3+ year D&amp;D campaign I know what you mean about its combat pacing.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/spelljammer/8370/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/spelljammer/8370/2</link>
+        <pubDate>Wed, 07 Sep 2022 22:33:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8370-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/spelljammer/8370.rss">Spelljammer</source>
+      </item>
+      <item>
+        <title>Spelljammer</title>
+        <dc:creator><![CDATA[@Matt_Hall]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/matt_hall">@Matt_Hall</a> wrote:</p>
+          <blockquote>
+              <p>Hello humans,</p>
+<p>I am going to be running my first Spelljammer campaign (using the stock adventure that comes with the set). I would love to hear from anyone who has run a game in this setting and get some tips/advice on what worked, what didn’t, etc. I am planning to allow firearms and am wondering how that goes, since I have not used firearms in DnD before.</p>
+<p>Also, I have a little trepidation jumping back into running combat in DnD versus Dungeon World. I love how, in DW, I can hold suspended multiple player, monster, GM, etc., moves at once, crafting an exciting scene that keeps everyone at the table engaged. I dread the pacing of DnD battles, which often feel boring to me as a player, and stressful to me as a GM (stressed about players feeling bored). Any tips on making DnD battles more like DW battles? Eschew “initiative?” Allow simultaneous turns?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/spelljammer/8370/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/spelljammer/8370/1</link>
+        <pubDate>Wed, 07 Sep 2022 16:21:32 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8370-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/spelljammer/8370.rss">Spelljammer</source>
+      </item>
+  </channel>
+</rss>

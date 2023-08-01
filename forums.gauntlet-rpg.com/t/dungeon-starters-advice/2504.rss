@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Dungeon Starters advice</title>
+    <link>https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504</link>
+    <description>I have really enjoyed the Lampblack &amp; Brimstone &quot;20 Dungeon Starters&quot; edited by @jasonlutes and used them for a brief pseudo-campaign to teach some folks in a RPG streaming community how to play Dungeon World. As part of that, I took one of those starters, &quot;The Dreaming Wood&quot;, and wrote my own called &quot;[Caves of Hypnos](https://technoskald.me/2019/07/01/free-dungeon-starter-caves-of-hypnos/)&quot;. Some of it, I&#39;m proud of, like including a mini-front with a progress clock (technically just the Danger), as I start to feel like I&#39;m getting more into the mindset for DW and PbtA.
+
+I struggled with a few things while writing this, however, notably the questions. After reading some of Homebrew World by @Jeremy_Strandberg, I feel like I could have written better questions that provided a better hook. **What suggestions might folks have about good questions when kicking off something like this?**
+
+Even more so, though, I think I might have made the stakes bigger than I really should have. Once it was done, the players effectively woke up the personification of sleep, which I wrote as basically unleashing chaos - if sleep left the world, then in short order chaos would reign. **How do you calibrate stakes in your games, fantastic or otherwise?**</description>
+    
+    <lastBuildDate>Thu, 20 Oct 2022 21:18:50 +0000</lastBuildDate>
+    <category>RPG Chat</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Dungeon Starters advice</title>
+        <dc:creator><![CDATA[@saharo]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/saharo">@saharo</a> wrote:</p>
+          <blockquote>
+              <p>Hi everyone!<br>
+I wonder if anyone will answer to a 3 old thread…yet!<br>
+Is there any actual play, audio, video, podcast, text…to a Dungeon World session based purely on a Dungeon Starter?</p>
+<p>As a long time narrator/DM in other systems (I feel a tipycal long time D&amp;D DM who’s exploring more narrative games, like FATE, Microscope…), I find the Dungeon World “Dungeon Starter” very attractive. The promise of a sweetspot between the dear old D&amp;D, and the more narrative games out there.<br>
+Yet, being a busy adult, the chances to really experiment with RPG are limited, and I like to arrive prepared to the table if possible. To this extent, I find relying on Dungeon Starter quite scary.<br>
+Even when I play FATE from collaborative world building onward, I still come to the table with an adventure template. Dungeon Starters totally disregard this, and rely on DW promise to create a game on the fly, discovering what happens.<br>
+I’ll deeply read the rest of this thread in the meantime. Cheers <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/v.png?v=9" title=":v:" class="emoji" alt=":v:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/19</link>
+        <pubDate>Thu, 20 Oct 2022 21:18:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2504-19</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504.rss">Dungeon Starters advice</source>
+      </item>
+      <item>
+        <title>Dungeon Starters advice</title>
+        <dc:creator><![CDATA[@QiMike]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/qimike">@QiMike</a> wrote:</p>
+          <blockquote>
+              <p>The GM and players asking each other questions is one of the aspects of Dungeon World that I like so much.  I had been looking for a good way to establish world facts that included the players. Your ideas on assertions hits the mark.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/18</link>
+        <pubDate>Sat, 30 Nov 2019 17:54:25 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2504-18</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504.rss">Dungeon Starters advice</source>
+      </item>
+      <item>
+        <title>Dungeon Starters advice</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <p>Ooh, interesting.  I’ll need to check that out.</p>
+<p>In the meantime, <a class="mention" href="/u/jexjthomas">@jexjthomas</a> goosed me <a href="https://www.reddit.com/r/PBtA/comments/e0jlwz/guide_to_leading_questions/" rel="nofollow noopener">over on Reddit</a> to talk some more about this.  Here’s what I came up with there as a more fleshed out set of principles for asking leading questions (not specifically for <em>establishing</em> questions, but I think these principles would apply there, too):</p>
+<ul>
+<li>
+<p><strong>Address the characters, not the players</strong>  –  <em>“Krikor, what sort of beasts are you worried about encountering in these woods?”</em>  is better than  <em>“John, what monsters inhabit these woods?”</em>  Don’t cross <a href="http://mightyatom.blogspot.com/2010/10/apocalypse-world-crossing-line.html" rel="nofollow noopener">the Line</a>.</p>
+</li>
+<li>
+<p><strong>Assert at least as much as you ask</strong>  – " <em>what treasure is said to be buried in the caves beneath this ruined manor?"</em>  asserts that there are caves and treasure within them, and the ruined manor implies old wealth, now fallen into squalor. It gives the player a lot of hard edges for their creativity to crystalize on. It’s much better than, for example,  <em>“what are you seeking on this adventure?”</em></p>
+</li>
+<li>
+<p><strong>Assert things that need to be true</strong>  – when framing a question, make sure that question (or its lead-in) asserts details that have to be true in order for the rest of your prep to work or remain valid. If the adventure you’ve prepared assumes that the city’s sewers are a chaotic, dangerous mess, then don’t ask " <em>Vigo, what’s the most dangerous thing about the sewers?"</em>  (because they might answer something like  <em>“the caustic chemicals and vast machines that relentlessly process the waste”</em>  or something else that implies a rigidly controlled environment). Instead, ask something like " <em>Vigo, so… you and your previous crew were hired to map the city’s sewers a few months back… who hired you, and what horrible fate befell the rest of your crew in the process?"</em>  The assertion that Vigo’s crew were hired to map the sewers implies that they are vast, unknown, labyrinthine. The assertion that the crew met a horrible fate establishes the danger. The fact that someone hired them reinforces both points, because someone with resources was willing to pay to have others risk their lives to accomplish this.</p>
+</li>
+<li>
+<p><strong>Ask for meaningful contribution</strong> – asking  <em>“what’s the name of the jovial merchant you know and trust in Hightown?”</em>  is… fine? I guess. But a better question is " <em>who’s your merchant contact in Hightown, and why do you trust them so much?"</em>  It prompts the player contribute some actual story, and provide some character to this merchant. Asking for just their name is trivial, and (short of a very clever or evocative name) doesn’t really give them any influence over what this merchant is actually like.</p>
+</li>
+<li>
+<p><strong>Be specific, but not too specific</strong>  – Even better than " <em>who’s your merchant contact in Hightown, and why do you trust them so much?"</em>  is something like " <em>who’s the silk merchant in Hightown that you’re planning to go see, and why do they treat you like family?"</em>  Asserting that the merchant is a silk merchant gives the player more of a nudge, more of a hard edge to build on. Likewise, asserting a relationship of “they treat you like family” is more provocative than asserting “you trust them.” Be careful not to take this too far, though. If you ask "… <em>and what did you save their life from, so that they treat you like family?"</em>  then you’re no longer asking them for a meaningful contribution.</p>
+</li>
+<li>
+<p><strong>Get personal</strong>  – ask questions (and make assertions) about the characters’ past, their feelings, their relationships. In particular, ask (or assert things) about the troublesome, difficult, or intense times in their past. The Thief has blithely murdered a bunch of NPCs on screen? When they head back to town, maybe ask " <em>Vaughn, who was the first person you ever murdered?"</em>  The Bard’s father is an evil warlord, shaping up to be one of the big bads for the campaign? Ask something like  <em>“Nolwen, when was the first time you spilled blood at your father’s behest?”</em>  The player just rolled a miss when Spouting Lore or Discerning Realities or otherwise getting information about this nasty magical quicksilver? " <em>Oh, yeah, you know all about this. What horrible experience did you have with this quicksilver stuff down south, and why does it wig you out to this day?"</em>  One PC just did something really quite questionable in front of the other PCs?  <em>“Pitr, what are you thinking about Rhianna right now?”</em></p>
+</li>
+</ul>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/17</link>
+        <pubDate>Sat, 30 Nov 2019 15:09:00 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2504-17</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504.rss">Dungeon Starters advice</source>
+      </item>
+      <item>
+        <title>Dungeon Starters advice</title>
+        <dc:creator><![CDATA[@QiMike]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/qimike">@QiMike</a> wrote:</p>
+          <blockquote>
+              <p>Great advice. Thanks for sharing your insight.</p>
+<p>I have an item that may help answer your parting question. In my quest for Dungeon World resources, I came across a PDF, AdventureBuilderCards_A4.pdf, which comprises of 6 cards used to build a story premise.</p>
+<p>After reading your post, it occurs to me that each card, with its linking choices, is a setup to pose an establishing question. The suggestion for using the cards is to place them on the table and let the players choose among the cards and then select an item listed on it. This also seems to be an opportunity to formulate questions suited to thier characters. At least, that’s my theory; one I intend to explore.  <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/16</link>
+        <pubDate>Thu, 28 Nov 2019 10:19:16 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2504-16</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504.rss">Dungeon Starters advice</source>
+      </item>
+      <item>
+        <title>Dungeon Starters advice</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>I’d say that there is a very different aesthetic and creative focus at work here. Location-based dungeon design, such as in classic/OSR play is all about providing the players and characters with a strategic array of opportunities, obstacles, threats, and rewards. It’s open-ended and fun to navigate. As you point out, it would require an entirely different kind of prep.</p>
+<p>What Dungeon Starters for Dungeon World aim to do is, rather, create the starting point for a conversation that generates some aesthetically pleasing imagery and a general concept for the players to cohere around. The focus is on colourful imagining and the positioning of characters relative to threats, stakes, and relationships: the details are often better left unprepared, so as to allow the group to adapt them to the characters’ dramatic needs in play.</p>
+<p>Two very different play cultures that have relatively little in common, in my opinion. I look forward to hearing your impressions as you read those books, and I hope you’ll post about them! I recently had some very interesting chats with several of our mutual acquaintances about this very topic, and I always find it quite fruitful.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/15</link>
+        <pubDate>Wed, 20 Nov 2019 05:07:54 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2504-15</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504.rss">Dungeon Starters advice</source>
+      </item>
+      <item>
+        <title>Dungeon Starters advice</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="10" data-topic="2504">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/radmad/40/2161_2.png" class="avatar"> Radmad:</div>
+<blockquote>
+<p>I’m interested in how granular you need these questions to be. For a more generic system, I would say the questions you’ve already laid out should be clear enough that they can be tailored to specific scenarios.</p>
+</blockquote>
+</aside>
+<p>I find that the best questions for this sort of thing are <em>provocative questions</em>, in that they assert at least as much as they ask.  Likewise, I find that specificity generally works a lot better than generalities.</p>
+<p>So, for example, just asking “What are you looking to get out of this expedition and how does that reinforce or conflict with your alignment?” is very general, and very soft. I can easily see a player responding with something like “oh, I hope to get a bunch of sweet loot to help pay for that orphanage.”  Which, yeah, I guess that gives us something, but it’s still quite vague. What sort of treasure? Why does the PC think it’s here?  Where in this location do we think it is?  Yes, I can keep asking follow-up questions, getting more and more specific, but it takes time and effort to get there, and it can feel like pulling teeth.</p>
+<p>Contrast that with:  “Wizard, what priceless resource is said to be buried in the caves beneath this ruined manor, and how do you hope to make use of it?”  That extra detail (<em>priceless resource</em> and <em>buried</em> and <em>caves</em> and <em>ruined manor</em> and <em>make use of it</em>) all provide hard edges for ideas to crystalize on.  I remember asking that and the playing jumping to “Why, veins of unactivated emeralidine!  A source of raw magical power and potential! Securing would make any number of projects at the world-famous Markov Institute possible!”  And that level of specificity gives us even more hard edges for creativity to crystalize on, and so on.</p>
+<p>So I guess those are some principles:</p>
+<ul>
+<li><strong>assert at least as much as you ask</strong></li>
+<li><strong>be specific, but not too specific</strong></li>
+</ul>
+<p>And someone other ones that jump to mind:</p>
+<ul>
+<li>
+<strong>try to hit multiple goals with a single question</strong>  <em>(e.g. establish both complication &amp; urgency by asking “who else is trying to find this?” or establish stakes and urgency by asking “what terrible fate awaits them if you don’t get them out of there by sunrise?”)</em>
+</li>
+<li>
+<strong>ask one player to build on things a different player established</strong> <em>(e.g. one player mentions an order of rangers and druids in the area, so ask another player why they’re so worried about running into them)</em>
+</li>
+</ul>
+<p>There are probably more such principles, but it’s late and I’m tired!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/14</link>
+        <pubDate>Wed, 20 Nov 2019 04:41:49 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2504-14</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504.rss">Dungeon Starters advice</source>
+      </item>
+      <item>
+        <title>Dungeon Starters advice</title>
+        <dc:creator><![CDATA[@Gus.L]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gus.l">@Gus.L</a> wrote:</p>
+          <blockquote>
+              <p><span class="mention">@technosklad</span>  Absolutely, what I find fascinating is that I the question to mecsuggests a certain, very distinct design space entirely different from what you were looking at.  To me this is not a sign of incompatibility or cause for friction between narrative and location based design, but a incongruity in definition.</p>
+<p>When I say “dungeon” I mean a very distinct sort of design, while your definition seems much broader - what I might define as “adventure” or even “setting”. A place where understanding is possible, but one that also seems to highlight the different design principles even in a space broadly using the same terms and same sort of fantasy.  So not to ride the poisonous disc horse du jour but in my understanding or misunderstanding of your simple question is an example of (or refutation depending on how one defines syatem) that “system matters”.</p>
+<p><a class="mention" href="/u/jeremy_strandberg">@Jeremy_Strandberg</a>  I’m vaguely familiar with Dungeon World, I picked it, Apocolypse World and Night Witches up a week or two ago and have been slowly reading them, but thanks for the reference, I’m not exactly literate in PbtA.</p>
+<p>On intro adventures.  Your comment about the nature of introductory DW scenarios suggests to me an interesting playstyle distinction.  While I am absolutely for minimal 1st session design, to me that means a small region with a haven, some factions with related hooks and 1-3 possible locations to explore.  Starting in extremis is still possible - the shipwreck, jailbreak or broke on the borderlands are always popular.</p>
+<p>The distinction is that I don’t think I’d call such a set up a good “adventure” hook. Campaign or setting sure, but the adventure, and moreso the dungeon, in classic play is a discrete location. For example, I just wrote a 30ish key dungeon for someone else’s setting.  It includes setting conventions, factions and feel, but it’s discrete - separated from the source adventures as a sort of drop in alternate location.  I strikes me that the discussion here of dungeon starters is what I’d call setting hooks, scene based campaign design, or one shot design.</p>
+<p>This to a degree confirms some thoughts about PbtA design, that it shines in one shots and for the creation of microsettings. Something like Night Witches doesn’t have design principle aimed at creating an open campaign world that one plays an indeterminate number of sessions with - it’s designed as something for a few sessions.  To me this suggests a design principle difference between PbtA and classic play (or mod trad stuff - but the WotC campaign tome makes an entirely different design argument) that one finds in the sort of products that are most common in each community. In classic play this is the “adventure” - a location or small sandbox, while with PbtA the setting or entirely different game with a unique genre is more common.</p>
+<p>It’s interesting to me in that my current obsession is explaining the joys of the classic dungeon crawl and if I can adapting it to other play styles.</p>
+<p>I talk to long already. I think your design structure seems very workable, but for space I will leave it at that.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/13</link>
+        <pubDate>Wed, 20 Nov 2019 02:54:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2504-13</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504.rss">Dungeon Starters advice</source>
+      </item>
+      <item>
+        <title>Dungeon Starters advice</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="1" data-topic="2504">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/technoskald/40/2942_2.png" class="avatar"> technoskald:</div>
+<blockquote>
+<p>How do you calibrate stakes in your games, fantastic or otherwise?</p>
+</blockquote>
+</aside>
+<p>In a new DW (or DW-adjacent) game, I think this is best done through the Q&amp;A process and paying attention to the details and tone the players give you to work with.</p>
+<p>Like, in that academic misfits adventure I described above, I specifically asked questions about stakes, and the Wizard and Thief came back with rather small, bureaucratic stakes (rescue the TA, because ugh the <strong>paperwork</strong> if he goes missing). It also established those two PCs as pretty darn cynical.</p>
+<p>That cynicism was reinforced by the ghoul-infested manor being <em>on campus</em>, in its pillar or eternal night. Also by the order of paladins who supposedly watched over it, with only one true believer (the PC) among them.</p>
+<p>But! The fact that the pillar of darkness was growing, and that a magical key had been stolen from the Wizard’s office… that implied something big and bad and calamitous. So I actually set the stakes pretty high, but down-played them. When the finally found the missing TA, in the grips of the scary-as-fudge Ghoul King who was using his life force to fuel the ritual that would release Primordial Darkness on the world, well… we kinda played it for laughs. The Thief tried to bureaucratically ask for the kid back, then went for a distract-and-annoy approach with the Ghoul King, whole the Wizard tried an experimental portal (“this is great data”) and the Paladin faced down the Primordial Darkness not with a show of force by engaging it in philosophical discourse.</p>
+<p>So I guess my point is… ask the players for the stakes, directly and indirectly. But calibrate them to the tone and interests that the players express, too.</p>
+<p>And that means, when making a Dungeon/Adventure Starter, avoid baking the stakes in the material.</p>
+<p>Or if you <em>do</em> bake in high stakes, calibrate the startup questions to assert those stakes early on. Like, instead of asking “who are you seeking and why is it so important that you rescue them?” ask “what are you hoping to find here, and how exactly will it help save the world?”</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/12</link>
+        <pubDate>Wed, 20 Nov 2019 00:55:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2504-12</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504.rss">Dungeon Starters advice</source>
+      </item>
+      <item>
+        <title>Dungeon Starters advice</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="8" data-topic="2504">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/gus.l/40/2848_2.png" class="avatar"> Gus.L:</div>
+<blockquote>
+<p>I find it interesting that the call of this question is “Dungeon Starters” while the discussion/advice is primarily on narrative creation.</p>
+</blockquote>
+</aside>
+<p>(Apologies in advance if this is something you’re familiar with.)</p>
+<p>It comes out the Dungeon World play culture. The original text of Dungeon World advises that you…</p>
+<blockquote>
+<p><em>Start the session with a group of player characters (maybe all of them) in a tense situation. Use anything that demands action: outside the entrance to a dungeon, ambushed in a fetid swamp, peeking through the crack in a door at the orc guards, or being sentenced before King Levus. Ask questions right away—“who is leading the ambush against you?” or “what did you do to make King Levus so mad?” If the situation stems directly from the characters and your questions, all the better.</em><br>
+(<a href="http://acodispo.github.io/Dungeon-World-HTML-SRD/gm/first_session/" rel="nofollow noopener">DW &gt;&gt; First Session chapter</a>)</p>
+</blockquote>
+<p>So you generally play the first session largely by the seat of your pants, then between sessions you figure out what the hell is actually going on from the bits and snippets established in the first session.  (To differing levels of detail, based on taste. You might end up taking that and fully mapping and keying a dungeon as a tangible place, or you might just make some more monsters, encounters, and specific locales and introduce them as narrative and dice demand.)</p>
+<p>Anyhow, not long after Dungeon World was released (actually, probably before it was officially released), Marshal Miller published the first “Dungeon Starters,” which were basically a bunch of establishing questions, impressions, monsters, treasures, and custom moves that were meant to kickstart that first session.  Only, like, 2 of them were actually “dungeons” by any stretch (if even…maybe it was just the Goblin Hole?).  “Adventure starters” would probably be a better term.</p>
+<p>(It’s often been commented that Dungeon World games rarely involve actual “dungeons,” and are more often just high fantasy adventure in the D&amp;D genre. But I would say that most of the time, the game ends up being about “adventurers leaving safety and civilization and exploring a hostile environment.”)</p>
+<p>Your approach to dungeon design (the location itself &gt;&gt; its past/present &gt;&gt; inhabitants &gt;&gt; faction considerations &gt;&gt; map &amp; location key) isn’t all that different from what I do in DW after a first session, or in Stonetop (my DW hack) when I suspect the PCs will go explore a place. The key difference being that a lot more elements are probably already established, so it’s a matter of making them then make sense as I build out a tangible space around them.</p>
+<aside class="quote no-group" data-post="8" data-topic="2504">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/gus.l/40/2848_2.png" class="avatar"> Gus.L:</div>
+<blockquote>
+<p>I do think that this location centered process could be reduced to a set of questions, though perhaps not made entirely procedural.</p>
+</blockquote>
+</aside>
+<p>I’ve actually been banging my head into a wall trying to make a location-creation procedure for Stonetop, because I think it really benefits from having well-established, tangible locations that tell a story.  My framework right now is basically:</p>
+<ol>
+<li>Establish <strong>basic nature</strong> (what is it? where is it? why is it interesting?)</li>
+<li>Pick one or more <strong>themes</strong>
+</li>
+<li>Develop its <strong>story</strong>, by…<br>
+a) Considering what’s already established<br>
+b) Looking for connections (to the PCs, to other setting elements, to your themes, etc.)<br>
+c) Asking the obvious questions<br>
+d) Making decisions (with themes in mind)<br>
+e) Developing a timeline of events</li>
+<li>Identifying key areas<br>
+a) The approach<br>
+b) Entrance(s)<br>
+c) The goal(s)<br>
+d) Key dangers and discoveries</li>
+<li>Lay it out<br>
+a) Connections between key areas<br>
+b) Connective tissue/filler (empty halls, stairs, empty rooms, etc.)</li>
+<li>Flesh it out<br>
+a) Details, impressions, dangers, discoveries<br>
+b) Tell the location’s story through its nouns</li>
+</ol>
+<p>And while I mostly like it, I’m not sure that it’d work for anyone but me.  Or even if <em>I</em> would actually use it, if I’d find it worth the effort for what is, ultimately, a scene-based character-driven game.</p>
+<p>(sorry for the significant edits/additions… hit <strong>Post</strong> too early by accident.)</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/11</link>
+        <pubDate>Wed, 20 Nov 2019 00:05:25 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2504-11</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504.rss">Dungeon Starters advice</source>
+      </item>
+      <item>
+        <title>Dungeon Starters advice</title>
+        <dc:creator><![CDATA[@Radmad]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/radmad">@Radmad</a> wrote:</p>
+          <blockquote>
+              <p>yeesh, I apologize, that’s what I get for not reading <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/man_facepalming.png?v=9" title=":man_facepalming:" class="emoji" alt=":man_facepalming:"></p>
+<p>I’m interested in how granular you need these questions to be. For a more generic system, I would say the questions you’ve already laid out should be clear enough that they can be tailored to specific scenarios. I think if you wanted to drill down the questions would need to be increasingly tuned to the specific game/system.</p>
+<p>For example if we wanted to format it to fit DnD, the call to <strong>Motive</strong> might be “What are you looking to get out of this quest/journey/dungeon and how does that reinforce or conflict with your alignment?”</p>
+<p>If we wanted to tailor it for Burning Wheel I would ask “Which of your beliefs drives you to pursue the current objective?” <strong>Complications</strong> could be teased out by asking “Which of your instincts do you expect to conflict with what you need to do?”</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/10</link>
+        <pubDate>Tue, 19 Nov 2019 22:51:24 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2504-10</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504.rss">Dungeon Starters advice</source>
+      </item>
+      <item>
+        <title>Dungeon Starters advice</title>
+        <dc:creator><![CDATA[@technoskald]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/technoskald">@technoskald</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="8" data-topic="2504">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/gus.l/40/2848_2.png" class="avatar"> Gus.L:</div>
+<blockquote>
+<p>I find it interesting that the call of this question is “Dungeon Starters” while the discussion/advice is primarily on narrative creation.</p>
+</blockquote>
+</aside>
+<p>That’s probably because my original question was about scope and stakes, but it’s also totally fine with me that folks drifted to related topics.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/9</link>
+        <pubDate>Tue, 19 Nov 2019 22:39:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2504-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504.rss">Dungeon Starters advice</source>
+      </item>
+      <item>
+        <title>Dungeon Starters advice</title>
+        <dc:creator><![CDATA[@Gus.L]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gus.l">@Gus.L</a> wrote:</p>
+          <blockquote>
+              <p>I find it interesting that the call of this question is “Dungeon Starters” while the discussion/advice is primarily on narrative creation.  My own impulse in dungeon design (as a subset of adventure design - specifically related to location based adventures) is to build from the location itself.  Hooks - broadly potential rationales for players to interact with the dungeon and what defines their goals within are largely secondary - or I assume they will evolve at the table.</p>
+<p>I start with the location itself - often just with an impression of it or its most memorable areas and build outward. Second I consider the location’s present and past - why is it and what’s going on their now.  This leads to its inhabitants, which in turn leads to the faction considerations both internal to the dungeon and relating to the wider world.</p>
+<p>Finally back to the specifics of the location key - what’s in each room, what constitutes treasure and how the residents of the locale interact with it.  At its best this process creates a pseudo-naturalistic framework (an ecology and politics) for the location which enables the GM to easily respond to player actions and interference.  Oh at some point you draw the map.</p>
+<p>I’m not sure this helps in structuring scene based adventures - though a framework of NPC/monster relationships and goals I think is.  However for dungeons both the pseudo-ecology and faction framework supplement the basic orienteering or spatial puzzle of exploration, inform the individual puzzles and encounters within and the locations import to the larger setting/campaign (and from that hooks).</p>
+<p>I do think that this location centered process could be reduced to a set of questions, though perhaps not made entirely procedural.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/8</link>
+        <pubDate>Tue, 19 Nov 2019 21:54:04 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2504-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504.rss">Dungeon Starters advice</source>
+      </item>
+      <item>
+        <title>Dungeon Starters advice</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <p>I said earlier…</p>
+<aside class="quote no-group quote-modified" data-post="4" data-topic="2504">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/jeremy_strandberg/40/460_2.png" class="avatar"> Jeremy_Strandberg:</div>
+<blockquote>
+<blockquote>
+<p>Your hook questions should establish all of these:</p>
+<ul>
+<li>
+<strong>Motive</strong> : why are they here, doing this?</li>
+<li>
+<strong>Stakes</strong> : what’s on the line, why is it important?</li>
+<li>
+<strong>Dangers</strong> : what dangers do they expect to face? What do they know about them?</li>
+<li>
+<strong>Urgency</strong> : why shouldn’t they dawdle?</li>
+<li>
+<strong>Detail</strong> : what specifically are they hunting/ seeking/fleeing/fighting/etc.?</li>
+<li>
+<strong>Complications</strong> : what’s getting in they way, making this harder, constraining them?</li>
+</ul>
+</blockquote>
+</blockquote>
+</aside>
+<p>…which covers motivations, conflict, and danger.</p>
+<p>The part I struggle to proceduralize is coming up with the <em>specific</em> questions to ask, the specific assertions to make.</p>
+<p>Like, at my day job (software training), when we’re onboarding a new trainer, we give them a procedure for asking the class a review question as a hook or transition to a new topic.  You:</p>
+<ol>
+<li>identify (internally) which teaching objective that this new topic builds on</li>
+<li>start with a callback statement, like “Okay, think back to Lesson 2, when we talked about __.”  (This primes the audience’s brains, gets them into recall mode)</li>
+<li>ask a question (or make a leading statement) about the teaching objective from part 1, like “Why did we choose __ instead of __?”</li>
+<li>have a follow-up “nudge” at the ready, in case your audience doesn’t respond. E.g. “Well, in lesson 2, we were setting things for <em>who</em>???”</li>
+<li>step from that answer to the next concept, either as an elaboration or a contrast. “Well in this case, we’re not doing that. We’re doing __ instead. So this time, we’ll __.”</li>
+</ol>
+<p>If you’ve been doing the job for a long time, you internalize that procedure. You do it naturally, and you instinctively recognize when you can skip a step, or how to to phrase the question, or whether you need that “nudge” in step 4.  But when a new trainer is first putting their lesson plans together, that formula gives them a starting point, and a framework to think back on when they find that a question isn’t “landing” in class.</p>
+<p>I’d love to come up with a procedure like that for establishing questions, for a newer GM to use as a guide or benchmark when making up their own questions.  I’ve got a list of things you want to establish, but <em>how to ask the questions that establish those things</em> could use a process. That’s the process that I keep stalling out on whenever I think about it.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/7</link>
+        <pubDate>Tue, 19 Nov 2019 02:07:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2504-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504.rss">Dungeon Starters advice</source>
+      </item>
+      <item>
+        <title>Dungeon Starters advice</title>
+        <dc:creator><![CDATA[@Radmad]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/radmad">@Radmad</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="5" data-topic="2504">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/jeremy_strandberg/40/460_2.png" class="avatar"> Jeremy_Strandberg:</div>
+<blockquote>
+<p>But every time I’ve thought about how to proceduralize it, I’ve stalled out</p>
+</blockquote>
+</aside>
+<p>Isn’t this the skeletal structure for story/script writing?</p>
+<p>Establish motivations - ask why the characters are there<br>
+Create conflict - ask why the characters are working together (willingly or or grudgingly) and what outside forces are working against them<br>
+Create danger - ask why what the characters are doing isn’t easy and/or why it needs to be done <em>now</em></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/6</link>
+        <pubDate>Mon, 18 Nov 2019 19:16:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2504-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504.rss">Dungeon Starters advice</source>
+      </item>
+      <item>
+        <title>Dungeon Starters advice</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <p>So for example, the last time I ran Homebrew World, I asserted the premise:  “You’re trying to get something out of the ghoul-infested catacombs of Kravenghast Manor. Make characters.”</p>
+<p>They made characters: a Wizard (Fae-Touched), a Thief (Operative), and a Paladin (Paragon of Virtue). They did some intro questions… the Wizard and Thief had a… complicated past. The Paladin knows that the Thief is a better soul than he lets on. The Wizard thinks the Paladin has a beautiful soul (“so naive, its precious.”).</p>
+<p>The I start by asking the Wizard about the <strong>goal</strong>: “Who or what are you seeking you need to rescue from the crypts beneath Kravenghast Manor, and why is it so important?”</p>
+<p>She answered “Ugh, my TA” (teaching assistance… the player had recently escaped from academia and was maybe channeling). “He stole something from my office and disappeared down the Crypts.”  What was it?  “Oh, a hunk of starmetal. Not really sure what it does, been in my office for ages, in the back, collecting dust.”  (Of course, because the Fae Touched background means starmetal is anathema to her magic.)</p>
+<p>She didn’t really answer why it was important, so I think I asked the Thief why rescuing the TA was important <em>to him</em>. He established that he was a fixer and troubleshooter for the University, and it’s bad PR and a crap ton of paperwork whenever students go missing. “Easier to get out. Or at least confirm he’s dead.”  This led to the Wizard and Thief deciding that their “complicated past” was just decades of them working together on crap like this.</p>
+<p>Lovely!  We’ve got a couple PCs who seem to be largely motivated by bureaucratic nightmares, so I look for some more motive. I ask the Paladin “Why did these two come to your order for help with this mission?” (Asserting that they came to him, and that he is part of an order, and he’s helping them on the mission, but asking him why.). He came up with this wonderful bit about how his order serves The Light (non-personal source of all life and hope), and that their order is charged with monitoring and containing Kravenghast Manor, which is shrouded in perpetual darkness. “Oh, interesting! So where is the Manor, relative to the university?”  (looking for detail).</p>
+<p>“Oh it’s on campus.”</p>
+<p>Delightful!  So we’ve got an old, dilapidated sprawling manor with its own necropolis, constantly shrouded in night, on a hill in the middle of the pre-eminent University in the world.</p>
+<p>I still feel like we need a little more <em>danger</em> so I ask the Paladin: “Why has your order been so worried about the Manor recently? What’s changed?”  (Asserting that they’re worried, there’s something wrong, but I don’t know what.)  “Oh, the pillar of darkness that enshrouds the place?  It’s been growing. Quickly.”  Ooh, nice. I think he threw something in about a prophecy re: a force of primordial darkness breaking loose. “So, when the Wizard and the Thief showed up, looking for someone from your order to help, why’d they pick you?”  “Oh, I’m the only true believer here, and everyone else is like HAVE AT IT, KID.”</p>
+<p>I want another complication and a little more urgency, so I asked the Thief “Who else have you heard is here, looking for this missing TA? Or at least the starmetal artififact? And why is it so important that you find them first?”  (Asserting another interesting party is in the dungeon, and that this is a bit of a race!)  He answers that it’s a rival agent from another university, a guy he’s crossed paths with before and who never hesitates to put lives in danger. “He’s just… unprofessional.”</p>
+<p>Finally, I want a little more information about the Fae-touched Wizard professor, so I ask her what her studies focus on and how this starmetal artifact is related to them. “Well, I study portals. And this thing is like a key. But it was just shoved in the back of my office because my magic can’t do anything with it”</p>
+<p>OH REALLY?  A KEY?  AND PORTALS?  And a PROPHECY about some great DARKNESS being RELEASED?</p>
+<p>And from there the adventure almost runs itself.</p>
+<p>I guess my point is: making sure to ask questions that establish motive, stakes, dangers, urgency, details, and complications… these all make sure that your story has a lot of hard edges for creativity to crystalize on. And by making assertions while you also ask questions, you give the players hard edges for <em>their</em> creativity to crystalize on while they answer–and at the same time, you’re putting your thumb on scale and push their answers into things that are on-theme, or that introduce new themes, or that are at least sufficiently significant.</p>
+<p>How, exactly, do you know what to assert and what to ask for?  I have no idea. I think if you’ve done it enough or have a natural talent for it, you do know instinctively what will work and what won’t. But every time I’ve thought about how to proceduralize it, I’ve stalled out.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/5</link>
+        <pubDate>Tue, 02 Jul 2019 03:11:58 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2504-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504.rss">Dungeon Starters advice</source>
+      </item>
+      <item>
+        <title>Dungeon Starters advice</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <p>Here’s what I have written in Homebrew World (for those unfamiliar), and I stand by it!</p>
+<blockquote>
+<p><strong>Establish Premise</strong><br>
+Before character creation, work with the players to establish two things:</p>
+<ul>
+<li>Where they are <em>(and it should be someplace interesting and fantastic)</em>
+</li>
+<li>What they are doing there, in broad strokes <em>(exploring, rescuing, searching, hunting, fleeing; something exciting, adventurous, desperate)</em>
+</li>
+</ul>
+<p>Here’s a good level of detail: <em>“you’re on the run from something scary, and it’s chased you into the dreaded Obsidian Forests of Yend.</em>”</p>
+<p>Establish the premise before character creation so that the players can make informed choices. If we’re playing in a city besieged by undead, I probably won’t play a Ranger with the Forester background, y’know?</p>
+<p><strong>Hook Questions</strong><br>
+While they make characters, formulate some hook questions. These should both assert something and prompt the players to make up details. <em>E.g. “What are you fleeing, that you were desperate enough to enter the Obsidian Forests of Yend?”</em></p>
+<p>Your hook questions should establish all of these:</p>
+<ul>
+<li>
+<strong>Motive</strong>: why are they here, doing this?</li>
+<li>
+<strong>Stakes</strong>: what’s on the line, why is it important?</li>
+<li>
+<strong>Dangers</strong>: what dangers do they expect to face? What do they know about them?</li>
+<li>
+<strong>Urgency</strong>: why shouldn’t they dawdle?</li>
+<li>
+<strong>Detail</strong>: what specifically are they hunting/ seeking/fleeing/fighting/etc.?</li>
+<li>
+<strong>Complications</strong>: what’s getting in they way, making this harder, constraining them?</li>
+</ul>
+</blockquote>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/4</link>
+        <pubDate>Tue, 02 Jul 2019 02:26:42 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2504-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504.rss">Dungeon Starters advice</source>
+      </item>
+      <item>
+        <title>Dungeon Starters advice</title>
+        <dc:creator><![CDATA[@technoskald]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/technoskald">@technoskald</a> wrote:</p>
+          <blockquote>
+              <p>Thank you so much for that link; that’s super helpful! (And thank you for reminding me I wrote that question - I have felt extremely ambivalent about how things turned out, but that was literally the first thing I asked the players when we started the session.)</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/3</link>
+        <pubDate>Tue, 02 Jul 2019 02:18:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2504-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504.rss">Dungeon Starters advice</source>
+      </item>
+      <item>
+        <title>Dungeon Starters advice</title>
+        <dc:creator><![CDATA[@Michael_G_Barford]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/michael_g_barford">@Michael_G_Barford</a> wrote:</p>
+          <blockquote>
+              <p>Fortunately, I think that establishing questions are in fact a great way to describe the stakes of a game, if written in an explicit way. For example, if your first question was, “Why do you seek the sleeping god, despite knowing that waking them could unleash chaos upon the world?” Then that would make the stakes pretty clear.</p>
+<p>For further advice on writing good questions, check out this blog post: <a href="https://www.gauntlet-rpg.com/blog/establishing-questions" rel="nofollow noopener">https://www.gauntlet-rpg.com/blog/establishing-questions</a><br>
+Jason sums it up as, “1) the questions should help define or explore an existing aspect of your scenario and/or 2) the questions should take into account the broad character types your players are likely to bring to the table.” He also suggests waiting to ask these questions until after an initial action scene <em>in media res</em>, which I think is pretty interesting. How dynamic would it be if you started things off with a rough sketch of the characters and then jumped straight into a fight with some Hypnotic Guards? <em>Then</em> you can take a breather to figure out why you’re here.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/2</link>
+        <pubDate>Tue, 02 Jul 2019 02:15:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2504-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504.rss">Dungeon Starters advice</source>
+      </item>
+      <item>
+        <title>Dungeon Starters advice</title>
+        <dc:creator><![CDATA[@technoskald]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/technoskald">@technoskald</a> wrote:</p>
+          <blockquote>
+              <p>I have really enjoyed the Lampblack &amp; Brimstone “20 Dungeon Starters” edited by <a class="mention" href="/u/jasonlutes">@jasonlutes</a> and used them for a brief pseudo-campaign to teach some folks in a RPG streaming community how to play Dungeon World. As part of that, I took one of those starters, “The Dreaming Wood”, and wrote my own called “<a href="https://technoskald.me/2019/07/01/free-dungeon-starter-caves-of-hypnos/" rel="nofollow noopener">Caves of Hypnos</a>”. Some of it, I’m proud of, like including a mini-front with a progress clock (technically just the Danger), as I start to feel like I’m getting more into the mindset for DW and PbtA.</p>
+<p>I struggled with a few things while writing this, however, notably the questions. After reading some of Homebrew World by <a class="mention" href="/u/jeremy_strandberg">@Jeremy_Strandberg</a>, I feel like I could have written better questions that provided a better hook. <strong>What suggestions might folks have about good questions when kicking off something like this?</strong></p>
+<p>Even more so, though, I think I might have made the stakes bigger than I really should have. Once it was done, the players effectively woke up the personification of sleep, which I wrote as basically unleashing chaos - if sleep left the world, then in short order chaos would reign. <strong>How do you calibrate stakes in your games, fantastic or otherwise?</strong></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504/1</link>
+        <pubDate>Tue, 02 Jul 2019 01:50:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2504-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-starters-advice/2504.rss">Dungeon Starters advice</source>
+      </item>
+  </channel>
+</rss>

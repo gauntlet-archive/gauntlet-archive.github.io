@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</title>
+    <link>https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424</link>
+    <description>So I was thinking it would be fun to run B2 The Keep on the Borderlands somewhere in summer. Work on it now is slow since being a teacher during COVID times means reinventing yourself constantly. But yeah, having been a Graphic Designer in a previous life I wondered if I could apply some information design to the module, just as a fun exercise.
+
+I&#39;ve kind of combed through the keep itself for now with regards to NPC&#39;s and factions etc. There are some good ideas there that would be worked out more thoroughly now with clocks etc. (I&#39;m thinking of the trigger for being noticed by the Castellan and getting a secret mission, which I&#39;m thinking I might make into some kind of Countdown-Clock type thing now.)
+
+There are also some weird decisions that seem to have been made which I did not really understand. Then again I&#39;ve never really played/run Basic D&amp;D, so I might not get it. Which is why I&#39;m starting this thread, to voice my ideas or questions about the module and game design and see what you guys would answer.
+
+The big one that jumped out to me is that (SPOILERS) the Curate suspects the other Traveling Priest to not be on the up and up, but that there&#39;s only a 50% chance of him voicing this point to the PC&#39;s.
+My question here is why it&#39;s a % chance? What is the benefit. Why make it hinge on a roll instead of the PC&#39;s behavior/class/reputation or the situation in the Keep itself? (like, if adventurers keep disappearing and the Priest keeps showing up, claiming to be spared by The Powers That Be, etc.)
+
+Is there a good side to making it a dice roll wether or not he shares his suspicions or not? Am I missing something?</description>
+    
+    <lastBuildDate>Fri, 09 Jul 2021 11:33:30 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</title>
+        <dc:creator><![CDATA[@The_Bearded_Belgian]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/the_bearded_belgian">@The_Bearded_Belgian</a> wrote:</p>
+          <blockquote>
+              <p>I’ve been thinking about this project a lot since, but most of the things I’ve managed to make I’ve put on my blog. As I’ve actually ran it (both for kids in my class, as a recent play by post) I’ve been forced to have more answers. A lot of my nitpicking has fallen away in way of my own historic setting for the keep. I still have it for my own sake, but play and the players input are equally if not more important. The setting is just framing. The systems I wanna run in keep changing. At the moment I’m running it in Maze Rats (which gives magic a whole different approach, which changes magic users slightly) and I’ve played it with Roll 4 Shoes with the kids in class for the end of school.</p>
+<p>At the moment I just finally looked up what a Castellan actually is, because I just assumed they were nobility. But they aren’t! They are basically the people taking care of the property while the noble in charge is away. This poses the question about who the actual noble is that owns the property and lands that are now managed by the Castellan.</p>
+<p>I’ve got a few ideas about this. It may be a castle built by the Order of the Golden Fleece in name of King Filips the Good of Burgundy, but more compelling and interesting story wise might be that the Baron went hunting or on an expedition to the caves to route the monsters out of the land … and never returned. “What happened to the Baron?” might be a story seed/front/… that is a possibility for the players to investigate. And I like that better.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/39">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/39</link>
+        <pubDate>Fri, 09 Jul 2021 11:33:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6424-39</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424.rss">Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</source>
+      </item>
+      <item>
+        <title>Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</title>
+        <dc:creator><![CDATA[@The_Bearded_Belgian]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/the_bearded_belgian">@The_Bearded_Belgian</a> wrote:</p>
+          <blockquote>
+              <p>I keep plodding along and thinking about this. I’ve updated some things and played around with blogposts before this but I think things are shaping up and this is becoming a good enough result to share here again:<br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://thebeardedbelgiansplayground.blogspot.com/favicon.ico" class="site-icon" width="16" height="16">
+      <a href="https://thebeardedbelgiansplayground.blogspot.com/2021/06/keep-on-borderlands-rework-order-of.html" target="_blank" rel="nofollow noopener">thebeardedbelgiansplayground.blogspot.com</a>
+  </header>
+  <article class="onebox-body">
+    <img src="" class="thumbnail" width="16" height="16">
+
+<h3><a href="https://thebeardedbelgiansplayground.blogspot.com/2021/06/keep-on-borderlands-rework-order-of.html" target="_blank" rel="nofollow noopener">Keep on the Borderlands Rework: The Order of the Golden Fleece</a></h3>
+
+<p>Elevator Pitch: The Keep is an outpost of the Order of the Golden Fleece with the intention of restoring Law and Order in a region tainted b...</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/38">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/38</link>
+        <pubDate>Wed, 02 Jun 2021 14:26:51 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6424-38</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424.rss">Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</source>
+      </item>
+      <item>
+        <title>Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</title>
+        <dc:creator><![CDATA[@The_Bearded_Belgian]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/the_bearded_belgian">@The_Bearded_Belgian</a> wrote:</p>
+          <blockquote>
+              <p>A second set of Backgrounds:<br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://thebeardedbelgiansplayground.blogspot.com/favicon.ico" class="site-icon" width="32" height="32">
+      <a href="https://thebeardedbelgiansplayground.blogspot.com/2021/05/backgrounds-of-borderlands-1d6.html" target="_blank" rel="nofollow noopener">thebeardedbelgiansplayground.blogspot.com</a>
+  </header>
+  <article class="onebox-body">
+    <img src="" class="thumbnail" width="" height="">
+
+<h3><a href="https://thebeardedbelgiansplayground.blogspot.com/2021/05/backgrounds-of-borderlands-1d6.html" target="_blank" rel="nofollow noopener">Backgrounds of the Borderlands: 1d6 Wanderers or Travellers</a></h3>
+
+<p> 1d6 TROIKA! backgrounds for travellers around the Keep on the Borderlands. 2.1 - The Lost Valkyrie  This Valkyrie has lost the brave warrio...</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+<p>This time they are wanderers or travellers that might roam around the Keep.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/37">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/37</link>
+        <pubDate>Sun, 09 May 2021 12:18:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6424-37</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424.rss">Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</source>
+      </item>
+      <item>
+        <title>Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</title>
+        <dc:creator><![CDATA[@The_Bearded_Belgian]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/the_bearded_belgian">@The_Bearded_Belgian</a> wrote:</p>
+          <blockquote>
+              <p>After having just plowed ahead, today I got a bit of a revision boost and I think these 1d6 Knightly Backgrounds have way more of the flavor that I’m going after. Check it out. Feedback is welcome.</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://thebeardedbelgiansplayground.blogspot.com/favicon.ico" class="site-icon" width="16" height="16">
+      <a href="https://thebeardedbelgiansplayground.blogspot.com/2021/05/backgrounds-of-borderlands-1d6-fighter.html" target="_blank" rel="nofollow noopener">thebeardedbelgiansplayground.blogspot.com</a>
+  </header>
+  <article class="onebox-body">
+    <img src="" class="thumbnail" width="16" height="16">
+
+<h3><a href="https://thebeardedbelgiansplayground.blogspot.com/2021/05/backgrounds-of-borderlands-1d6-fighter.html" target="_blank" rel="nofollow noopener">Backgrounds Of The Borderlands: 1d6 Fighter Types — Take 2 — Knights</a></h3>
+
+<p>  1d6 Knightly Types of the Keep on the Borderlands. 1.1 - The Roaming Knight    A knight that has sworn to protect the weak and helpless fr...</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/36">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/36</link>
+        <pubDate>Thu, 06 May 2021 20:03:47 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6424-36</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424.rss">Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</source>
+      </item>
+      <item>
+        <title>Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</title>
+        <dc:creator><![CDATA[@The_Bearded_Belgian]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/the_bearded_belgian">@The_Bearded_Belgian</a> wrote:</p>
+          <blockquote>
+              <p>Well, my brain kept going.<br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://thebeardedbelgiansplayground.blogspot.com/favicon.ico" class="site-icon" width="16" height="16">
+      <a href="https://thebeardedbelgiansplayground.blogspot.com/2021/04/backgrounds-of-borderlands-1d6-of.html" target="_blank" rel="nofollow noopener">thebeardedbelgiansplayground.blogspot.com</a>
+  </header>
+  <article class="onebox-body">
+    <img src="" class="thumbnail" width="16" height="16">
+
+<h3><a href="https://thebeardedbelgiansplayground.blogspot.com/2021/04/backgrounds-of-borderlands-1d6-of.html" target="_blank" rel="nofollow noopener">Backgrounds of the Borderlands: 1D6 of Fighting Types - First Pass - Troika</a></h3>
+
+<p> 1D6 of Fighting Types The first of the six dice for the d66 for my Backgrounds of the Borderlands Troika System Backgrounds for my Keep on ...</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/35">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/35</link>
+        <pubDate>Fri, 30 Apr 2021 18:31:26 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6424-35</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424.rss">Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</source>
+      </item>
+      <item>
+        <title>Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</title>
+        <dc:creator><![CDATA[@The_Bearded_Belgian]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/the_bearded_belgian">@The_Bearded_Belgian</a> wrote:</p>
+          <blockquote>
+              <p>Some updates on my thought process, or more a digression with all the Troika Hype at the moment. Read along here:<br>
+Mixing all the troika I’ve been seeing with my Keep on the Borderlands thing. A Brainstorm. A first pass. Will be iterated on.<br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://thebeardedbelgiansplayground.blogspot.com/favicon.ico" class="site-icon" width="16" height="16">
+      <a href="https://thebeardedbelgiansplayground.blogspot.com/2021/04/backgrounds-of-borderlands-troika-esque.html" target="_blank" rel="nofollow noopener">thebeardedbelgiansplayground.blogspot.com</a>
+  </header>
+  <article class="onebox-body">
+    <img src="" class="thumbnail" width="16" height="16">
+
+<h3><a href="https://thebeardedbelgiansplayground.blogspot.com/2021/04/backgrounds-of-borderlands-troika-esque.html" target="_blank" rel="nofollow noopener">Backgrounds of the Borderlands: A Troika-esque Brainstorm (Part 1)</a></h3>
+
+<p>  Backgrounds of the Borderlands  Okay, so I’ve been reading Troika again and watching streams about it because of Troikafest.  I’m not part...</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/34">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/34</link>
+        <pubDate>Thu, 29 Apr 2021 14:48:08 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6424-34</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424.rss">Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</source>
+      </item>
+      <item>
+        <title>Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</title>
+        <dc:creator><![CDATA[@Gus.L]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gus.l">@Gus.L</a> wrote:</p>
+          <blockquote>
+              <p>No offense, I just find it funny that my blog posts have been getting consistently more essay like <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/33">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/33</link>
+        <pubDate>Sat, 13 Mar 2021 15:13:39 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6424-33</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424.rss">Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</source>
+      </item>
+      <item>
+        <title>Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</title>
+        <dc:creator><![CDATA[@The_Bearded_Belgian]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/the_bearded_belgian">@The_Bearded_Belgian</a> wrote:</p>
+          <blockquote>
+              <p>Oh, I did not mean to offend! I’m currently reading it and it’s very interesting. And it’s teaching things, which needs some words! No worries!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/32">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/32</link>
+        <pubDate>Sat, 13 Mar 2021 08:18:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6424-32</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424.rss">Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</source>
+      </item>
+      <item>
+        <title>Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</title>
+        <dc:creator><![CDATA[@Gus.L]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gus.l">@Gus.L</a> wrote:</p>
+          <blockquote>
+              <p>You’re welcome to it, though I don’t think the post offers anything revelatory.</p>
+<p>Funny thing (and this is likely a problem for me) is that when I posted that and thought - short, concise post.<br>
+:?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/31">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/31</link>
+        <pubDate>Fri, 12 Mar 2021 20:38:35 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6424-31</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424.rss">Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</source>
+      </item>
+      <item>
+        <title>Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</title>
+        <dc:creator><![CDATA[@The_Bearded_Belgian]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/the_bearded_belgian">@The_Bearded_Belgian</a> wrote:</p>
+          <blockquote>
+              <p>This is a long blogpost, but I’m interested! I will read it once my Friday evening brain full of screaming kid voices calms down a bit. For now I’m running out of focus and concentration after a week of teaching.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/30">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/30</link>
+        <pubDate>Fri, 12 Mar 2021 16:12:37 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6424-30</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424.rss">Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</source>
+      </item>
+      <item>
+        <title>Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</title>
+        <dc:creator><![CDATA[@Gus.L]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gus.l">@Gus.L</a> wrote:</p>
+          <blockquote>
+              <p>I mean I don’t. Not in the Gygaxian (or even cosmic alignment) sense.</p>
+<p>Liars, thieves and cheaters are of course everywhere in game - it’s one of the mainstays of Swords &amp; Sorcery. But both lying barkeepers and ancient demingods awakened from death-grey slumber to set the stars aflame (or you know whatever) aren’t chaotic good or lawful evil.  They are all simply factions with goals and justifications: why not cheat adventurers? You’ve got a business to run and they’re rarely repeat customers or the world has broken its troth and the blood doesn’t fill the altar bowl, it is time to remind the worshipers of your power and the proper chain of being.</p>
+<p>I don’t think this is a mere affectation, but almost a key to fitting both faction intrigue and moral play into a classic style game.  To the degree that alignment tells the players who to trust, or who its okay to murder they will generally follow it. If one wants players to have the room or motivation to make moral decision, cosmic clues or justifications often disrupt that. This is even the historical intent of alignment.</p>
+<p>Law, Chaos, and Neutrality originally modeled what sort of magical creatures one could have in ones wargaming army, a way to simplify army lists for the Chainmail Fantasy supplement.  They also served as a convenient shield for 80’s TSR to push back against claims of moral hazard, and a way to keep play running smoothly on inoffensive lines - a module like King’s Festival shows the ultimate incarnation of this bland “orcs in a hole” style play.  Finally it seems like Gygax really liked alignment, though he seems to have loved any reductive taxonomy that broke complex things down into simple bits.</p>
+<p>The history of the rules aren’t really important, but alignment seems to me a drag on morally complex play and faction intrigue – both of which I find a lot of fun.</p>
+<p><strong>Specifically about lying NPCS:</strong></p>
+<p>Make sure all NPC voices are clearly not the GM’s voice. Don’t be afraid to signal untrustworthiness or even falsehood especially with tangential NPCs the players don’t know anything about, expect players to murder any NPC that seems slightly untrustworthy. I wrote up my thoughts on deceptive NPCs a few months ago here:<br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://alldeadgenerations.blogspot.com/favicon.ico" class="site-icon" width="32" height="32">
+      <a href="https://alldeadgenerations.blogspot.com/2021/01/a-note-on-deceptive-npcs-and-more.html" target="_blank" rel="nofollow noopener">alldeadgenerations.blogspot.com</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/362;"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/a/ac5809ff0e98b493d308283caa354d229413bdfb_2_690x362.png" class="thumbnail" width="690" height="362" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/a/ac5809ff0e98b493d308283caa354d229413bdfb_2_690x362.png, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/a/ac5809ff0e98b493d308283caa354d229413bdfb_2_1035x543.png 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/a/ac5809ff0e98b493d308283caa354d229413bdfb.png 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/a/ac5809ff0e98b493d308283caa354d229413bdfb_2_10x10.png"></div>
+
+<h3><a href="https://alldeadgenerations.blogspot.com/2021/01/a-note-on-deceptive-npcs-and-more.html" target="_blank" rel="nofollow noopener">A Note on Deceptive NPCs and More Crystal Frontier</a></h3>
+
+<p>VULGAR COMMERCIALISM December has been a productive month, though projects keep moving off sideways rather then plodding on properly to thei...</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/29">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/29</link>
+        <pubDate>Fri, 12 Mar 2021 15:21:42 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6424-29</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424.rss">Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</source>
+      </item>
+      <item>
+        <title>Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</title>
+        <dc:creator><![CDATA[@The_Bearded_Belgian]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/the_bearded_belgian">@The_Bearded_Belgian</a> wrote:</p>
+          <blockquote>
+              <p>The follow up blogpost has been posted here: <a href="https://thebeardedbelgiansplayground.blogspot.com/2021/03/starting-at-keep-part-two.html" rel="nofollow noopener">https://thebeardedbelgiansplayground.blogspot.com/2021/03/starting-at-keep-part-two.html</a></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/28</link>
+        <pubDate>Fri, 12 Mar 2021 05:39:40 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6424-28</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424.rss">Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</source>
+      </item>
+      <item>
+        <title>Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</title>
+        <dc:creator><![CDATA[@The_Bearded_Belgian]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/the_bearded_belgian">@The_Bearded_Belgian</a> wrote:</p>
+          <blockquote>
+              <p>Some more thought about alignment in the module, especially Chaos. The truly chaotic characters in the module seem to be only out on destruction, that is to say, they will try to kill the characters. I think this is a missed opportunity. What about cheaters, or liars? They don’t necessarily want to kill you, but they also don’t want to follow the rule of law if it doesn’t benefit them. What about characters that want to corrupt others? That offer dark deals etc?</p>
+<p>What types and flavors of evil/chaos do you guys use in your games?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/27">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/27</link>
+        <pubDate>Wed, 10 Mar 2021 19:39:24 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6424-27</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424.rss">Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</source>
+      </item>
+      <item>
+        <title>Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</title>
+        <dc:creator><![CDATA[@The_Bearded_Belgian]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/the_bearded_belgian">@The_Bearded_Belgian</a> wrote:</p>
+          <blockquote>
+              <p>New blogpost related to thoughts I’ve had that sprouted from this thread here: <a href="https://thebeardedbelgiansplayground.blogspot.com/2021/03/starting-at-keep-part-one.html" rel="nofollow noopener">https://thebeardedbelgiansplayground.blogspot.com/2021/03/starting-at-keep-part-one.html</a></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/26</link>
+        <pubDate>Wed, 10 Mar 2021 09:43:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6424-26</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424.rss">Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</source>
+      </item>
+      <item>
+        <title>Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</title>
+        <dc:creator><![CDATA[@The_Bearded_Belgian]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/the_bearded_belgian">@The_Bearded_Belgian</a> wrote:</p>
+          <blockquote>
+              <p>With all the posting I’ve been doing in this thread I’ve been thinking of starting a blog to put more finished ideas on. <a href="https://thebeardedbelgiansplayground.blogspot.com" rel="nofollow noopener">This has now been done</a>.</p>
+<p>So far I’ve only put some older stuff on it and a review of a comic I recently read. Some of the things I’ve written here and got feedback on from you guys will probably get on there pretty soon. I’ll still just brainstorm questions here and will keep the blogpost for more well-formed ideas (<em>at least</em> half-baked!). But yeah, an introduction, some thoughts about alignment, the halfling Gaul idea and world-tone stuff will probably be some of the first. There are also more of the other articles coming. It will not be limited to just gaming stuff, but we will see what sticks. Not planning on making a living out of it or anything. It’s just my playground, but you’re all invited <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/25</link>
+        <pubDate>Sat, 06 Mar 2021 15:30:17 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6424-25</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424.rss">Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</source>
+      </item>
+      <item>
+        <title>Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</title>
+        <dc:creator><![CDATA[@The_Bearded_Belgian]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/the_bearded_belgian">@The_Bearded_Belgian</a> wrote:</p>
+          <blockquote>
+              <p>Oh, they can have characters from completely different cultures for sure. I mean, “wanderers” are established in the tavern description. I would welcome more diverse and even silly concepts I think. This is mainly me having solitary fun with perhaps an idea to try some online game stuff over the summer to test it out.</p>
+<p>Good point about the animal handling. I’d have to think about that, but I can easily see their herd of pigs or something tied in into the henchmen/followers mechanic based on CHA. For now it’s just mainly flavor. (I mean they are the “noble savages” or whatever of this setting) But thanks for the heads up!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/24</link>
+        <pubDate>Mon, 01 Mar 2021 19:55:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6424-24</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424.rss">Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</source>
+      </item>
+      <item>
+        <title>Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</title>
+        <dc:creator><![CDATA[@Gus.L]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gus.l">@Gus.L</a> wrote:</p>
+          <blockquote>
+              <p>Seems like a functional setting – personally for these kinds of games I try not to get too deep into the setting at the start, especially with the identity of character species.  Like your elf players might want an Dwarf named Sun Wukong, and it’s always been more fun to let the players decide why/create the fluff around distant or unknown parts of the world.  At least for me.</p>
+<p>I do like your halfling concept quite a bit - one thing from my own B/X and OD&amp;D games that I’ll mention is being careful about animal handling.  Packs of attack animals are a powerful aid to players, and suddenly they’ll have 25 “war pigs” or whatever that they launch like guided missles at everything they encounter. Depending on the system, even the relatively limited attacks of war beasts add up very quick. Basically it seems to me that one needs some mechanics around number, morale, loyalty and availability of beasts for animal handlers.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/23</link>
+        <pubDate>Mon, 01 Mar 2021 15:18:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6424-23</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424.rss">Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</source>
+      </item>
+      <item>
+        <title>Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</title>
+        <dc:creator><![CDATA[@The_Bearded_Belgian]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/the_bearded_belgian">@The_Bearded_Belgian</a> wrote:</p>
+          <blockquote>
+              <p>Slight update as I’m working on and off at this.</p>
+<p>The Keep and the human kingdom/empire/whatever lawful lands will be based on French/Breton knights and culture.</p>
+<p>Halflings are short Gaul that live in the Chaos tainted lands while still being mostly lawful. They have a good connection with the land and are mainly known for being good with animals. Hunters, beast masters, … usually accompanied by a loyal dog. Some might herd animals like sheep (which to them might also be mounts) pigs (same) geese and poultry. Led by druids and a council of elders, tribal communities that don’t always agree. Very brave (or stupid according to some, but they would compare them with scared little birds of whom they’d pin the wings to their helmets!).</p>
+<p>I’ve been compiling name lists and amounts of people in the keep so that I can name them and maybe give them all a few quirks or other details. It makes the world/setting feel more alive for sure!</p>
+<p>Still deciding on what kind of Dwarves I want. I’m thinking they might be from the Pyrenees. Which means they’d have more Spanish/Basque/Catalan sounding names and culture or from the Alps (which means they might have more German/French/Swiss/Austrian sounding names and culture). But I’m also thinking … why not both?</p>
+<p>I’m not sure about my elves yet, except that I want them to be very childlike (they take literal ages to grow) which gives them the trope of the 500 year old child and such stuff. (I should maybe see what TV Tropes calls it, but that site is a black hole for my attention.) I’m thinking I might focus on their link to nature and give them names from Fauna and Flora, but maybe not in whatever language is spoken by the players. I’m thinking Frisian or Scandinavian, but I’m not sure yet. It might be fun to suggest their age to have their names be in Latin or Roman, but I might just settle on Fauna and Flora names by it’s own, without extra fluff. I’m not there yet though.</p>
+<p>Also working on a horse name generator which gives horses more like titles rather than names. Things like “Lightning that chases the Morning” and stuff like that.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/22</link>
+        <pubDate>Fri, 26 Feb 2021 06:28:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6424-22</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424.rss">Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</source>
+      </item>
+      <item>
+        <title>Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</title>
+        <dc:creator><![CDATA[@The_Bearded_Belgian]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/the_bearded_belgian">@The_Bearded_Belgian</a> wrote:</p>
+          <blockquote>
+              <p>I’m going on and off of what I want to do with the adventure.</p>
+<p><strong>On location:</strong><br>
+I kind of want to plop it down in a real-world location. I mean, Law vs. Chaos lands fits some locations, right? I’m thinking of places like <em>Hadrian’s wall</em>, where the Keep could be the last beacon of Law behind the wall. On the other hand I don’t want to get needlessly bogged down in history and historic thought. I don’t want to have to retcon needlessly. Like, “these weapons were unavailable during this time period”, “women stayed at home doing needlepoint”, etc. Also, I’m kind of tired of standard “English History”.</p>
+<p>It would be more interesting to me to set it in Medieval Europe, like France or Italy or Iberia and use these cultures to spice things up a bit. I’m consciously going for cultures that are still quite close to mine (Belgian, ya know, we weren’t even a country back then, just some rowdy Gauls) because if I try to do a culture too far from my own (say south east Asia) I might head into unfair generalization and untruths. If all else fails I might just make it a pseudo-historical thing and have made-up cultures. That goes less deep but makes for more modern, inclusive types of player characters. In the end we’ll have to decide with whoever ends up playing with me.</p>
+<p><strong>On the adventure start:</strong><br>
+It’s kind of a lame start as written that first has a bit of “city adventure” type stuff. That could be nice, getting to know the people in the keep etc, but it also could take a session and might not be why we really want to play. I might want to have people start in the keep itself and have some rolls to determine how they got in there as a sort of flash-back, introduction.</p>
+<p>Another option that I quite like is that the players could just be Keep Soldiers. New recruits, patrols, etc. It will keep things less open or less sandbox and more mission driven, that’s true, but it would be more like a Final Fantasy Tactics, Ogre Tactics or Fire Emblem type game, with a cast of colorful NPC’s no nameless NPC’s (I’m thinking of how Valkyria Chronicles deals with their ‘henchmen’/recruits). And once the PC’s gain some level or reputation, they might get more autonomy and get to choose about the missions they get, lead their own troops, etc.</p>
+<p>It all depends on what type of game the players want to play I guess, but the option could be out there.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/21</link>
+        <pubDate>Wed, 17 Feb 2021 08:52:55 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6424-21</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424.rss">Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</source>
+      </item>
+      <item>
+        <title>Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</title>
+        <dc:creator><![CDATA[@Thomas_Junk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/thomas_junk">@Thomas_Junk</a> wrote:</p>
+          <blockquote>
+              <p>Yes. I always thought of them like terrorists and counterterrorists.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/20</link>
+        <pubDate>Thu, 04 Feb 2021 07:50:32 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6424-20</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424.rss">Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</source>
+      </item>
+      <item>
+        <title>Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</title>
+        <dc:creator><![CDATA[@The_Bearded_Belgian]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/the_bearded_belgian">@The_Bearded_Belgian</a> wrote:</p>
+          <blockquote>
+              <p>I keep hanging around on the Keep, and just browsing through it, before a new in depth reading/conversion I stumbled on some new questions. Mainly the one question: <strong>Where does it all come from?</strong></p>
+<p>It started as my eye got caught on the menu in the Tavern, which seems to be able to provide Roast Fowl and Roast Joint any given day! That’s a lot of livestock! There is no farm connected to the Keep that we can see, no pigsty, to henhouse, etc. I mean, I know it’s probably background stuff for most games, but I’ve been reading the “The Tao of D&amp;D” blog and their simulations approach, and that gives me some questions. It makes my mind think about these things. Is it all trade? This is supposed to be a dangerous, chaotic environment! Is it all hunted fair? It’s a possibility, that gives the watch a bit more to do than patrolling the walls I guess. Or the Mercenaries that hang around. Still, this is only the Tavern, as much we know only the Watch, Visitors and Mercenaries eat here, and perhaps the Clergy. But would they all eat at the Tavern, is there enough room? Do they have their own food in the barracks of their towers etc?</p>
+<p>Then I had to think about the Smithy and Armourer. They need iron for their craft, and they probably use it most for horseshoes and repairing gear of the Watch, the Guard and the Castellan. How do they have time to craft all the other stuff they sell? I might have to rework the price list or availability of items I guess.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/19</link>
+        <pubDate>Tue, 02 Feb 2021 08:02:03 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6424-19</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424.rss">Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</source>
+      </item>
+      <item>
+        <title>Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</title>
+        <dc:creator><![CDATA[@The_Bearded_Belgian]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/the_bearded_belgian">@The_Bearded_Belgian</a> wrote:</p>
+          <blockquote>
+              <p>Some more Keep related remarks as I keep going through that part of the adventure. This time more confused about how the B/X rules line up to it or not. It’s not really important until you did something to impress the Castellan and unlock the revel, but it’s about the Castellan and his advisors.</p>
+<p>They look and feel like “retired adventures” that perhaps adventured together. They are about the same level and have loads of magical gear. There are a few things that are off about it though. The elf advisor would have to be adventuring for twice as long as the others to have the same level as the XP requirements for the Elf class are about double, it being basically two classes in one. I mean, you could explain that they met up for the last adventure, maybe recovering this Keep from the Chaotic wilderness and settling in, but still, it shows some of the inequality in levels. The Elf class looks very interesting when you start out, because you get to wear armour, wield weapons and do magic. Furthermore you get some special abilities such as an immunity to being paralyzed, but in the end you will turn out to be the one that will have less HP than others of the same level, advancing slower, getting slower access to high level spells, etc.</p>
+<p>Also, rules wise adventurers only get to retire when they reach LvL 9, so what’s going on there? I think I recall reading that Basic DnD was sold separate from Expert DnD and the first was focused on the first three levels while the latter was for more advanced play, in higher levels.</p>
+<p>Still, it seems weird to have these “rulers” be so low level in what’s supposed to be a place conquered  on and being reclaimed by Chaos. I was thinking that the abundance of +1 weapons in the keep meant that the Elf was making these, but I’m not sure a LVL3 character should be making magical items. I haven’t read the crafting rules in Old School Essentials yet though, but I might have to see how I will spin this or if I will crank their levels up significantly. I dunno. LVL 3 is about the highest level in the module I think, except for one LVL4 enemy NPC I think, but I’m not sure. More food for thought.</p>
+<p>So far the abundance of +1 weaponry (which is kinda boring as far as magic weaponry goes) might be framed as loot from Keep Patrols roaming the Wilderness, trying to keep the road safe, so the merchants can pass through.</p>
+<p>Not sure if I’m going to read through the keep again and see if I can summarize the rooms better now that I have more of an idea of the relations inside the keep, or that I will head on to the wilderness area and start thinking about squares vs hexes and invisible walls etc.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/18</link>
+        <pubDate>Sun, 31 Jan 2021 09:33:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6424-18</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424.rss">Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</source>
+      </item>
+      <item>
+        <title>Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</title>
+        <dc:creator><![CDATA[@The_Bearded_Belgian]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/the_bearded_belgian">@The_Bearded_Belgian</a> wrote:</p>
+          <blockquote>
+              <p>I’m still forming my view on the Keep, but I like the Knightly Knights of Arthur vibe that is going on, so I’ll probably lean more into the original bastion of good vibe. Which does not mean good men cannot fall. That will make it all the more tragic. I’m thinking more of leaning into flavors of Law and Chaos, of the Pendragon system with the virtues/vices for example, of the way Burning Wheel or Mouseguard handles these kinds of things with a Steel Check for humans, some kind of Lethal Nostalgia Sadness Check for Elves, Greed for dwarves and Nature for Mice. Changing Alignment to such an approach is kinda what I’m looking at at the moment. But more on that once I’ve worked my way through the module more I think. Now I’m just observing. Changing stuff is for later.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/17</link>
+        <pubDate>Thu, 28 Jan 2021 21:35:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6424-17</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424.rss">Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</source>
+      </item>
+      <item>
+        <title>Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</title>
+        <dc:creator><![CDATA[@Gus.L]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gus.l">@Gus.L</a> wrote:</p>
+          <blockquote>
+              <p>These are interesting observations, and certainly Gygax seems to have viewed the Keep as a bastion of goodness threatened by a few insidious evils and the dangerous monsters of the Caves.</p>
+<p>For my own takes on the Keep I tend towards a more grey v. grey morality. Not only does it better describe my own view of the world, and uphold my preference of not using alignment rules, but it seems to make the moral decisions of the players less obvious.  If the game presents the Keep and good and Caves as evil there’s rarely any real impetus to make moral decisions - massacre of evil is okay and the busting into peoples homes and taking their stuff element of classic D&amp;D is justified.  Better to make everyone (or at least everyone with power) a bit dubious, make the players pick a side - aim for Fistful of Dollars/Yojimbo rather then Ballad of the Green Berets – but that’s just my method of playing these things.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/16</link>
+        <pubDate>Thu, 28 Jan 2021 20:34:32 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6424-16</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424.rss">Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</source>
+      </item>
+      <item>
+        <title>Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</title>
+        <dc:creator><![CDATA[@The_Bearded_Belgian]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/the_bearded_belgian">@The_Bearded_Belgian</a> wrote:</p>
+          <blockquote>
+              <p>I had some more thoughts about alignment while combing through the given NPC’s.</p>
+<p>In the keep there seems to be a focus on hierarchy and merit. Servants and lackeys “obviously” sleep in the stables (<span class="hashtag">#14</span> of the Keep, p.13), The Captain of the Watch is rich but pays his people only little.(<span class="hashtag">#12</span>, p.13) Does this imply that you need to earn your wealth or that he has a character flaw?</p>
+<p>There are multiple “flawed” people in the keep. Why? Is this to show that Law isn’t black and white and even lawful people have flaws, or does it show the creep of Chaos even in a bastion of Law? I like the corruption angle, which makes it more Tolkienesque. It also seems most obvious in how the Castellan and his knights and collegues in the Castle/Keep itself are paragons of Law, but the guards and watchmen have a bit more flaws. They are probably more between law and neutral than the Castellan. Also, it has to be kept in mind that is only a single character flaw we see on which we are judging them. The lawfulness is otherwise implied and not vocalized. Maybe we should read it more as: He likes money but … and have something good to balance it out, since if that is his only flaw, he probably is a better person than I am.</p>
+<p>Like “The Corporal of the Watch is easily taken in by a pretty girl, but he will not be openly lecherous.” or “The Corporal of the Watch is easily taken in by a pretty girl but will not keep pushing if turned down.” Maybe he can have a corruption countdown clock though, in which he might suddenly start catcalling girls or stalking or … abusing his position of power. This can tick forward as he might go to confession to the traveling priest instead of the Curate over time or something like that.</p>
+<p>The divide in the lawfulness in the keep also seems to imply that nobility implies a moral high ground. (the Cavalry and the Masters of the Keep have no flaws that I’ve discovered (except the Castellan’s tendency to make hasty decisions), while the Guards definitely do.) There could be arguments for it, as the nobles are reared to be examples of virtue and get trained to “guide the masses”. History on the other hand shows a lot of corrupt nobles, so there are definitely arguments against it. Perhaps the amount of corruption one is influenced by is dependent on the amount of power. The need to be Lawful is probably greater for a Noble who needs to guard himself of the lure of abuse of power daily while a serf working the land with no prospect can comfortably retain a neutral attitude, just looking out for themself and their family without a lure for power abuse.</p>
+<p>The Tavern has a Potboy, which the game’s own words list in the end of the book defines as a servant or even a slave. The option of it being a slave is in there. There’s also something in the rules about bringing in captives from the monsters to ransom (One of the options to unlock access to the Keep, the Castellan and the Special Mission). Slavery doesn’t seem to be seen as Chaotic in itself by the module. An option could be to have the potboy in the tavern be a captured goblin or other monstrous humanoid from the caves.</p>
+<p>Well, that was a word-vomit of only slightly coherent thought. I hope it’s useful to someone or provokes people to give me different insights.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424/15</link>
+        <pubDate>Thu, 28 Jan 2021 16:30:08 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6424-15</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/reworking-b2-the-keep-on-the-borderlands-design-questions-and-remarks-spoilers/6424.rss">Reworking B2 - The Keep On The Borderlands // Design Questions and remarks // spoilers</source>
+      </item>
+  </channel>
+</rss>

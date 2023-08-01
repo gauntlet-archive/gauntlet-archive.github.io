@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Fix to Gauntlet Calendar</title>
+    <link>https://forums.gauntlet-rpg.com/t/fix-to-gauntlet-calendar/4787</link>
+    <description>We&#39;ve applied fix to the notifications from the Gauntlet Calendar. As always, players receive an email when they sign up for a game. Now GMs should once again also receive email notifications when someone signs up for their event. They should also get an email when someone moves from the waitlist to the actual event. Now when a player moves from the waitlist to the event, they should also get an email. 
+
+Keep an eye on this and tell me if this doesn&#39;t work for you.</description>
+    
+    <lastBuildDate>Fri, 13 Mar 2020 18:59:18 +0000</lastBuildDate>
+    <category>Announcements</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/fix-to-gauntlet-calendar/4787.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Fix to Gauntlet Calendar</title>
+        <dc:creator><![CDATA[@edige23]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/edige23">@edige23</a> wrote:</p>
+          <blockquote>
+              <p>We’ve applied fix to the notifications from the Gauntlet Calendar. As always, players receive an email when they sign up for a game. Now GMs should once again also receive email notifications when someone signs up for their event. They should also get an email when someone moves from the waitlist to the actual event. Now when a player moves from the waitlist to the event, they should also get an email.</p>
+<p>Keep an eye on this and tell me if this doesn’t work for you.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/fix-to-gauntlet-calendar/4787/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/fix-to-gauntlet-calendar/4787/1</link>
+        <pubDate>Fri, 13 Mar 2020 18:59:18 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4787-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/fix-to-gauntlet-calendar/4787.rss">Fix to Gauntlet Calendar</source>
+      </item>
+  </channel>
+</rss>

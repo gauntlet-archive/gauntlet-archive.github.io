@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Minds-Eye resolution mechanic</title>
+    <link>https://forums.gauntlet-rpg.com/t/minds-eye-resolution-mechanic/1197</link>
+    <description>NOTE: this is a long one. :X
+
+For a while now I&#39;ve been working on an RPG system that can be played entirely in the minds-eye. I wanted a system that could facilitate play while hiking the trails where I live. There are a lot of freeform rules-lite narrative systems that could probably accomplish this, but I wanted to see how much mechanical crunch I could fit in the system. I want just enough crunch to make it feel featured, but not so much that it&#39;s unwieldy for environments like hiking, being stuck in traffic, or just anywhere that the usual tools aren&#39;t available.
+
+I&#39;m calling it WANDER system, and a lot of work has been done so far related to incorporating redundancy and mnemonic systems to reduce the load on player memory; and balancing minimalism with an information-rich experience. Basically answering the question: How do we have a rich fiction without expecting people to remember a ton of stuff. The biggest hurdle so far has been the main resolution mechanic. 
+
+I&#39;ve explored a few approaches so far but I&#39;m having trouble deciding what will actually work the best. I&#39;m hoping some of the people in this community will have some insight. 
+
+First, what I&#39;m trying to accomplish. This will be the standard resolution mechanic that determines the success of an action. It will compare an element of chance combined with an element of character capability against a target difficulty. This is the standard &quot;dice roll + modifier vs difficulty value&quot; This thread is specifically about the &quot;element of chance&quot; component. 
+
+I&#39;ve so far followed the problem toward two distinct possibilities. Games of chance, and minds-eye random number generation. Both have their own benefits and drawbacks.
+
+**Minds-eye random number generation.**
+The first problem with this approach is that minds are horrible at generating random numbers. If I tell you to pick a number between 1 and 10, most of you will pick an odd number. Most of those will be 3, 5, or 7. There&#39;s lots of research on this. After a lot of thought, I settled on two ways to overcome this selection bias. 1) using visual inputs to inform the selection, 2) Perform a mathematical function on the selection so that the result is sufficiently difficult to predict. 
+
+Using visual inputs at first seems like it might be a reliable approach, but it&#39;s actually really challenging to get right. If we want a basic boolean true/false coin flip (or even a series of them for generating binary values), we have to find real true/false inputs, and they&#39;re not that common. &quot;the next car to turn that corner will be red&quot; is true or false, but it depends on how common red cars are compared to other cars. 
+
+The distribution isn&#39;t uniform, so the chance isn&#39;t fair. &quot;The next person I pass will be taller than me&quot; seems closer to a fair boolean input, but not if you&#39;re taller or shorter than average. Choosing inputs that are likely to work in your favor is something that you could get better at with time, and the chance element of this resolution mechanic can&#39;t depend on player skill. It&#39;s not the part of the game that a veteran player should be better at than a new player. 
+
+Other visual input approaches seem similarly flawed. The first single-digit number on the next license plate you pass assumes that all digits have an equal chance of being in that position, and I&#39;m not sure they do. [Benford&#39;s Law](https://en.wikipedia.org/wiki/Benford%27s_law) demonstrates that in a LOT of real world sets of numerical data the distribution is not uniform. Your odds of seeing a 1 are often six times higher than your odds of seeing a 9. 
+
+Finally, the last major flaw with this approach is that it&#39;s really slow, and that is fatal for game-feel. Throwing dice is a climactic moment. If you have to spend the next few minutes collecting visual input to turn it into a roll result, that kills the feel. 
+
+The second approach to minds-eye random number generation is using math to obscure the result from the selection. The method looks like this: Pick a number, do math to it, use the result. The general idea is that &quot;doing math to it&quot; scrubs out the bias. As long as the math is sufficiently difficult that you can&#39;t easily predict the result then you can&#39;t cheat the system (whether deliberately or just because your brain has a built-in bias)
+
+One example of this approach would be: 
+1) select a 4 digit number
+2) Sum all the digits. 
+3) If the result is more than one digit long, sum those digits.
+4) repeat step three until you have a single digit result
+5) use that digit as a 1d10 roll. 
+
+There are a number of problems with this approach. First of all, selection bias still plays a role here, though a much smaller one. Picking a 4 digit number out of your mind still isn&#39;t a uniformly random choice. People still tend to pick odd numbers, meaning that odd numbers will be overrepresented in the selection, and odd number sums will be overrepresented in the result. This reduces the usefulness of selection bias, but it doesn&#39;t reduce the existence of it. 
+
+An even bigger problem is that you can easily choose small enough numbers that the result isn&#39;t sufficiently difficult. If you want to roll a 9 just pick 6111 or 4221. You can remember that easily enough. The problem with using math is that you have to find a balance between 1) making it easy enough to do in your head that it doesn&#39;t kill fun and 2) making it difficult enough that you can&#39;t cheat it or predict the result. 
+
+You could solve that last problem by having the GM or another player pick half the number but in my opinion that ruins an important moment in the game. We know that dice rolls are random, but we suspend that disbelief momentarily when we throw the dice. You wouldn&#39;t let someone else throw your last death save even though it technically wouldn&#39;t make a difference. Letting someone else pick part of the number for you would be like letting someone else roll your dice.  
+
+Another approach is using the same kinds of random number generation systems that computers use but with smaller numbers and simplified algorithms so that they&#39;re manageable for the average player. For example, you can modify the &quot;Multiply-and-carry&quot; generator to the following few steps: 
+
+1) Pick a two-digit number, this is your seed.
+2) form a new two-digit number by adding the digit in the tens place to six times the digit in the units place. 
+3) the digit in the units place of your new number is your roll (basically a 1d10) 
+4) The full two-digit result is the next seed, so when you repeat this process on the next roll use that two-digit number in step 1. 
+
+so for example, if you start with 24:
+1) select 24
+2) 2 + (6*4) = 26
+3) the roll result is 6
+4) 26 is the next seed.
+
+There are a few advantages to this approach. First, selection bias disappears after the first roll because the algorithm itself determines the next selection rather than you selecting it with your brain. 
+
+Also, if you repeat this process you&#39;ll end up with a different result every time for 59 cycles. This makes for a very nearly uniform and very fair generator. One problem with this system is asking people to multiply by six in a resolution mechanic. I&#39;ve asked for feedback in a lot of places and most people don&#39;t want to multiply by 6 every time they have to resolve an action. Even if you recommend multiplying by 5 and then adding the last set, that&#39;s still asking a lot. 
+
+The other, even bigger, problem is that the sequence doesn&#39;t change. 24 is *always* followed by 26 which is followed by 38 every time. You can&#39;t force yourself to get a good roll, but you can memorize patterns and predict the next result and game the system by lining up your actions according to the rolls you know are coming. 
+
+This is a compressed version of all the work I&#39;ve done in this area so far. Does anyone see anything I&#39;ve missed or have any insight into how I might make something like this work? 
+
+**Games of chance** 
+The other possible option I&#39;ve been considering is using a minigame like rock paper scissors, odds and evens, or morra.
+
+The problem with playing rock paper scissors is that according to my research, there is a skill grade. There is research to support that some people are better at it than other people, and you can get better at it with practice particularly if you&#39;re always playing with the same people. This is because your choice isn&#39;t really random, because brains are horrible at random selection.
+
+Odds and evens is similar to rock paper scissors. If you&#39;re not familiar with the rules it&#39;s very similar to RPS in that two players throw a hand sign on the count of three. In this game you throw either 1 finger or 2 fingers and you count the total. One player wins if the result is odd, the other wins if the result is even. This has the same problem as RPS but, at least in my part of the world, this game is much less common and players will, therefore, be much less practiced. 
+
+One thing I like about these two mechanisms is that there&#39;s a really intuitive way to break them into 4 possible end states that can represent a gradient of success. 
+
+1. If you win the first two throws, you can stop because you&#39;ve won 2/3. This is the fastest you can win and you can call that superior success.
+2. if you win the first and lose the second or vice versa, but then win the final throw, that&#39;s an average success. 
+3. if you win the first and lose the second or vice versa, but then lose the final throw, that&#39;s an average loss. 
+4. if you lose the first two throws, you can stop because you&#39;ve lost 2/3. This is the fastest you can lose. 
+
+Finally, the last thing I&#39;ve so far considered is the game Morra. In this game, two players throw out hands with between 1 and 5 fingers extended and call out a number between 1 and 10 aloud. If the number you call out is equal to the total number of extended fingers you win the round.
+
+If you have the player play against the GM, and have only the player call out a guess, you could count the number of attempts it takes to succeed and use that count as the roll. A lower number would probably represent a better result. 
+
+The main problem with this one is that it&#39;s a skill based game. You have to be able to quickly work out what results are possible based on how many fingers you&#39;re throwing. Again, this should be an element of chance and not an element of skill. On the other hand (get it, hand?) There&#39;s an element of excitement that goes along with shouting out your guess that kind of makes me like this. It really goes against my instincts in terms of what I think I&#39;m trying to design but I haven&#39;t been able to abandon it quite yet. 
+
+-------
+
+Okay, long post, but I wanted to write it down so that I could organize it in my brain and also put it in front of some other brains to see what insights you might have. Let me know what you think!</description>
+    
+    <lastBuildDate>Thu, 21 Mar 2019 16:20:13 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/minds-eye-resolution-mechanic/1197.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Minds-Eye resolution mechanic</title>
+        <dc:creator><![CDATA[@Gustavo_Campanelli]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gustavo_campanelli">@Gustavo_Campanelli</a> wrote:</p>
+          <blockquote>
+              <p>If you have access to a stopwatch with 1/100 of a second, the last digit can work as a random number generator when stopped.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/minds-eye-resolution-mechanic/1197/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/minds-eye-resolution-mechanic/1197/4</link>
+        <pubDate>Thu, 21 Mar 2019 16:20:13 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1197-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/minds-eye-resolution-mechanic/1197.rss">Minds-Eye resolution mechanic</source>
+      </item>
+      <item>
+        <title>Minds-Eye resolution mechanic</title>
+        <dc:creator><![CDATA[@BrianAshford]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/brianashford">@BrianAshford</a> wrote:</p>
+          <blockquote>
+              <p>Another option is to have two players throw out between 0 and 5 fingers, add the two numbers together, then deduct 6 if the result is higher than 6. It basically gives a D6 roll.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/minds-eye-resolution-mechanic/1197/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/minds-eye-resolution-mechanic/1197/3</link>
+        <pubDate>Tue, 19 Mar 2019 22:58:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1197-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/minds-eye-resolution-mechanic/1197.rss">Minds-Eye resolution mechanic</source>
+      </item>
+      <item>
+        <title>Minds-Eye resolution mechanic</title>
+        <dc:creator><![CDATA[@Keith]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/keith">@Keith</a> wrote:</p>
+          <blockquote>
+              <p>Very interesting observations! The mechanic I used for something like this was to have two people each throw between zero and five fingers and the difference was the result. This was for a game where you wanted a result below your dwindling skill point supply which started at 5. The first go was always a success (can’t be over 5, even if one person throws 5 and one throws 0), and the last always had a chance at success (even with one skill point, you might both throw the same number and have a difference of zero). Obviously, there was still some gamesmanship to this. If I have 3 skill points I will throw a 2 or 3 to maximize my chances of success. Never found a way around that one!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/minds-eye-resolution-mechanic/1197/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/minds-eye-resolution-mechanic/1197/2</link>
+        <pubDate>Tue, 19 Mar 2019 21:59:16 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1197-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/minds-eye-resolution-mechanic/1197.rss">Minds-Eye resolution mechanic</source>
+      </item>
+      <item>
+        <title>Minds-Eye resolution mechanic</title>
+        <dc:creator><![CDATA[@epiclutesolo]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/epiclutesolo">@epiclutesolo</a> wrote:</p>
+          <blockquote>
+              <p>NOTE: this is a long one. :X</p>
+<p>For a while now I’ve been working on an RPG system that can be played entirely in the minds-eye. I wanted a system that could facilitate play while hiking the trails where I live. There are a lot of freeform rules-lite narrative systems that could probably accomplish this, but I wanted to see how much mechanical crunch I could fit in the system. I want just enough crunch to make it feel featured, but not so much that it’s unwieldy for environments like hiking, being stuck in traffic, or just anywhere that the usual tools aren’t available.</p>
+<p>I’m calling it WANDER system, and a lot of work has been done so far related to incorporating redundancy and mnemonic systems to reduce the load on player memory; and balancing minimalism with an information-rich experience. Basically answering the question: How do we have a rich fiction without expecting people to remember a ton of stuff. The biggest hurdle so far has been the main resolution mechanic.</p>
+<p>I’ve explored a few approaches so far but I’m having trouble deciding what will actually work the best. I’m hoping some of the people in this community will have some insight.</p>
+<p>First, what I’m trying to accomplish. This will be the standard resolution mechanic that determines the success of an action. It will compare an element of chance combined with an element of character capability against a target difficulty. This is the standard “dice roll + modifier vs difficulty value” This thread is specifically about the “element of chance” component.</p>
+<p>I’ve so far followed the problem toward two distinct possibilities. Games of chance, and minds-eye random number generation. Both have their own benefits and drawbacks.</p>
+<p><strong>Minds-eye random number generation.</strong><br>
+The first problem with this approach is that minds are horrible at generating random numbers. If I tell you to pick a number between 1 and 10, most of you will pick an odd number. Most of those will be 3, 5, or 7. There’s lots of research on this. After a lot of thought, I settled on two ways to overcome this selection bias. 1) using visual inputs to inform the selection, 2) Perform a mathematical function on the selection so that the result is sufficiently difficult to predict.</p>
+<p>Using visual inputs at first seems like it might be a reliable approach, but it’s actually really challenging to get right. If we want a basic boolean true/false coin flip (or even a series of them for generating binary values), we have to find real true/false inputs, and they’re not that common. “the next car to turn that corner will be red” is true or false, but it depends on how common red cars are compared to other cars.</p>
+<p>The distribution isn’t uniform, so the chance isn’t fair. “The next person I pass will be taller than me” seems closer to a fair boolean input, but not if you’re taller or shorter than average. Choosing inputs that are likely to work in your favor is something that you could get better at with time, and the chance element of this resolution mechanic can’t depend on player skill. It’s not the part of the game that a veteran player should be better at than a new player.</p>
+<p>Other visual input approaches seem similarly flawed. The first single-digit number on the next license plate you pass assumes that all digits have an equal chance of being in that position, and I’m not sure they do. <a href="https://en.wikipedia.org/wiki/Benford%27s_law" rel="nofollow noopener">Benford’s Law</a> demonstrates that in a LOT of real world sets of numerical data the distribution is not uniform. Your odds of seeing a 1 are often six times higher than your odds of seeing a 9.</p>
+<p>Finally, the last major flaw with this approach is that it’s really slow, and that is fatal for game-feel. Throwing dice is a climactic moment. If you have to spend the next few minutes collecting visual input to turn it into a roll result, that kills the feel.</p>
+<p>The second approach to minds-eye random number generation is using math to obscure the result from the selection. The method looks like this: Pick a number, do math to it, use the result. The general idea is that “doing math to it” scrubs out the bias. As long as the math is sufficiently difficult that you can’t easily predict the result then you can’t cheat the system (whether deliberately or just because your brain has a built-in bias)</p>
+<p>One example of this approach would be:</p>
+<ol>
+<li>select a 4 digit number</li>
+<li>Sum all the digits.</li>
+<li>If the result is more than one digit long, sum those digits.</li>
+<li>repeat step three until you have a single digit result</li>
+<li>use that digit as a 1d10 roll.</li>
+</ol>
+<p>There are a number of problems with this approach. First of all, selection bias still plays a role here, though a much smaller one. Picking a 4 digit number out of your mind still isn’t a uniformly random choice. People still tend to pick odd numbers, meaning that odd numbers will be overrepresented in the selection, and odd number sums will be overrepresented in the result. This reduces the usefulness of selection bias, but it doesn’t reduce the existence of it.</p>
+<p>An even bigger problem is that you can easily choose small enough numbers that the result isn’t sufficiently difficult. If you want to roll a 9 just pick 6111 or 4221. You can remember that easily enough. The problem with using math is that you have to find a balance between 1) making it easy enough to do in your head that it doesn’t kill fun and 2) making it difficult enough that you can’t cheat it or predict the result.</p>
+<p>You could solve that last problem by having the GM or another player pick half the number but in my opinion that ruins an important moment in the game. We know that dice rolls are random, but we suspend that disbelief momentarily when we throw the dice. You wouldn’t let someone else throw your last death save even though it technically wouldn’t make a difference. Letting someone else pick part of the number for you would be like letting someone else roll your dice.</p>
+<p>Another approach is using the same kinds of random number generation systems that computers use but with smaller numbers and simplified algorithms so that they’re manageable for the average player. For example, you can modify the “Multiply-and-carry” generator to the following few steps:</p>
+<ol>
+<li>Pick a two-digit number, this is your seed.</li>
+<li>form a new two-digit number by adding the digit in the tens place to six times the digit in the units place.</li>
+<li>the digit in the units place of your new number is your roll (basically a 1d10)</li>
+<li>The full two-digit result is the next seed, so when you repeat this process on the next roll use that two-digit number in step 1.</li>
+</ol>
+<p>so for example, if you start with 24:</p>
+<ol>
+<li>select 24</li>
+<li>2 + (6*4) = 26</li>
+<li>the roll result is 6</li>
+<li>26 is the next seed.</li>
+</ol>
+<p>There are a few advantages to this approach. First, selection bias disappears after the first roll because the algorithm itself determines the next selection rather than you selecting it with your brain.</p>
+<p>Also, if you repeat this process you’ll end up with a different result every time for 59 cycles. This makes for a very nearly uniform and very fair generator. One problem with this system is asking people to multiply by six in a resolution mechanic. I’ve asked for feedback in a lot of places and most people don’t want to multiply by 6 every time they have to resolve an action. Even if you recommend multiplying by 5 and then adding the last set, that’s still asking a lot.</p>
+<p>The other, even bigger, problem is that the sequence doesn’t change. 24 is <em>always</em> followed by 26 which is followed by 38 every time. You can’t force yourself to get a good roll, but you can memorize patterns and predict the next result and game the system by lining up your actions according to the rolls you know are coming.</p>
+<p>This is a compressed version of all the work I’ve done in this area so far. Does anyone see anything I’ve missed or have any insight into how I might make something like this work?</p>
+<p><strong>Games of chance</strong><br>
+The other possible option I’ve been considering is using a minigame like rock paper scissors, odds and evens, or morra.</p>
+<p>The problem with playing rock paper scissors is that according to my research, there is a skill grade. There is research to support that some people are better at it than other people, and you can get better at it with practice particularly if you’re always playing with the same people. This is because your choice isn’t really random, because brains are horrible at random selection.</p>
+<p>Odds and evens is similar to rock paper scissors. If you’re not familiar with the rules it’s very similar to RPS in that two players throw a hand sign on the count of three. In this game you throw either 1 finger or 2 fingers and you count the total. One player wins if the result is odd, the other wins if the result is even. This has the same problem as RPS but, at least in my part of the world, this game is much less common and players will, therefore, be much less practiced.</p>
+<p>One thing I like about these two mechanisms is that there’s a really intuitive way to break them into 4 possible end states that can represent a gradient of success.</p>
+<ol>
+<li>If you win the first two throws, you can stop because you’ve won 2/3. This is the fastest you can win and you can call that superior success.</li>
+<li>if you win the first and lose the second or vice versa, but then win the final throw, that’s an average success.</li>
+<li>if you win the first and lose the second or vice versa, but then lose the final throw, that’s an average loss.</li>
+<li>if you lose the first two throws, you can stop because you’ve lost 2/3. This is the fastest you can lose.</li>
+</ol>
+<p>Finally, the last thing I’ve so far considered is the game Morra. In this game, two players throw out hands with between 1 and 5 fingers extended and call out a number between 1 and 10 aloud. If the number you call out is equal to the total number of extended fingers you win the round.</p>
+<p>If you have the player play against the GM, and have only the player call out a guess, you could count the number of attempts it takes to succeed and use that count as the roll. A lower number would probably represent a better result.</p>
+<p>The main problem with this one is that it’s a skill based game. You have to be able to quickly work out what results are possible based on how many fingers you’re throwing. Again, this should be an element of chance and not an element of skill. On the other hand (get it, hand?) There’s an element of excitement that goes along with shouting out your guess that kind of makes me like this. It really goes against my instincts in terms of what I think I’m trying to design but I haven’t been able to abandon it quite yet.</p>
+<hr>
+<p>Okay, long post, but I wanted to write it down so that I could organize it in my brain and also put it in front of some other brains to see what insights you might have. Let me know what you think!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/minds-eye-resolution-mechanic/1197/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/minds-eye-resolution-mechanic/1197/1</link>
+        <pubDate>Tue, 19 Mar 2019 18:34:47 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1197-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/minds-eye-resolution-mechanic/1197.rss">Minds-Eye resolution mechanic</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>The purpose of health mechanics in storytelling games</title>
+    <link>https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857</link>
+    <description>I&#39;ve been thinking about health mechanics in ttrpgs. Why do they exist at all? Obviously various games have different justifications for them (simulationist, gamist, narrative). They perform a different job in all of these types of games. Sometimes the distinction is muddy.
+
+Because I&#39;m working on a PbtA sci-fi game right now, I want to discuss health, damage, and healing in narrative-forward games. Why am I marking wounds? Some thoughts:
+
+1: Setting stakes. I don&#39;t think this is why. 
+
+PbtA and other storytelling games do a great job of setting stakes other than character injury and death. Every roll should have stakes. Scenes should have stakes other than &quot;I&#39;m hit!&quot;
+
+2: Measuring Pass/Fail of an encounter. Probably not, but I could be convinced? Encounters in PbtA don&#39;t usually end because all the PCs are at 0 HP or they had to withdraw before a TPK. And the outcome of an encounter is rarely correlated to unspent harm. On the contrary, spending some harm (or other resource) is often the price paid for victory, not the result of a defeat.
+
+3: It&#39;s a dramatic pacing tool. 
+
+For my game, I think this is it. We track a session roughly to an episode of serial sci-fi TV. Multiple sessions make up longer arcs. When my players have a lot of close calls left unmarked, action feels free and fun. As they start to wear down (marking close calls and wounds), the action and regroup scenes start to feel dire. The action is rising. Players seek out respite and they have the kinds of scenes that tend to lead up to climaxes on these shows. Because we refresh wounds with plot armor, players try to generate it. More often than not, this is done through character moments and setting up plot details to resolve later in the episode. This simulates the pacing of the TV show well.
+
+By the end of the episode, when most characters have all their close calls marked, the climactic battle seems dangerous even though the threat hasn&#39;t changed much. It falls at the end of the episode and is therefore important. It will resolve things.
+
+This counts double for long plot arcs where players can be worn down more from session to session.
+
+So what does this mean for the Showrunner (our term for GM)? How should this affect how they run the game?
+
+It means they should be thinking about close calls and wounds as a pacing tool, and therefore healing opportunities, weapons, armor, bacta tanks, and anything that effects how close calls are marked and cleared are pacing tools! Not problem-solving tools for the players.
+
+If the players are not generating a lot of plot armor, maybe you should give them some real armor. Otherwise, the pacing of the episode will suffer.
+
+If they are exhausting all their close calls well before the climax, a medical suite might be needed for the ship. Essentially, we look to in-universe solutions to solve dramatic problems. 
+
+Does this jive with what you&#39;ve seen at the table in your narrative-first ttrpg play?</description>
+    
+    <lastBuildDate>Wed, 01 May 2019 12:24:03 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>The purpose of health mechanics in storytelling games</title>
+        <dc:creator><![CDATA[@sa_liberty]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/sa_liberty">@sa_liberty</a> wrote:</p>
+          <blockquote>
+              <p>The comments here have been great. I am starting to think that pacing and stakes may be more intertwined than I initially thought.</p>
+<p>For instance, Misspent Youth, which has no health mechanic at all, enforces pacing with a strict story structure. The players get to set what is at stake in each individual scene, but because of the proscriptive nature of what the scene will accomplish the stakes naturally follow what is appropriate for an episode structure.</p>
+<p>Over time, player characters may end up sacrificing more, and the mechanic of selling out lets characters develop as the game goes on, but also gives a full shape to the campaign, and modifies the stakes in an overarching way that match the shape and pacing of a multi-episode arc. In a way, you can think of Selling Out as a health mechanic.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/27">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/27</link>
+        <pubDate>Wed, 01 May 2019 12:24:03 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1857-27</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857.rss">The purpose of health mechanics in storytelling games</source>
+      </item>
+      <item>
+        <title>The purpose of health mechanics in storytelling games</title>
+        <dc:creator><![CDATA[@Henning]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/henning">@Henning</a> wrote:</p>
+          <blockquote>
+              <p>This is a quite interesting topic - and I think <em>setting stakes</em> as well as <em>pacing tool</em> are valid goals, a narrative driven game might achieve by using HP. Another way that I try to ‘utilize’ HP and the likes is to have them indicate a shift or even change in <strong>status</strong> of the characters within the scene.<br>
+According to Johnstone, the dynamics of status in dramatic realitionships are at the core of a compelling narrative - and I think this is fundamentally true. So if you find a way to have the reduction of HP clearly indicate the decline of status of your character in the fiction, you’ll have your dramatic beats right at hand.<br>
+Currently I’m experimenting with relationship <em>scales</em> or <em>seesaws</em>, rather than countdown clocks - and it’s easy to use these as ‘fighting status’. But as of yet, I didn’t manage to model the dramatic impact I’m after.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/26</link>
+        <pubDate>Mon, 29 Apr 2019 07:52:14 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1857-26</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857.rss">The purpose of health mechanics in storytelling games</source>
+      </item>
+      <item>
+        <title>The purpose of health mechanics in storytelling games</title>
+        <dc:creator><![CDATA[@Khimus]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/khimus">@Khimus</a> wrote:</p>
+          <blockquote>
+              <p>Well, as a counterexample, both Sagas of the Icelanders and the Warren have no wounds, and instead PCs may lose stats or moves due to a single bad roll. When I ran soti, players seemed less inclined to gratuitous violence like in other games, but I don’t think it was exclusively because of the rules.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/25</link>
+        <pubDate>Sun, 28 Apr 2019 00:56:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1857-25</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857.rss">The purpose of health mechanics in storytelling games</source>
+      </item>
+      <item>
+        <title>The purpose of health mechanics in storytelling games</title>
+        <dc:creator><![CDATA[@bluecrow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/bluecrow">@bluecrow</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/von_bednar">@Von_Bednar</a>  I would argue that having 1hp means to still have an health mechanic. It wouldn’t be different than saying you got 2 or 3 hp and any weapon does at least 3 damages (while, say, falling from some height may result in 1 or 2 damages)…</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/24</link>
+        <pubDate>Sat, 27 Apr 2019 16:10:39 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1857-24</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857.rss">The purpose of health mechanics in storytelling games</source>
+      </item>
+      <item>
+        <title>The purpose of health mechanics in storytelling games</title>
+        <dc:creator><![CDATA[@Von_Bednar]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/von_bednar">@Von_Bednar</a> wrote:</p>
+          <blockquote>
+              <p>I think the other way to <a class="mention" href="/u/bluecrow">@bluecrow</a>  - having health mechanic makes me feel (at least temporarily) invulnerable. If I have an amount of points I can lose before my character dies, I see it as a buffer, making me more prone to do heroic stuff. While the existence of a system says that combat is a major part of the game, the point amount will signal how heroic the combat is.</p>
+<p>Not having a system (but establishing that the character can die from a single blow or shot) makes me more vulnerable. It is like having a 1hp. It would definitely make me be more cautious with my character.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/23</link>
+        <pubDate>Sat, 27 Apr 2019 14:33:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1857-23</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857.rss">The purpose of health mechanics in storytelling games</source>
+      </item>
+      <item>
+        <title>The purpose of health mechanics in storytelling games</title>
+        <dc:creator><![CDATA[@bluecrow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/bluecrow">@bluecrow</a> wrote:</p>
+          <blockquote>
+              <p>To me the most important role for an health mechanic is giving the players a sense (and measure) of vulnerability. Although players know that there are a ton of ways a character can be “vulnerable” on so many different levels, the health level is the most direct one and the easiest to relate to in a fairly universal way (other ways of being "vulnerable rely a lot more on the sociocultural background of the player and/or the character). And “death” is a pretty straightfoward and easily understandable way to set the “range” of vulnerability of a character.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/22</link>
+        <pubDate>Sat, 27 Apr 2019 13:26:56 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1857-22</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857.rss">The purpose of health mechanics in storytelling games</source>
+      </item>
+      <item>
+        <title>The purpose of health mechanics in storytelling games</title>
+        <dc:creator><![CDATA[@Lari]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/lari">@Lari</a> wrote:</p>
+          <blockquote>
+              <p>There’s also the question of what happens when someone runs out of HP or whatever. Does it mean instant death no backsies? Or that they’re out of action but can be healed later? Or that they come back changed or whatever. Or is there an array of options? In that case, who gets to make the decision about what happens?</p>
+<p>All of these options have a huge impact on what the health track actually means in play.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/21</link>
+        <pubDate>Sat, 27 Apr 2019 05:13:42 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1857-21</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857.rss">The purpose of health mechanics in storytelling games</source>
+      </item>
+      <item>
+        <title>The purpose of health mechanics in storytelling games</title>
+        <dc:creator><![CDATA[@Stentor_Danielson]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/stentor_danielson">@Stentor_Danielson</a> wrote:</p>
+          <blockquote>
+              <p>Traditional health mechanics (HP, AW-style clocks, etc), tell me two things about a game:</p>
+<ol>
+<li>Combat, or at least physical danger, is a major part of the game, and I should expect to risk getting hurt in the climax of the story.</li>
+<li>The risk of my character being removed from the game entirely is on the table and is something I need to worry about.</li>
+</ol>
+<p>Neither of those things is necessary for a game. There are plenty of ways to make characters’ lives interesting without physically hurting them. Nor do characters need to face the risk of being removed from the story. Fiasco, for example, easily dispenses with both.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/20</link>
+        <pubDate>Sat, 27 Apr 2019 02:59:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1857-20</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857.rss">The purpose of health mechanics in storytelling games</source>
+      </item>
+      <item>
+        <title>The purpose of health mechanics in storytelling games</title>
+        <dc:creator><![CDATA[@Curubethion]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/curubethion">@Curubethion</a> wrote:</p>
+          <blockquote>
+              <p>I’m mulling over a game that has what feels like a very different answer, and that’s Burning Wheel. Instead of having an HP stat, you take wounds. (The game <em>has</em> a Health stat, but it doesn’t actually serve as HP.) Wounds temporarily reduce the number of dice (it’s a dice pool system) you roll for basically everything. When your wounds effectively reduce one of your main stats to zero, you get knocked out until you recover.</p>
+<p>But they’re not really a countdown per se; the main purpose of wounds seems to be adding difficulty to rolls, which has an interesting effect in the game that’s twofold. First of all, this is a game where you need to make numerically difficult tests in order to advance your stats and skills. With injuries, even formerly easy tasks become difficult, which sorta lets you cheat in difficult tests for the stat or skill being tested.</p>
+<p>The second purpose is related, but more narrative: it shifts the scope of the story. It slows things down from everyone constantly being action fantasy heroes because having effectively lowered stats means the story has to simmer down for a bit while everyone goes into recovery mode.</p>
+<p>Which I guess kinda goes back to your point <span class="hashtag">#3</span>, but in a different way.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/19</link>
+        <pubDate>Fri, 26 Apr 2019 15:56:24 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1857-19</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857.rss">The purpose of health mechanics in storytelling games</source>
+      </item>
+      <item>
+        <title>The purpose of health mechanics in storytelling games</title>
+        <dc:creator><![CDATA[@William_Nichols]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/william_nichols">@William_Nichols</a> wrote:</p>
+          <blockquote>
+              <p>AprilMarch: You’re a game designer!</p>
+<p>If I recall correctly, Vincent has suggested HP is a countdown clock. In terms of Blades or AW or pbta in general, it is a player-facing clock. We know the consequences of running out. In other games – D&amp;D is a great example – that it is a countdown clock is obscured.</p>
+<p>Which is when in AW it is literally shown as a countdown clock.</p>
+<p>You don’t need Health as a countdown clock, but you may need some clock such that when it is extinguished your character is Out. That could be Stress, Wealth, Position. Whatever is the item being depleted and that is required to take further action.</p>
+<p>YMMV, but that’s where I’m at.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/18</link>
+        <pubDate>Fri, 26 Apr 2019 15:00:26 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1857-18</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857.rss">The purpose of health mechanics in storytelling games</source>
+      </item>
+      <item>
+        <title>The purpose of health mechanics in storytelling games</title>
+        <dc:creator><![CDATA[@AprilMarch]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/aprilmarch">@AprilMarch</a> wrote:</p>
+          <blockquote>
+              <p>I’m not really a designer, but I’d like to drop in my two cents:</p>
+<p>Every since I saw the combat moves from Apocalypse World, I’ve been thinking about making a PbtA game that didn’t have health at all. It’d be based on vaudeville comedy (or, more specifically, on Roberto Bolaños’ comedies, especially El Chapulin Colorado). There would be moves for combat, but one wouldn’t be able to actually wound enemies; players would just jostle for control.</p>
+<p>Combat would be emulating scenes like this: <a href="https://youtu.be/diC6tJYiFMc?t=578" rel="nofollow noopener">https://youtu.be/diC6tJYiFMc?t=578</a></p>
+<p>It’s too bad that there are PbtA games about cartoons, like MADCAP, but (to my knowledge) they all still use some equivalent to wounds. Though of course I understand their dramatic significance as a cost.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/17</link>
+        <pubDate>Fri, 26 Apr 2019 03:04:58 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1857-17</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857.rss">The purpose of health mechanics in storytelling games</source>
+      </item>
+      <item>
+        <title>The purpose of health mechanics in storytelling games</title>
+        <dc:creator><![CDATA[@Von_Bednar]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/von_bednar">@Von_Bednar</a> wrote:</p>
+          <blockquote>
+              <p>This is a great conversation. I will add my few cents, as I have been thinking about this for quite some time, as I am working on a traditional fantasy adventure game that tries to get rid of HP and other “counters.”</p>
+<p>Let’s skip the idea that health mechanics are in games, because they were there from the beginning of the hobby. It is a valid idea, but I don’t think it is relevant to the topic at hand.</p>
+<p>From my understanding, the big reason for having HP, Sanity, Emotion and other counters is the idea of fairness. After all, the biggest “harm” (for lack of a better word) a GM can bestow to a player in game is taking away their ability to play this character. That is what character’s death, going mad, or emotionally broken is at its very core. Of course there are situations where the player is happy to give their ability to play current character, but we are not talking about this here.</p>
+<p>Counters like health or sanity can be monitored by the player. This gives a sense of greater control to the player and might seem more fair than the GM stating that your character is dead/mad/broken and is to no longer be used in game. I think it has more to do with the perception of fairness and control, than those ideas in general.</p>
+<p>In a similar way why <a href="https://www.daxthink.com/think/2017/2/27/apple-made-itunes-shuffle-less-random-to-make-it-more-random" rel="nofollow noopener">iTunes shuffle option is not truly random</a>, the idea is that those counter systems exist to give perception of control and fairness, but are really no more fair or give no more control than not having them.</p>
+<p>Because if you think about it, the GM is just pushing a dice result or their decision, (after all introducing a situation able to destroy the character and character risking it is on some level such decision) trough a series of smaller rule systems that can alter the original result or give the player a “second chance.” So those mechanics are just a means of pushing those dice results/decisions down the line, in exchange for the idea of fairness and control. Which is a very valid point. GNS theory was mentioned in the original post - in my mind, health mechanics are part of a gamist idea.</p>
+<p>So, to swing back around to the topic at hand.</p>
+<p>Yes, we use those health mechanics to make the experience more game-y, but also to keep the illusion of fairness and control. Now the question is do we need to ask ourselves is do we need those things in storytelling and narrative games. I would say - it depends on what are your game’s goals.</p>
+<p>If your game requires a pacing mechanism, then by all means introduce one. Same for explicit injury mechanism, madness and so on. It is also good idea to include such mechanisms to show escalating threat and let players make their decisions based on that.</p>
+<p>If you are playing a game where such things are not needed, then feel free to leave such systems out.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/16</link>
+        <pubDate>Fri, 26 Apr 2019 01:30:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1857-16</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857.rss">The purpose of health mechanics in storytelling games</source>
+      </item>
+      <item>
+        <title>The purpose of health mechanics in storytelling games</title>
+        <dc:creator><![CDATA[@inarvan]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/inarvan">@inarvan</a> wrote:</p>
+          <blockquote>
+              <p>I agree with this. I’ve always used tracks to show how screwed up the situation and/or the affected characters are becoming, both narratively and in a metagame sense. For instance, in Marvel Heroic Roleplaying, the Doom Pool and its expansion is a major indicator to everyone around the table of how close the proverbial excrement is to the oscillator for the scene they’re in. I use hit points, harm clocks, etc. for similar purposes: a way to help all of us around the table think about how close things are to the really bad stuff the PCs want to avoid.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/15</link>
+        <pubDate>Thu, 25 Apr 2019 15:45:54 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1857-15</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857.rss">The purpose of health mechanics in storytelling games</source>
+      </item>
+      <item>
+        <title>The purpose of health mechanics in storytelling games</title>
+        <dc:creator><![CDATA[@JimLikesGames]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jimlikesgames">@JimLikesGames</a> wrote:</p>
+          <blockquote>
+              <p>I’ve long thought the main reason you have a track for something like Harm or Sanity or Conditions in story games is twofold: it gives mechanical ‘signposting’ to your expectations of how certain actions will impact the narrative and what you can get away with: if a typical gunshot is likely to only take a tick or two of whatever Harm you have, that gives permission for cinematic action stuff, where a system that has every gunshot potentially fatal does not. (To riff on <a class="mention" href="/u/jmstar">@Jmstar</a>, it also signposts what you want the players to take note of and <em>worry about</em>. Missing <em>a single night of sleep</em> in <em>Night Witches</em> knocks out a third of your track!)</p>
+<p>The other thing is that it gives healer characters and support mechanics something solid to push back against. If there’s no Harm track, then playing a doctor isn’t nearly as much fun. If I don’t accrue conditions for getting stressed, then the resident Support Me move isn’t nearly as much fun to engage.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/14</link>
+        <pubDate>Thu, 25 Apr 2019 15:14:01 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1857-14</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857.rss">The purpose of health mechanics in storytelling games</source>
+      </item>
+      <item>
+        <title>The purpose of health mechanics in storytelling games</title>
+        <dc:creator><![CDATA[@Dissonance]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dissonance">@Dissonance</a> wrote:</p>
+          <blockquote>
+              <p>That’s a great point. A health system helps players acclimate to the possibility of death, rather than having it be a completely arbitrary decision.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/13</link>
+        <pubDate>Thu, 25 Apr 2019 14:59:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1857-13</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857.rss">The purpose of health mechanics in storytelling games</source>
+      </item>
+      <item>
+        <title>The purpose of health mechanics in storytelling games</title>
+        <dc:creator><![CDATA[@rabalias]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rabalias">@rabalias</a> wrote:</p>
+          <blockquote>
+              <p>I think another potential use for health is to give permission to mete out harsh consequences such as death. Without a clear track of some kind, you’re left with fiat decisions. You can perhaps telegraph future badness then make it happen, but it makes the decision harder to take, because you can feel you’re being unduly harsh or lenient. With health mechanics, you can still fiat someone to death (“you stayed in the building after the bomb timer ran out so… sorry, you’re dead”) but you also have clear permission to off someone in less clear-cut circumstances, if they’re at zero.</p>
+<p>Maybe that’s just another way of saying “stakes setting” but I don’t think so.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/12</link>
+        <pubDate>Thu, 25 Apr 2019 12:02:57 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1857-12</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857.rss">The purpose of health mechanics in storytelling games</source>
+      </item>
+      <item>
+        <title>The purpose of health mechanics in storytelling games</title>
+        <dc:creator><![CDATA[@atminnie]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/atminnie">@atminnie</a> wrote:</p>
+          <blockquote>
+              <p>In the upcoming <strong>Sentinels RPG</strong>, having lower health unlocks access to your more desperate (I.e. usually coolest) super-moves. The scene also has a slowly escalating status too, which also lets all characters access their yellow and red zone abilities eventually, even if they’re not hurt enough to unlock those statuses from low health. It’s like a shonen anime fight where characters almost never pull out their showstopper moves for the very first blow.</p>
+<p>In <strong>Smallville RPG</strong>, “Injured” is only one of 5 kinda of stress (or harm). For a relationship drama game, the others are usually far more interesting: Insecure, Angry, Exhausted, Afraid. Not only do you get drama-focused types of harm, but the rules make you want to get beat up in all these ways, since the more, bigger stresses you suffer, the more Growth (I.e. XP) you get for fun new abilities. You get even more Growth if another character helps you recover with a nice bonding scene, and even more Growth if your character is forced to challenge deeply held beliefs in the process. The last fun thing about Smallville stress is that it only occurs when a negotiation breaks down, when nobody will back down or compromise on a contest. When I “win” a dice contest, I may deal stress to the other, but neither I nor the “loser” got what we really wanted that was at stake in the contest (such as the truth, cooperation, affection, help, forgiveness, etc.).</p>
+<p><strong>1%er</strong> also makes a glorious little reward cycle centered on harm/health. PCs take bold action and lose their health/morale currency (called “f#@&amp;s”). To recover that currency, a PC has to either have a bonding scene with a fellow gang member (PC), or tie themselves more tightly into caring about NPCs and their community through either charity work or vigilante justice. It’s a neat loop that naturally guides players to seek out balanced pacing of badass action and relational depth, setting immersion, and character development.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/11</link>
+        <pubDate>Thu, 25 Apr 2019 01:53:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1857-11</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857.rss">The purpose of health mechanics in storytelling games</source>
+      </item>
+      <item>
+        <title>The purpose of health mechanics in storytelling games</title>
+        <dc:creator><![CDATA[@sa_liberty]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/sa_liberty">@sa_liberty</a> wrote:</p>
+          <blockquote>
+              <p>I think Masks is a great example of what I’m talking about. The stakes are never death or even really injury. You take conditions but it’s easy enough to clear them  (which you definitely want to do). You can be KOd in a scene, but it’s not that big a deal for this to happen. But as the conditions rack up, it changes the tone of the scenes.</p>
+<p>Totally agree that the stakes feel higher when harm is high. I’m not sure that the stakes are actually higher, but the fact that the seem to be might be the same thing in practice.</p>
+<p>Certainly the stakes are higher in the climax scene of a TV show than they are in the opening scene.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/10</link>
+        <pubDate>Wed, 24 Apr 2019 17:53:44 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1857-10</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857.rss">The purpose of health mechanics in storytelling games</source>
+      </item>
+      <item>
+        <title>The purpose of health mechanics in storytelling games</title>
+        <dc:creator><![CDATA[@DeusExBrockina]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deusexbrockina">@DeusExBrockina</a> wrote:</p>
+          <blockquote>
+              <p>At the risk of being a little nitpicky, I might say that options 1 and 3 are kind of the same-- if your game has a harm track or HP and your characters are doing the sorts of actions that risk harm, the stakes are on some level implicitly that you might get completely knocked out of the action and then fail to resolve whatever current conflict is going on. At the same time, as harm builds up throughout a series of conflicts, the stakes feel higher and higher as the characters feel less safe, or like they can’t go on for much longer, which lends itself to pacing and ramping up the action over time, as you say.</p>
+<p>As to why it’s so often taken as a given in RPGs, I think there’s something to be said about how implicit the idea of violent conflict is in the kind of stories we usually tell in fantasy or sci-fi settings and in games. So much of the foundation of these genres is built around characters going around and fighting in some way, or putting themselves in dangerous circumstances. A pretty natural source of tension of these moments is going to be if they get hurt somehow in the process. I think having a game where your PCs act violently but can’t suffer any immediate consequences would lack a lot of that tension, orrrr could have a whole lot to say about power dynamics, but I digress…</p>
+<p>I think another interesting question that’s sort of to your original point is, what do games set in these genres look like if they don’t have some sort of health mechanic? The first one that comes to mind is Masks, where you can get into fights and “Take a Powerful Blow” but the threat is never really death, and the “HP” equivalent is tracking how many negative emotions your character is piling up as the action goes against them.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/9</link>
+        <pubDate>Wed, 24 Apr 2019 17:46:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1857-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857.rss">The purpose of health mechanics in storytelling games</source>
+      </item>
+      <item>
+        <title>The purpose of health mechanics in storytelling games</title>
+        <dc:creator><![CDATA[@sa_liberty]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/sa_liberty">@sa_liberty</a> wrote:</p>
+          <blockquote>
+              <p>Maybe. I’m still mulling it over. I think what I’m getting at is that a scene with 0 harm serves a different narrative purpose than a scene with 1-2. Maybe that is about stakes. The presence of the harm also motivates players to relieve it in some way, which creates systemic reasons to play cooldown scenes and lends more import to scenes that happen later in the game.</p>
+<p>Does that make sense?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/8</link>
+        <pubDate>Wed, 24 Apr 2019 17:35:31 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1857-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857.rss">The purpose of health mechanics in storytelling games</source>
+      </item>
+      <item>
+        <title>The purpose of health mechanics in storytelling games</title>
+        <dc:creator><![CDATA[@Jmstar]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jmstar">@Jmstar</a> wrote:</p>
+          <blockquote>
+              <p>I’m not sure - for example, in our current game (we are at Duty Station 5 in a whole-war campaign), all our airwomen are tired, and that is a key feature of this arc. We keep bumping up to 1-harm from failing to get any rest. It informs the fiction, and vice versa. If that’s what you mean, yes.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/7</link>
+        <pubDate>Wed, 24 Apr 2019 17:28:38 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1857-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857.rss">The purpose of health mechanics in storytelling games</source>
+      </item>
+      <item>
+        <title>The purpose of health mechanics in storytelling games</title>
+        <dc:creator><![CDATA[@sa_liberty]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/sa_liberty">@sa_liberty</a> wrote:</p>
+          <blockquote>
+              <p>Don’t you find that also creates a pacing rhythm to the kinds of stories that are told in the game?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/6</link>
+        <pubDate>Wed, 24 Apr 2019 17:25:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1857-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857.rss">The purpose of health mechanics in storytelling games</source>
+      </item>
+      <item>
+        <title>The purpose of health mechanics in storytelling games</title>
+        <dc:creator><![CDATA[@Jmstar]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jmstar">@Jmstar</a> wrote:</p>
+          <blockquote>
+              <p>In <em>Night Witches</em> it is absolutely about setting stakes. You have three “hit points”, and approaching missions with one of those (or, God help you, two) of those checked off is dancing with death. And you will have many, many reasons to trade a checked box for something else you want or need. It is almost always a clear choice, and choosing to go into combat exhausted, stressed or injured raises the stakes.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/5</link>
+        <pubDate>Wed, 24 Apr 2019 17:18:08 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1857-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857.rss">The purpose of health mechanics in storytelling games</source>
+      </item>
+      <item>
+        <title>The purpose of health mechanics in storytelling games</title>
+        <dc:creator><![CDATA[@disquisition]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/disquisition">@disquisition</a> wrote:</p>
+          <blockquote>
+              <p>I think there’s something to be said for games where interpersonal relationships are the main conflict area offering a mechanic that signals the total breakdown of a relationship. Harm mechanics seem like the default way of signaling that state in many genres.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/4</link>
+        <pubDate>Wed, 24 Apr 2019 16:54:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1857-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857.rss">The purpose of health mechanics in storytelling games</source>
+      </item>
+      <item>
+        <title>The purpose of health mechanics in storytelling games</title>
+        <dc:creator><![CDATA[@sa_liberty]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/sa_liberty">@sa_liberty</a> wrote:</p>
+          <blockquote>
+              <p>I think that’s absolutely the case in lots of games. I have made this exact recommendation to other designers: “add a resource to manage” in order to “make it more of a game.”</p>
+<p>I think there is a great pleasure that players get from managing a resource on their sheet, in order to solve problems and continue to progress. I am not entirely sure how it interfaces with storytelling though. I think it might be separate, i.e. gamist motivation for including HPs in a game. Not a knock on it at all, just trying to investigate its roots.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857/3</link>
+        <pubDate>Wed, 24 Apr 2019 16:33:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1857-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-purpose-of-health-mechanics-in-storytelling-games/1857.rss">The purpose of health mechanics in storytelling games</source>
+      </item>
+  </channel>
+</rss>

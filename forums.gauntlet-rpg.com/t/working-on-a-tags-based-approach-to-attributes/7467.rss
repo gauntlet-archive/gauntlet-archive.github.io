@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Working on a tags based approach to attributes</title>
+    <link>https://forums.gauntlet-rpg.com/t/working-on-a-tags-based-approach-to-attributes/7467</link>
+    <description>Hi folks,
+
+I&#39;d love some input on a tags based approach to attributes I&#39;ve been working on as an alternative to the DnD based Stat + bonus system that pervades all of RPGlandia. To me, numbers drag players out of the the story, so minimal numbers, to me, is a plus. Anyway, I&#39;ll try to explain what I&#39;ve been thinking about.
+
+There are two categories of attribute tags:
+
+* Normal tags
+* Special Tags
+
+Normal tags add pluses or minuses to rolls. One tag equals one plus or minus, although multiple tags may apply to a roll at the GM&#39;s discretion. Special tags modify normal tags. An example of a normal plus tag would be &quot;Strong.&quot; An example of a special tag would be &quot;Very.&quot; An example of a normal minus tag would be &quot;Stupid.&quot;
+
+At character creation, players choose four plus tags and two minus tags. These tags should reflect the character&#39;s prime or innate attributes.
+
+**Plus Tags**
+* Strong
+* Smart
+* Influential
+* Agile
+* Dexterous
+* Wise
+* Resilient
+* Perceptive
+* Healthy
+* Lucky
+* Very
+* Incredibly (counts as two tags)
+
+**Negative Tags**
+You must also choose two negative tags from the following list:
+
+* Stupid
+* Weak
+* Forgettable
+* Foolish
+* (Some word for opposite of resilient)
+* Sickly
+* Clumsy
+* Unlucky
+* Very
+* Incredibly (counts as two tags)
+
+[[Note: I&#39;m still working on a definitive list of attribute tags]]]
+
+The &quot;Very&quot; and &quot;Incredibly&quot; tags are special tags which modify normal tags. A &quot;Very&quot; tag counts for one tag, and an &quot;Incredibly&quot; tag counts for two. These tags may modify only one tag, which is set at character creation. For example, Player 1 goes for a more well rounded character, choosing the Strong, Smart, Influential, and Wise tags. Player 2 prefers a specialist, going for Incredibly-Strong and Wise. Both players have four normal plus tags total.
+
+**Example**
+For a situation requiring strength, Player 1would roll with a +1, whereas Player Two would roll with a +3. For a roll involving figuring things out, Player one would roll with a +1 (Smart), while Player 2 would roll with +0. For a roll involving dodging that spike trap, both players would roll +0. If the character does not have a tag, the attribute is considered average and therefore +0.
+
+[[Note: I&#39;m considering a rule that allows players to take extra plus tag at character creation if they take three minus tags (such as &quot;Incredibly-Stupid&quot;]].
+
+I&#39;d like to get some comments before I talk about how I plan to handle HP and XP, but the general idea is to minimize abstraction and keep the players in the story.</description>
+    
+    <lastBuildDate>Tue, 19 Oct 2021 00:53:54 +0000</lastBuildDate>
+    <category>RPG Chat</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/working-on-a-tags-based-approach-to-attributes/7467.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Working on a tags based approach to attributes</title>
+        <dc:creator><![CDATA[@Eck]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/eck">@Eck</a> wrote:</p>
+          <blockquote>
+              <p>This thread put me in mind of a game I’d played…  but couldn’t remember which!  And when I was told which one it was…  had forgotten this was the forum and the thread I wanted it for.  D’oh!</p>
+<p>But at any rate, t’was <a href="http://www.onesevendesign.com/ladyblackbird/" rel="nofollow noopener">Lady Blackbird</a>, which has tree-structured binary ability tags.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-on-a-tags-based-approach-to-attributes/7467/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-on-a-tags-based-approach-to-attributes/7467/9</link>
+        <pubDate>Tue, 19 Oct 2021 00:53:54 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7467-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-on-a-tags-based-approach-to-attributes/7467.rss">Working on a tags based approach to attributes</source>
+      </item>
+      <item>
+        <title>Working on a tags based approach to attributes</title>
+        <dc:creator><![CDATA[@Matt_Hall]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/matt_hall">@Matt_Hall</a> wrote:</p>
+          <blockquote>
+              <p>Totally applicable and appreciated! I love the PbtA style, and adopting it as my go to has really improved my GMing as well as my creative writing in general. Love it!!! I found your comments to be very helpful, so thanks very much! I especially connect with the idea of move design instead of stats, and I am kind of looking at character creation in a more similar vein to monster creation (from the DW rulebook, apocrypha, etc.). I think most actions can be resolved with the basic moves and giving +1s or whatever for certain instances based on class (e.g., a general case: Intrepid = +1 ongoing Defy Danger (Int)); more specific: +1 ongoing Spout Lore (chemistry)). Otherwise, grant characters a handful of specific moves, equipment, etc. What do you think?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-on-a-tags-based-approach-to-attributes/7467/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-on-a-tags-based-approach-to-attributes/7467/8</link>
+        <pubDate>Tue, 19 Oct 2021 00:11:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7467-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-on-a-tags-based-approach-to-attributes/7467.rss">Working on a tags based approach to attributes</source>
+      </item>
+      <item>
+        <title>Working on a tags based approach to attributes</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>This is what the designer(s) of <em>Fudge</em> were up to in the late 90’s/early 2000’s - trying to make mechanical notation which didn’t include many numbers, and used plain English words. (Some of that made its way into <em>Fate</em>, of course, but <em>Fate</em> is also, in many ways, far more numbers-heavy, perhaps ironically.)</p>
+<p>There were lots of good attempts made. (I, myself, threw together an Adverb-based <em>Fudge</em> hack which had some very interesting features.)</p>
+<p>Ultimately, though, it really depends on the purposes of the game. What do you want players in your game to do? What defines characters?</p>
+<p>That’s far more important than the basic presentation of the rules math. (Which can also be approached via phrasing, presentation, and visual design. Tactile design sometimes, too - e.g. “pick up this die when you ______” is natural and doesn’t involve any overt math.)</p>
+<p>Tags-based PbtA can work if the list is very carefully constrained, and numbers of tags stay low. There are various ways to accomplish this, of course. For instance, in my game <em>The Silver Dragon’s Tear</em>, the “tags” are freeform, but they belong in two different categories: Qualities and Implements. You don’t ever add them up - you just add 1 to your roll if you have a Quality that applies and add another 1 if an Implement applies.</p>
+<p>I’m also quite fond of this attributeless PbtA game (take a look at how it applies modifiers, it’s clever!):</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://spoutinglore.blogspot.com/favicon.ico" class="site-icon" width="32" height="32">
+      <a href="https://spoutinglore.blogspot.com/2020/02/defying-danger-rpg.html" target="_blank" rel="nofollow noopener">spoutinglore.blogspot.com</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/362;"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f7d197f9e0567da153cc88a371bcc38afada0396_2_690x362.png" class="thumbnail" width="690" height="362" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f7d197f9e0567da153cc88a371bcc38afada0396_2_690x362.png, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f7d197f9e0567da153cc88a371bcc38afada0396_2_1035x543.png 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/f/f7d197f9e0567da153cc88a371bcc38afada0396.png 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f7d197f9e0567da153cc88a371bcc38afada0396_2_10x10.png"></div>
+
+<h3><a href="https://spoutinglore.blogspot.com/2020/02/defying-danger-rpg.html" target="_blank" rel="nofollow noopener">Defying Danger, the RPG</a></h3>
+
+<p>Here's a thing I made, as a bit of a distraction from working on Stonetop . It's a light-weight RPG, in the vein of World of Dungeons .     ...</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>Generally, I think the strength of PbtA design is not about attributes and numbers, but about move design. Can you build narrative differences into characters based on what kinds of different things they get to roll dice for, and what is at stake?</p>
+<p>Maybe being Weak doesn’t mean you get a -1 to perform feats of strength, for example - it means that when you try that, you risk tiring yourself out or an injury. That’s much more interesting, and involves fewer numbers.</p>
+<aside class="quote no-group" data-username="Matt_Hall" data-post="4" data-topic="7467">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/matt_hall/40/4189_2.png" class="avatar"> Matt_Hall:</div>
+<blockquote>
+<p>It’s always bugged me how traditional <strong>XP</strong> is so separate from the new moves gained (or purchased) with it.</p>
+</blockquote>
+</aside>
+<p>For an alternate viewpoint, consider that this is generally a strength rather than a bug, in a game which provides juicy and flavourful advancement options in the way that most PbtA games do. Giving the players the choice to pick moves on the post is another place to <em>play</em>: to reveal or highlight character change and growth. Surprises are exciting, revelations can feel dramatic, and it provides another way for players to interact with the game and send it in different directions. It’s almost always positive, especially once the players understand what they can do with that, and a GM who understands that similarly: taking a particular move isn’t just a sign of a character becoming more <em>powerful</em>, but a signal from the player to everyone else at the table about where they want the game to go and what they find exciting or intriguing, as well as how they see the character changing and growing.</p>
+<p>EDIT: I’m getting so used to seeing this forum discuss PbtA games most of the time that it seems I assumed that was the case here, too! But it’s not stated as such at all. So much of my commentary won’t really apply, then. My apologies!</p>
+<p>Still, perhaps it will prompt some thoughts!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-on-a-tags-based-approach-to-attributes/7467/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-on-a-tags-based-approach-to-attributes/7467/7</link>
+        <pubDate>Sun, 10 Oct 2021 01:45:35 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7467-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-on-a-tags-based-approach-to-attributes/7467.rss">Working on a tags based approach to attributes</source>
+      </item>
+      <item>
+        <title>Working on a tags based approach to attributes</title>
+        <dc:creator><![CDATA[@Matt_Hall]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/matt_hall">@Matt_Hall</a> wrote:</p>
+          <blockquote>
+              <p>Thanks for the encouragement, and I’ll definitely check out that link <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/grin.png?v=9" title=":grin:" class="emoji" alt=":grin:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-on-a-tags-based-approach-to-attributes/7467/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-on-a-tags-based-approach-to-attributes/7467/6</link>
+        <pubDate>Tue, 05 Oct 2021 23:16:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7467-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-on-a-tags-based-approach-to-attributes/7467.rss">Working on a tags based approach to attributes</source>
+      </item>
+      <item>
+        <title>Working on a tags based approach to attributes</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>Way to go !</p>
+<p>I have read some opinions about “stupid” and am not convinced by all but some. Anyway, I am afraid the poison is in the roots. Attributes cut a norm into reality. Sure, the STR WIS … anthropological model looks very thin to me. But the + / - model is inherently vicious, too. It transforms any tag into a value judgement.</p>
+<p>And to me it’s not really a problem : I can play Good vs Evil or Orc vs Elf without believing in it, as a commentary on manicheism. A bit of poison can make a cure.  But maybe you want players to not have this kind of distance to the system and still keep clear of judgemental mechanics.</p>
+<p>Tags mechanics I adhere to are “freeform”. They let players author their own tag (with examples to set setting and tone, and scope if you need balance). They become + / - according to situations. And that’s a good antidote to ableism. A + only means “useful in this situation”. With Very and A lot, you are just translating numbers into words (Marvel, Fate, etc.) I suggest you <a href="https://www.risusiverse.com/home">step into the RISUSiverse</a> to see examples of simple mechanics with tags, used a bit like legos, simple and clever.</p>
+<p>At the end of the day it will still be a resolution system about success vs failure, which is not necessarily what you want to do. More importantly, it’s way too restrictive to equate “play to see what happens” with uncertainty and uncertainty with dice rolling and dice rolling with testing for success.</p>
+<p>But that’s not what the topic is about : hence my opening WTG! Hear others, but follow your thing to where it will lead you.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-on-a-tags-based-approach-to-attributes/7467/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-on-a-tags-based-approach-to-attributes/7467/5</link>
+        <pubDate>Tue, 05 Oct 2021 17:28:06 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7467-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-on-a-tags-based-approach-to-attributes/7467.rss">Working on a tags based approach to attributes</source>
+      </item>
+      <item>
+        <title>Working on a tags based approach to attributes</title>
+        <dc:creator><![CDATA[@Matt_Hall]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/matt_hall">@Matt_Hall</a> wrote:</p>
+          <blockquote>
+              <p>Ok – I’ve got a bit of a break. Here’s the <strong>XP</strong> replacement part: it’s called the <strong>Try Me</strong> tag, and it works like this,</p>
+<p>At character creation, the GM and player discuss the direction of character growth with respect to future moves. The GM and the player agree on one or two moves to tag with the <strong>Try Me</strong> tag. Moves that are already learned, such as the <strong>Basic Moves</strong> and the character’s <strong>Starting Moves</strong> are tagged with the <strong>Learned</strong> tag, and all other moves which are not tagged with <strong>Learned</strong> or <strong>Try Me</strong> are tagged with <strong>Unlearned.</strong></p>
+<p>When a character tries to take an action that would trigger a move that has a Try Me tag, flip a coin. If heads, the move triggers as written, but the player must strike a <strong>Hard Bargain</strong> with the GM. If tails, the GM gets a Golden Opportunity. The tag of the move may be changed from <strong>Try Me</strong> to <strong>Learned</strong> after three failed attempts with a mandatory rest between each attempt.</p>
+<p>The idea here is for the GM and player to work together to plan ahead and to work character growth into the fiction. It’s always bugged me how traditional <strong>XP</strong> is so separate from the new moves gained (or purchased) with it. My way avoids the age old inconsistency of: <em>I’ve been spending all my time battling orcs with my rapier, but now that I’ve “leveled up” I can suddenly shoot fireballs out of my arse!</em></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-on-a-tags-based-approach-to-attributes/7467/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-on-a-tags-based-approach-to-attributes/7467/4</link>
+        <pubDate>Tue, 05 Oct 2021 16:57:38 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7467-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-on-a-tags-based-approach-to-attributes/7467.rss">Working on a tags based approach to attributes</source>
+      </item>
+      <item>
+        <title>Working on a tags based approach to attributes</title>
+        <dc:creator><![CDATA[@Matt_Hall]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/matt_hall">@Matt_Hall</a> wrote:</p>
+          <blockquote>
+              <p>Hi Ben,</p>
+<p>Thanks for the feedback.</p>
+<p>My first response was to feel a bit defensive about the slur comment, as the worst thing you can do to a liberal is suggest he’s a bigot <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/sob.png?v=9" title=":sob:" class="emoji" alt=":sob:">. I thought to myself <em>does he think there aren’t stupid people in the world? He should try my commute!</em></p>
+<p>I got over myself, though, and your remarks got me to thinking about what I am trying to accomplish with my system. See, it bugs me how abstract and useless a number like <strong>Strength: 15</strong> is. I notice that players pretty much forget about their stats right after character creation, and only really interact with them in the context of bonuses to rolls. With my system, I am attempting to keep things as qualitative as possible without abandoning dice which would, in my opinion, make the game not so much a game as imagination play and eliminate the critical fun factor of “playing to see what happens.”</p>
+<p>I like the examples you provided, above. The idea of attributes as tags came to me while re-reading Perilous Wilds in anticipation of an upcoming campaign (damn, I love that book). The current system is a transmogrification of an earlier idea, and I think attributes as tags fits very nicely within the DW context. And, back to the <strong>Smart</strong> versus <strong>Stupid</strong> conundrum, what do you think about <strong>“Learned”</strong> versus <strong>"Illiterate</strong>, <strong>“Cautious”</strong> versus**“Impulsive”,** etc?</p>
+<p>The way I think about the attributes in this system is as on a spectrum, where <strong>“Strong”</strong> and <strong>“Weak”</strong> live on opposite poles, with <strong>"Neutral</strong> in the middle. The other part of the system is to eliminate the ideas of <strong>HP</strong> and <strong>XP.</strong></p>
+<p>Instead of doing damage, GM, Monster, Dungeon, Player, etc., moves always <em>do something in the fiction</em>; to wit, in this system, there are no damage dice. Instead, some moves will result in a change in status of an attribute. Think about it – that ogre bashing you on the head not only harms your health but also your ability to think straight! I’m still working out the details to make the system playable, but the idea is that a status change in the negative extreme is a threat to your existence. Perhaps it’s better to think of attributes as dimensions, in which case the “body” dimension runs the gamut from <strong>Healthy</strong> —&gt; <strong>Comatose</strong>, and the fiction will suggest when the Last Breath move should be triggered. If the ogre hits you so hard that your arms pop off…yeah…you’re dead.</p>
+<p>Next up, how to deal with XP – but I’ve got to get to work!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-on-a-tags-based-approach-to-attributes/7467/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-on-a-tags-based-approach-to-attributes/7467/3</link>
+        <pubDate>Tue, 05 Oct 2021 15:02:17 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7467-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-on-a-tags-based-approach-to-attributes/7467.rss">Working on a tags based approach to attributes</source>
+      </item>
+      <item>
+        <title>Working on a tags based approach to attributes</title>
+        <dc:creator><![CDATA[@Ben_Bisogno]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/ben_bisogno">@Ben_Bisogno</a> wrote:</p>
+          <blockquote>
+              <p>Hi Matt,</p>
+<p>Great work! I love your impulse to think in terms of the fiction.</p>
+<p>Three points.</p>
+<p>A small one would just to be to knick “stupid” because that is an ableist slur.<br>
+For inspiration, I think it would be interesting for you to check out the Traits of Jay Dragon’s Wanderhome:</p>
+<p>「For example: ‡ <strong>Cautious</strong><br>
+A <strong>cautious</strong> kith spent the last of their trust a long time ago. They are often exhausted widows, cold-hearted farmers, and those who have seen first-hand the harshness of the world, among others.<br>
+Choose 1-2 they can always do.<br>
+Ѻ Point out a danger, real or imagined.<br>
+Ѻ Refuse to open up to someone else.<br>
+Ѻ Step out of your comfort zone, even slightly.」</p>
+<p>Or check out Tags in Dungeon World:</p>
+<p>「For example:  <strong>Forceful:</strong>  It can knock someone back a pace, maybe even off their feet. <strong>Messy</strong> : It does damage in a particularly destructive way, ripping people and things apart.」</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-on-a-tags-based-approach-to-attributes/7467/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-on-a-tags-based-approach-to-attributes/7467/2</link>
+        <pubDate>Tue, 05 Oct 2021 07:19:00 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7467-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-on-a-tags-based-approach-to-attributes/7467.rss">Working on a tags based approach to attributes</source>
+      </item>
+      <item>
+        <title>Working on a tags based approach to attributes</title>
+        <dc:creator><![CDATA[@Matt_Hall]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/matt_hall">@Matt_Hall</a> wrote:</p>
+          <blockquote>
+              <p>Hi folks,</p>
+<p>I’d love some input on a tags based approach to attributes I’ve been working on as an alternative to the DnD based Stat + bonus system that pervades all of RPGlandia. To me, numbers drag players out of the the story, so minimal numbers, to me, is a plus. Anyway, I’ll try to explain what I’ve been thinking about.</p>
+<p>There are two categories of attribute tags:</p>
+<ul>
+<li>Normal tags</li>
+<li>Special Tags</li>
+</ul>
+<p>Normal tags add pluses or minuses to rolls. One tag equals one plus or minus, although multiple tags may apply to a roll at the GM’s discretion. Special tags modify normal tags. An example of a normal plus tag would be “Strong.” An example of a special tag would be “Very.” An example of a normal minus tag would be “Stupid.”</p>
+<p>At character creation, players choose four plus tags and two minus tags. These tags should reflect the character’s prime or innate attributes.</p>
+<p><strong>Plus Tags</strong></p>
+<ul>
+<li>Strong</li>
+<li>Smart</li>
+<li>Influential</li>
+<li>Agile</li>
+<li>Dexterous</li>
+<li>Wise</li>
+<li>Resilient</li>
+<li>Perceptive</li>
+<li>Healthy</li>
+<li>Lucky</li>
+<li>Very</li>
+<li>Incredibly (counts as two tags)</li>
+</ul>
+<p><strong>Negative Tags</strong><br>
+You must also choose two negative tags from the following list:</p>
+<ul>
+<li>Stupid</li>
+<li>Weak</li>
+<li>Forgettable</li>
+<li>Foolish</li>
+<li>(Some word for opposite of resilient)</li>
+<li>Sickly</li>
+<li>Clumsy</li>
+<li>Unlucky</li>
+<li>Very</li>
+<li>Incredibly (counts as two tags)</li>
+</ul>
+<p>[[Note: I’m still working on a definitive list of attribute tags]]]</p>
+<p>The “Very” and “Incredibly” tags are special tags which modify normal tags. A “Very” tag counts for one tag, and an “Incredibly” tag counts for two. These tags may modify only one tag, which is set at character creation. For example, Player 1 goes for a more well rounded character, choosing the Strong, Smart, Influential, and Wise tags. Player 2 prefers a specialist, going for Incredibly-Strong and Wise. Both players have four normal plus tags total.</p>
+<p><strong>Example</strong><br>
+For a situation requiring strength, Player 1would roll with a +1, whereas Player Two would roll with a +3. For a roll involving figuring things out, Player one would roll with a +1 (Smart), while Player 2 would roll with +0. For a roll involving dodging that spike trap, both players would roll +0. If the character does not have a tag, the attribute is considered average and therefore +0.</p>
+<p>[[Note: I’m considering a rule that allows players to take extra plus tag at character creation if they take three minus tags (such as “Incredibly-Stupid”]].</p>
+<p>I’d like to get some comments before I talk about how I plan to handle HP and XP, but the general idea is to minimize abstraction and keep the players in the story.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-on-a-tags-based-approach-to-attributes/7467/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-on-a-tags-based-approach-to-attributes/7467/1</link>
+        <pubDate>Tue, 05 Oct 2021 02:16:08 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7467-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-on-a-tags-based-approach-to-attributes/7467.rss">Working on a tags based approach to attributes</source>
+      </item>
+  </channel>
+</rss>

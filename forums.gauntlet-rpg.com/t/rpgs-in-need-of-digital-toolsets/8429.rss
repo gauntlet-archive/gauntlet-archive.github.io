@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>RPGs in Need of Digital Toolsets</title>
+    <link>https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429</link>
+    <description>Hi! I was curious: what RPG are you currently playing that could benefit from a digital toolset?
+
+I&#39;ve realized that making a digital toolset is *really* within my wheelhouse, and I&#39;d love to enable digital play for smaller games.
+
+I&#39;ve asked elsewhere but I keep getting suggestions like *GURPS* or *World of Darkness*, which are... bigger than I want. I&#39;m looking at games that are PbtA/FitD/adjacent. One or two authors. My shortlist right now includes games like *NOVA*, *ICON*, *Fellowship*, etc.
+
+If you could pull up a character sheet (or a &quot;GM screen&quot; with all your NPCs and players), click some buttons and have dice roll in your Discord channel, and that&#39;s about it, what systems need some love?
+
+TIA!</description>
+    
+    <lastBuildDate>Wed, 17 May 2023 15:46:41 +0000</lastBuildDate>
+    <category>RPG Chat</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>RPGs in Need of Digital Toolsets</title>
+        <dc:creator><![CDATA[@olivetree]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/olivetree">@olivetree</a> wrote:</p>
+          <blockquote>
+              <p>I’m actually working on software for playing galactic 2e and going rogue 2e online. I’m making it in Godot, which might be overkill, but it’s the tool I know best.</p>
+<p>I’ve made a ton of progress on it, and I’m grateful that the designers have given it their blessing. I’d say it’s about 70-80% done. But my life has gotten pretty busy recently and I might not be able to dive back into it until the fall. If all goes well, my ambition would definitely be to make tools for more BOB games. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>I’m having fun making a bespoke tool for g2e/gr2e (Star Wars fonts and all that), but for a future project, maybe something generic that can handle any BOB game would be ideal.</p>
+<p><a class="mention" href="/u/citizenkeen">@CitizenKeen</a> – Not sure if you’re still interested in this kind of project, but I’m curious what you had in mind. Like I said, an executable built in Godot miiiight be overkill for this project. I’m learning JS, React, etc, right now, and I’m tempted to try to port my work over and just make it a website at some point. Would be curious to hear your thoughts!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429/17</link>
+        <pubDate>Wed, 17 May 2023 15:46:41 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8429-17</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429.rss">RPGs in Need of Digital Toolsets</source>
+      </item>
+      <item>
+        <title>RPGs in Need of Digital Toolsets</title>
+        <dc:creator><![CDATA[@ChristopherA]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/christophera">@ChristopherA</a> wrote:</p>
+          <blockquote>
+              <p>Exactly.</p>
+<p>I ended writing a tool that put both sides of the cards side-by-side as a single image, and did some tricks with premade stacks of cards. Your can also “hide” some zones.</p>
+<p>But but those tricks don’t quite solve flipping and shuffling needs, just sort of half-assed way to work good enough for some playtesting.</p>
+<p>— Christopher Allen</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429/16</link>
+        <pubDate>Sun, 02 Apr 2023 16:23:51 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8429-16</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429.rss">RPGs in Need of Digital Toolsets</source>
+      </item>
+      <item>
+        <title>RPGs in Need of Digital Toolsets</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>I have the exact same needs. Miro allows to zoom in and out and follow other users. I wish it could flip cards (shuffle them, count token piles and roll dice).</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429/15</link>
+        <pubDate>Sun, 02 Apr 2023 16:06:03 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8429-15</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429.rss">RPGs in Need of Digital Toolsets</source>
+      </item>
+      <item>
+        <title>RPGs in Need of Digital Toolsets</title>
+        <dc:creator><![CDATA[@ChristopherA]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/christophera">@ChristopherA</a> wrote:</p>
+          <blockquote>
+              <p>I did try Randy Lubin’s “StorySynth” which was interesting, but didn’t quite serve my needs. I converted is “Save the Galaxy” supplement for Riley Rithal’s “Galactic 2e” to use it, and it is interesting and playable.</p>
+<p>You can see it at:</p>
+<p><a href="https://storysynth.org/Shuffled/1yGHuFhPP9DDrs_9WG2TeSzl1VTRxLjFk2i0kwOJvgcE/" class="onebox" target="_blank" rel="nofollow noopener">https://storysynth.org/Shuffled/1yGHuFhPP9DDrs_9WG2TeSzl1VTRxLjFk2i0kwOJvgcE/</a></p>
+<p>It should still work (though his tool has evolved some since I tried). The data behind it is at:</p>
+<aside class="onebox googledocs">
+  <header class="source">
+      <a href="https://docs.google.com/spreadsheets/d/1yGHuFhPP9DDrs_9WG2TeSzl1VTRxLjFk2i0kwOJvgcE/edit#gid=0" target="_blank" rel="nofollow noopener">docs.google.com</a>
+  </header>
+  <article class="onebox-body">
+    <a href="https://docs.google.com/spreadsheets/d/1yGHuFhPP9DDrs_9WG2TeSzl1VTRxLjFk2i0kwOJvgcE/edit#gid=0" target="_blank" rel="nofollow noopener"><span class="googledocs-onebox-logo g-sheets-logo"></span></a>
+
+<h3><a href="https://docs.google.com/spreadsheets/d/1yGHuFhPP9DDrs_9WG2TeSzl1VTRxLjFk2i0kwOJvgcE/edit#gid=0" target="_blank" rel="nofollow noopener">StorySynth - Save the Galaxy</a></h3>
+
+<p>Sheet1
+
+deck,header,body,back
+option,styleTemplate,dark
+option,style,&lt;style&gt;
+
+.full-page-background {
+ background: &lt;p/&gt; &lt;p/&gt; Linen;
+}
+
+&lt;/style&gt;
+option,gameTitle,"Save the Galaxy!"
+option,byline,A Plot Guide for "Galactic 2e"
+option,gameBlurb,This...</p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>The sheet has some useful tricks. But without user index cards, it didn’t really work for my Tableau game.</p>
+<p>– Christopher Allen</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429/14</link>
+        <pubDate>Sun, 02 Apr 2023 05:27:54 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8429-14</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429.rss">RPGs in Need of Digital Toolsets</source>
+      </item>
+      <item>
+        <title>RPGs in Need of Digital Toolsets</title>
+        <dc:creator><![CDATA[@ChristopherA]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/christophera">@ChristopherA</a> wrote:</p>
+          <blockquote>
+              <p>I’ve made some progress with “reusable RPG components”, which you can see with the launch of this week’s Tableau Kickstarter:</p>
+<p><a href="https://www.kickstarter.com/projects/christophera/tableau-twilight-road-and-gate-watch-playsets-quickstarter?ref=9eh81p" class="onebox" target="_blank" rel="nofollow noopener">https://www.kickstarter.com/projects/christophera/tableau-twilight-road-and-gate-watch-playsets-quickstarter?ref=9eh81p</a></p>
+<p>I still haven’t found a good online solution — none of the current RPG tools even do basic index cards for story games. The best solution I’ve come up with so far is to upload all my tableau cards to Miro (a business white board site) and use their post-it notes features.</p>
+<p>– Christopher Allen</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429/13</link>
+        <pubDate>Sun, 02 Apr 2023 05:09:55 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8429-13</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429.rss">RPGs in Need of Digital Toolsets</source>
+      </item>
+      <item>
+        <title>RPGs in Need of Digital Toolsets</title>
+        <dc:creator><![CDATA[@CitizenKeen]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/citizenkeen">@CitizenKeen</a> wrote:</p>
+          <blockquote>
+              <p>Oh boy, you and me both. That’s absolutely something I’d love to tackle, but part of this project is identifying reusable RPG components, so I think I want to tackle two or three other games before I get to Flying Circus. Probably at least one other, simpler PbtA game. But yeah, Chappell’s work is <code>&lt;chef kiss/&gt;</code> and Flying Circus could definitely benefit from a digital toolset.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429/12</link>
+        <pubDate>Wed, 05 Oct 2022 21:17:13 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8429-12</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429.rss">RPGs in Need of Digital Toolsets</source>
+      </item>
+      <item>
+        <title>RPGs in Need of Digital Toolsets</title>
+        <dc:creator><![CDATA[@CitizenKeen]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/citizenkeen">@CitizenKeen</a> wrote:</p>
+          <blockquote>
+              <p>I feel like this is probably a good target. I don’t play BOB, but those games go straight to what I’m trying to do. Thanks for reminding me!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429/11</link>
+        <pubDate>Wed, 05 Oct 2022 21:16:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8429-11</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429.rss">RPGs in Need of Digital Toolsets</source>
+      </item>
+      <item>
+        <title>RPGs in Need of Digital Toolsets</title>
+        <dc:creator><![CDATA[@RedMagus77]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/redmagus77">@RedMagus77</a> wrote:</p>
+          <blockquote>
+              <p>Would love to see a digital toolset for Flying Circus, specially since trying to setup a character keeper requires a lot of legwork to make both the playbook and dashboard for the planes</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429/10</link>
+        <pubDate>Tue, 04 Oct 2022 20:49:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8429-10</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429.rss">RPGs in Need of Digital Toolsets</source>
+      </item>
+      <item>
+        <title>RPGs in Need of Digital Toolsets</title>
+        <dc:creator><![CDATA[@Derek_Fetters]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/derek_fetters">@Derek_Fetters</a> wrote:</p>
+          <blockquote>
+              <p>Not a Gauntlet or PbtA game, but Two-Fisted Tales, by Matthew Stevens. It’s a '30s Era pulp adventure game with a dice mechanic that I’m having difficulty emulating in Roll20. It’s 2d10, but they roll 0-9, explode on a 9, and one die generates a positive number (the bonus die), the other generates a negative number (the penalty die). Add the result of the roll to an ability score and compare to a target number.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429/9</link>
+        <pubDate>Mon, 03 Oct 2022 14:49:47 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8429-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429.rss">RPGs in Need of Digital Toolsets</source>
+      </item>
+      <item>
+        <title>RPGs in Need of Digital Toolsets</title>
+        <dc:creator><![CDATA[@Hopeless_Wanderer]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/hopeless_wanderer">@Hopeless_Wanderer</a> wrote:</p>
+          <blockquote>
+              <p>Ghost/Echo<br>
+Otherkinds<br>
+Gama Patrol (a pocket danger patrol reskin)<br>
+World of Dungeons<br>
+Lasers and Feelings</p>
+<p>All of these, except Otherkinds, are one sheet games. So they might be easier to produce tool sets for.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429/8</link>
+        <pubDate>Mon, 03 Oct 2022 05:11:13 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8429-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429.rss">RPGs in Need of Digital Toolsets</source>
+      </item>
+      <item>
+        <title>RPGs in Need of Digital Toolsets</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>True, I like Pocket edition best, but Danger Patrol needs the love too Iguess</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429/7</link>
+        <pubDate>Sun, 02 Oct 2022 19:11:00 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8429-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429.rss">RPGs in Need of Digital Toolsets</source>
+      </item>
+      <item>
+        <title>RPGs in Need of Digital Toolsets</title>
+        <dc:creator><![CDATA[@ChristopherA]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/christophera">@ChristopherA</a> wrote:</p>
+          <blockquote>
+              <p>I’d really like to see a digital toolset for the many and various Belonging Outside Belonging gmless games. Needs a character manager for entry of strong, tempting, and weak moves, as well as token management per player. Also same types of moves but for story elements assigned to players, but with tokens flow in/out of common pool. Lastly some type of index card “truths”.</p>
+<p>— Christopher Allen</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429/6</link>
+        <pubDate>Sun, 02 Oct 2022 17:27:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8429-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429.rss">RPGs in Need of Digital Toolsets</source>
+      </item>
+      <item>
+        <title>RPGs in Need of Digital Toolsets</title>
+        <dc:creator><![CDATA[@Hopeless_Wanderer]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/hopeless_wanderer">@Hopeless_Wanderer</a> wrote:</p>
+          <blockquote>
+              <p>Do you mean Danger Patrol or Danger Patrol Pocket Edition?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429/5</link>
+        <pubDate>Sat, 01 Oct 2022 12:28:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8429-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429.rss">RPGs in Need of Digital Toolsets</source>
+      </item>
+      <item>
+        <title>RPGs in Need of Digital Toolsets</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>Yes! OtherKind games are quiet easy to handle, but they need dice placement and, most of all, a boost in visibility. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429/4</link>
+        <pubDate>Thu, 29 Sep 2022 15:58:25 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8429-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429.rss">RPGs in Need of Digital Toolsets</source>
+      </item>
+      <item>
+        <title>RPGs in Need of Digital Toolsets</title>
+        <dc:creator><![CDATA[@CitizenKeen]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/citizenkeen">@CitizenKeen</a> wrote:</p>
+          <blockquote>
+              <p>I did like reading John Harper’s <em>Danger Patrol</em> when I read it. That one?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429/3</link>
+        <pubDate>Thu, 29 Sep 2022 15:45:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8429-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429.rss">RPGs in Need of Digital Toolsets</source>
+      </item>
+      <item>
+        <title>RPGs in Need of Digital Toolsets</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>Mesopotamians!<br>
+Danger Patrol!<br>
+Psi*Run!<br>
+Remember Tomorrow!</p>
+<p>They’re all from the same system: OtherKind, AW’s ancestor in a way.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429/2</link>
+        <pubDate>Thu, 29 Sep 2022 14:31:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8429-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429.rss">RPGs in Need of Digital Toolsets</source>
+      </item>
+      <item>
+        <title>RPGs in Need of Digital Toolsets</title>
+        <dc:creator><![CDATA[@CitizenKeen]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/citizenkeen">@CitizenKeen</a> wrote:</p>
+          <blockquote>
+              <p>Hi! I was curious: what RPG are you currently playing that could benefit from a digital toolset?</p>
+<p>I’ve realized that making a digital toolset is <em>really</em> within my wheelhouse, and I’d love to enable digital play for smaller games.</p>
+<p>I’ve asked elsewhere but I keep getting suggestions like <em>GURPS</em> or <em>World of Darkness</em>, which are… bigger than I want. I’m looking at games that are PbtA/FitD/adjacent. One or two authors. My shortlist right now includes games like <em>NOVA</em>, <em>ICON</em>, <em>Fellowship</em>, etc.</p>
+<p>If you could pull up a character sheet (or a “GM screen” with all your NPCs and players), click some buttons and have dice roll in your Discord channel, and that’s about it, what systems need some love?</p>
+<p>TIA!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429/1</link>
+        <pubDate>Wed, 28 Sep 2022 21:14:37 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8429-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/rpgs-in-need-of-digital-toolsets/8429.rss">RPGs in Need of Digital Toolsets</source>
+      </item>
+  </channel>
+</rss>

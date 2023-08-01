@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</title>
+    <link>https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520</link>
+    <description>I&#39;ve recently become very interested in the Hex Flower procedural method that Goblin&#39;s Henchman has created (?). Full explanation [here](https://goblinshenchman.wordpress.com/hex-power-flower/) but the gist is a 19 hex &quot;flower&quot; that is navigated with a roll of 2d6 and a navigation diagram. The distribution of 2d6 rolls gives a tendency towards the lower left so you can plot your events from most likely to least likely rather than purely random.
+
+You can use a flower for each &quot;dimension&quot; of the area you want to randomize. In their &quot;[In The Heart Of The Sea](https://www.drivethrurpg.com/product/274573/In-the-Heart-of-the-Sea--A-Procedural-High-Seas-Hex-Crawl)&quot; there are 3; encounters, weather, and waves for example.
+
+I&#39;m using this method to simulate an unmappable, ant colony like mine. I&#39;m introducing Warp Stone from AWoD to my DW campaign so I&#39;ve made it a kobold warp stone mine (kobolds have warp resistance, who knew?).
+
+In my own test runs I&#39;ve gone well over 20 moves and 4 encounters so hopefully the party will take the hint and force one of the kobolds to act as guide before they mutate into helpless horrors. Or not, that&#39;d be cool too.
+
+I think this could be an interesting alternative to methods like the Labyrinth Move by @jasoncordova for those times you want to have types of encounters pre-planned with at least a little statistical spread.
+
+Here&#39;s my kobold mine for your amusement:
+
+![kobold%20warp%20stone%20mine|348x500](upload://d0YC6IMFTd5rXS70yIgPc2HRG9e.jpeg)</description>
+    
+    <lastBuildDate>Mon, 06 Dec 2021 23:58:29 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</title>
+        <dc:creator><![CDATA[@GoblinsHenchman]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/goblinshenchman">@GoblinsHenchman</a> wrote:</p>
+          <blockquote>
+              <p>I thought I might share my latest Hex Flower creation here …</p>
+<p><strong>In the Heart of (the Land of the Wizard of) Oz</strong> – is a system-neutral procedural sandbox setting which draws inspiration from the books of L. Frank Baum.</p>
+<p><strong>Artwork</strong><br>
+Nate Treme</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/9/9ceb5beeab04296b1f8adbe676677cbb3247a4f4.jpeg" data-download-href="/uploads/short-url/moaJSoTvFMi3R04hnzCyIgzIwM4.jpeg?dl=1" title="ItHotWoO - cover" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/9/9ceb5beeab04296b1f8adbe676677cbb3247a4f4_2_387x499.jpeg" alt="ItHotWoO - cover" data-base62-sha1="moaJSoTvFMi3R04hnzCyIgzIwM4" width="387" height="499" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/9/9ceb5beeab04296b1f8adbe676677cbb3247a4f4_2_387x499.jpeg, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/9/9ceb5beeab04296b1f8adbe676677cbb3247a4f4_2_580x748.jpeg 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/9/9ceb5beeab04296b1f8adbe676677cbb3247a4f4_2_774x998.jpeg 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/9/9ceb5beeab04296b1f8adbe676677cbb3247a4f4_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">ItHotWoO - cover</span><span class="informations">900×1160 180 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p><strong>Overview</strong><br>
+In the Heart of Oz contains procedural Encounter, Terrain and Weather Engines for Wilderness Hex Crawling across the fairy-tale like land of Oz. There is also a procedural ‘dungeon’ to take on the Wicked Witch of the West in her Yellow Castle.</p>
+<p>ItHoOz uses a <a href="https://goblinshenchman.wordpress.com/hex-power-flower" rel="nofollow noopener">Hex Flower</a> mechanic to generate these setting features.</p>
+<p>Please check it out: <a href="https://www.drivethrurpg.com/product/379474/In-the-Heart-of-Oz" rel="nofollow noopener">PDF</a></p>
+<p>:O)</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/26</link>
+        <pubDate>Mon, 06 Dec 2021 23:58:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2520-26</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520.rss">Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</source>
+      </item>
+      <item>
+        <title>Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</title>
+        <dc:creator><![CDATA[@GoblinsHenchman]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/goblinshenchman">@GoblinsHenchman</a> wrote:</p>
+          <blockquote>
+              <p>Thanks, glad you like them !!<br>
+:O)</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/25</link>
+        <pubDate>Tue, 25 Aug 2020 09:24:14 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2520-25</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520.rss">Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</source>
+      </item>
+      <item>
+        <title>Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</title>
+        <dc:creator><![CDATA[@The_Bearded_Belgian]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/the_bearded_belgian">@The_Bearded_Belgian</a> wrote:</p>
+          <blockquote>
+              <p>Nice to see you find your way here! I’ve been a fan of your hex flowers for quite a while now.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/24</link>
+        <pubDate>Mon, 24 Aug 2020 21:49:53 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2520-24</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520.rss">Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</source>
+      </item>
+      <item>
+        <title>Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</title>
+        <dc:creator><![CDATA[@GoblinsHenchman]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/goblinshenchman">@GoblinsHenchman</a> wrote:</p>
+          <blockquote>
+              <p>… more design info on Hex Flower Game Engine design can be found here: <a href="https://www.drivethrurpg.com/product/295083/Hex-Flower-Cookbook--an-overview-and-some-thoughts-on-Hex-Flower-Game-Engines-by-Goblins-Henchman" rel="nofollow noopener">Hex Flower Cookbook</a> (Silver)</p>
+<p>:O)</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/23</link>
+        <pubDate>Mon, 24 Aug 2020 12:46:53 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2520-23</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520.rss">Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</source>
+      </item>
+      <item>
+        <title>Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</title>
+        <dc:creator><![CDATA[@GoblinsHenchman]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/goblinshenchman">@GoblinsHenchman</a> wrote:</p>
+          <blockquote>
+              <p>I’ve read the above with interest!</p>
+<p>In case anyone is interested, I’ve also a couple of other Hex Flower Game Engines:</p>
+<p>:: <a href="https://www.drivethrurpg.com/product/292935/In-the-Heart-of-the-Unknown--Procedural-Hex-Crawling-Engine" rel="nofollow noopener">In the Heart of the Unknown</a> – procedural hex crawling (Silver)</p>
+<p>:: <a href="https://www.drivethrurpg.com/product/314715/In-the-Heart-of-the-Delve--Dangerous--Procedural-Network-Dungeon-Crawling-Engine" rel="nofollow noopener">In the Heart of the Delve and Dangerous</a> – procedural dungeon crawling (Copper)</p>
+<p>Extract taken from ‘In the Heart of the Delve and Dangerous’:<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/0/01d552ea0e26705d9d53c27596cb05d60a476ee7.jpeg" data-download-href="/uploads/short-url/gdwlJHkgK7Pd1CeOzT5iTcX23t.jpeg?dl=1" title="ItHotDnD - crop" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/0/01d552ea0e26705d9d53c27596cb05d60a476ee7_2_655x500.jpeg" alt="ItHotDnD - crop" data-base62-sha1="gdwlJHkgK7Pd1CeOzT5iTcX23t" width="655" height="500" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/0/01d552ea0e26705d9d53c27596cb05d60a476ee7_2_655x500.jpeg, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/0/01d552ea0e26705d9d53c27596cb05d60a476ee7_2_982x750.jpeg 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/0/01d552ea0e26705d9d53c27596cb05d60a476ee7_2_1310x1000.jpeg 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/0/01d552ea0e26705d9d53c27596cb05d60a476ee7_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">ItHotDnD - crop</span><span class="informations">2049×1563 585 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>:O)</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/22</link>
+        <pubDate>Mon, 24 Aug 2020 12:45:44 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2520-22</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520.rss">Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</source>
+      </item>
+      <item>
+        <title>Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</title>
+        <dc:creator><![CDATA[@Christo]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/christo">@Christo</a> wrote:</p>
+          <blockquote>
+              <p>That it’s a compelling use of the rosette; a faction mood map of sorts.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/21</link>
+        <pubDate>Tue, 19 Nov 2019 00:30:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2520-21</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520.rss">Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</source>
+      </item>
+      <item>
+        <title>Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</title>
+        <dc:creator><![CDATA[@Big_Hammers]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/big_hammers">@Big_Hammers</a> wrote:</p>
+          <blockquote>
+              <p>I didn’t end up letting them see it. I did explain that higher rolls mean “progress” and low rolls mean “not progress” to some degree and they were satisfied with that. I kind of made a show noisily moving my position marker behind my GM screen (yeah I still use a GM screen, it’s an aesthetic thing for me) to build tension after each roll haha <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slightly_smiling_face.png?v=9" title=":slightly_smiling_face:" class="emoji" alt=":slightly_smiling_face:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/20</link>
+        <pubDate>Sun, 14 Jul 2019 14:30:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2520-20</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520.rss">Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</source>
+      </item>
+      <item>
+        <title>Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</title>
+        <dc:creator><![CDATA[@APM]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/apm">@APM</a> wrote:</p>
+          <blockquote>
+              <p>That’s great to hear! Did you show them the map during play or not?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/19</link>
+        <pubDate>Sun, 14 Jul 2019 12:41:26 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2520-19</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520.rss">Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</source>
+      </item>
+      <item>
+        <title>Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</title>
+        <dc:creator><![CDATA[@Big_Hammers]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/big_hammers">@Big_Hammers</a> wrote:</p>
+          <blockquote>
+              <p>Update: I ran my kobold warp stone mine as part of our Dungeon World session tonight and it worked great!</p>
+<p>We had about 4 turns of nothing much then they encountered a group of kobold that briefly fought and then fled to the heart of the mine. The party chased after and ran straight through a few of the mutation areas. Now our halfling thief has chimpanzee legs, the elf fighter got exfoliated, and the elf wizard smells like rotten fish. They had the boss encounter, survived, stashed some warp stone and navigated out.</p>
+<p>Now that I’ve used this in play I can appreciate the weighted randomness. I was as excited to see where they’d end up as they were.</p>
+<p>Flawless victory! <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/+1.png?v=9" title=":+1:" class="emoji" alt=":+1:"><img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/+1.png?v=9" title=":+1:" class="emoji" alt=":+1:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/18</link>
+        <pubDate>Sun, 14 Jul 2019 03:06:44 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2520-18</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520.rss">Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</source>
+      </item>
+      <item>
+        <title>Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</title>
+        <dc:creator><![CDATA[@Grant_Woodward]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/grant_woodward">@Grant_Woodward</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/apm">@APM</a> My primary gaming group sometimes works better with a little bit of restriction—something to channel their creativity onto a particular topic. I wouldn’t want to make this the primary focus of the game, but if it painted with very broad strokes and we collaboratively filled in the details, I do think it would work well to guide them. I’m specifically thinking of faction opinion and status changes here, where the process of transitioning from one state to another is just as interesting as the new state.</p>
+<p>Say the grid represents the mood of a whole city, and we move from “tense” to “protests” on the rosette. Obviously we’ve got to build off previous narratives to explain why it was tense—but what cause this further escalation? Who’s emerging as a leader, or an instigator, or a focal point of the city’s anger? What’s the response from other powers in the city look like? And what do the player characters intend to do with this new situation? Letting the players look at the map doesn’t really hurt this process much. In fact, it may give them ideas of a direction to try to move the city’s mood, or to try to prevent movement in a particular direction. But the <em>execution</em> of their ideas still requires action and narrative.</p>
+<p>Now, I do think that if you’re using this hex flower system in this way, it’s important to find a way to make the rolls responsive to player action. Maybe if the narrative leaves no other possibilities, there’s <em>no</em> roll—the state machine moves in the direction the players want it to move. Or perhaps one or two directions are “blocked”. The players made sure one particular scenario can’t happen, but can’t fully predict what will happen next. Or you simply give the players the option to bump the roll up or down one number, to deflect it slightly but not fully. There are many possible mutators you could apply to this basic system—which is why I’m so interested in it.</p>
+<p>You could apply those same mutators to exploration rolls easily as well, where success on a navigation check gives some measure of control over where the state machine moves to. But that still leaves it up to the play group to describe the transition from one state to another, and the new state.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/17</link>
+        <pubDate>Mon, 08 Jul 2019 13:06:26 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2520-17</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520.rss">Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</source>
+      </item>
+      <item>
+        <title>Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</title>
+        <dc:creator><![CDATA[@Curufea]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/curufea">@Curufea</a> wrote:</p>
+          <blockquote>
+              <p>I recently became interested in this as well, but I’m thinking of hex flowers for each role when travelling on a dangerous journey in Perilous Wilds…</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/16</link>
+        <pubDate>Mon, 08 Jul 2019 09:21:24 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2520-16</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520.rss">Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</source>
+      </item>
+      <item>
+        <title>Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</title>
+        <dc:creator><![CDATA[@APM]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/apm">@APM</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/grant_woodward">@Grant_Woodward</a> I guess there’s theoretically nothing that prevents you from doing so but I’m afraid that having this “map” in front of them might ruin their immersion/imagination. It’s the same situation as when you have cards or a battlemap: the players’ focus turns away from the fiction and onto the thing on the table.</p>
+<p>What do you think? Maybe it doesn’t have to be a problem? And I guess if you’re not playing for character immersion it could Work well as a storytelling tool. Hell you could even go gm-less!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/15</link>
+        <pubDate>Mon, 08 Jul 2019 08:43:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2520-15</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520.rss">Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</source>
+      </item>
+      <item>
+        <title>Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</title>
+        <dc:creator><![CDATA[@Big_Hammers]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/big_hammers">@Big_Hammers</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="13" data-topic="2520">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/grant_woodward/40/1891_2.png" class="avatar"> Grant_Woodward:</div>
+<blockquote>
+<p>I could easily have this rosette visible to the players, and encourage them to explain changes to faction status changes, exploration results, etc. collaboratively.</p>
+</blockquote>
+</aside>
+<p>That a great idea! My group still struggles with inserting their own ideas into the fiction so this might be a way to encourage them.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/14</link>
+        <pubDate>Mon, 08 Jul 2019 02:29:39 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2520-14</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520.rss">Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</source>
+      </item>
+      <item>
+        <title>Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</title>
+        <dc:creator><![CDATA[@Grant_Woodward]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/grant_woodward">@Grant_Woodward</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/big_hammers">@Big_Hammers</a> Thanks for this—this is a fascinating state machine and I can already think of experiments I want to do with the system. Different dice weighting, linked rosettes, mutable arrangements, rolling multiple times in volatile situations…</p>
+<p>I haven’t yet had a chance to look at <em>In the Heart of the Sea</em>, so maybe this is already addressed there, but this also strikes me as a very player-facing tool. I could easily have this rosette visible to the players, and encourage them to explain changes to faction status changes, exploration results, etc. collaboratively.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/13</link>
+        <pubDate>Sun, 07 Jul 2019 21:44:14 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2520-13</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520.rss">Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</source>
+      </item>
+      <item>
+        <title>Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</title>
+        <dc:creator><![CDATA[@Big_Hammers]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/big_hammers">@Big_Hammers</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="11" data-topic="2520">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/apm/40/2097_2.png" class="avatar"> APM:</div>
+<blockquote>
+<p>is this function crucial for a scenario like this?</p>
+</blockquote>
+</aside>
+<p>My gut reaction is yes. There has to be an exit condition that isn’t pure luck, right? I’ll be setting a hard limit on the amount of hex moves for my players to make sure things don’t get ridiculous.</p>
+<p>I like your map, nicely done!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/12</link>
+        <pubDate>Sat, 06 Jul 2019 17:49:04 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2520-12</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520.rss">Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</source>
+      </item>
+      <item>
+        <title>Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</title>
+        <dc:creator><![CDATA[@APM]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/apm">@APM</a> wrote:</p>
+          <blockquote>
+              <p>That’s exactly right! And yeah it would be similar to getting a guide in your mine. But, the question I’m really going for is: is this function crucial for a scenario like this?</p>
+<p>In the seafarer scenario the encounter map basically just tells us how long it takes for us to reach land (and what we encounter along the way) And we can do nothing to speed that up. If randomness really shows its ugly side we can end up moving back and forth between a couple of hexes for quite soon time. So we either need to fill our hexes with indefinitely interesting encounters (the same encounter should be fun the second or even tenth time) or we need ways for the players to actively choose where to go. Or I guess we could keep these “tables/maps” to circumstances like weather and wind that we do not rely upon to proceed.</p>
+<p>By the way, the mutiny “encounter” in the seafarer scenario is quite interesting I think. Let’s say that we were to remove it from the map and instead say that mutiny happens in 6d4 days, or perhaps extract it to another map that we roll for each day (like the townspeople reaction table in the links). That would be more interesting to me as what’s the core interest is whether or not we get to land on time - what we encounter is of less importance (which is more in line with what the map actually does).</p>
+<p>Hmm, yeah now that I write this, I think these kind of maps are better for creating flavour than to be relied upon for important encounters like I am trying with the vildhjärta scenario. I will give it a try though, but I decided I had to change the rules for what happens at the top and bottom hexes when you go off the map to decrease the risk of getting stuck! (something weird happens when I try to upload this image…)</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/4/4b4864be3fa3bcfaa956b28f5e62a059e47269eb.jpeg" data-download-href="/uploads/short-url/aJYUAqrE3CXbEtqL5OcTBMbBsdd.jpeg?dl=1" title="IMG_20190706_182815408" rel="nofollow noopener"><img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/4/4b4864be3fa3bcfaa956b28f5e62a059e47269eb_2_375x500.jpeg" alt="IMG_20190706_182815408" data-base62-sha1="aJYUAqrE3CXbEtqL5OcTBMbBsdd" width="375" height="500" srcset="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/4/4b4864be3fa3bcfaa956b28f5e62a059e47269eb_2_375x500.jpeg, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/4/4b4864be3fa3bcfaa956b28f5e62a059e47269eb_2_562x750.jpeg 1.5x, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/4/4b4864be3fa3bcfaa956b28f5e62a059e47269eb_2_750x1000.jpeg 2x" data-small-upload="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/4/4b4864be3fa3bcfaa956b28f5e62a059e47269eb_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">IMG_20190706_182815408</span><span class="informations">3072×4096 3.07 MB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/11</link>
+        <pubDate>Sat, 06 Jul 2019 16:32:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2520-11</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520.rss">Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</source>
+      </item>
+      <item>
+        <title>Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</title>
+        <dc:creator><![CDATA[@Big_Hammers]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/big_hammers">@Big_Hammers</a> wrote:</p>
+          <blockquote>
+              <p>If I’m understanding your description correctly, I would say that once the players learn the trick to get to a certain location then they can just go there (with possible encounters on the way) without a roll. Similar to how I described a party in my mine getting a guide.</p>
+<p>A situation where players might spend resources would be to move closer to or further from a threat, to find “the way out”, or I suppose to find/move closer to anything that they actually have knowledge of.</p>
+<p>Like with the Labyrinth Move, if there are specific locations that the players must find then you need a way for them to earn and then spend hold so that they definitely will.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/10</link>
+        <pubDate>Sat, 06 Jul 2019 14:32:21 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2520-10</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520.rss">Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</source>
+      </item>
+      <item>
+        <title>Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</title>
+        <dc:creator><![CDATA[@APM]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/apm">@APM</a> wrote:</p>
+          <blockquote>
+              <p>I fiddled around with a “map” like this for an old Swedish rpg scenario for Drakar och Demoner called Vildhjärta. The party is trapped in a cursed forest and they can’t really find their way in it because the trails and vegetation change magically.</p>
+<p>So all locations and encounters are random. But there are certain tricks that you can learn to be able to choose where to go.</p>
+<p>As I tested my map out I realised that the tricks to find specific places are important for the characters to keep their agency. The original material (the links provided in this thread) suggest something similar where you can change the outcome of the roll by spending resources. Maybe this is important? I mean what agency do the characters have if all you can do is to either move on or turn around? And especially when both those choices lead to the same dice roll?</p>
+<p>What’s your thought on this?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/9</link>
+        <pubDate>Sat, 06 Jul 2019 13:55:02 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2520-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520.rss">Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</source>
+      </item>
+      <item>
+        <title>Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</title>
+        <dc:creator><![CDATA[@Big_Hammers]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/big_hammers">@Big_Hammers</a> wrote:</p>
+          <blockquote>
+              <p>Sweet <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> I like this procedure a lot as well. It’s not always appropriate of course but for areas like this or environmental factors like weather, swamp “things”, or even likelyhood of being discovered while sneaking through an occupied structure it feels like a couple notches better than a straight random table.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/8</link>
+        <pubDate>Fri, 05 Jul 2019 20:01:42 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2520-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520.rss">Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</source>
+      </item>
+      <item>
+        <title>Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</title>
+        <dc:creator><![CDATA[@APM]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/apm">@APM</a> wrote:</p>
+          <blockquote>
+              <p>Thanks! Now it’s all very clear. I dig these abstract ideas that substitute an actual map!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/7</link>
+        <pubDate>Fri, 05 Jul 2019 19:33:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2520-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520.rss">Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</source>
+      </item>
+      <item>
+        <title>Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>Yes, that’s great, thanks!</p>
+<p>Your hex flower adventure is a lot clearer than some of the other examples, because of the map key and the clear starting place. Thanks for sharing!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/6</link>
+        <pubDate>Fri, 05 Jul 2019 18:10:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2520-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520.rss">Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</source>
+      </item>
+      <item>
+        <title>Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</title>
+        <dc:creator><![CDATA[@Big_Hammers]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/big_hammers">@Big_Hammers</a> wrote:</p>
+          <blockquote>
+              <p>Yeah, I should do a quick example <a class="mention" href="/u/paul_t">@Paul_T</a>.</p>
+<p>So let’s assume the party has been lured into the mine and want to find out what the kobolds are doing or recover their stolen items or whatever. They are on hex 1.</p>
+<p>The party says “We chase the kobold deeper into the mine” and rolls 2d6 getting a 4. As the GM I know that they will just stay in the same hex but I give a description of the twisting ant colony nature of the space they’re moving through and try to impress on them that they are or will be lost very soon.</p>
+<p>After giving them a chance to make equipment decisions etc I call for another roll. This time it’s a 2. I move their location to hex 3 and give more description and let them know they are definitely lost now. Roll again.</p>
+<p>Another 4. That goes off the edge and loops around to hex 9. They’ve already backtracked or are they hallucinating? I give description that tries to induce some dread and panic. Regardless of what the party decides, stay or go, they have to roll to navigate. Maybe spend hold to retrace your steps one hex and get closer to the exit? I haven’t decided if that will be allowed in this particular scenario.</p>
+<p>Next roll is a 6. They’ve encountered 1d4 kobolds! The part could slaughter them and then they’re in exactly the same situation. Maybe they’ll keep one alive and intimidate it to show them the way out or the way in (to see what they’re up to). In that case they will move one hex at a time directly the way they want to go. But let’s assume they panic or are just murder hobos and have to continue on alone.</p>
+<p>Next roll is a 3. Encouter again! Same opportunity but let’s same say result (they hate kobolds apparently).</p>
+<p>Next roll is a 5. Warp dust! DD+Con or roll for warp mutation.</p>
+<p>Etc etc until they get a guide, luck into the exit, or get worn down by the kobolds. Or until a set number of moves have occurred at which time they’ll discover the heart of the mine.</p>
+<p>Hopefully that is easy to follow? This scenario is supposed to be a “hopelessly lost” type thing. Other setups could involve receiving hold on certain results to aid navigation or landmarks that enable the party to move in the general direction they want.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/5</link>
+        <pubDate>Fri, 05 Jul 2019 17:56:02 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2520-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520.rss">Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</source>
+      </item>
+      <item>
+        <title>Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>I find this quite interesting, but I’d also like some more details on how you actually use it. Who says what, and when? Who rolls? Are there any decisions involved or is it purely a randomizer? A an example of use would go a long way to illustrate what to actually do here!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/4</link>
+        <pubDate>Fri, 05 Jul 2019 17:20:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2520-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520.rss">Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</source>
+      </item>
+      <item>
+        <title>Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</title>
+        <dc:creator><![CDATA[@Big_Hammers]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/big_hammers">@Big_Hammers</a> wrote:</p>
+          <blockquote>
+              <p>Except for the “entrance” hex and the top 3 hexes, when you would move off the map you loop around to the parallel edge on the other side. There’s an illustration on the blog post that makes it easy to visualize. For the others you either stay where you are or move in a preset direction.</p>
+<p>I don’t normally show players maps with encounters etc marked but in this case it wouldn’t actually matter. It’s really more of an encounter table than an actual map. In my case it’s emulating an unmappable area that the party is lost in.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/3</link>
+        <pubDate>Fri, 05 Jul 2019 16:46:01 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2520-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520.rss">Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</source>
+      </item>
+      <item>
+        <title>Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</title>
+        <dc:creator><![CDATA[@APM]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/apm">@APM</a> wrote:</p>
+          <blockquote>
+              <p>Oh, this really caught my eye! I haven’t read the source material that you’re referring to (I will when I get the time), but could you perhaps tell me how you go about using this map of yours. I see the entrance in the bottom,but when they move on into the mine, you roll to see where they end up? What happens if you roll a 7 when going from the entrance? Also, I presume that the players never get to see these maps, right?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520/2</link>
+        <pubDate>Fri, 05 Jul 2019 11:03:01 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2520-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/hex-flower-dungeon-in-the-style-of-in-the-heart-of-the-sea/2520.rss">Hex Flower dungeon in the style of &quot;In The Heart Of The Sea&quot;</source>
+      </item>
+  </channel>
+</rss>

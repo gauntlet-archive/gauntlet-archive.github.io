@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Discourse Plugins</title>
+    <link>https://forums.gauntlet-rpg.com/t/discourse-plugins/4669</link>
+    <description>I&#39;m sure all of this has been considered, but I stumbled on Discourse&#39;s plugin page while I was looking for BBCode or Markdown explanations (never found it, the internet continues to be a complete mystery). Anyway, I thought these looked interesting (linked at the bottom).
+
+The Slack integration might be great so that people could just post on the forum and the plugin would automatically spit it into Slack&#39;s g_hangouts channel! Especially helpful for people who run games but may not have Slack access.
+The Perspectives API might be really helpful for the moderators, especially with its auto-flagging. Could also be overwhelming.
+And, while Google Translate isn&#39;t amazing, a quick translate button might help expand the reach outside of English? Not a great solution, but could be helpful.
+
+https://meta.discourse.org/t/chatroom-integration-plugin-discourse-chat-integration/66522
+https://meta.discourse.org/t/google-perspective-api-plugin/98733
+https://meta.discourse.org/t/discourse-translator/32630</description>
+    
+    <lastBuildDate>Sun, 08 Mar 2020 07:46:43 +0000</lastBuildDate>
+    <category>Site Feedback</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/discourse-plugins/4669.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Discourse Plugins</title>
+        <dc:creator><![CDATA[@Asher]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/asher">@Asher</a> wrote:</p>
+          <blockquote>
+              <p>Slack limits the number of integrations you can do so using the plug-in would use one of those integration slots. You can however get the same effect (syndicating forum posts to slack) without a plug-in using webhooks.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/discourse-plugins/4669/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/discourse-plugins/4669/4</link>
+        <pubDate>Sun, 08 Mar 2020 07:46:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4669-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/discourse-plugins/4669.rss">Discourse Plugins</source>
+      </item>
+      <item>
+        <title>Discourse Plugins</title>
+        <dc:creator><![CDATA[@dominik]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dominik">@dominik</a> wrote:</p>
+          <blockquote>
+              <p>FWIW the more plugins one installs, the higher the burden of maintaining the board. The ability to update Discourse core every time there’s a vulnerability should definitely take priority over having plugins installed.</p>
+<p>Not that it matters much but I would personally consider avoiding boards that use Perspective API or translator plugins. Translator one is simpler to explain why: localization can be done through browser plugin if one needs to use it (some browsers have it built in even) and there’s no need to let Google data mine content when someone clicks translate by accident (not everything on the board is public but translation becomes available everywhere).</p>
+<p>As for Perspective API: no amount of AI is going to solve the problem of toxic content. This forum is pretty good when it comes to policing the quality of discourse and all we’ll be going is providing Google with even more data that they can later monetize with no real benefit to The Gauntlet.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/discourse-plugins/4669/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/discourse-plugins/4669/3</link>
+        <pubDate>Wed, 26 Feb 2020 18:06:41 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4669-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/discourse-plugins/4669.rss">Discourse Plugins</source>
+      </item>
+      <item>
+        <title>Discourse Plugins</title>
+        <dc:creator><![CDATA[@Jesseabe]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jesseabe">@Jesseabe</a> wrote:</p>
+          <blockquote>
+              <p>We should tap in <a class="mention" href="/u/robert">@Robert</a> here.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/discourse-plugins/4669/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/discourse-plugins/4669/2</link>
+        <pubDate>Wed, 26 Feb 2020 01:21:58 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4669-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/discourse-plugins/4669.rss">Discourse Plugins</source>
+      </item>
+      <item>
+        <title>Discourse Plugins</title>
+        <dc:creator><![CDATA[@darren]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/darren">@darren</a> wrote:</p>
+          <blockquote>
+              <p>I’m sure all of this has been considered, but I stumbled on Discourse’s plugin page while I was looking for BBCode or Markdown explanations (never found it, the internet continues to be a complete mystery). Anyway, I thought these looked interesting (linked at the bottom).</p>
+<p>The Slack integration might be great so that people could just post on the forum and the plugin would automatically spit it into Slack’s g_hangouts channel! Especially helpful for people who run games but may not have Slack access.<br>
+The Perspectives API might be really helpful for the moderators, especially with its auto-flagging. Could also be overwhelming.<br>
+And, while Google Translate isn’t amazing, a quick translate button might help expand the reach outside of English? Not a great solution, but could be helpful.</p>
+<p><aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/1/1b0984d7ee08bce90572f46a1950e1ced436d028.png" class="site-icon" width="32" height="32">
+      <a href="https://meta.discourse.org/t/chatroom-integration-plugin-discourse-chat-integration/66522" target="_blank" title="04:27PM - 29 August 2019">Discourse Meta – 29 Aug 19</a>
+  </header>
+  <article class="onebox-body">
+    <img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/e/ecc92a52ee7353e03d5c0d1ea6521ce4541d9c25_2_500x500.png" class="thumbnail onebox-avatar" width="500" height="500" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/e/ecc92a52ee7353e03d5c0d1ea6521ce4541d9c25_2_500x500.png, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/e/ecc92a52ee7353e03d5c0d1ea6521ce4541d9c25.png 1.5x, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/e/ecc92a52ee7353e03d5c0d1ea6521ce4541d9c25.png 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/e/ecc92a52ee7353e03d5c0d1ea6521ce4541d9c25_2_10x10.png">
+
+<h3><a href="https://meta.discourse.org/t/chatroom-integration-plugin-discourse-chat-integration/66522" target="_blank">Chatroom Integration Plugin (discourse-chat-integration)</a></h3>
+
+<p>Continuing from Common event system for chatrooms   💬 discourse-chat-integration 💬  discourse-chat-integration is the product of my Google Summer of Code project with Discourse. It allows sending notifications about new Discourse posts to ‘group...</p>
+
+  <p><span class="label1">Reading time: 9 mins 🕑</span>
+    <span class="label2">Likes: 80 ❤</span></p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+<br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/1/1b0984d7ee08bce90572f46a1950e1ced436d028.png" class="site-icon" width="32" height="32">
+      <a href="https://meta.discourse.org/t/google-perspective-api-plugin/98733" target="_blank" title="07:05AM - 05 October 2018">Discourse Meta – 5 Oct 18</a>
+  </header>
+  <article class="onebox-body">
+    <img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/7/70faba4253cd675bcc01c8446b044744a45cd887.png" class="thumbnail onebox-avatar" width="400" height="400">
+
+<h3><a href="https://meta.discourse.org/t/google-perspective-api-plugin/98733" target="_blank">Google Perspective API Plugin</a></h3>
+
+<p>Official Google Perspective API Plugin for Discourse    What is the Perspective API? https://www.perspectiveapi.com/  From the official site, “Perspective is an API that makes it easier to host better conversations.The API uses machine learning...</p>
+
+  <p><span class="label1">Reading time: 3 mins 🕑</span>
+    <span class="label2">Likes: 50 ❤</span></p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+<br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/1/1b0984d7ee08bce90572f46a1950e1ced436d028.png" class="site-icon" width="32" height="32">
+      <a href="https://meta.discourse.org/t/discourse-translator/32630" target="_blank" title="12:29AM - 15 July 2019">Discourse Meta – 15 Jul 19</a>
+  </header>
+  <article class="onebox-body">
+    <img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/e/ecc92a52ee7353e03d5c0d1ea6521ce4541d9c25_2_500x500.png" class="thumbnail onebox-avatar" width="500" height="500" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/e/ecc92a52ee7353e03d5c0d1ea6521ce4541d9c25_2_500x500.png, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/e/ecc92a52ee7353e03d5c0d1ea6521ce4541d9c25.png 1.5x, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/e/ecc92a52ee7353e03d5c0d1ea6521ce4541d9c25.png 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/e/ecc92a52ee7353e03d5c0d1ea6521ce4541d9c25_2_10x10.png">
+
+<h3><a href="https://meta.discourse.org/t/discourse-translator/32630" target="_blank">Discourse Translator</a></h3>
+
+<p>discourse-translator - GitHub - discourse/discourse-translator    Features++  Each post is only translated once per locale which saves you 💰  Note that language detection is also run once for every post. Be careful when enabling this on old and large...</p>
+
+  <p><span class="label1">Reading time: 2 mins 🕑</span>
+    <span class="label2">Likes: 85 ❤</span></p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/discourse-plugins/4669/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/discourse-plugins/4669/1</link>
+        <pubDate>Tue, 25 Feb 2020 15:10:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4669-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/discourse-plugins/4669.rss">Discourse Plugins</source>
+      </item>
+  </channel>
+</rss>

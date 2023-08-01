@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Crom&#39;s TTRPG Magic System</title>
+    <link>https://forums.gauntlet-rpg.com/t/croms-ttrpg-magic-system/416</link>
+    <description>Hey y&#39;all!  I&#39;m creating a new thread so the other one can continue to be used specifically for discussing favorite magic systems.  Thanks y&#39;all for bringing up some great systems and helping me out!
+
+For this thread, I&#39;d love to get some feedback on my latest concept of the magic system.  I&#39;m pretty happy with how it feels even without diving into the nitty gritty explicit details yet:
+
+- Each spell costs 1 spell slot regardless of tier, and an equivalent number of MP (metaphysical points, one of two pools of health) equal to the highest tier involved in casting a spell
+- There are four base magics you learn at tier 1 relating to the target &amp; intent (Support: ally, Offense: enemy, Affect: existing non-entities, Obtain: creation) and there are keywords you unlock  that create effects limited to the scope of the keyword
+- Certain keywords can combine with other keywords.  These are known as &quot;action&quot; keywords, which can still be used on their own
+- Other keywords relate to a specific kind of effect related to the keyword&#39;s focus- this is known as an &quot;effect&quot; keyword
+- Effect keywords do not stack, and Action keywords can be applied to a single spell below its tier to produce a greater Effect
+- Specializations of magic come in sense of specific applications of effect keywords: for instance, if you are proficient in Elemental magic of the offense category, you can choose to specialize in Fire Magic to gain additional effects to your spell (for instance: normally a L2 cast of offensive fire magic might simply be a touch attack, but specialization allows you to add a burning effect if the the subject has anything flammable)
+- Specializations of elements must be unlocked at each tier to apply to greater Effects - ie. if I add the T3 Launch action on a T2 Fire element, my specialization in the Element action must be unlocked at T3, but doing so will allow me to add an extra effect - related to Action, this can include causing a damaging debuff, or allowing a secondary attack on an adjacent target.
+
+There will be a lot of suggested effects related to the keywords to give a starting point for the power of each tier of magic in general, as well as for individual keywords, but other than that it&#39;s a negotiation between the GM and the player as to what effects are ultimately allowed
+
+Any thoughts?  Any clarifying questions you&#39;d like to ask?</description>
+    
+    <lastBuildDate>Wed, 13 Mar 2019 15:50:22 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/croms-ttrpg-magic-system/416.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Crom&#39;s TTRPG Magic System</title>
+        <dc:creator><![CDATA[@Crom]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/crom">@Crom</a> wrote:</p>
+          <blockquote>
+              <p>I really love the idea but I don’t really want to add a special mechanic just for it - I think adding it as a form of specialization is the way to go, because a specialization is effectively just saying “I am good at casting this very well-defined effect”, which in my mind becomes what we normally treat spells as in games like D&amp;D 5e.  Thank you for the idea though, I’m 100% going to use it!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/croms-ttrpg-magic-system/416/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/croms-ttrpg-magic-system/416/5</link>
+        <pubDate>Wed, 13 Mar 2019 15:50:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-416-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/croms-ttrpg-magic-system/416.rss">Crom&#39;s TTRPG Magic System</source>
+      </item>
+      <item>
+        <title>Crom&#39;s TTRPG Magic System</title>
+        <dc:creator><![CDATA[@GroupSoliloquy]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/groupsoliloquy">@GroupSoliloquy</a> wrote:</p>
+          <blockquote>
+              <p>I think what I was proposing would be an additional catagory of spell words called “lineage” or something. A base fireball would be something like “launch, flame, exploding” but one could add the lineage of ‘Xelrotha’ (just some random wizard) which adds bonus damage against elves but leaves the player slowed for d6 rounds or something?</p>
+<p>I guess I’m just a sucker for lineage magic spells and the world building they do.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/croms-ttrpg-magic-system/416/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/croms-ttrpg-magic-system/416/4</link>
+        <pubDate>Tue, 12 Mar 2019 16:05:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-416-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/croms-ttrpg-magic-system/416.rss">Crom&#39;s TTRPG Magic System</source>
+      </item>
+      <item>
+        <title>Crom&#39;s TTRPG Magic System</title>
+        <dc:creator><![CDATA[@Crom]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/crom">@Crom</a> wrote:</p>
+          <blockquote>
+              <p>I think adding specific spells is still a feasible thing in the system - specific results of keyword combinations can be considered a specialization in the system I outlined <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=6" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/croms-ttrpg-magic-system/416/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/croms-ttrpg-magic-system/416/3</link>
+        <pubDate>Tue, 12 Mar 2019 04:32:47 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-416-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/croms-ttrpg-magic-system/416.rss">Crom&#39;s TTRPG Magic System</source>
+      </item>
+      <item>
+        <title>Crom&#39;s TTRPG Magic System</title>
+        <dc:creator><![CDATA[@GroupSoliloquy]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/groupsoliloquy">@GroupSoliloquy</a> wrote:</p>
+          <blockquote>
+              <p>I would need to see this in play to see how ‘fiddily’ it is. Would this be for a game where all characters are magic users, or only a select few? Once a spell is built such as, ‘offensive, burning, ice’ is it locked in? Can I reuse effects and keywords in other spells? Or is this more of a crafting style activity where wizards recombine their words during rest?</p>
+<p>In all it feels reminiscent of Maze Rats, which is high praise, but more modular and designed for longer lived characters. It feels more mechanical than a story game and more free-form than a trad system so it’s brilliant, but not my personal preference.</p>
+<p>I’m curious how you would add things like elder wizard names (think <em>Tenser’s</em> floating disk) Do wizards of old add a certain boon and bane to the spells that have their name? Perhaps you can combine a number of effect words into a particular wizard’s name for economy of MP? If so, at what cost?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/croms-ttrpg-magic-system/416/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/croms-ttrpg-magic-system/416/2</link>
+        <pubDate>Tue, 12 Mar 2019 01:22:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-416-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/croms-ttrpg-magic-system/416.rss">Crom&#39;s TTRPG Magic System</source>
+      </item>
+      <item>
+        <title>Crom&#39;s TTRPG Magic System</title>
+        <dc:creator><![CDATA[@Crom]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/crom">@Crom</a> wrote:</p>
+          <blockquote>
+              <p>Hey y’all!  I’m creating a new thread so the other one can continue to be used specifically for discussing favorite magic systems.  Thanks y’all for bringing up some great systems and helping me out!</p>
+<p>For this thread, I’d love to get some feedback on my latest concept of the magic system.  I’m pretty happy with how it feels even without diving into the nitty gritty explicit details yet:</p>
+<ul>
+<li>Each spell costs 1 spell slot regardless of tier, and an equivalent number of MP (metaphysical points, one of two pools of health) equal to the highest tier involved in casting a spell</li>
+<li>There are four base magics you learn at tier 1 relating to the target &amp; intent (Support: ally, Offense: enemy, Affect: existing non-entities, Obtain: creation) and there are keywords you unlock  that create effects limited to the scope of the keyword</li>
+<li>Certain keywords can combine with other keywords.  These are known as “action” keywords, which can still be used on their own</li>
+<li>Other keywords relate to a specific kind of effect related to the keyword’s focus- this is known as an “effect” keyword</li>
+<li>Effect keywords do not stack, and Action keywords can be applied to a single spell below its tier to produce a greater Effect</li>
+<li>Specializations of magic come in sense of specific applications of effect keywords: for instance, if you are proficient in Elemental magic of the offense category, you can choose to specialize in Fire Magic to gain additional effects to your spell (for instance: normally a L2 cast of offensive fire magic might simply be a touch attack, but specialization allows you to add a burning effect if the the subject has anything flammable)</li>
+<li>Specializations of elements must be unlocked at each tier to apply to greater Effects - ie. if I add the T3 Launch action on a T2 Fire element, my specialization in the Element action must be unlocked at T3, but doing so will allow me to add an extra effect - related to Action, this can include causing a damaging debuff, or allowing a secondary attack on an adjacent target.</li>
+</ul>
+<p>There will be a lot of suggested effects related to the keywords to give a starting point for the power of each tier of magic in general, as well as for individual keywords, but other than that it’s a negotiation between the GM and the player as to what effects are ultimately allowed</p>
+<p>Any thoughts?  Any clarifying questions you’d like to ask?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/croms-ttrpg-magic-system/416/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/croms-ttrpg-magic-system/416/1</link>
+        <pubDate>Mon, 11 Mar 2019 23:17:38 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-416-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/croms-ttrpg-magic-system/416.rss">Crom&#39;s TTRPG Magic System</source>
+      </item>
+  </channel>
+</rss>

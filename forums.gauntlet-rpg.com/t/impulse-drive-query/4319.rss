@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Impulse Drive - Query</title>
+    <link>https://forums.gauntlet-rpg.com/t/impulse-drive-query/4319</link>
+    <description>from Slack, Beekzor asked - I’ve just started a read through of Impulse Drive. I’m loving the idea of the approach system. Those with play experience, are the modifiers enough to be meaningful or maybe too meaningful in play?
+
+@madadric you there? :slight_smile:</description>
+    
+    <lastBuildDate>Sun, 12 Jan 2020 12:18:53 +0000</lastBuildDate>
+    <category>RPG Chat</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/impulse-drive-query/4319.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Impulse Drive - Query</title>
+        <dc:creator><![CDATA[@madadric]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/madadric">@madadric</a> wrote:</p>
+          <blockquote>
+              <p>Oh I love this question! When I first got into designing for PBTA, being a math scrub I spend a few hours on anydice figuring out the spread for modifiers on 2d6+stat, with advantage &amp; disadvantage.</p>
+<p>A few interesting observations:</p>
+<p>-The median modifier is +1, not 0 as our instincts suggest. At +1, a miss &amp; a full hit are equally as likely.</p>
+<p>-limiting modifiers to a max of +3, a miss is still always possible, if only a 2.66% chance.</p>
+<p>-advantage &amp; disadvantage still keep all results possible. Even if it’s a mere 1.85% chance at the extremes of +3 or -3 modifiers.</p>
+<p>I like the impact these ranges of modifiers have when combined with advantage, &amp; the disadvantage granted with hooks. Is it too much or not enough? That’s for each individual group to find for themselves, &amp; I’d love to hear other’s thoughts on this.</p>
+<aside class="onebox googledocs">
+  <header class="source">
+      <a href="https://docs.google.com/spreadsheets/d/1U9CzqL3-63wwplTm-imzRsOjnWQhL-WczzloY8JWtJc/edit?usp=drivesdk" target="_blank" rel="nofollow noopener">docs.google.com</a>
+  </header>
+  <article class="onebox-body">
+    <a href="https://docs.google.com/spreadsheets/d/1U9CzqL3-63wwplTm-imzRsOjnWQhL-WczzloY8JWtJc/edit?usp=drivesdk" target="_blank" rel="nofollow noopener"><span class="googledocs-onebox-logo g-sheets-logo"></span></a>
+
+<h3><a href="https://docs.google.com/spreadsheets/d/1U9CzqL3-63wwplTm-imzRsOjnWQhL-WczzloY8JWtJc/edit?usp=drivesdk" target="_blank" rel="nofollow noopener">Result percentage spead PBTA</a></h3>
+
+<p>Sheet1
+
+ADV:,Roll 3D6, add the highest 2 results together
+2D6:,Roll 2D6, add them together
+DIS:,Roll 3D6add the lowest 2 results together
+-3,6 -,7 - 9,10 +,7 +
+ADV,64.35%,35.65%,0%,35.65%
+2D6,83.33%,16.67%,0%,16.67%
+DIS,94.91%,5.09%,0%,5.09%
+-2,6 -,7...</p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/impulse-drive-query/4319/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/impulse-drive-query/4319/2</link>
+        <pubDate>Sun, 12 Jan 2020 12:18:53 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4319-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/impulse-drive-query/4319.rss">Impulse Drive - Query</source>
+      </item>
+      <item>
+        <title>Impulse Drive - Query</title>
+        <dc:creator><![CDATA[@BlakeRyan]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/blakeryan">@BlakeRyan</a> wrote:</p>
+          <blockquote>
+              <p>from Slack, Beekzor asked - I’ve just started a read through of Impulse Drive. I’m loving the idea of the approach system. Those with play experience, are the modifiers enough to be meaningful or maybe too meaningful in play?</p>
+<p><a class="mention" href="/u/madadric">@madadric</a> you there? <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/impulse-drive-query/4319/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/impulse-drive-query/4319/1</link>
+        <pubDate>Sun, 12 Jan 2020 12:00:42 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4319-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/impulse-drive-query/4319.rss">Impulse Drive - Query</source>
+      </item>
+  </channel>
+</rss>

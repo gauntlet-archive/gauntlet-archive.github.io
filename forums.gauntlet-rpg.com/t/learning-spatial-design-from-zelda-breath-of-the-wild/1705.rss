@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Learning spatial design from Zelda: Breath of the Wild</title>
+    <link>https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705</link>
+    <description>@SamTung shared the CEDEC 2017 Zelda talk (the video is paywalled so we have to make do with photos) in a Slack convo and I thought it&#39;d be worthwhile to discuss on here.
+
+To start out with, I just want to state the obvious point that *Breath of the Wild* is an OSR take on Zelda. Unlike rogue-likes it doesn&#39;t use a hex-crawl style procedurally generated world (see for example [Caves of Qud](http://www.cavesofqud.com/)), but it does resembles hex crawls in the way its encounters are highly systems and procedurally driven, and the way it encourages open-ended player exploration of a &quot;wild&quot; space. It also leans on OSR concepts like player ingenuity in problem solving, resource scarcity and foraging, encumbrance, and equipment degradation (See [*Macchiato Monsters*](https://www.drivethrurpg.com/product/264169/Macchiato-Monsters) for an excellent implementation of a simple degradation mechanic). 
+
+Accordingly, OSR design can probably learn a thing or two from this mammoth multi-year design effort by one of the best design groups in the world.
+
+The key design breakthrough that the Nintendo devs shared in their CEDEC talk was assigning a subjective &quot;gravity&quot; score to each object on the map. These gravity scores represent the degree to which the object pulls player interest. We can think of them as similar to The Order of Might in *Torchbearer*, HD in a lot of OSR games, or Tier in *Blades in the Dark*.
+
+https://imgur.com/z4dlckL
+
+By balancing the gravity distribution across the (curated) map, the Zelda devs were able to effect a dramatic change in player behaviour, where exploration was far more evenly distributed.
+
+https://imgur.com/QkC0Sr1
+
+So what can we learn from this stunning development? Here are some of my first thoughts:
+
+1. Space and time in BotW are continuous, whereas in TRPGs they are more or less discreet. A dungeon crawl is the least discreet representation of time and space in TRPGs, a timelining game like Microscope is the most discreet, with a point crawl occupying a place in the middle (Time progresses in a linear but interrupted way, with space being totally abstracted between points of interest). This makes a big difference in design values.
+2. Gravity is mostly a useful design concept in games concerned with a sense of world objectivity. Highly collaborative games won&#39;t get much use out of it, because concerns about gravity are implicitly resolved in conversation dynamics. Reading other players and having a sense of established narrative tropes is much more valuable in these games than some numerical ranking of interest. Even if rankings are used, they tend to be one-dimensional for ease of use, unlike the two-dimensional system used in BotW (because it&#39;s on a map).
+3. Gravity is communicated visually in BotW (mostly by size), whereas it may be communicated verbally in TRPGs. 
+
+   - For example, in a hex crawl a group ascending a hill may reveal 2 hexes out of the fog of war to represent an expanded visual horizon. The map may actually have some icons on it to represent objects and some gravity can be communicated that way, but the GM&#39;s description of what is seen will always be more detailed than what is visually communicated. 
+   - Grid based dungeon maps can communicate more in this regard, but they tend towards visual sparseness to maintain a sense of the unknown. The detailed pictures in dungeon crawls tend to be shown to the players once they&#39;ve already reached a point of interest, so any consideration of gravity is moot. 
+   - Some point crawls like [*Slumbering Ursine Dunes*](https://www.drivethrurpg.com/product/140450/Slumbering-Ursine-Dunes) do use a rudimentary sense of gravity to visually mark major points of interest and draw the players in different directions across the map.
+
+https://imgur.com/Rp5Nh0J
+(follow [link](https://imgur.com/Rp5Nh0J) for image)
+
+4. Gravity might be best used on a &quot;second pass&quot; of making a bespoke map by hand. Your map might look *visually* balanced and conform to geological rules of thumb, but is it really *gravitationally* balanced? Try ranking your points of interest on a numerical scale and make sure their ratios of *quantitative gravitational difference* are roughly matched by their ratios of *spatial difference* (number of hexes apart, number of pixels apart on a point crawl).
+5. We already weight encounter tables by gravity (Again, *Macchiato Monsters&#39;* risk die implementation is excellent here), and this does help with making procedurally generated game spaces that have a satisfying variety and texture, they don&#39;t do much to add to player foreknowledge and choice (encounters tend to be separate from one another).
+6. One useful bridge of encounter tables and spatial generation might be to combine the world generation approach of [*The Perilous Wilds*](https://www.drivethrurpg.com/product/156979/The-Perilous-Wilds) with the weighting system of *Macchiato Monsters*. *The Perilous Wilds* abstracts space in a way similar to a point crawl, but its generation principles might be applied to various representations of space.
+7. I&#39;m also interested in thinking of how these gravitational principles can be applied to games with less emphasis on traversal like *Blades in the Dark* and *Urban Shadows*. In these games the space of the city matters because the city as a space is narratively meaningful (unlike for example *Monsterhearts* or *Apocalypse World* where the setting matters, but its spatial existence can be hand waved away with no problems). Could we use gravity to help spatialize the distribution of events in the city in such a way as to help encourage a sense of the city *as a whole* instead of focusing in on a narrow part of it?
+
+Anyhow there are some thoughts on the gravity concept, what do you think about it?</description>
+    
+    <lastBuildDate>Fri, 19 Apr 2019 17:33:19 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Learning spatial design from Zelda: Breath of the Wild</title>
+        <dc:creator><![CDATA[@wiegraf]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/wiegraf">@wiegraf</a> wrote:</p>
+          <blockquote>
+              <blockquote>
+<p>Your phone feeding you today’s big items like a protest somewhere, an important appointment, an ongoing conflict abroad and on the way, depending on where you are, you’d get stuff like: check out this restaurant, this person seems nice - befriend them, take a picture here et cetera.</p>
+</blockquote>
+<p>This makes me think of how <em>Persona 5</em> tried to handle giving information through text messages. I really don’t think it was that successful. A lot of players reported feeling overwhelmed with their options in town, which was quite unlike what <em>Breath of the Wild</em> managed to do. Possibly the problem there was that the information was not context-driven. Some way to avoid the push-notification hell we all suffer through with our IRL devices would be necessary.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705/18</link>
+        <pubDate>Fri, 19 Apr 2019 17:33:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1705-18</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705.rss">Learning spatial design from Zelda: Breath of the Wild</source>
+      </item>
+      <item>
+        <title>Learning spatial design from Zelda: Breath of the Wild</title>
+        <dc:creator><![CDATA[@Julian]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/julian">@Julian</a> wrote:</p>
+          <blockquote>
+              <p>Sources of information as balanced, different-gravity objects? This table from SwN Polychrome might lend itself to that:</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/d/df1fef32469f5b981171212fc5809b5a5cf86e83.png" data-download-href="/uploads/short-url/vPQTueHkep3baZk1aNBQj67CZOP.png?dl=1" title="isource" rel="nofollow noopener"><img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/d/df1fef32469f5b981171212fc5809b5a5cf86e83_2_326x500.png" alt="isource" data-base62-sha1="vPQTueHkep3baZk1aNBQj67CZOP" width="326" height="500" srcset="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/d/df1fef32469f5b981171212fc5809b5a5cf86e83_2_326x500.png, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/d/df1fef32469f5b981171212fc5809b5a5cf86e83_2_489x750.png 1.5x, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/d/df1fef32469f5b981171212fc5809b5a5cf86e83.png 2x" data-small-upload="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/d/df1fef32469f5b981171212fc5809b5a5cf86e83_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">isource</span><span class="informations">503×771 95.8 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>As to being derailed by low-gravity objects I imagine that in a Cyberpunk setting, the effect wouldn’t depend on immediate visual cues as much as on a more mediated experience. Your phone feeding you today’s big items like a protest somewhere, an important appointment, an ongoing conflict abroad and on the way, depending on where you are, you’d get stuff like: check out this restaurant, this person seems nice - befriend them, take a picture here et cetera.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705/17</link>
+        <pubDate>Fri, 19 Apr 2019 13:03:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1705-17</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705.rss">Learning spatial design from Zelda: Breath of the Wild</source>
+      </item>
+      <item>
+        <title>Learning spatial design from Zelda: Breath of the Wild</title>
+        <dc:creator><![CDATA[@SamTung]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/samtung">@SamTung</a> wrote:</p>
+          <blockquote>
+              <p>Fair enough.  My tastes in open world games align more with the author’s but YMMV.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705/16</link>
+        <pubDate>Thu, 11 Apr 2019 05:19:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1705-16</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705.rss">Learning spatial design from Zelda: Breath of the Wild</source>
+      </item>
+      <item>
+        <title>Learning spatial design from Zelda: Breath of the Wild</title>
+        <dc:creator><![CDATA[@JimLikesGames]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jimlikesgames">@JimLikesGames</a> wrote:</p>
+          <blockquote>
+              <p>I feel like he’s definitely confused his not liking something for that thing being bad. <em>Horizon Zero Dawn</em> had hands-down the  most compelling and <em>surprising</em> storyline of anything I’ve played in the last decade, and that absolutely includes <em>The Witcher 3</em>(which was also great).</p>
+<p>If we’re sticking with the gravity analogy, those towers are basically stars, with everything else orbiting around them. I really like the signposting and guidance they provide!</p>
+<p>(Speaking of things we’re tired of, the hot take shitting on something a lot of people like as a lead-off to your journalism piece is something I need less of.)</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705/15</link>
+        <pubDate>Thu, 11 Apr 2019 02:46:51 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1705-15</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705.rss">Learning spatial design from Zelda: Breath of the Wild</source>
+      </item>
+      <item>
+        <title>Learning spatial design from Zelda: Breath of the Wild</title>
+        <dc:creator><![CDATA[@Von_Bednar]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/von_bednar">@Von_Bednar</a> wrote:</p>
+          <blockquote>
+              <p>I think the “gravity” analogy works very well.</p>
+<p>Large, important places/persons/objects have a gravitational pull that stretches far and wide. Players might hear (or see in hex/point crawl map) about it and head in that particular direction. As they travel they will discover smaller “objects” that will pull them closer. Because you are closer to the smaller object, it’s “gravitational pull” has a stronger effect on you.</p>
+<p>Anyway, back to the topic at hand…</p>
+<p>I really like this idea. I can see using it for point/hex crawl where few big/important locations are already marked for the players, and we fill in the rest as we play. Actually, one could design a whole system around the idea - drawing some of the map (high gravity places) before the game starts and filling in blanks as the play progresses. I might give it a spin with my f2f group and see how that goes.</p>
+<p>I remember maps from some old modules (below, part of the map from the Polish version of Warhammer The Restless Dead) that had a similar feel. The map here was showing how the story will proceed alongside the river, but as a player I wanted to go and check what is that unlabeled tower to the north.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/2/2271121a6d6fd45ec3f410aea97be25f42c063c1.jpeg" data-download-href="/uploads/short-url/4UGubAGCtGs3I0W8uGaiQGqIT3H.jpeg?dl=1" title="1111" rel="nofollow noopener"><img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/2/2271121a6d6fd45ec3f410aea97be25f42c063c1_2_315x250.jpeg" alt="1111" data-base62-sha1="4UGubAGCtGs3I0W8uGaiQGqIT3H" width="315" height="250" srcset="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/2/2271121a6d6fd45ec3f410aea97be25f42c063c1_2_315x250.jpeg, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/2/2271121a6d6fd45ec3f410aea97be25f42c063c1_2_472x375.jpeg 1.5x, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/2/2271121a6d6fd45ec3f410aea97be25f42c063c1_2_630x500.jpeg 2x" data-small-upload="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/2/2271121a6d6fd45ec3f410aea97be25f42c063c1_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">1111</span><span class="informations">646×512 161 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705/14</link>
+        <pubDate>Thu, 11 Apr 2019 01:01:44 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1705-14</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705.rss">Learning spatial design from Zelda: Breath of the Wild</source>
+      </item>
+      <item>
+        <title>Learning spatial design from Zelda: Breath of the Wild</title>
+        <dc:creator><![CDATA[@wiegraf]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/wiegraf">@wiegraf</a> wrote:</p>
+          <blockquote>
+              <p>No worries! I should have annotated the pictures!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705/13</link>
+        <pubDate>Wed, 10 Apr 2019 21:52:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1705-13</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705.rss">Learning spatial design from Zelda: Breath of the Wild</source>
+      </item>
+      <item>
+        <title>Learning spatial design from Zelda: Breath of the Wild</title>
+        <dc:creator><![CDATA[@SamR]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/samr">@SamR</a> wrote:</p>
+          <blockquote>
+              <p>Ah, okay! I don’t know any Japanese, so my understanding of the talk was mostly rooted in the pictures. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/man_shrugging.png?v=9" title=":man_shrugging:" class="emoji" alt=":man_shrugging:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705/12</link>
+        <pubDate>Wed, 10 Apr 2019 21:51:28 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1705-12</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705.rss">Learning spatial design from Zelda: Breath of the Wild</source>
+      </item>
+      <item>
+        <title>Learning spatial design from Zelda: Breath of the Wild</title>
+        <dc:creator><![CDATA[@SamTung]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/samtung">@SamTung</a> wrote:</p>
+          <blockquote>
+              <p>For sure – <a href="https://www.avclub.com/open-world-games-are-broken-and-nintendo-spent-2017-tr-1820333889" rel="nofollow noopener">here’s a good article</a> that discusses the wonderful way that BotW breaks this format.</p>
+<p>“Earlier this year, I threw a temper tantrum. I was mid-way through  <em>Horizon Zero Dawn</em> , a game of dazzling polish and exciting potential, and after a few hours of streamlined, mildly inspired introduction, I viewed with horror what the remainder of my time with the game would be: It was to be, yet again, a map game. I would find new regions, climb some sort of tower, unlock a bunch of icons representing various activities on a map, and then go do them. I would gather endlessly generating materials that would let me craft bags that would let me hold larger quantities of those materials. There would be a detailed screen, somewhere in the byzantine menu, that listed exactly how few of these many activities I had accomplished, designed to make me flush with gratitude for the surplus of content this game had afforded me. Only six of 14 errands accomplished! What a brave new world we live in!”</p>
+<p>The joy is not getting a map with a bunch of markers telling you what there is to do, but having a blank map and putting the markers on yourself as you discover stuff.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705/11</link>
+        <pubDate>Wed, 10 Apr 2019 21:32:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1705-11</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705.rss">Learning spatial design from Zelda: Breath of the Wild</source>
+      </item>
+      <item>
+        <title>Learning spatial design from Zelda: Breath of the Wild</title>
+        <dc:creator><![CDATA[@JimLikesGames]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jimlikesgames">@JimLikesGames</a> wrote:</p>
+          <blockquote>
+              <p>Perhaps tangential, but this all makes me think much more seriously about my habit in all the <em>Assassins Creed</em> games of first going to the tops of all the Eagle View towers in whatever new city I arrive in before I tackle anything else.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705/10</link>
+        <pubDate>Wed, 10 Apr 2019 21:06:35 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1705-10</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705.rss">Learning spatial design from Zelda: Breath of the Wild</source>
+      </item>
+      <item>
+        <title>Learning spatial design from Zelda: Breath of the Wild</title>
+        <dc:creator><![CDATA[@wiegraf]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/wiegraf">@wiegraf</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="5" data-topic="1705">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/curubethion/40/200_2.png" class="avatar"> Curubethion:</div>
+<blockquote>
+<p>There’s also a concept of localized gravity, where certain NPCs exert a unique pull on specific PCs because of personal ties and goals. When you align two characters who exert gravitational attraction on different PCs, you create a gravity well that starts entangling everyone.</p>
+</blockquote>
+</aside>
+<p>That’s a good point, and it feels kind of like what Meg and Vincent were trying to do with the threat map in Apocalypse World 2e. Apparently that wasn’t very successful in practice, but it did seem to get at different dimensions of gravity in the narrative space.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705/9</link>
+        <pubDate>Wed, 10 Apr 2019 20:46:13 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1705-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705.rss">Learning spatial design from Zelda: Breath of the Wild</source>
+      </item>
+      <item>
+        <title>Learning spatial design from Zelda: Breath of the Wild</title>
+        <dc:creator><![CDATA[@wiegraf]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/wiegraf">@wiegraf</a> wrote:</p>
+          <blockquote>
+              <p>The example of “gravity” associated with size there I think was just an example. The Japanese is サイズによる引力 which translates as “gravitation/attraction by size.” They also noted that other factors can have a gravitational pull, I guess it’s a multi-modal thing depending on circumstances.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705/8</link>
+        <pubDate>Wed, 10 Apr 2019 20:43:27 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1705-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705.rss">Learning spatial design from Zelda: Breath of the Wild</source>
+      </item>
+      <item>
+        <title>Learning spatial design from Zelda: Breath of the Wild</title>
+        <dc:creator><![CDATA[@SamR]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/samr">@SamR</a> wrote:</p>
+          <blockquote>
+              <p>That’s really interesting! I love the idea of thinking about social structures that way, which is subtly but powerfully different than the usual social network style map.</p>
+<p>Thinking about how a powerful NPC might be <em>the</em> person you keep hearing about when you talk to people in a certain neighborhood or faction, and yet getting to them is actually a non-trivial journey with unexpected detours.</p>
+<p>And then when you go to a different neighborhood or faction, you might <em>still</em> hear about that powerful NPC from everyone, but what you’ll hear will be very different. Like seeing Hyrule castle from the East vs. the West, it helps you get an understanding of the territory.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705/7</link>
+        <pubDate>Wed, 10 Apr 2019 20:24:23 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1705-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705.rss">Learning spatial design from Zelda: Breath of the Wild</source>
+      </item>
+      <item>
+        <title>Learning spatial design from Zelda: Breath of the Wild</title>
+        <dc:creator><![CDATA[@Curubethion]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/curubethion">@Curubethion</a> wrote:</p>
+          <blockquote>
+              <p>Gravity in a game like Monsterhearts or Urban Shadows seems very clear to me: you’re talking about NPCs and organizations who players want to engage with.</p>
+<p>A high-gravity NPC is someone with a powerful position in the world, and you measure your proximity to them by gauging how much access you have to them. Most people have low access to a high-gravity NPC, and they have to prove themselves worthy of that access, although sometimes they accidentally get catapulted right into the arms of the NPC.</p>
+<p>There’s also a concept of localized gravity, where certain NPCs exert a unique pull on specific PCs because of personal ties and goals. When you align two characters who exert gravitational attraction on different PCs, you create a gravity well that starts entangling everyone.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705/5</link>
+        <pubDate>Wed, 10 Apr 2019 20:10:25 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1705-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705.rss">Learning spatial design from Zelda: Breath of the Wild</source>
+      </item>
+      <item>
+        <title>Learning spatial design from Zelda: Breath of the Wild</title>
+        <dc:creator><![CDATA[@SamR]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/samr">@SamR</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/samtung">@SamTung</a> and I have talked about this extensively in the past (particularly while designing our game Escape from Dino Island) – BotW is such a masterclass in how to design spaces for exploration.</p>
+<p>To, me the concept of “gravity” is a little bit of a misnomer, because a lot of the smallest objects in the game (shrines, for example) are actually <em>super</em> likely to attract the players’ attention. From a certain perspective, these objects are even higher gravity, because players will often choose to check them out instead of continuing on their current path. (For clarity, I’m going to call these small but engaging objects “high-value.”)</p>
+<p>I think the high-gravity objects serve two super-useful purposes in the game:</p>
+<ol>
+<li>
+<p>They give players a sense of spatial awareness that allows them to gain an understanding of the geography and make informed decisions about where to go and how to get there. If you can see Hyrule Castle from all over, that allows you to build a coherent mental map of the world, including the blank spaces you want to explore.</p>
+</li>
+<li>
+<p>They are one of the game’s most powerful drivers of players’ feelings of freedom and discovery when used in conjunction with high-value objects.</p>
+</li>
+</ol>
+<p>What I mean by 2 is: In a lot of open-world gaming, freedom doesn’t <em>feel</em> freeing. It feels paralyzing, right? Players need goals, and BotW’s high-gravity objects provide natural goals that you can set yourself. You see a tower and want to go there, because it represents new map data and a new area to explore, not because a quest-giver told you to. So that’s already cool.</p>
+<p>But then, along the way, you’re likely to encounter small, high-value objects that derail you (in a positive sense) — some moblins guarding a chest, or a dragon, or a new shrine. These things have been placed by the designers very deliberately along paths between high-gravity objects, but it never feels that way, because the designer isn’t telling you to go to them, the designer is telling you to go to the tower. So when you find them, and set off to check them out, it feels like authentic discovery, rather than a “side quest” or even a “secret”. It’s just the stuff you find as you traverse and explore the landscape.</p>
+<p>The tower then lets you re-orient yourself after your side adventure, both so you can add the place you ended up to your mental map and get back on track… unless something else catches your eye!</p>
+<p>It reminds me a lot of something Ben Robbins talked about in his <a href="http://arsludi.lamemage.com/index.php/78/grand-experiments-west-marches/" rel="nofollow noopener">West Marches posts</a> — that he would often start players off with a vague treasure map, usually little more than an X out in the wilderness somewhere or a notable landmark. The point wasn’t for players to make it to the treasure, but rather to get them going somewhere so they could discover more interesting things along the way.</p>
+<p>It also ties into what Sam was saying about weenies being used at theme parks — the weenies are generally at the center of each park area, which means traveling there takes you past all of the rides and shops.</p>
+<p>I think it’s pretty clear how all of this stuff is incredibly useful if you’re GMing an OSR sandbox game, but I’m still trying to wrap my head around how to implement this design sensibility in more emergent play.</p>
+<p>One big, and straightforward, takeaway is to design with the characters’ actual senses in mind — specifically sight lines. Sam and my early drafts of Escape from Dino Island placed a lot of focus on adding to the map and using moves in the Undertake a Perilous Journey style and countdowns to traverse the island. But the results felt more like using a JRPG worldmap and less like being lost in the jungle. We’ve had more success by removing moves for travel altogether and instead centering wayfinding like Sam said.</p>
+<p>I’m also intrigued by the idea of using these concepts in a GMless game… When I play adventure games I usually end up GMing, so I usually don’t get the same joy of exploring the unknown that my players do. I’ve been toying with the idea of a creating a game that can capture the feeling of discovery that Breath of the Wild or a great OSR dungeon crawl provide for <em>everyone</em> at the table, without relying on pre-generated material, but I haven’t gotten very far with it yet.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705/4</link>
+        <pubDate>Wed, 10 Apr 2019 20:02:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1705-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705.rss">Learning spatial design from Zelda: Breath of the Wild</source>
+      </item>
+      <item>
+        <title>Learning spatial design from Zelda: Breath of the Wild</title>
+        <dc:creator><![CDATA[@Julian]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/julian">@Julian</a> wrote:</p>
+          <blockquote>
+              <p>Excellent thoughts!</p>
+<p>I just read this article on a citycrawl campaign (<a href="http://bearded-devil.com/2019/04/09/how-i-run-a-citycrawl-campaign/" rel="nofollow noopener">http://bearded-devil.com/2019/04/09/how-i-run-a-citycrawl-campaign/</a>) and the huge map of HEX in there seems like an actual example that the gravity principle could be studied on.</p>
+<p>As to what isn’t concerned with movement on a map: Would length of description/names work this way? I’m thinking of this trope that people will assume named/lengthily described npcs are more relevant.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705/3</link>
+        <pubDate>Wed, 10 Apr 2019 19:50:00 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1705-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705.rss">Learning spatial design from Zelda: Breath of the Wild</source>
+      </item>
+      <item>
+        <title>Learning spatial design from Zelda: Breath of the Wild</title>
+        <dc:creator><![CDATA[@SamTung]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/samtung">@SamTung</a> wrote:</p>
+          <blockquote>
+              <p>Hey <a class="mention" href="/u/wiegraf">@wiegraf</a>, glad you dug that post!  Really like where your head is at with this stuff.</p>
+<p><a href="https://medium.com/@gypsyOtoko/this-is-a-reposting-of-my-twitter-thread-summarizing-articles-written-about-the-cedec-botw-dev-266c34fd30e8" rel="nofollow noopener">Here’s the writeup of the CEDEC talk if anyone missed it</a></p>
+<p><a class="mention" href="/u/samr">@SamR</a> and I have been thinking about the concept of gravity or “location goal prioritizing” in our (shameless plug) Zinequest game <a href="https://www.escapefromdinoisland.com" rel="nofollow noopener">Escape from Dino Island</a> – we’ve been looking at another concept from video games, which originally came from Disneyland design, called <a href="https://medium.com/@abhishekiyer_25378/how-the-uncharted-games-implement-player-navigation-8a6d12733de0" rel="nofollow noopener">“weenies.”</a>  “Weenies are basically  <strong>architectural or visual magnets</strong>  that draw people towards them (usually towards where the park designer wants the to go).”</p>
+<p>In our game, the map is created on-the-fly, and regions or features (the jungle, the swamp, the laboratory, etc) are added as the players learn about them or encounter them.  We’ve been thinking a lot about having a recurring moment at the start of each scene or new location to recap what the players’ goals are, and calling out what visual landmarks they can see.  When they’re lost, they can use a move called “Lay of the Land” to try to climb to a higher location and spot landmarks:</p>
+<p><em>When you and a companion take a quiet moment to get to a good vantage point and orient yourself, tell a story, then roll+CLEVER. On a hit, The DM will tell you about two landmarks—one natural, one man-made—that you can see. On a 10+, they will also show you where you are on the map.</em></p>
+<p><em>On a 6-, you discover an imminent peril.</em></p>
+<aside class="quote no-group" data-post="1" data-topic="1705">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/wiegraf/40/1401_2.png" class="avatar"> wiegraf:</div>
+<blockquote>
+<p>We already weight encounter tables by gravity (Again, <em>Macchiato Monsters’</em> risk die implementation is excellent here), and this does help with making procedurally generated game spaces that have a satisfying variety and texture, they don’t do much to add to player foreknowledge and choice (encounters tend to be separate from one another).</p>
+</blockquote>
+</aside>
+<p>This is interesting!  I do try to build my random encounter tables using 2d6 or 2d8 in order to give them a bell curve of commonality – in the center of the table are common encounters, like, “just more trees,” and at the edges of the tables are strange or rare features, like the entrance to a dungeon or a mystical character.  Could spotting a high-gravity/rare landmark be an entry on the table, and actually encountering the object be another?  Or does that not really reconcile with having a map, once you start locking things into place on paper?</p>
+<p>This entire subject is really interesting to me, and I’m excited to see what other ideas people have to show and incentivize landmarks when exploring large spaces in TTRPGs.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705/2</link>
+        <pubDate>Wed, 10 Apr 2019 19:33:54 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1705-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705.rss">Learning spatial design from Zelda: Breath of the Wild</source>
+      </item>
+      <item>
+        <title>Learning spatial design from Zelda: Breath of the Wild</title>
+        <dc:creator><![CDATA[@wiegraf]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/wiegraf">@wiegraf</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/samtung">@SamTung</a> shared the CEDEC 2017 Zelda talk (the video is paywalled so we have to make do with photos) in a Slack convo and I thought it’d be worthwhile to discuss on here.</p>
+<p>To start out with, I just want to state the obvious point that <em>Breath of the Wild</em> is an OSR take on Zelda. Unlike rogue-likes it doesn’t use a hex-crawl style procedurally generated world (see for example <a href="http://www.cavesofqud.com/" rel="nofollow noopener">Caves of Qud</a>), but it does resembles hex crawls in the way its encounters are highly systems and procedurally driven, and the way it encourages open-ended player exploration of a “wild” space. It also leans on OSR concepts like player ingenuity in problem solving, resource scarcity and foraging, encumbrance, and equipment degradation (See <a href="https://www.drivethrurpg.com/product/264169/Macchiato-Monsters" rel="nofollow noopener"><em>Macchiato Monsters</em></a> for an excellent implementation of a simple degradation mechanic).</p>
+<p>Accordingly, OSR design can probably learn a thing or two from this mammoth multi-year design effort by one of the best design groups in the world.</p>
+<p>The key design breakthrough that the Nintendo devs shared in their CEDEC talk was assigning a subjective “gravity” score to each object on the map. These gravity scores represent the degree to which the object pulls player interest. We can think of them as similar to The Order of Might in <em>Torchbearer</em>, HD in a lot of OSR games, or Tier in <em>Blades in the Dark</em>.</p>
+<p>            <a href="https://imgur.com/z4dlckL" target="_blank" class="onebox" rel="nofollow noopener">
+              <img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/3/3a646a4cc45c8b3cdd25b24277a8be6af8f5b47a.jpeg" title="Imgur" alt="Imgur" height="315" width="600">
+            </a>
+</p>
+<p>By balancing the gravity distribution across the (curated) map, the Zelda devs were able to effect a dramatic change in player behaviour, where exploration was far more evenly distributed.</p>
+<p>            <a href="https://imgur.com/QkC0Sr1" target="_blank" class="onebox" rel="nofollow noopener">
+              <img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/e/e885061265a229296929c261fef970e0c437aac5.jpeg" title="Imgur" alt="Imgur" height="315" width="600">
+            </a>
+</p>
+<p>So what can we learn from this stunning development? Here are some of my first thoughts:</p>
+<ol>
+<li>
+<p>Space and time in BotW are continuous, whereas in TRPGs they are more or less discreet. A dungeon crawl is the least discreet representation of time and space in TRPGs, a timelining game like Microscope is the most discreet, with a point crawl occupying a place in the middle (Time progresses in a linear but interrupted way, with space being totally abstracted between points of interest). This makes a big difference in design values.</p>
+</li>
+<li>
+<p>Gravity is mostly a useful design concept in games concerned with a sense of world objectivity. Highly collaborative games won’t get much use out of it, because concerns about gravity are implicitly resolved in conversation dynamics. Reading other players and having a sense of established narrative tropes is much more valuable in these games than some numerical ranking of interest. Even if rankings are used, they tend to be one-dimensional for ease of use, unlike the two-dimensional system used in BotW (because it’s on a map).</p>
+</li>
+<li>
+<p>Gravity is communicated visually in BotW (mostly by size), whereas it may be communicated verbally in TRPGs.</p>
+<ul>
+<li>For example, in a hex crawl a group ascending a hill may reveal 2 hexes out of the fog of war to represent an expanded visual horizon. The map may actually have some icons on it to represent objects and some gravity can be communicated that way, but the GM’s description of what is seen will always be more detailed than what is visually communicated.</li>
+<li>Grid based dungeon maps can communicate more in this regard, but they tend towards visual sparseness to maintain a sense of the unknown. The detailed pictures in dungeon crawls tend to be shown to the players once they’ve already reached a point of interest, so any consideration of gravity is moot.</li>
+<li>Some point crawls like <a href="https://www.drivethrurpg.com/product/140450/Slumbering-Ursine-Dunes" rel="nofollow noopener"><em>Slumbering Ursine Dunes</em></a> do use a rudimentary sense of gravity to visually mark major points of interest and draw the players in different directions across the map.</li>
+</ul>
+</li>
+</ol>
+<p>            <a href="https://imgur.com/Rp5Nh0J" target="_blank" class="onebox" rel="nofollow noopener">
+              <img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/5/54ded1f5be7cdd845fa1d729bbb0923fc7aedd9b.jpeg" title="Imgur" alt="Imgur" height="315" width="600">
+            </a>
+<br>
+(follow <a href="https://imgur.com/Rp5Nh0J" rel="nofollow noopener">link</a> for image)</p>
+<ol start="4">
+<li>Gravity might be best used on a “second pass” of making a bespoke map by hand. Your map might look <em>visually</em> balanced and conform to geological rules of thumb, but is it really <em>gravitationally</em> balanced? Try ranking your points of interest on a numerical scale and make sure their ratios of <em>quantitative gravitational difference</em> are roughly matched by their ratios of <em>spatial difference</em> (number of hexes apart, number of pixels apart on a point crawl).</li>
+<li>We already weight encounter tables by gravity (Again, <em>Macchiato Monsters’</em> risk die implementation is excellent here), and this does help with making procedurally generated game spaces that have a satisfying variety and texture, they don’t do much to add to player foreknowledge and choice (encounters tend to be separate from one another).</li>
+<li>One useful bridge of encounter tables and spatial generation might be to combine the world generation approach of <a href="https://www.drivethrurpg.com/product/156979/The-Perilous-Wilds" rel="nofollow noopener"><em>The Perilous Wilds</em></a> with the weighting system of <em>Macchiato Monsters</em>. <em>The Perilous Wilds</em> abstracts space in a way similar to a point crawl, but its generation principles might be applied to various representations of space.</li>
+<li>I’m also interested in thinking of how these gravitational principles can be applied to games with less emphasis on traversal like <em>Blades in the Dark</em> and <em>Urban Shadows</em>. In these games the space of the city matters because the city as a space is narratively meaningful (unlike for example <em>Monsterhearts</em> or <em>Apocalypse World</em> where the setting matters, but its spatial existence can be hand waved away with no problems). Could we use gravity to help spatialize the distribution of events in the city in such a way as to help encourage a sense of the city <em>as a whole</em> instead of focusing in on a narrow part of it?</li>
+</ol>
+<p>Anyhow there are some thoughts on the gravity concept, what do you think about it?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705/1</link>
+        <pubDate>Wed, 10 Apr 2019 18:47:21 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1705-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/learning-spatial-design-from-zelda-breath-of-the-wild/1705.rss">Learning spatial design from Zelda: Breath of the Wild</source>
+      </item>
+  </channel>
+</rss>

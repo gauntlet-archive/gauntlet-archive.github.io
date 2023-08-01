@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Collaborative writing site</title>
+    <link>https://forums.gauntlet-rpg.com/t/collaborative-writing-site/7893</link>
+    <description>Hello,
+I am looking for ways to hijack the internet.
+Inspired by SCP, this collaborative writing blog is a first baby step, but I&#39;d like to have more functionalities (multilingual, member authored posts, etc.) for free and not much work. 
+https://openyouhou-blogspot-com.translate.goog/p/a-propos.html?_x_tr_sl=auto&amp;_x_tr_tl=es&amp;_x_tr_hl=en
+
+I&#39;m also looking for ways to mimick sites such as Craig&#39;s list (classified ads) or Marmiton (cooking recipes), but hitting the wall of authorship when I&#39;d like anybody to be able to open a post. I&#39;ve seen people create games around a Twitter hashtag (but don&#39;t use Twitter myself). 
+
+Any ideas for implementing stuff like that ?
+
+(Once I find the right format, I&#39;d like to start a &quot;citizen evaluation site&quot;, a dystopian version of TripAdvisor where you rate your fellow citizens. The point, as always, is to collectively draw an implied world. But i think I can probably do this with SCP...)</description>
+    
+    <lastBuildDate>Wed, 02 Mar 2022 19:21:27 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/collaborative-writing-site/7893.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Collaborative writing site</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>Thank you.<br>
+It’s the correct link. Thank you for pointing out it needs to be written again.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/collaborative-writing-site/7893/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/collaborative-writing-site/7893/3</link>
+        <pubDate>Wed, 02 Mar 2022 19:21:27 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7893-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/collaborative-writing-site/7893.rss">Collaborative writing site</source>
+      </item>
+      <item>
+        <title>Collaborative writing site</title>
+        <dc:creator><![CDATA[@Twonk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/twonk">@Twonk</a> wrote:</p>
+          <blockquote>
+              <p>I don’t know SCP (to me it means ‘secure copy’) so I had to look it up. I guess you mean the Secure Contain Protect collaborative writing project. It uses a wiki to do its collaborative writing. Specifically they use the <a href="https://www.wikidot.com/" rel="nofollow noopener">https://www.wikidot.com/</a> hosting service. They offer free accounts and offer very generous terms to “quality community wikis” – I don’t know what they mean by “quality” here.</p>
+<p>Hope that helps to get you started.</p>
+<p>PS: the link in your post is either wrong or completely failing to convey what you mean.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/collaborative-writing-site/7893/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/collaborative-writing-site/7893/2</link>
+        <pubDate>Wed, 02 Mar 2022 18:14:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7893-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/collaborative-writing-site/7893.rss">Collaborative writing site</source>
+      </item>
+      <item>
+        <title>Collaborative writing site</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>Hello,<br>
+I am looking for ways to hijack the internet.<br>
+Inspired by SCP, this collaborative writing blog is a first baby step, but I’d like to have more functionalities (multilingual, member authored posts, etc.) for free and not much work.<br>
+<a href="https://openyouhou-blogspot-com.translate.goog/p/a-propos.html?_x_tr_sl=auto&amp;_x_tr_tl=es&amp;_x_tr_hl=en" class="onebox" target="_blank">https://openyouhou-blogspot-com.translate.goog/p/a-propos.html?_x_tr_sl=auto&amp;_x_tr_tl=es&amp;_x_tr_hl=en</a></p>
+<p>I’m also looking for ways to mimick sites such as Craig’s list (classified ads) or Marmiton (cooking recipes), but hitting the wall of authorship when I’d like anybody to be able to open a post. I’ve seen people create games around a Twitter hashtag (but don’t use Twitter myself).</p>
+<p>Any ideas for implementing stuff like that ?</p>
+<p>(Once I find the right format, I’d like to start a “citizen evaluation site”, a dystopian version of TripAdvisor where you rate your fellow citizens. The point, as always, is to collectively draw an implied world. But i think I can probably do this with SCP…)</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/collaborative-writing-site/7893/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/collaborative-writing-site/7893/1</link>
+        <pubDate>Sun, 27 Feb 2022 15:41:24 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7893-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/collaborative-writing-site/7893.rss">Collaborative writing site</source>
+      </item>
+  </channel>
+</rss>

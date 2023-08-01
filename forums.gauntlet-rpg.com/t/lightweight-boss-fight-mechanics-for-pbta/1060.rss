@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Lightweight boss fight mechanics for PbtA</title>
+    <link>https://forums.gauntlet-rpg.com/t/lightweight-boss-fight-mechanics-for-pbta/1060</link>
+    <description>So, for my current game there&#39;s two tiers of fights - one-roll combats where it&#39;s just resolving an entire skirmish against mooks, beasts etc, and in-depth battles against Shadow of the Colossus-size gribblies. 
+I&#39;ve put together this system for the big battles, trying to keep it rules-light but still interesting. It&#39;s an attempt to boil down what made **Rhapsody of Blood** work into a couple of moves, without adding too much complexity. What do you think? I&#39;m particularly interested in how **Confront**&#39;s risk-based stat assignment works in play.
+
+&gt; Significant foes have 1-3 Qualities - packages of threat reactions. So a bird monster might have Big Wings, Lightning Organ, Terrible Beak - the first lets it fly around and knock people about, the second one summons and controls lightning, the second delivers nasty bites or swallows an unlucky hero whole.
+&gt; 
+&gt; **Confront**
+&gt; *When you look for a weakness in your foe but risk*...
+&gt; * ...*the foe singling you out,* roll +Force.
+&gt; * ...*being separated from your allies,* roll +Prowess.
+&gt; * ...*the foe taking aggression out on the environment,* roll +Cunning.
+&gt; * ...*the battle moving on as you take your time*, roll +Wisdom.
+&gt; 
+&gt;On a hit, you find or create an opening. On a 7-9, the risk comes true.
+&gt; 
+&gt; **Strike**
+&gt; *When you exploit an opening,* roll +Force or +Covenant with the opening’s creator. On a hit, you strike true and strip away one of the foe’s qualities. On a 7-9, the GM picks the foe’s reaction: reshape the battlefield, lash out at you, put you in a spot.`</description>
+    
+    <lastBuildDate>Thu, 21 Mar 2019 22:17:01 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/lightweight-boss-fight-mechanics-for-pbta/1060.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Lightweight boss fight mechanics for PbtA</title>
+        <dc:creator><![CDATA[@Jay]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jay">@Jay</a> wrote:</p>
+          <blockquote>
+              <p>I guess the third stage could be ‘dealing with the response the GM picked for a successful strike’.<br>
+On that note - in Rhapsody, one of a monster’s options when you take out one of its qualities is ‘deal +1 harm for the rest of the fight’. That might give that sense of escalation? That, or having staged qualities, such that you start with only one active and bring in more when that one gets knocked out?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/lightweight-boss-fight-mechanics-for-pbta/1060/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/lightweight-boss-fight-mechanics-for-pbta/1060/10</link>
+        <pubDate>Thu, 21 Mar 2019 22:17:01 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1060-10</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/lightweight-boss-fight-mechanics-for-pbta/1060.rss">Lightweight boss fight mechanics for PbtA</source>
+      </item>
+      <item>
+        <title>Lightweight boss fight mechanics for PbtA</title>
+        <dc:creator><![CDATA[@ancusohm]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/ancusohm">@ancusohm</a> wrote:</p>
+          <blockquote>
+              <p>I like how this builds ‘stages’ of conflict.  I think it helps capture that video game feel of “Okay.  I’ve stunned the boss.  Now, I’ve got to whack them before they stop flashing.”</p>
+<p>This looks like a two-step process.  You just ‘observe then strike’ (repeatedly), and the monster gets weaker each time.</p>
+<p>I wonder if you’d build more tension if there were a third step.  Although, another step might just make it more complicated and frustrating.  Hm.  Could you do a move where you automatically succeeded, and the die roll determines the cost of victory?</p>
+<p>Also, could the monster get more dangerous as it gets closer to death?  Some video game bosses work like that.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/lightweight-boss-fight-mechanics-for-pbta/1060/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/lightweight-boss-fight-mechanics-for-pbta/1060/9</link>
+        <pubDate>Thu, 21 Mar 2019 21:33:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1060-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/lightweight-boss-fight-mechanics-for-pbta/1060.rss">Lightweight boss fight mechanics for PbtA</source>
+      </item>
+      <item>
+        <title>Lightweight boss fight mechanics for PbtA</title>
+        <dc:creator><![CDATA[@Jay]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jay">@Jay</a> wrote:</p>
+          <blockquote>
+              <p>To do it, do it, right? My intended flow for move was:</p>
+<ol>
+<li>Player describes how they try to find a weakness in the foe.</li>
+<li>The table assesses which of the risks is most pressing based on that description.</li>
+<li>Player rolls the appropriate stat, and suffers that risk according to the results of the dice.</li>
+</ol>
+<p>Maybe if the trigger was ‘when you look for a weakness in an enemy and the most pressing danger is that…’ it’d be clearer?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/lightweight-boss-fight-mechanics-for-pbta/1060/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/lightweight-boss-fight-mechanics-for-pbta/1060/8</link>
+        <pubDate>Mon, 18 Mar 2019 07:46:24 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1060-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/lightweight-boss-fight-mechanics-for-pbta/1060.rss">Lightweight boss fight mechanics for PbtA</source>
+      </item>
+      <item>
+        <title>Lightweight boss fight mechanics for PbtA</title>
+        <dc:creator><![CDATA[@Alexi_Sarge]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alexi_sarge">@Alexi_Sarge</a> wrote:</p>
+          <blockquote>
+              <p>I like this design. I ran into a similar situation where I wanted a move to drive home the high stakes of a final boss fight for a climactic session of Masks. I ended up stealing and slightly modding Defy Danger from Dungeon World, to introduce hard bargains and ugly choices to the teen supers of Masks. Basically, they’ll usually have to use this Defy Danger before getting a chance to Directly Engage the boss. And I’m making them roll with questions rather than stats to lessen the advantage of their pumped-up, high-level PC stats:</p>
+<p>When you <strong>defy Doc Quantum</strong>, say what you’re afraid of. Answer these questions and roll with +1 for each yes, -1 for each no:</p>
+<p>Are you free of Conditions?</p>
+<p>Have you missed with this move before?</p>
+<p>On a hit, you get a chance to do what you want to do.</p>
+<p>On a 7-9, the GM will offer you a worse outcome, hard bargain, or ugly choice.</p>
+<p>On a miss, mark potential and prepare for the worst.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/lightweight-boss-fight-mechanics-for-pbta/1060/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/lightweight-boss-fight-mechanics-for-pbta/1060/7</link>
+        <pubDate>Mon, 18 Mar 2019 03:02:25 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1060-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/lightweight-boss-fight-mechanics-for-pbta/1060.rss">Lightweight boss fight mechanics for PbtA</source>
+      </item>
+      <item>
+        <title>Lightweight boss fight mechanics for PbtA</title>
+        <dc:creator><![CDATA[@Von_Bednar]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/von_bednar">@Von_Bednar</a> wrote:</p>
+          <blockquote>
+              <p>While I agree that the move should do more to answer: <em>“what do you do?”</em> instead of <em>“what do you risk?”</em>, I think giving specific examples might too limiting.</p>
+<p>I can see using Prowess or Cunning to distract the enemy by positioning yourself, Wisdom or Cunning to read and cast a binding ritual from the hieroglyphs in the room.</p>
+<p>I guess it depends how tight and formulaic the attributes are in the game, but maybe the move should trigger based on <em>“How are you doing it?”</em> instead of <em>“What do you do?”</em></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/lightweight-boss-fight-mechanics-for-pbta/1060/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/lightweight-boss-fight-mechanics-for-pbta/1060/6</link>
+        <pubDate>Mon, 18 Mar 2019 00:59:17 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1060-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/lightweight-boss-fight-mechanics-for-pbta/1060.rss">Lightweight boss fight mechanics for PbtA</source>
+      </item>
+      <item>
+        <title>Lightweight boss fight mechanics for PbtA</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <p>While I really like the idea of choosing a stat based on what you’re risking, I think that in play it would be hard to parse and use effectively.  Like, you (the GM) look to the player and say “what do you do?”  And they say what they <em>do</em>, not what they risk.</p>
+<p>So to use this, we’d either have to all have the move in front of us and interact with the scene through the lens of the 4 choices, working backward from “what stat do I want to use” to “am I willing to risk that” to “what does this actually look like in the fiction”.  Or go from “what am I willing to risk” &gt;&gt; “what stat does that entail” &gt;&gt; “what does that look like in the fiction.”  Either way, what the character is doing in the fiction becomes an afterthought.</p>
+<p>I’m thinking some combo of “what do you do” and “what do you risk” would clean that up. Something like:</p>
+<aside class="quote no-group">
+<blockquote>
+<p><strong>Confront</strong><br>
+<em>When you attempt to create an opening against your foe</em> if you…</p>
+<ul>
+<li>… <em>engage it directly</em>, roll +Force but you risk <em>suffering the foe’s full and concentrated wrath</em>
+</li>
+<li>… <em>maneuver into the perfect position</em>, roll +Prowess but you risk <em>being isolated and cut off from your allies</em>
+</li>
+<li>… <em>try to use the environment against it</em>, roll +Cunning but you risk <em>all sorts of collateral damage</em>.</li>
+<li>… <em>study the situation closely and formulate a plan</em>, roll +Wisdom but you risk <em>the battle moving on without you</em>.</li>
+</ul>
+<p>On a hit, you find or create an opening. On a 7-9, the risk comes true.</p>
+</blockquote>
+</aside>
+<p>Adjust to taste. But this way you’ve got the fictional trigger front and center, with the risk clearly spelled out.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/lightweight-boss-fight-mechanics-for-pbta/1060/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/lightweight-boss-fight-mechanics-for-pbta/1060/5</link>
+        <pubDate>Mon, 18 Mar 2019 00:27:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1060-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/lightweight-boss-fight-mechanics-for-pbta/1060.rss">Lightweight boss fight mechanics for PbtA</source>
+      </item>
+      <item>
+        <title>Lightweight boss fight mechanics for PbtA</title>
+        <dc:creator><![CDATA[@Von_Bednar]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/von_bednar">@Von_Bednar</a> wrote:</p>
+          <blockquote>
+              <p><strong>Force</strong> - I think just saying “the foe is attacking you” would be problematic. It implies that the in the other risks attack is not an option (so you are free from direct attacks, which I don’t think it would be true). The ‘lash out at you’ reaction is much better, as it says: “you will get attacked with the full power of the creature.” So if a player chooses a different stat, they can still get hurt by the creature.</p>
+<p>Something along the lines: “You feel the full wrath of the foe” would work if you don’t want to combine Strike reactions with Confront risks.</p>
+<p><strong>Wisdom</strong> -  I see it as someone casting a lengthy ritual to bind the foe, paging through a book to find weakness of this particular monster,  or otherwise letting the foe unchecked on their “turn.” It makes sense that GM gets to make a move of their choice after that, but I think it would be good to specify it. Maybe:</p>
+<ul>
+<li>… roll +Wisdom, <em>the battle moving on as you take your time, the GM gets to make a (hard?) move of their choice.</em>
+</li>
+</ul>
+<p>While it doesn’t flow as well as your previous version, it makes it clear that a move follows, and it is not limited to the reactions…</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/lightweight-boss-fight-mechanics-for-pbta/1060/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/lightweight-boss-fight-mechanics-for-pbta/1060/4</link>
+        <pubDate>Sun, 17 Mar 2019 23:31:03 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1060-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/lightweight-boss-fight-mechanics-for-pbta/1060.rss">Lightweight boss fight mechanics for PbtA</source>
+      </item>
+      <item>
+        <title>Lightweight boss fight mechanics for PbtA</title>
+        <dc:creator><![CDATA[@Jay]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jay">@Jay</a> wrote:</p>
+          <blockquote>
+              <p>Thanks for the feedback! I’ll have a think through them.<br>
+The <strong>Force</strong> risk was, originally, just ‘risk the foe attacking you’. If that’s clearer I could return to that?</p>
+<p>For <strong>Wisdom</strong>, the idea is that it takes you a while to scrutinise the foe and by the time you have they’ll have been able to take some other action. Essentially, on a 7-9 the GM gets to make a move of their choice, I guess? But that feels redundant with the other options, on reflection. Maybe if I changed it to ‘risk the weakness being fleeting’, such that on a 7-9 the weakness will go away again if it’s not acted on immediately?</p>
+<p>And as for the foe’s reactions, you know, that’s a good point that I hadn’t joined the dots on. I’ll consider using them for the stats!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/lightweight-boss-fight-mechanics-for-pbta/1060/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/lightweight-boss-fight-mechanics-for-pbta/1060/3</link>
+        <pubDate>Sun, 17 Mar 2019 22:00:25 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1060-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/lightweight-boss-fight-mechanics-for-pbta/1060.rss">Lightweight boss fight mechanics for PbtA</source>
+      </item>
+      <item>
+        <title>Lightweight boss fight mechanics for PbtA</title>
+        <dc:creator><![CDATA[@Von_Bednar]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/von_bednar">@Von_Bednar</a> wrote:</p>
+          <blockquote>
+              <p>The Boss Battle mechanic was a favorite of mine from Rhapsody of Blood. The idea of creating openings and chipping away traits is something I stole for my games.</p>
+<p>I like this version of it even more. It is much more concise, and the change to letting the player choose their risk when creating an opening is awesome.</p>
+<p>However, I feel it needs a little more tweaking, As written now, the Force and Prowess risks, feel too close. Both can be interpreted as separating the character and/or dealing damage. I assume that the Force risk means the character will get the full force of the blow, while prowess is mostly about narrative positioning. If that’s the case, I would reword the force risk to make it more clear…</p>
+<p>I am also not sure about the Wisdom risk - it feels a little anticlimactic (in the other options I can see cool actions the foe performs as a response, not so much in this one) and not really a risk to the character performing it, but the rest of the party. Do you have an example of this action?</p>
+<p>Also - you already have some Foe’s reactions and 3 of them fit perfectly into the risks. Is there a reason you don’t want use foe’s reactions as risks?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/lightweight-boss-fight-mechanics-for-pbta/1060/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/lightweight-boss-fight-mechanics-for-pbta/1060/2</link>
+        <pubDate>Sun, 17 Mar 2019 15:46:08 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1060-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/lightweight-boss-fight-mechanics-for-pbta/1060.rss">Lightweight boss fight mechanics for PbtA</source>
+      </item>
+      <item>
+        <title>Lightweight boss fight mechanics for PbtA</title>
+        <dc:creator><![CDATA[@Jay]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jay">@Jay</a> wrote:</p>
+          <blockquote>
+              <p>So, for my current game there’s two tiers of fights - one-roll combats where it’s just resolving an entire skirmish against mooks, beasts etc, and in-depth battles against Shadow of the Colossus-size gribblies.<br>
+I’ve put together this system for the big battles, trying to keep it rules-light but still interesting. It’s an attempt to boil down what made <strong>Rhapsody of Blood</strong> work into a couple of moves, without adding too much complexity. What do you think? I’m particularly interested in how <strong>Confront</strong>’s risk-based stat assignment works in play.</p>
+<blockquote>
+<p>Significant foes have 1-3 Qualities - packages of threat reactions. So a bird monster might have Big Wings, Lightning Organ, Terrible Beak - the first lets it fly around and knock people about, the second one summons and controls lightning, the second delivers nasty bites or swallows an unlucky hero whole.</p>
+<p><strong>Confront</strong><br>
+<em>When you look for a weakness in your foe but risk</em>…</p>
+<ul>
+<li>…<em>the foe singling you out,</em> roll +Force.</li>
+<li>…<em>being separated from your allies,</em> roll +Prowess.</li>
+<li>…<em>the foe taking aggression out on the environment,</em> roll +Cunning.</li>
+<li>…<em>the battle moving on as you take your time</em>, roll +Wisdom.</li>
+</ul>
+<p>On a hit, you find or create an opening. On a 7-9, the risk comes true.</p>
+<p><strong>Strike</strong><br>
+<em>When you exploit an opening,</em> roll +Force or +Covenant with the opening’s creator. On a hit, you strike true and strip away one of the foe’s qualities. On a 7-9, the GM picks the foe’s reaction: reshape the battlefield, lash out at you, put you in a spot.`</p>
+</blockquote>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/lightweight-boss-fight-mechanics-for-pbta/1060/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/lightweight-boss-fight-mechanics-for-pbta/1060/1</link>
+        <pubDate>Sun, 17 Mar 2019 07:44:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1060-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/lightweight-boss-fight-mechanics-for-pbta/1060.rss">Lightweight boss fight mechanics for PbtA</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Character Sheets and Information Design</title>
+    <link>https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917</link>
+    <description>Last night as we were playing Good Society I realized how difficult I was finding it to keep track of all the information that was my responsibility, which took up a gigantic amount of table real estate. 
+![good_society_character_info|552x500](upload://8NuozXMd7geWFwXg13IlTx6dzYR.jpeg) 
+It&#39;s a lot! I think the way this is organized could be improved. I think [most character sheets can be improved](http://analoggamestudies.org/2014/12/visual-design-as-metaphor-the-evolution-of-a-character-sheet/). As the primary interface between player and character in most games, it is an important bit of ephemera to get right.
+
+**What are really good examples of this interface done well?** My favorite, I think, are Brennen Reece&#39;s [Dungeon World character sheets](https://www.drivethrurpg.com/product/130974/Minimalist-Dungeon-World-Playbooks?manufacturers_id=6941), which look like Swiss tax forms from 1952.
+
+**What are good examples of tabletop games that move the player/character interface away from paper and pencil successfully?**</description>
+    
+    <lastBuildDate>Fri, 27 Sep 2019 22:09:34 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Character Sheets and Information Design</title>
+        <dc:creator><![CDATA[@Dissonance]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dissonance">@Dissonance</a> wrote:</p>
+          <blockquote>
+              <p>With booklet sheets I think it’s important to use the format to actually hide information that isn’t currently relevant.</p>
+<p>This is where you can actually see improvements in the Monster Hearts 2 sheets over the MH1 sheets, actually.</p>
+<p>For my Moth-Light six-fi blades hack I have the downtime phase actions on one back page, the resource management and character background info on an interior page, and the character advancement and color elements on another interior page. The smaller profile of a booklet also means it can be folded comfortably to save significant table space.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/24</link>
+        <pubDate>Fri, 27 Sep 2019 22:09:34 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-917-24</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917.rss">Character Sheets and Information Design</source>
+      </item>
+      <item>
+        <title>Character Sheets and Information Design</title>
+        <dc:creator><![CDATA[@JasonT]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jasont">@JasonT</a> wrote:</p>
+          <blockquote>
+              <p>I actually agree!* I liked the post anyway. And if I recall correctly, Ben does make a distinction in there between the sheets that are visually evocative and those that he feels have more functional design, which is part of what I appreciated.</p>
+<p>*I can attest that the Numenera sheet in particular got me excited to run the game, and turned out to be a huge pain in the ass to use at the table. I ended up going and making my own instead (and then finding some fan made ones I liked even better), with extremely different priority given to certain elements. The ones for The Strange are even worse, because they make an attempt at clever information design, designating part of the sheet as replaceable as your character changes from world to world, but failing to recognize that the part of the sheet they expect you to cover with another sheet also includes information that <em>doesn’t</em> change, and will need to be accessible still. It drives me bonkers.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/23</link>
+        <pubDate>Fri, 27 Sep 2019 12:58:34 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-917-23</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917.rss">Character Sheets and Information Design</source>
+      </item>
+      <item>
+        <title>Character Sheets and Information Design</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <p>Ah!  Then may I present to you…</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://spoutinglore.blogspot.com/favicon.ico" class="site-icon" width="32" height="32">
+      <a href="https://spoutinglore.blogspot.com/2019/07/online-version-of-homebrew-world.html" target="_blank" rel="nofollow noopener">spoutinglore.blogspot.com</a>
+  </header>
+  <article class="onebox-body">
+    <img src="/uploads/default/original/2X/2/2f1c373873e21fe27a4ead7e2ce3f6cb24114717.png" class="thumbnail" width="" height="">
+
+<h3><a href="https://spoutinglore.blogspot.com/2019/07/online-version-of-homebrew-world.html" target="_blank" rel="nofollow noopener">Online Version of Homebrew World</a></h3>
+
+<p>I just finished creating an online character keeper for Homebrew World . Check it out!     Current online version    You'll need to save you...</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/22</link>
+        <pubDate>Thu, 26 Sep 2019 19:52:41 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-917-22</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917.rss">Character Sheets and Information Design</source>
+      </item>
+      <item>
+        <title>Character Sheets and Information Design</title>
+        <dc:creator><![CDATA[@technoskald]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/technoskald">@technoskald</a> wrote:</p>
+          <blockquote>
+              <p>I’ve run several Homebrew World games at this point (and will run two more during GauntletCon), and the only major note I have about these is that they work way better printed out than they do for on-screen usage. That is to say, if we’re playing online as 99% of my games are, they are a little more difficult to navigate.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/21</link>
+        <pubDate>Thu, 26 Sep 2019 19:51:21 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-917-21</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917.rss">Character Sheets and Information Design</source>
+      </item>
+      <item>
+        <title>Character Sheets and Information Design</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <p>Title is Avara.  Body is Adobe Caslon Pro.  I like both very much!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/20</link>
+        <pubDate>Thu, 26 Sep 2019 19:27:08 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-917-20</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917.rss">Character Sheets and Information Design</source>
+      </item>
+      <item>
+        <title>Character Sheets and Information Design</title>
+        <dc:creator><![CDATA[@Radmad]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/radmad">@Radmad</a> wrote:</p>
+          <blockquote>
+              <p>What font is that? I’m by no means a font nerd but this is the first time it’s jumped out at me as noticeably pleasing</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/19</link>
+        <pubDate>Thu, 26 Sep 2019 19:23:57 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-917-19</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917.rss">Character Sheets and Information Design</source>
+      </item>
+      <item>
+        <title>Character Sheets and Information Design</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <p>I’m gonna be that guy and plug myself here, but I’m pretty proud of the info design on my <a href="https://spoutinglore.blogspot.com/2018/07/homebrew-world.html" rel="nofollow noopener">Homebrew World</a> (Dungeon World drift) character sheets.</p>
+<p>Booklet style (like Brennan Reece’s), with look and choice of background on the front:<br>
+<img src="/uploads/default/original/2X/0/00fffabead0ab7397f1f497f9a173063bc851faf.png" alt="image" data-base62-sha1="8QqSkEHbXXdAzOStFXm1DZ6zJZ" width="323" height="500"></p>
+<p>Interior spread has everything you’ll need for ~99% of the game, with guidance on how to make the character and what different stuff means called out.<br>
+<img src="/uploads/default/original/2X/8/87e0a60455bc4ed8c1abd05636766bee253d216e.png" alt="image" data-base62-sha1="jo1Lto71865BkVYYnfkJBkf0H2m" width="647" height="500"></p>
+<p>It’s admittedly a little cramped in a couple spots, and the font is a little small (8 point). But it’s very pick-up-and-play.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/18</link>
+        <pubDate>Thu, 26 Sep 2019 19:01:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-917-18</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917.rss">Character Sheets and Information Design</source>
+      </item>
+      <item>
+        <title>Character Sheets and Information Design</title>
+        <dc:creator><![CDATA[@calris]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/calris">@calris</a> wrote:</p>
+          <blockquote>
+              <p>Apparently it’s not freely available, but the Knave character sheet fits on one-side of a half-sheet of paper without crowding (and room for a portrait!). This is partially just a function of how lightweight the game is, but my experience is that it’s manageable even for folks that haven’t played RPGs or managed character sheets before.</p>
+<p>(It doesn’t include a rules summary – although it wouldn’t be hard to fit a rules overview on another half-page if that was something you wanted to do.)</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/17</link>
+        <pubDate>Thu, 26 Sep 2019 18:35:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-917-17</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917.rss">Character Sheets and Information Design</source>
+      </item>
+      <item>
+        <title>Character Sheets and Information Design</title>
+        <dc:creator><![CDATA[@Airk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/airk">@Airk</a> wrote:</p>
+          <blockquote>
+              <p>I agree; I looked at a bunch of those sheets and went “Wait… these are your examples of GOOD sheets?”</p>
+<p>The D&amp;D4 one was a total fail for me – there is no way there’s enough space in a bunch of those bubbles – and the Numenera sheet just had me shaking my head.</p>
+<p>Of course, I haven’t designed a character sheet in ages, so maybe I shouldn’t throw stones.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/16</link>
+        <pubDate>Thu, 26 Sep 2019 18:20:01 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-917-16</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917.rss">Character Sheets and Information Design</source>
+      </item>
+      <item>
+        <title>Character Sheets and Information Design</title>
+        <dc:creator><![CDATA[@Nickwedig]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/nickwedig">@Nickwedig</a> wrote:</p>
+          <blockquote>
+              <p>Many of those sheets seem like good examples of sheets that look impressive but are pretty bad in terms of actual user experience. Trying to find relevant information on the Numenera or Solar Blades sheets looks like it would be really difficult. That’s going to hurt gameplay, as every roll requires a player hunting around on their sheet to find the right modifier or whatever. I think that post favored “visually distinctive and pretty to look at” over “actually useful and helpful to gameplay at the table”.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/15</link>
+        <pubDate>Thu, 26 Sep 2019 17:23:24 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-917-15</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917.rss">Character Sheets and Information Design</source>
+      </item>
+      <item>
+        <title>Character Sheets and Information Design</title>
+        <dc:creator><![CDATA[@Airk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/airk">@Airk</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="12" data-topic="917">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/radmad/40/2161_2.png" class="avatar"> Radmad:</div>
+<blockquote>
+<p>One thing I’ve always found interesting is how many sheets dedicate a crazy amount of space (30% or more) for character portraits when they deliver zero mechanical information.</p>
+</blockquote>
+</aside>
+<p>This is absolutely a thing I wonder about too.  Looking back at character sheets from various games that I have run, I find that in general, that huge blob of space tends to be “filled” (usually it occupies only a small fraction of the space, but it’s the only thing in there) with a depressing looking scribble that might be a stick figure, or something?</p>
+<p>On the flipside, way back in the Mentzer D&amp;D days, that box was labeled “Character sketch or symbol” and 11 year old me had a ton of fun creating coat-of-arms-like “symbols” for my characters.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/14</link>
+        <pubDate>Thu, 26 Sep 2019 16:31:53 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-917-14</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917.rss">Character Sheets and Information Design</source>
+      </item>
+      <item>
+        <title>Character Sheets and Information Design</title>
+        <dc:creator><![CDATA[@Deckard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deckard">@Deckard</a> wrote:</p>
+          <blockquote>
+              <p>By FAR, my favorite character sheets are in Mothership.  <a href="http://www.tuesdayknightgames.com/downloads" rel="nofollow noopener">Mothership character sheets</a></p>
+<p>The process flow chart included into the character sheet means you have no questions where to go with creating your character after you roll your original stats.  It also includes the customization for each character all on a single tight page.  This is honestly the single best page of the game!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/13</link>
+        <pubDate>Thu, 26 Sep 2019 16:15:02 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-917-13</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917.rss">Character Sheets and Information Design</source>
+      </item>
+      <item>
+        <title>Character Sheets and Information Design</title>
+        <dc:creator><![CDATA[@Radmad]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/radmad">@Radmad</a> wrote:</p>
+          <blockquote>
+              <p>One thing I’ve always found interesting is how many sheets dedicate a crazy amount of space (30% or more) for character portraits when they deliver zero mechanical information.</p>
+<p>Now obviously it’s because personal expression is super important in ttrpgs, and a picture can communicate a lot more concisely and attractively what a huge paragraph of text could not, but I’m wondering if there’s a way to encourage that expression in people who don’t have the talent to confidently draw their own character. Like, are there some fiddly bits you can add to a character sheet that allows the player to “customize” it so it feels more personal without relying on drawing talent?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/12</link>
+        <pubDate>Thu, 26 Sep 2019 16:08:44 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-917-12</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917.rss">Character Sheets and Information Design</source>
+      </item>
+      <item>
+        <title>Character Sheets and Information Design</title>
+        <dc:creator><![CDATA[@JasonT]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jasont">@JasonT</a> wrote:</p>
+          <blockquote>
+              <p>Reviving this thread because I enjoyed <a class="mention" href="/u/ben_l">@Ben_L</a>’s recent <a href="https://maziriansgarden.blogspot.com/2019/09/speaking-of-splendid-itemscheck-out.html" rel="nofollow noopener">blog post</a> with a bunch more examples of interesting character sheets.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/11</link>
+        <pubDate>Thu, 26 Sep 2019 15:12:31 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-917-11</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917.rss">Character Sheets and Information Design</source>
+      </item>
+      <item>
+        <title>Character Sheets and Information Design</title>
+        <dc:creator><![CDATA[@funkaoshi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/funkaoshi">@funkaoshi</a> wrote:</p>
+          <blockquote>
+              <p>Burning Wheel’s character sheet also seems particularly impressive since the game is so crazy complex but they somehow manage to distill all that into a page with all those bubbles to fill in, etc.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/10</link>
+        <pubDate>Sat, 16 Mar 2019 13:03:42 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-917-10</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917.rss">Character Sheets and Information Design</source>
+      </item>
+      <item>
+        <title>Character Sheets and Information Design</title>
+        <dc:creator><![CDATA[@funkaoshi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/funkaoshi">@funkaoshi</a> wrote:</p>
+          <blockquote>
+              <p>LotFP’s character sheet is small and done well. Helps visualize some of the rules, like encumbrance, skills, etc. Also has space to write out the various combat roll numbers (you won’t need because if you are fighting the giant dick monster you probably fucked anyway). The Veins is the Earth version also captures its special rules.</p>
+<p>I just played Zombie World and it’s great. There is one very small sheet with some character’s info, and then 3 cards that “slot” into that. It’s very neat.</p>
+<p>Black Hack’s new character sheet is mostly a cool picture you could colour in if you want. The system is simple so there isn’t that much you need to convey. A lot of simple OSR games benefit from this. (Being able to make index card character sheets.)</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/9</link>
+        <pubDate>Sat, 16 Mar 2019 13:02:09 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-917-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917.rss">Character Sheets and Information Design</source>
+      </item>
+      <item>
+        <title>Character Sheets and Information Design</title>
+        <dc:creator><![CDATA[@beepeegee]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/beepeegee">@beepeegee</a> wrote:</p>
+          <blockquote>
+              <p>In general, for character sheet design, I’m always impressed with John Harper’s sheets i.e. Blades in the Dark playbooks.</p>
+<p>As for a successful interface, I really like David Shirduan’s <a href="https://technicalgrimoire.com/david/my-creations/mythic-mortals" rel="nofollow noopener">Mythical Mortals Play Mats</a>.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/8</link>
+        <pubDate>Sat, 16 Mar 2019 10:03:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-917-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917.rss">Character Sheets and Information Design</source>
+      </item>
+      <item>
+        <title>Character Sheets and Information Design</title>
+        <dc:creator><![CDATA[@Jmstar]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jmstar">@Jmstar</a> wrote:</p>
+          <blockquote>
+              <p>WFRP is legit.</p>
+<p>I’d love to see a clean AW playbook similar to what Brennen did for DW.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/7</link>
+        <pubDate>Sat, 16 Mar 2019 01:16:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-917-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917.rss">Character Sheets and Information Design</source>
+      </item>
+      <item>
+        <title>Character Sheets and Information Design</title>
+        <dc:creator><![CDATA[@rabalias]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rabalias">@rabalias</a> wrote:</p>
+          <blockquote>
+              <p>It’s difficult to think of games that do a great job of this. The best approach is to simplify and reduce the amount of information, and games which have done this leap immediately to mind. But that isn’t what you’re asking about; to really qualify as good, you’d have to be looking at a game with a large and complex information-set, well organised and presented.</p>
+<p>With that in mind, I guess the playbooks in Apocalypse World might qualify. Most of the stuff you need to use actively in play - stats, moves, XP track, harm - on one side. All the character gen information on the other side. But not perfect, because there’s usually some stuff you want in play that overflows onto the back page, and you need a second sheet for the basic moves.</p>
+<p>I feel weird for saying this but maybe the WFRP 3rd edition does quite a good job of this? It’s got quite a bit going on and it organises it into a relatively small number of cards.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/6</link>
+        <pubDate>Fri, 15 Mar 2019 17:47:16 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-917-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917.rss">Character Sheets and Information Design</source>
+      </item>
+      <item>
+        <title>Character Sheets and Information Design</title>
+        <dc:creator><![CDATA[@Daniel_Fowler]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/daniel_fowler">@Daniel_Fowler</a> wrote:</p>
+          <blockquote>
+              <p>Thanks for the link Jmstar.  i had never seen those playbooks before!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/5</link>
+        <pubDate>Fri, 15 Mar 2019 16:00:35 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-917-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917.rss">Character Sheets and Information Design</source>
+      </item>
+      <item>
+        <title>Character Sheets and Information Design</title>
+        <dc:creator><![CDATA[@Joshua_G]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/joshua_g">@Joshua_G</a> wrote:</p>
+          <blockquote>
+              <p>I think <a href="https://www.dog-eared-designs.com/" rel="nofollow noopener">Primetime Adventures</a> does a really good job here. There’s not much info you need to keep track of, but your character still feels well informed by their Impulse &amp; their Issue. The real fun comes with the Fan Mail mechanic, which is generated as a big stack of tokens in the table and then players can hand them out when other players do awesome stuff, to be later spent for bonuses. It’s great to be able to see how many tokens are on the table and who has them at all times.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/4</link>
+        <pubDate>Fri, 15 Mar 2019 14:28:17 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-917-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917.rss">Character Sheets and Information Design</source>
+      </item>
+      <item>
+        <title>Character Sheets and Information Design</title>
+        <dc:creator><![CDATA[@Jmstar]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jmstar">@Jmstar</a> wrote:</p>
+          <blockquote>
+              <p><strong>Legacy of the Slayer</strong> is another clever game that asks you to permanently alter a deck of custom cards in play. it works great and is sort of liberating.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/3</link>
+        <pubDate>Fri, 15 Mar 2019 14:07:47 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-917-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917.rss">Character Sheets and Information Design</source>
+      </item>
+      <item>
+        <title>Character Sheets and Information Design</title>
+        <dc:creator><![CDATA[@JasonT]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jasont">@JasonT</a> wrote:</p>
+          <blockquote>
+              <p>I really appreciate when games use physical objects you can pass around instead of writing stuff down. For instance:</p>
+<p><strong>Numenera Cypher Deck:</strong> I am not really a fan of the rules for Numenera for the most part, and I think it was goofy that they printed 2-3 items to a card for their “cypher deck” of one-use magic items/gadgets. I appreciated, though, that it was easy enough to print up your own copy of that deck from a PDF, cut it up, and hand those out to players to pass amongst themselves, rather than writing item descriptions on character sheets and then erasing them the minute you use them. You cycle through those things too frequently for that to be practical.</p>
+<p><strong>Fate points, bennies, etc.:</strong> I appreciate when any game involves a currency that is used in small enough numbers that you can sub in tokens or poker chips instead of writing it down to track it.</p>
+<p><strong>Unbound’s deck of cards:</strong> I have yet to play this game, but I love the idea of just writing things directly onto cheap playing cards, and not worrying about keeping track of those details unless you happen to draw the card. I don’t necessarily want everything my character can do in front of me at all times, so that seems like a nice way of limiting it and keeping things unpredictable.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/2</link>
+        <pubDate>Fri, 15 Mar 2019 14:04:56 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-917-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917.rss">Character Sheets and Information Design</source>
+      </item>
+      <item>
+        <title>Character Sheets and Information Design</title>
+        <dc:creator><![CDATA[@Jmstar]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jmstar">@Jmstar</a> wrote:</p>
+          <blockquote>
+              <p>Last night as we were playing Good Society I realized how difficult I was finding it to keep track of all the information that was my responsibility, which took up a gigantic amount of table real estate.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/1X/3da98e2e459c909edc64e51e47c515b50c8a0061.jpeg" data-download-href="/uploads/short-url/8NuozXMd7geWFwXg13IlTx6dzYR.jpeg?dl=1" title="good_society_character_info" rel="nofollow noopener"><img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/1X/3da98e2e459c909edc64e51e47c515b50c8a0061_2_552x500.jpeg" alt="good_society_character_info" data-base62-sha1="8NuozXMd7geWFwXg13IlTx6dzYR" width="552" height="500" srcset="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/1X/3da98e2e459c909edc64e51e47c515b50c8a0061_2_552x500.jpeg, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/1X/3da98e2e459c909edc64e51e47c515b50c8a0061_2_828x750.jpeg 1.5x, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/1X/3da98e2e459c909edc64e51e47c515b50c8a0061_2_1104x1000.jpeg 2x" data-small-upload="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/1X/3da98e2e459c909edc64e51e47c515b50c8a0061_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">good_society_character_info</span><span class="informations">1670×1512 904 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div><br>
+It’s a lot! I think the way this is organized could be improved. I think <a href="http://analoggamestudies.org/2014/12/visual-design-as-metaphor-the-evolution-of-a-character-sheet/" rel="nofollow noopener">most character sheets can be improved</a>. As the primary interface between player and character in most games, it is an important bit of ephemera to get right.</p>
+<p><strong>What are really good examples of this interface done well?</strong> My favorite, I think, are Brennen Reece’s <a href="https://www.drivethrurpg.com/product/130974/Minimalist-Dungeon-World-Playbooks?manufacturers_id=6941" rel="nofollow noopener">Dungeon World character sheets</a>, which look like Swiss tax forms from 1952.</p>
+<p><strong>What are good examples of tabletop games that move the player/character interface away from paper and pencil successfully?</strong></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917/1</link>
+        <pubDate>Fri, 15 Mar 2019 13:56:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-917-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/character-sheets-and-information-design/917.rss">Character Sheets and Information Design</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,755 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  
+<!-- Mirrored from forums.gauntlet-rpg.com/t/no-dice-no-masters/164 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 01 Aug 2023 02:11:59 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8">
+    <title>No Dice, No Masters - Game Design - The Gauntlet Forums</title>
+    <meta name="description" content="So I’ve decided to try my hand at hacking Avery Alder’s “No Dice, No Masters” engine (from Dream Askew and Dream Apart) to make A Thing. 
+Anyone here is familiar with it enough to give tips on what I should be looking ou&amp;hellip;">
+    <meta name="generator" content="Discourse 2.4.0.beta10 - https://github.com/discourse/discourse version 7c30986b5efe231d4b22ad3e657fc83ec452e89c">
+<link rel="icon" type="image/png" href="https://gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f2859febedbe43114f6e22a494620bdc35bf8786_2_32x32.png">
+<link rel="apple-touch-icon" type="image/png" href="https://gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f2859febedbe43114f6e22a494620bdc35bf8786_2_180x180.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover">
+<link rel="canonical" href="164.html" />
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://forums.gauntlet-rpg.com","potentialAction":{"@type":"SearchAction","target":"https://forums.gauntlet-rpg.com/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link rel="search" type="application/opensearchdescription+xml" href="../../opensearch.xml" title="The Gauntlet Forums Search">
+
+      <link href="../../stylesheets/desktop_55f06712376291d809ecf79aecaf07fd06a8c979.css_%3b%20filename_%3dUTF-8%27%27desktop_55f06712376291d809ecf79aecaf07fd06a8c9791a85.css?__ws=forums.gauntlet-rpg.com" media="all" rel="stylesheet" data-target="desktop" data-theme-id="2"/>
+      <link href="../../stylesheets/desktop_theme_2_2d4c228818bc7664ec196065afb575563959f7b9.css_%3b%20filename_%3dUTF-8%27%27desktop_theme_2_2d4c228818bc7664ec196065afb575563959f7b91a85.css?__ws=forums.gauntlet-rpg.com" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="2"/>
+    
+    
+        <link rel="alternate" type="application/rss+xml" title="RSS feed of &#39;No Dice, No Masters&#39;" href="164.rss" />
+    <meta property="og:site_name" content="The Gauntlet Forums" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="https://gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/f/f2859febedbe43114f6e22a494620bdc35bf8786.png" />
+<meta property="og:image" content="https://gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/f/f2859febedbe43114f6e22a494620bdc35bf8786.png" />
+<meta property="og:url" content="https://forums.gauntlet-rpg.com/t/no-dice-no-masters/164" />
+<meta name="twitter:url" content="https://forums.gauntlet-rpg.com/t/no-dice-no-masters/164" />
+<meta property="og:title" content="No Dice, No Masters" />
+<meta name="twitter:title" content="No Dice, No Masters" />
+<meta property="og:description" content="So I’ve decided to try my hand at hacking Avery Alder’s “No Dice, No Masters” engine (from Dream Askew and Dream Apart) to make A Thing.  Anyone here is familiar with it enough to give tips on what I should be looking out for? Like, what’s essential, what’s not, what you think could use some tinkering… I only have Dream Askew, so I’m basing myself entirely off of that for now." />
+<meta name="twitter:description" content="So I’ve decided to try my hand at hacking Avery Alder’s “No Dice, No Masters” engine (from Dream Askew and Dream Apart) to make A Thing.  Anyone here is familiar with it enough to give tips on what I should be looking out for? Like, what’s essential, what’s not, what you think could use some tinkering… I only have Dream Askew, so I’m basing myself entirely off of that for now." />
+<meta name="twitter:label1" value="Reading time" />
+<meta name="twitter:data1" value="2 mins 🕑" />
+<meta name="twitter:label2" value="Likes" />
+<meta name="twitter:data2" value="53 ❤" />
+<meta property="article:published_time" content="2019-02-14T13:14:15+00:00" />
+<meta property="og:ignore_canonical" content="true" />
+
+
+
+    
+  </head>
+  <body class="crawler">
+    
+    <header>
+      <a href="../../index.html">
+          <img src="https://gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/1X/90fcb9d8a54a6098ad0291236cecc89a0dda0bed.png" alt="The Gauntlet Forums" id="site-logo" style="max-width: 150px;">
+      </a>
+    </header>
+    <div id="main-outlet" class="wrap">
+        <h1 class="crawler-topic-title">
+    <a href="164.html">No Dice, No Masters</a>
+  </h1>
+
+  <div id="breadcrumbs" itemscope itemtype="http://schema.org/BreadcrumbList">
+      <div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a href="../../c/game-design.html" class="badge-wrapper bullet" itemprop="item">
+          <span class="badge-category-bg"></span>
+          <span class="category-title" itemprop="name">Game Design</span>
+        </a>
+        <meta itemprop="position" content="1" />
+      </div>
+  </div>
+
+
+  
+
+
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Luiz'><span itemprop='name'>Luiz</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2019-02-14T13:14:15Z' class='post-time'>
+                February 14, 2019,  1:14pm
+              </time>
+          <span itemprop='position'>#1</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>So I’ve decided to try my hand at hacking Avery Alder’s “No Dice, No Masters” engine (from Dream Askew and Dream Apart) to make A Thing.</p>
+<p>Anyone here is familiar with it enough to give tips on what I should be looking out for? Like, what’s essential, what’s not, what you think could use some tinkering… I only have Dream Askew, so I’m basing myself entirely off of that for now.</p>
+        </div>
+
+        <meta itemprop='headline' content='No Dice, No Masters'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="7" />
+           <span class='post-likes'>7 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/GroupSoliloquy'><span itemprop='name'>GroupSoliloquy</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2019-02-14T15:28:48Z' class='post-time'>
+                February 14, 2019,  3:28pm
+              </time>
+          <span itemprop='position'>#2</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>The combined Dream Askew/Dream Apart book has some advice on crafting a new game at the end (a la Apocalypse world). The large strokes are thus:</p>
+<ol>
+<li>The system will fight you if you play a group that is not marginalized. You can drift from that, but it will look less and less like Dream Askew/Dream Apart</li>
+<li>Characters present differing perspectives on how to handle their situation</li>
+<li>Setting elements are how you world-build and should be <em>really</em> straight forward as players need to be able to jump in and out of them quickly.</li>
+</ol>
+<p>The only system I’ve thought of adding on was something akin to ‘Follow’ by Ben Robbins. My idea was for a french revolution-esque game ( Les Misérables for the tabletop) that would be strictly a one shot. Players would feed tokens into a pull bag that at the end would determine the success of their efforts against the system. In a way it’s antithetical to the whole game because you aren’t really supposed to overcome the authority, but I think in a one shot you need a little closure.</p>
+<p>I’m playing a game in April so I’m sure I’ll have more thoughts once I’ve mucked about in the system for a while.</p>
+        </div>
+
+        <meta itemprop='headline' content='No Dice, No Masters'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="7" />
+           <span class='post-likes'>7 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Luiz'><span itemprop='name'>Luiz</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2019-02-14T16:11:35Z' class='post-time'>
+                February 14, 2019,  4:11pm
+              </time>
+          <span itemprop='position'>#3</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Didn’t realize there were design guidelines in the joint book, thanks! I just got the pdf</p>
+        </div>
+
+        <meta itemprop='headline' content='No Dice, No Masters'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="2" />
+           <span class='post-likes'>2 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Bethany_H'><span itemprop='name'>Bethany_H</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2019-02-14T22:28:59Z' class='post-time'>
+                February 14, 2019, 10:28pm
+              </time>
+          <span itemprop='position'>#4</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>We’ll be taking some creative liberties with that game in April to make it work with a <em>nomadic</em> enclave, so you’ll get a little bit of experience hacking it, too!</p>
+        </div>
+
+        <meta itemprop='headline' content='No Dice, No Masters'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="4" />
+           <span class='post-likes'>4 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Bethany_H'><span itemprop='name'>Bethany_H</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2019-02-14T23:02:59Z' class='post-time'>
+                February 14, 2019, 11:02pm
+              </time>
+          <span itemprop='position'>#5</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>You may want to look at Flotsam, too. It uses a lot of ideas from Dream Askew/Dream Apart, but puts its own spin on it and goes into more detail about how to play such a game. It’s not quite released yet, but there’s a draft version floating around that seems completely playable.</p>
+        </div>
+
+        <meta itemprop='headline' content='No Dice, No Masters'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="4" />
+           <span class='post-likes'>4 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/GroupSoliloquy'><span itemprop='name'>GroupSoliloquy</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2019-02-15T00:12:58Z' class='post-time'>
+                February 15, 2019, 12:12am
+              </time>
+          <span itemprop='position'>#6</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>I need to read flotsam too. Are you running it as well <a class="mention" href="https://forums.gauntlet-rpg.com/u/bethany_h">@Bethany_H</a>?</p>
+        </div>
+
+        <meta itemprop='headline' content='No Dice, No Masters'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="1" />
+           <span class='post-likes'>1 Like</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Bethany_H'><span itemprop='name'>Bethany_H</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2019-02-15T00:25:03Z' class='post-time'>
+                February 15, 2019, 12:25am
+              </time>
+          <span itemprop='position'>#7</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Yep, next month! There’s a spot open if you’re interested.</p>
+        </div>
+
+        <meta itemprop='headline' content='No Dice, No Masters'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="2" />
+           <span class='post-likes'>2 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/GroupSoliloquy'><span itemprop='name'>GroupSoliloquy</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2019-02-15T01:54:25Z' class='post-time'>
+                February 15, 2019,  1:54am
+              </time>
+          <span itemprop='position'>#8</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Aw, darn, Thursdays aren’t possible for me. I’m sure you’ll get a lot of takers though!</p>
+        </div>
+
+        <meta itemprop='headline' content='No Dice, No Masters'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/DavidMK'><span itemprop='name'>DavidMK</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2019-03-07T20:47:53Z' class='post-time'>
+                March 7, 2019,  8:47pm
+              </time>
+          <span itemprop='position'>#9</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>I’d been toying around with the idea of empowered people treated differently similar to some X-Men and Rising Stars series. Not sure if anyone would be interested in trying it out sometime.</p>
+        </div>
+
+        <meta itemprop='headline' content='No Dice, No Masters'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="3" />
+           <span class='post-likes'>3 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="2" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Luiz'><span itemprop='name'>Luiz</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2019-03-07T23:20:56Z' class='post-time'>
+                March 7, 2019, 11:20pm
+              </time>
+          <span itemprop='position'>#10</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>I absolutely would! I had a similar idea for a minute but put it in the back burner. I would love to see what you came up with</p>
+        </div>
+
+        <meta itemprop='headline' content='No Dice, No Masters'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="2" />
+           <span class='post-likes'>2 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/DavidMK'><span itemprop='name'>DavidMK</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2019-03-08T01:11:55Z' class='post-time'>
+                March 8, 2019,  1:11am
+              </time>
+          <span itemprop='position'>#11</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Great. I’ll have to review it to see what shape it’s in and get back to you late March or April if that’s okay?</p>
+        </div>
+
+        <meta itemprop='headline' content='No Dice, No Masters'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Luiz'><span itemprop='name'>Luiz</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2019-03-08T02:33:45Z' class='post-time'>
+                March 8, 2019,  2:33am
+              </time>
+          <span itemprop='position'>#12</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Yeah, take your time. I look forward to checking it out</p>
+        </div>
+
+        <meta itemprop='headline' content='No Dice, No Masters'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="1" />
+           <span class='post-likes'>1 Like</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/JimLikesGames'><span itemprop='name'>JimLikesGames</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2019-03-11T12:45:09Z' class='post-time'>
+                March 11, 2019, 12:45pm
+              </time>
+          <span itemprop='position'>#13</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>I am essentially always interested in superhero-adjacent stuff.</p>
+        </div>
+
+        <meta itemprop='headline' content='No Dice, No Masters'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="3" />
+           <span class='post-likes'>3 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/DavidMK'><span itemprop='name'>DavidMK</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2019-03-11T17:53:04Z' class='post-time'>
+                March 11, 2019,  5:53pm
+              </time>
+          <span itemprop='position'>#14</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Sounds good. I’ll see what I can pull together.  <img src="../../images/emoji/twitter/slight_smile1bce.png?v=6" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+        </div>
+
+        <meta itemprop='headline' content='No Dice, No Masters'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/ancusohm'><span itemprop='name'>ancusohm</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <meta itemprop='datePublished' content='2019-03-14T18:05:16Z'>
+              <time itemprop='dateModified' datetime='2019-03-14T18:05:31Z' class='post-time'>
+                March 14, 2019,  6:05pm
+              </time>
+          <span itemprop='position'>#15</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>I’ve only played one two-session game of a Dream Apart, so I’m far from an expert.  But, to me, the “No Dice, No Masters” presents two challenges:</p>
+<ol>
+<li>Managing your character <em>and</em> tracking when to pick up, put down, or make a move for <em>all</em> the elements created a high cognitive load.</li>
+<li>Since no one ‘owned’ a setting element, everyone seemed hesitant to do anything definitive.</li>
+</ol>
+<p>Now, we were all new to the system, so my experience may have been unusual.  Have other people run into this?  Does it go away when you know the system better?</p>
+<p>This probably goes against the entire philosophy of the “No Dice, No Masters” framework, but I wonder if the game would run smoother if one player handled all the setting elements (and no character).  Or maybe each player could handle a specific element for the length of the game (so, for example, you might continue to manage The Unseen World, even when the rules tell you to hand off that element).</p>
+<p>Has anyone tried doing anything like that?</p>
+        </div>
+
+        <meta itemprop='headline' content='No Dice, No Masters'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="3" />
+           <span class='post-likes'>3 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/BeckyA'><span itemprop='name'>BeckyA</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2019-03-18T13:58:53Z' class='post-time'>
+                March 18, 2019,  1:58pm
+              </time>
+          <span itemprop='position'>#16</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p><a class="mention" href="https://forums.gauntlet-rpg.com/u/rabalias">@rabalias</a> wrote Flotsam as a direct response to some of the things our player group found hard about playing Dream Askew.  He can probably talk about that in more detail than me (and should do!)</p>
+<p>Whilst I loved DAskew I seem to recall that our group had issues flipping (and knowing when to flip) between playing characters and running bits of the world.  Our gaming group skewed heavily towards people who like deep character play (including me) and found it hard to be both playing in that space AND being on the look out for bringing in stuff from the wider world simultaneously. Flotsam was initially designed to look at that intersection.</p>
+<p>Is that right <a class="mention" href="https://forums.gauntlet-rpg.com/u/rabalias">@rabalias</a>?  or am I misremembering?</p>
+        </div>
+
+        <meta itemprop='headline' content='No Dice, No Masters'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="4" />
+           <span class='post-likes'>4 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/rabalias'><span itemprop='name'>rabalias</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <meta itemprop='datePublished' content='2019-03-18T18:08:15Z'>
+              <time itemprop='dateModified' datetime='2019-03-18T18:08:17Z' class='post-time'>
+                March 18, 2019,  6:08pm
+              </time>
+          <span itemprop='position'>#17</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>That is correct. Our group struggled with:</p>
+<ul>
+<li>Lack of clarity over what the game was “about” (possibly resolved in more recent editions)</li>
+<li>Difficulty juggling the two roles</li>
+<li>Difficulty with cognitive overload given the relatively long lists of fairly specific playbook moves</li>
+<li>Difficulty focusing in on a character enough to properly explore them and get “immersed”.</li>
+</ul>
+<p>YMMV, this was my group and I essentially designed Flotsam for them. (And personally I love DA to pieces, hence was willing to go to the effort of producing a 176-page roleplaying game just to try and persuade my group to play a game like that.)</p>
+<p>Flotsam attempts to address a lot of the above through some fairly radical changes. I introduced clear rules for deciding what a scene should be about; stronger principles for managing your Situation; clearer rules for juggling the roles, so people could focus in on one role without feeling distracted by the other; introducing basic moves powered by lists of abilities, to reduce the cognitive burden of working out which move to use; and creating an XP economy which incentivised deep interpersonal conversations.</p>
+<p>Fundamentally it’s a very different game. It’s kept playbooks and situations, the token economy, and the concept of playbook-specific special moves for generating tokens, but is otherwise very different. But hopefully delivers a very similar experience.</p>
+        </div>
+
+        <meta itemprop='headline' content='No Dice, No Masters'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="9" />
+           <span class='post-likes'>9 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/ancusohm'><span itemprop='name'>ancusohm</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <meta itemprop='datePublished' content='2019-03-21T21:10:21Z'>
+              <time itemprop='dateModified' datetime='2019-03-21T21:10:28Z' class='post-time'>
+                March 21, 2019,  9:10pm
+              </time>
+          <span itemprop='position'>#18</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Huh, interesting.  That sounds very cool.  Thank you.</p>
+        </div>
+
+        <meta itemprop='headline' content='No Dice, No Masters'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/davey'><span itemprop='name'>davey</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2019-07-07T04:37:32Z' class='post-time'>
+                July 7, 2019,  4:37am
+              </time>
+          <span itemprop='position'>#19</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Ha!  I was thinking about making a game that exploited the theme of battleship Potemkin (if you’ve ever seen that silent movie). Btw: The game wouldn’t be silent!<br>
+I was thinking of what I could hack and these are the two games that came to mind. I was leaning toward the BoB system because it’s simple and highly hackable.  I also recognized that Flotsamexplores a similar social dynamic. I haven’t got a chance to play flotsam yet. The fact that the new pdf has a chapter on how to design with the BoB ethos or system was inclining me toward that approach. Fun to know the later has so much genetic material from the former. Makes sense.   Hope to be able to lay both these on the gauntlet at some point. Hopefully irl too!<br>
+Davey</p>
+        </div>
+
+        <meta itemprop='headline' content='No Dice, No Masters'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="1" />
+           <span class='post-likes'>1 Like</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+
+
+
+
+
+
+    </div>
+    <footer class="container wrap">
+      <nav class='crawler-nav' itemscope itemtype='http://schema.org/SiteNavigationElement'>
+        <ul>
+        <li itemprop="name"><a href='../../index.html' itemprop="url">Home </a></li>
+        <li itemprop="name"><a href='../../categories.html' itemprop="url">Categories </a></li>
+        <li itemprop="name"><a href='../../guidelines.html' itemprop="url">FAQ/Guidelines </a></li>
+        <li itemprop="name"><a href='../../tos.html' itemprop="url">Terms of Service </a></li>
+        <li itemprop="name"><a href='../../privacy.html' itemprop="url">Privacy Policy </a></li>
+        </ul>
+      </nav>
+      <p class='powered-by-link'>Powered by <a href="https://www.discourse.org/">Discourse</a>, best viewed with JavaScript enabled</p>
+    </footer>
+    
+    
+  </body>
+  
+
+<!-- Mirrored from forums.gauntlet-rpg.com/t/no-dice-no-masters/164 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 01 Aug 2023 02:12:00 GMT -->
+</html>

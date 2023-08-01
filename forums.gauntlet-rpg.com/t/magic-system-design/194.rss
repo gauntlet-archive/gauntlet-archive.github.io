@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Magic System design</title>
+    <link>https://forums.gauntlet-rpg.com/t/magic-system-design/194</link>
+    <description>What are your favorite magic systems?  What makes it your favorite?  What systems do a good job of defining non-combat effects, as opposed to combat-oriented ones?
+
+I&#39;ve read up an *ok* amount on spell systems and game design in general, the best source of which I&#39;ve read is &quot;Design Patterns of Successful Role-Playing Games&quot; by Whitson John Kirk III. Check out pages 164 to 260 for most of the relevant information.
+
+
+One thing that&#39;s really been holding me back from my game&#39;s design is a working magic system.  Here&#39;s a kind of break down of what I got so far:
+
+- There are four sources of magic: divine, ancestral (spirits within), abyssal (spirits without), and runic
+- There are four categories of spells: offense (versus targets), affect (versus objects), support (versus allies or self), obtain (versus non-existing entities)
+- Each source of magic specializes in two of each category
+- Spell slots are unlocked by the player&#39;s choice as they develop.  There are no concrete class-provided abilities, and instead you develop a path specialized towards magic to gain spell slots
+- Spells are leveled based on your source.  Casting a spell has two costs: A number of spell slots equal to the spell&#39;s described cost, and a metaphysical damage cost to represent the effort required to cast, which is equal to the spell&#39;s tier you unlock it at.  Think of it as &quot;spriritual hit points&quot;, the cost of which can be reduced by specializing against specific spells.
+
+From there, it otherwise functions very similarly to D&amp;D 5e, but because there are no concrete classes the spell list is EXTREMELY open, and this is the primary part I&#39;m having a ton of trouble balancing.</description>
+    
+    <lastBuildDate>Thu, 14 Mar 2019 19:37:58 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/magic-system-design/194.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Magic System design</title>
+        <dc:creator><![CDATA[@Daniel_Fowler]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/daniel_fowler">@Daniel_Fowler</a> wrote:</p>
+          <blockquote>
+              <p>while I do not have an example game system in mind, i realy like the flavor of the magic shown in the Novarian book series by L. Sprague De Camp.  where most fell magic entails complex ritual and rare reagents.  most practitioners employ mesmerism, hypnosis, magician tricks, enchanted artifacts and familures for quick or sudden needs.  but the main importance of a magic user in the spells he (and likely only he) knows.  these spells have to be taught by a master or learned by research or dealings with otherplaner entities.   this might seem pretty limiting compared to a lot of rpg magic systems but i think it makes the magic user more interesting and important.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/magic-system-design/194/38">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/magic-system-design/194/38</link>
+        <pubDate>Thu, 14 Mar 2019 19:37:58 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-194-38</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/magic-system-design/194.rss">Magic System design</source>
+      </item>
+      <item>
+        <title>Magic System design</title>
+        <dc:creator><![CDATA[@Jon]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jon">@Jon</a> wrote:</p>
+          <blockquote>
+              <p>What are your design goals?</p>
+<p>A common goal in trad systems for magic is to make the player tasks feel similar to the character tasks. Examples: D&amp;D’s “prepare spells in the morning” task forcing players to study their spells and choose, just like their characters do; Invisible Sun’s Maker Matrix feeling similar to planning out an enchantment formula; or Changeling: the Lost’s Pledge system actually involving speaking an oath.</p>
+<p>Narrative systems tend to look for the sort of conflict or situation that the system wants to push, then make the magic system lean hard on that sort of conflict/situation.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/magic-system-design/194/37">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/magic-system-design/194/37</link>
+        <pubDate>Wed, 13 Mar 2019 17:50:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-194-37</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/magic-system-design/194.rss">Magic System design</source>
+      </item>
+      <item>
+        <title>Magic System design</title>
+        <dc:creator><![CDATA[@seanFsmith]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/seanfsmith">@seanFsmith</a> wrote:</p>
+          <blockquote>
+              <p>I’m another fan of the <strong>Wonder &amp; Wickedness</strong> (and <strong>Marvels &amp; Malisons</strong>) system.  There’s something really nice about how evocative the spells themselves are as well as suggesting quite a few off-the-wall uses.</p>
+<p>Something different that I did with my <strong>Quarrel &amp; Fable</strong> (i.e. stole from Steve Jackson’s <em>Sorcery!</em>) is having the <em>players</em> memorise three-letter spellcodes and recall them during gameplay in order to cast the spell.  On top of that, there’s a hp cost rather than spell-slots so it ties together nicely for weird and risky magic.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/magic-system-design/194/36">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/magic-system-design/194/36</link>
+        <pubDate>Wed, 13 Mar 2019 17:09:49 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-194-36</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/magic-system-design/194.rss">Magic System design</source>
+      </item>
+      <item>
+        <title>Magic System design</title>
+        <dc:creator><![CDATA[@Bad_Quail]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/bad_quail">@Bad_Quail</a> wrote:</p>
+          <blockquote>
+              <blockquote>
+<p>What are your favorite magic systems?</p>
+</blockquote>
+<p>In no particular order: The Infernal playbook from Monsterhearts 2, The wizard stuff from World of Dungeons, and Demon Binding from Blades in the dark.</p>
+<blockquote>
+<p>What makes it your favorite?</p>
+</blockquote>
+<p>All of these systems are about the magician’s relationship to an intelligence that grants them power. At their best, they make it clear that the magician has an obligation to their power or that their power comes at a clear cost.</p>
+<blockquote>
+<p>What systems do a good job of defining non-combat effects, as opposed to combat-oriented ones?</p>
+</blockquote>
+<p>I feel like magic is most interesting in systems that don’t care overmuch about mechanically differentiating combat from the rest of the gameplay experience. If combat, and the effects of magic, are overly defined, it can make magic feel more like a tool or superpower, which robs it of some of its shine. This is purely personal preference.</p>
+<p>That said, Blades in the Dark does have a distinction between the simple things characters can accomplish by Attuning vs the things that require Special Abilities (such as Tempest, the various Ghost X powers, and Demon Binding) vs things that require a Ritual.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/magic-system-design/194/35">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/magic-system-design/194/35</link>
+        <pubDate>Wed, 13 Mar 2019 14:45:25 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-194-35</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/magic-system-design/194.rss">Magic System design</source>
+      </item>
+      <item>
+        <title>Magic System design</title>
+        <dc:creator><![CDATA[@Diogo_Nogueira]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/diogo_nogueira">@Diogo_Nogueira</a> wrote:</p>
+          <blockquote>
+              <p>I created the spell system for my own games based on various spells sytems I liked from varios other games, including DCC RPG, Whitehack, Wonders &amp; Wickdness and Beyond the Wall. It is its own thing, however.</p>
+<p>I try to make sorcery powerful but dangerous to use. There are no spell levels, no preparation, but knowing spells is hard and you have to get more spells in adventures.</p>
+<p>I am now pondering the creation of another spell system combining what I got with Beloch Strike’s Magic Words system, making a open-ended spell system but with some boundaries and guidelines. Characters will know specific words and can combine them to create spells.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/magic-system-design/194/34">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/magic-system-design/194/34</link>
+        <pubDate>Wed, 13 Mar 2019 14:20:52 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-194-34</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/magic-system-design/194.rss">Magic System design</source>
+      </item>
+      <item>
+        <title>Magic System design</title>
+        <dc:creator><![CDATA[@JasonT]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jasont">@JasonT</a> wrote:</p>
+          <blockquote>
+              <p>Yes please. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=6" title=":slight_smile:" class="emoji" alt=":slight_smile:"> Is this system intended for inclusion in ALM?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/magic-system-design/194/33">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/magic-system-design/194/33</link>
+        <pubDate>Tue, 12 Mar 2019 14:25:09 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-194-33</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/magic-system-design/194.rss">Magic System design</source>
+      </item>
+      <item>
+        <title>Magic System design</title>
+        <dc:creator><![CDATA[@Michael_Prescott]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/michael_prescott">@Michael_Prescott</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="25" data-topic="194">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/jasont/40/227_2.png" class="avatar"> JasonT:</div>
+<blockquote>
+<p><strong>"Spells as partial ritual instructions"</strong> is a germ of an idea by <a class="mention" href="/u/michael_prescott">@Michael_Prescott</a> on G+, which I am dying to see developed further. You want to cast magic missile? Well, you know it requires a knife wrapped in wire, pointed at its target, with the magic word spoken aloud, but it might take some research to figure out what <em>kind</em> of knife and wire, or what that magic word is.</p>
+</blockquote>
+</aside>
+<p>When I’m done this book I really must get back to this game. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/stuck_out_tongue.png?v=6" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/magic-system-design/194/31">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/magic-system-design/194/31</link>
+        <pubDate>Tue, 12 Mar 2019 13:54:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-194-31</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/magic-system-design/194.rss">Magic System design</source>
+      </item>
+      <item>
+        <title>Magic System design</title>
+        <dc:creator><![CDATA[@Blooperly]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/blooperly">@Blooperly</a> wrote:</p>
+          <blockquote>
+              <p>The game I wrote for the Emotional Mecha Jam had a pretty flavorful Divine Magic system. The players are all clerics in holy mechs, and their magic is derived from months of ritual inscription of passages from their holy book onto the chassis of the mech. They each hold three spells that are completely used up when cast (the inscriptions are burnt off), but the spells are really powerful. I had fun writing the spell list. To quote:</p>
+<p>Clerics spend months speaking prayer and liturgy over<br>
+their Blessed Engines, imbuing them with manuscripts:<br>
+inscriptions from the Word of Creation which, given<br>
+enough faith, can be used to unleash wild and powerful<br>
+magic from the divine. Choose 3 manuscripts to<br>
+inscribe on your Blessed Engine:<br>
+A word which binds an enemy to your will, a word<br>
+which halts time, a word that calls down lightning,<br>
+a word which banishes evil, a phrase which can<br>
+consume a soul, a song that rends metal, a hymn<br>
+that summons the Voice of Creation, a verse that<br>
+can crack the heavens, a passage which unleashes<br>
+holy fire, a catechism that can summon angelic aid,<br>
+a chord which spills blood</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/magic-system-design/194/30">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/magic-system-design/194/30</link>
+        <pubDate>Tue, 12 Mar 2019 05:48:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-194-30</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/magic-system-design/194.rss">Magic System design</source>
+      </item>
+      <item>
+        <title>Magic System design</title>
+        <dc:creator><![CDATA[@NeverNoBest]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/nevernobest">@NeverNoBest</a> wrote:</p>
+          <blockquote>
+              <p>I’m a big fan of Maze Rat’s system of generating spells, which randomly generates the spells name and lets the players fill in the details. You end up with something that almost certainly doesn’t make any sense, but you aren’t getting a new spell until you cast the one you have! It makes magic extremely powerful and extremely unreliable, which makes it a risky move to put all your eggs in that particular basket.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/magic-system-design/194/29">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/magic-system-design/194/29</link>
+        <pubDate>Mon, 11 Mar 2019 20:03:52 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-194-29</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/magic-system-design/194.rss">Magic System design</source>
+      </item>
+      <item>
+        <title>Magic System design</title>
+        <dc:creator><![CDATA[@Crom]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/crom">@Crom</a> wrote:</p>
+          <blockquote>
+              <p>I really like how it sets up the magic of the universe a lot!  It also has me thinking better about the cost of doing magic, so you’ve given me a lot to mull over!  Thanks, Jim.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/magic-system-design/194/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/magic-system-design/194/28</link>
+        <pubDate>Mon, 11 Mar 2019 17:18:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-194-28</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/magic-system-design/194.rss">Magic System design</source>
+      </item>
+      <item>
+        <title>Magic System design</title>
+        <dc:creator><![CDATA[@JimLikesGames]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jimlikesgames">@JimLikesGames</a> wrote:</p>
+          <blockquote>
+              <p>If you haven’t, take a look at Brennan Taylor’s<a href="http://www.galileogames.com/mortal-coil" rel="nofollow noopener"><em>Mortal Coil</em></a> It’s a fantasy system where you build magic system on the fly by bidding during play. It may be more fiddly than modern OSR stuff, but it’s a pretty fascinating take.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/magic-system-design/194/27">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/magic-system-design/194/27</link>
+        <pubDate>Wed, 06 Mar 2019 05:55:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-194-27</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/magic-system-design/194.rss">Magic System design</source>
+      </item>
+      <item>
+        <title>Magic System design</title>
+        <dc:creator><![CDATA[@wordman]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/wordman">@wordman</a> wrote:</p>
+          <blockquote>
+              <p>One of my favorite magic systems is a card-based system, inspired by the one in the original <em>Castle Falkenstein</em>. It has these traits:</p>
+<ul>
+<li>Free form casting, not spell slots or list of spells and such</li>
+<li>Casting safely requires time</li>
+<li>Casting quickly is possible, but dangerous</li>
+</ul>
+<p>The gist of it works with a single deck of cards. Each suit in the deck represents a type of magic. This could be, for example, the schools mentioned in the original post. For this example, lets say the schools are:</p>
+<ul>
+<li>earth = diamonds</li>
+<li>water = hearts</li>
+<li>fire = clubs</li>
+<li>air = spades</li>
+</ul>
+<p>To cast a spell, you think up some effect you want, and assign it to whatever school seems like the most obvious match. Either the GM or whatever figures out a <strong>complexity</strong> for the thing you are trying to do.</p>
+<p>You draw cards to build up power for the spell. How many cards you draw each turn depend on some trait, like your sorcery skill, or whatever.</p>
+<p>The goal is to get cards of the right suit that equal or exceed the spell complexity. If you can do that, the spell goes off perfectly; however, you are allowed to cast the spell as soon as you have <em>any</em> combination of cards that sum to the complexity, if you want. If you do so, the nature of the suits actually used “pollute” the spell and cause side effects based on their corresponding school.</p>
+<p>So, like, say you want to cast something boring, like a fireball. Say that is a complexity 15 (or whatever, just picking a number for the example). You can draw three cards each turn, say. You need 15 clubs to cast perfectly.</p>
+<p>Say you draw 9♦, 2♣, 4♣ on your first turn. The sum of all the cards is 15, so you have just enough to cast the spell imperfectly. Do you do that and deal with the collateral effects, or to you keep weaving the spell do avoid them?</p>
+<p>Say you cast: the spell is polluted by 9 points of diamonds (earth school), compared to only 6 points of clubs. So the GM (or whoever) has to come up with some vaguely earth-related side effect when you cast it. The imbalance is pretty bad, so maybe the result is harsh, like your leg gets turned to stone, or the targets of the fireball also get turned into living crystal, making them mostly immune to the fire. (On the other hand, you do have <em>some</em> clubs, so maybe it isn’t quite so bad.)</p>
+<p>There are lots of variations to play with in this system. One is face cards. Do they count as 10 or zero? Or do they mean something else (say, attracting interest from the spirit world or something)?</p>
+<p>Another is: you may wind up using only a few of the cards you drew. What do the “waste” cards mean? Anything? Can they be used to mitigate side effects? Make them worse?</p>
+<p>Another is: do red/black matter?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/magic-system-design/194/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/magic-system-design/194/26</link>
+        <pubDate>Tue, 05 Mar 2019 22:34:14 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-194-26</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/magic-system-design/194.rss">Magic System design</source>
+      </item>
+      <item>
+        <title>Magic System design</title>
+        <dc:creator><![CDATA[@JasonT]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jasont">@JasonT</a> wrote:</p>
+          <blockquote>
+              <p>My favorite magic system I’ve actually played with is a combination of two entries from the Fate Toolkit. In one, “magical” effects are so subtle that you’d be hard pressed to argue it’s not just confirmation bias; in Fate terms, they’re nothing more than an aspect with a free invocation, no more easily achieved than just spending a turn doing something perfectly mundane to get the same effect. When you combine this, however, with the magic system from the same book inspired by the Twenty Palaces novel series—i.e., summoning spells that bring creatures into this reality that are capable of gradually and subtly destroying the world—you get a great setup for people who’ve had a taste of power, but now want <em>the good stuff.</em></p>
+<p>I think the list of magic systems I am excited to try is way longer than the list of magic systems I have actually played with, though. Some of those include:</p>
+<p><strong>Wonder &amp; Wickedness</strong> (as <a class="mention" href="/u/funkaoshi">@funkaoshi</a> notes) is a terrifically flavorful list of spells that can be easily slotted into a D&amp;D-ish game. They’re level-less, but it might be more appropriate to say that they are all level 1, and can be scaled to be more powerful at higher levels.</p>
+<p><strong>Broodmother Sky Fortress</strong> includes a short piece on how every spellbook is a unique object in the world, and to learn the spells within it, you must accept the blasphemies it contains (e.g., “The corpses that left their graves during the Crucifixion (Matthew 27:52) still wander the world as the original undead”).</p>
+<p><strong>"Spells as partial ritual instructions"</strong> is a germ of an idea by <a class="mention" href="/u/michael_prescott">@Michael_Prescott</a> on G+, which I am dying to see developed further. You want to cast magic missile? Well, you know it requires a knife wrapped in wire, pointed at its target, with the magic word spoken aloud, but it might take some research to figure out what <em>kind</em> of knife and wire, or what that magic word is.</p>
+<p>I wrote some more magic systems I’m eager to try on my <a href="https://pretendo.games/2018/12/18/seven-sorceries/" rel="nofollow noopener">blog</a> a bit ago.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/magic-system-design/194/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/magic-system-design/194/25</link>
+        <pubDate>Tue, 05 Mar 2019 20:16:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-194-25</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/magic-system-design/194.rss">Magic System design</source>
+      </item>
+      <item>
+        <title>Magic System design</title>
+        <dc:creator><![CDATA[@funkaoshi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/funkaoshi">@funkaoshi</a> wrote:</p>
+          <blockquote>
+              <p>My favourite magic system is the spells without levels stuff Brendan did with Wonder and Wickedness. The system is simple/straightforward, and all the spells are super evocative.</p>
+<ul>
+<li><a href="http://www.necropraxis.com/tag/wonder-wickedness/" rel="nofollow noopener">Brendan’s posts on his blog.</a></li>
+<li><a href="https://www.youtube.com/watch?v=S9Y38maF_q8" rel="nofollow noopener">Ben Milton Questing Beast review.</a></li>
+<li><a href="http://save.vs.totalpartykill.ca/review/wonder-and-wickedness/" rel="nofollow noopener">My review.</a></li>
+</ul>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/magic-system-design/194/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/magic-system-design/194/24</link>
+        <pubDate>Mon, 04 Mar 2019 16:28:23 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-194-24</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/magic-system-design/194.rss">Magic System design</source>
+      </item>
+      <item>
+        <title>Magic System design</title>
+        <dc:creator><![CDATA[@Alun_R]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alun_r">@Alun_R</a> wrote:</p>
+          <blockquote>
+              <p>Late to the party, but here’s a link to my Fate Core hack and it’s magic system:<br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/1X/dc2826c16fd23376eb8055589f708d5644c7408b.png" class="site-icon" width="32" height="32">
+      <a href="https://www.lythia.com/game_aides/fate-of-harn/" target="_blank" title="02:00PM - 20 March 2016">Lýthia.com – 20 Mar 16</a>
+  </header>
+  <article class="onebox-body">
+    <img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/1X/f534a293fc5bff9d007e4a05d2c673113ec88984.png" class="thumbnail onebox-avatar" width="500" height="500">
+
+<h3><a href="https://www.lythia.com/game_aides/fate-of-harn/" target="_blank">Fate of Hârn</a></h3>
+
+<p>Fate of Harn (FINAL) has been released; this version contains a Cheat Sheet for players and an updated character sheet.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/magic-system-design/194/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/magic-system-design/194/23</link>
+        <pubDate>Mon, 04 Mar 2019 13:48:00 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-194-23</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/magic-system-design/194.rss">Magic System design</source>
+      </item>
+      <item>
+        <title>Magic System design</title>
+        <dc:creator><![CDATA[@Crom]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/crom">@Crom</a> wrote:</p>
+          <blockquote>
+              <p>I’m unreasonably obsessed with categorizing things into 4 categories, so here’s some basic magic concepts based on tier (ability unlock rank) that I’m rolling with after what we’ve talked about and what I’ve read:</p>
+<p>T1: Spells are raw, singular manifestations of the four categories of spells: Offense, Affect, Obtain, Support.  Offense grants you an attack using your metaphysical stats and can affect abyssal creatures, Affect grants you prestidigitation-like effects or to do certain types of actions without tools, Obtain creates a small amount of a basic natural resource like water, dirt, rocks, etc., Support grants advantage on your target’s next physical roll<br>
+T2: Keywords are added on top of each category that expands what it does.  Things like elements that cause minor ongoing effects on an attack or cause debuffs or enchantments for Offense, things like the grease spell or elemental manipulation, or a weapon enhancement spell to attack abyssal creatures on Affect, telekinetic and knowledge-oriented spells for Obtain, healing and ongoing buff effects for Support<br>
+T3: More powerful keywords are added that add extra targets to spells, allow casting over longer distances, buff lower leveled spells, summon creatures, and so on.<br>
+T4: Enhanced effects over T3, and is also the first tier you start unlocking things that have more lasting effects relating to your physical being having protection from the abyssal plane as well as sight effects into it, plus the ability to grant a dead creature whose soul hasn’t passed on the ability to reanimate their body<br>
+T5: Enhanced effects over T4, expanded combinations of keywords to create prismatic effects of lower level spells, and more focused spells that grant greater effects, such as actual physical resurrection<br>
+T6 &amp; T7 I don’t have time to write up ideas</p>
+<p>The key point of this is I’ll be creating keywords that you can combine in certain ways to create effects, and you can take this to describe what happens from there, with guidelines about the power of each level to scope what is expected to be presented out of it.</p>
+<p>Because of the stacking advantage system, this opens up an easy way to buff a lot of spells: higher level = more advantage dice, which unlocks higher damage &amp; effects by getting pairs of numbers.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/magic-system-design/194/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/magic-system-design/194/22</link>
+        <pubDate>Sat, 02 Mar 2019 23:00:01 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-194-22</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/magic-system-design/194.rss">Magic System design</source>
+      </item>
+      <item>
+        <title>Magic System design</title>
+        <dc:creator><![CDATA[@shane]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/shane">@shane</a> wrote:</p>
+          <blockquote>
+              <p>2e Playtest stuff is available <a href="https://drive.google.com/drive/folders/1BOXy5Q-U11qezYf5-vgK0dL7oTYoNG9b" rel="nofollow noopener">here</a>.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/magic-system-design/194/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/magic-system-design/194/21</link>
+        <pubDate>Fri, 01 Mar 2019 03:57:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-194-21</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/magic-system-design/194.rss">Magic System design</source>
+      </item>
+      <item>
+        <title>Magic System design</title>
+        <dc:creator><![CDATA[@Bogus]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/bogus">@Bogus</a> wrote:</p>
+          <blockquote>
+              <p>I will be looking into this! Never heard of the system but it is on my radar now!!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/magic-system-design/194/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/magic-system-design/194/20</link>
+        <pubDate>Fri, 01 Mar 2019 03:55:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-194-20</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/magic-system-design/194.rss">Magic System design</source>
+      </item>
+      <item>
+        <title>Magic System design</title>
+        <dc:creator><![CDATA[@shane]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/shane">@shane</a> wrote:</p>
+          <blockquote>
+              <p>The magic in Freebooters is even cooler (IMHO) in that you can push to use a spell differently in different situations as long as you can sell the GM on it. All of it is based on the spell’s name.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/magic-system-design/194/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/magic-system-design/194/19</link>
+        <pubDate>Fri, 01 Mar 2019 03:40:39 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-194-19</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/magic-system-design/194.rss">Magic System design</source>
+      </item>
+      <item>
+        <title>Magic System design</title>
+        <dc:creator><![CDATA[@Bogus]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/bogus">@Bogus</a> wrote:</p>
+          <blockquote>
+              <p>I really dig that idea, <a class="mention" href="/u/christo">@Christo</a> of gamifying magic in that sort of way to make you think on your toes and use it as a sort of resource. Magic is such a cool idea that I feel is often implemented in the most mundane of ways!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/magic-system-design/194/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/magic-system-design/194/18</link>
+        <pubDate>Fri, 01 Mar 2019 03:28:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-194-18</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/magic-system-design/194.rss">Magic System design</source>
+      </item>
+      <item>
+        <title>Magic System design</title>
+        <dc:creator><![CDATA[@Christo]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/christo">@Christo</a> wrote:</p>
+          <blockquote>
+              <p>Have you seen how Freebooters of the Frontiers handles magic? A magic-user has a Power stat spends that to cast a spell, much like the way you describe it. It has a table of the effects you can ‘buy’ — range, # of creatures affected, significance of magic (parlor trick on up to miraculous, although I’m not naming the categories right). Spell names are randomly generated, and then it’s up to the player/character to define what the name means, which provides a nifty creative constraint.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/magic-system-design/194/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/magic-system-design/194/17</link>
+        <pubDate>Fri, 01 Mar 2019 02:38:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-194-17</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/magic-system-design/194.rss">Magic System design</source>
+      </item>
+      <item>
+        <title>Magic System design</title>
+        <dc:creator><![CDATA[@Blaine_Moore]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/blaine_moore">@Blaine_Moore</a> wrote:</p>
+          <blockquote>
+              <p>I like magic that is non-vancian (spell-based), generally, because I think it’s too limiting. But I’m open to both rule based magic, and poetic/storybook magic aside from that and actually think it’s interesting to include both types in the same world at times.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/magic-system-design/194/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/magic-system-design/194/16</link>
+        <pubDate>Thu, 28 Feb 2019 18:09:40 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-194-16</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/magic-system-design/194.rss">Magic System design</source>
+      </item>
+      <item>
+        <title>Magic System design</title>
+        <dc:creator><![CDATA[@inarvan]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/inarvan">@inarvan</a> wrote:</p>
+          <blockquote>
+              <p>I am a serious adherent of the “bullshit artist” style of rpg magic. Make it sound like magic, tell me how you think it should work, then give me a possible downside if the dice go badly; nigh-unpronouncable terms, sympathetic links, and fetishy bits involving seemingly mundane items get you bonus points from me. I have sometimes enjoyed domain- or sphere-based magic systems, but it entirely depends on how interested I am in the fiction for those varieties. I never cared all that much for Mage, but I love the Malazan Book of the Fallen system that involved pocket dimensions called warrens that each had a flavor or style that could be tapped by users for different things.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/magic-system-design/194/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/magic-system-design/194/15</link>
+        <pubDate>Thu, 28 Feb 2019 16:32:32 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-194-15</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/magic-system-design/194.rss">Magic System design</source>
+      </item>
+      <item>
+        <title>Magic System design</title>
+        <dc:creator><![CDATA[@Bogus]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/bogus">@Bogus</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="13" data-topic="194" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/redmagus77/40/225_2.png" class="avatar"> RedMagus77:</div>
+<blockquote>
+<p>Slightly off-topic, but did anyone ever play Secret of Evermore? I’ve not yet found one, but I did like the alchemy system which required you find different components to power your “spells”.</p>
+<p>Another interesting magic system in a video game was Magicka, where you had to combine elements to make a spell. Not great gameplay at a table, but it was a fun idea to see on the screen.</p>
+</blockquote>
+</aside>
+<p>I have played both and absolutely love the ideas they present. I love games that incorporate team attacks and games that use world lore to help immerse players. Alchemy is such a cool, underdeveloped system.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/magic-system-design/194/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/magic-system-design/194/14</link>
+        <pubDate>Thu, 28 Feb 2019 15:53:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-194-14</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/magic-system-design/194.rss">Magic System design</source>
+      </item>
+      <item>
+        <title>Magic System design</title>
+        <dc:creator><![CDATA[@RedMagus77]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/redmagus77">@RedMagus77</a> wrote:</p>
+          <blockquote>
+              <p>Slightly off-topic, but did anyone ever play Secret of Evermore?  I’ve not yet found one, but I did like the alchemy system which required you find different components to power your “spells”.</p>
+<p>Another interesting magic system in a video game was Magicka, where you had to combine elements to make a spell. Not great gameplay at a table, but it was a fun idea to see on the screen.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/magic-system-design/194/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/magic-system-design/194/13</link>
+        <pubDate>Thu, 28 Feb 2019 15:27:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-194-13</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/magic-system-design/194.rss">Magic System design</source>
+      </item>
+  </channel>
+</rss>

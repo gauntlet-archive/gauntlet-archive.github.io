@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Homebrew World Character Keeper Ready for Use!</title>
+    <link>https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556</link>
+    <description>After some help getting started from @Michael_G_Barford, I&#39;ve finished a (fancy schmancy) character keeper for [Homebrew World](https://spoutinglore.blogspot.com/2018/07/homebrew-world.html), my drift of Dungeon World (a sort of DW2.0 streamlined for one-shots and mini-series style play). 
+
+https://spoutinglore.blogspot.com/2019/07/online-version-of-homebrew-world.html
+
+It&#39;s actually all of HBW converted into Google Sheets format, including the GM stuff, basic moves, etc. 
+
+I&#39;d be all sorts of interested in feedback, either from folks just poking around at the sheets or using them for actual online play.  
+
+Specific questions:
+* Are the character sheets on the **PCs** tab actually useful in play?
+* Do you find yourself wanting to (or just accidentally) needing to edit content? Copy/paste stuff?  Otherwise break the spreadsheet? :)  If so, what and why?
+
+Thanks!</description>
+    
+    <lastBuildDate>Sun, 14 Jul 2019 20:25:43 +0000</lastBuildDate>
+    <category>RPG Chat</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Homebrew World Character Keeper Ready for Use!</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <p>Fixed the issues with the Wielder and the Druid’s drive (the Wielder had the same issue… not sure why, but F2ing in the selection lists made the validation error go away).</p>
+<p>Also added conditional formatting to all the Advances.</p>
+<p>Thanks for the feedback!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556/16</link>
+        <pubDate>Sun, 14 Jul 2019 20:25:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2556-16</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556.rss">Homebrew World Character Keeper Ready for Use!</source>
+      </item>
+      <item>
+        <title>Homebrew World Character Keeper Ready for Use!</title>
+        <dc:creator><![CDATA[@gartsalrisa]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gartsalrisa">@gartsalrisa</a> wrote:</p>
+          <blockquote>
+              <p>For the record, I am a bit chagrined to report that my original note was indeed a PEBKAC issue. Columns of content are “collapsing” as expected when I click the icon; I was just losing track spatially of which column was which.</p>
+<p>I could blame the unexpected modal box for causing pattern interruption, but that would be informed by my dinged pride as much as my interface assessment. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> Sorry for the wasted bandwidth!</p>
+<p>(<a href="https://en.wikipedia.org/wiki/User_error" rel="nofollow noopener">Jargon reference for “PEBKAC”</a>)</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556/15</link>
+        <pubDate>Wed, 10 Jul 2019 20:54:52 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2556-15</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556.rss">Homebrew World Character Keeper Ready for Use!</source>
+      </item>
+      <item>
+        <title>Homebrew World Character Keeper Ready for Use!</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>Right! And of course. I’ll share with you immediately.</p>
+<aside class="onebox googledocs">
+  <header class="source">
+      <a href="https://docs.google.com/spreadsheets/d/1lNyDQwttD7e80fKmkqLERSbc3eDPKQA3M2BkKPDKBxY/edit?usp=sharing" target="_blank" rel="nofollow noopener">docs.google.com</a>
+  </header>
+  <article class="onebox-body">
+    <a href="https://docs.google.com/spreadsheets/d/1lNyDQwttD7e80fKmkqLERSbc3eDPKQA3M2BkKPDKBxY/edit?usp=sharing" target="_blank" rel="nofollow noopener"><span class="googledocs-onebox-logo g-sheets-logo"></span></a>
+
+<h3><a href="https://docs.google.com/spreadsheets/d/1lNyDQwttD7e80fKmkqLERSbc3eDPKQA3M2BkKPDKBxY/edit?usp=sharing" target="_blank" rel="nofollow noopener">Copy of Homebrew World Keeper</a></h3>
+
+<p>GM Stuff
+
+HOMEBREW WORLD,&lt;a href="https://spoutinglore.blogspot.com/2018/07/homebrew-world.html"&gt;a Dungeon World drift by Jeremy Strandberg, 2019 [CC BY SA 3.0 USA], version 1.5.1&lt;/a&gt;
+Click the [-] icons to collapse.
+Getting Started,How to GM
+1) Make...</p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>It should be open to anyone.</p>
+<p>Here’s what I’m noticing:</p>
+<p>It seems to work correctly for most character types/playbooks (I haven’t tried them all!). However, for the Wielder (which was the first one I tried), I get the message with any field I try to select or modify.</p>
+<p>EDIT: Check out the Druid’s Drive. I chose one, but it’s unhappy for some reason. This doesn’t seem to happen with other playbooks!</p>
+<p>I hope this is more helpful than frustrating!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556/14</link>
+        <pubDate>Wed, 10 Jul 2019 19:41:16 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2556-14</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556.rss">Homebrew World Character Keeper Ready for Use!</source>
+      </item>
+      <item>
+        <title>Homebrew World Character Keeper Ready for Use!</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <p>No, that <strong>is</strong> a big deal, because dismissing that warning means you end up unlocking all the cells, even ones that are supposed to be protected.</p>
+<p>Can you share a link to your copy of the spreadsheet with me?  Ideally with edit access?  (either open it up entirely or share it specifically with me… jack underscore blackfoot at the yahoo).</p>
+<p>Is anyone else seeing this problem?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556/13</link>
+        <pubDate>Wed, 10 Jul 2019 18:42:18 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2556-13</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556.rss">Homebrew World Character Keeper Ready for Use!</source>
+      </item>
+      <item>
+        <title>Homebrew World Character Keeper Ready for Use!</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>Ok, reporting back:</p>
+<p>That “Heads up!” message pops up anytime I edit the sheet, pretty much. Writing in my name didn’t trigger one, but choosing from any pick lists, hitting “Enter” after entering text (in the Equipment section), filling out my stats, and checking any box on the sheet (equipment, moves, XP, debilities, etc) all triggered that message.</p>
+<p>It’s not a huge deal, because you can hit “ignore for the next 5 mins”, but it’s kind of odd.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556/12</link>
+        <pubDate>Wed, 10 Jul 2019 18:11:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2556-12</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556.rss">Homebrew World Character Keeper Ready for Use!</source>
+      </item>
+      <item>
+        <title>Homebrew World Character Keeper Ready for Use!</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>Hmmm! It felt like it was every single one. But let me try it again, and I’ll pay closer attention this time. I’ll report back!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556/11</link>
+        <pubDate>Wed, 10 Jul 2019 18:04:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2556-11</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556.rss">Homebrew World Character Keeper Ready for Use!</source>
+      </item>
+      <item>
+        <title>Homebrew World Character Keeper Ready for Use!</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <p>That definitely should not happen.  Is it all of them, or just a specific few?  If a specific few… can you give me some cell references (e.g. “B23”)?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556/10</link>
+        <pubDate>Wed, 10 Jul 2019 17:58:54 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2556-10</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556.rss">Homebrew World Character Keeper Ready for Use!</source>
+      </item>
+      <item>
+        <title>Homebrew World Character Keeper Ready for Use!</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>For what it’s worth, I get the “Heads up!” warning every time I choose from a field, as well (which is a pain in the butt). Does that not happen for other people?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556/9</link>
+        <pubDate>Wed, 10 Jul 2019 17:55:35 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2556-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556.rss">Homebrew World Character Keeper Ready for Use!</source>
+      </item>
+      <item>
+        <title>Homebrew World Character Keeper Ready for Use!</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <p>Thanks!</p>
+<p>Unfortunately, the “Heads up! You’re trying to edit part of this sheet…” warning is unavailable. It appears to happen there are any protected-with-warning cells in the group being collapsed. (Well, not <em>any</em>… it’s kind of inconsistent. But I couldn’t make it go away and keep the warning messages for accidental edits.)</p>
+<p>The “inserted row” behavior was a bit of an illusion, i think. I had an extra empty column between each playbook, so when you collapsed the playbook, it ended up with two empty columns instead of one.  I just cleared out the extra column.  You still end up with a stray column for each playbook, but it’s not as bad.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556/8</link>
+        <pubDate>Wed, 10 Jul 2019 15:11:32 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2556-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556.rss">Homebrew World Character Keeper Ready for Use!</source>
+      </item>
+      <item>
+        <title>Homebrew World Character Keeper Ready for Use!</title>
+        <dc:creator><![CDATA[@gartsalrisa]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gartsalrisa">@gartsalrisa</a> wrote:</p>
+          <blockquote>
+              <p>Excited to see this, <a class="mention" href="/u/jeremy_strandberg">@Jeremy_Strandberg</a>!</p>
+<p>Here’s a novice-to-apprentice-user-level bug (or PEBKAC), presented in the classic reporting pattern:</p>
+<p><strong>Steps to repeat</strong></p>
+<ul>
+<li>Follow link to the Google Sheet.</li>
+<li>Use “File &gt; Make a copy” of the Google Sheet.</li>
+<li>Select the “PCs” tab.</li>
+<li>Click the respective [-] icon above any of the texts reading “If unused, click the [-] icon above the column headers to collapse.”</li>
+</ul>
+<p><strong>Expected experience</strong></p>
+<ul>
+<li>The column of content below the indicator “collapses” or disappears in some way.</li>
+</ul>
+<p><strong>Actual experience</strong></p>
+<ul>
+<li>A modal box appears with the mesage " Heads up! You’re trying to edit part of this sheet that shouldn’t be changed accidentally. Edit anyway?"</li>
+<li>Clicking OK produces creates a new spreadsheet column to appear to the left of the column with the [-] icon.  (i.e. as if the command “Insert &gt; Column left” had been selected.</li>
+</ul>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556/7</link>
+        <pubDate>Wed, 10 Jul 2019 02:05:09 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2556-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556.rss">Homebrew World Character Keeper Ready for Use!</source>
+      </item>
+      <item>
+        <title>Homebrew World Character Keeper Ready for Use!</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>By the way: the Damage box looks great now!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556/6</link>
+        <pubDate>Tue, 09 Jul 2019 23:04:03 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2556-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556.rss">Homebrew World Character Keeper Ready for Use!</source>
+      </item>
+      <item>
+        <title>Homebrew World Character Keeper Ready for Use!</title>
+        <dc:creator><![CDATA[@technoskald]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/technoskald">@technoskald</a> wrote:</p>
+          <blockquote>
+              <p>Will definitely share this with my players, as not all of them really liked printing PDFs and marking them up, old-school style. (I personally dig that, but to each their own…)</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556/5</link>
+        <pubDate>Tue, 09 Jul 2019 22:53:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2556-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556.rss">Homebrew World Character Keeper Ready for Use!</source>
+      </item>
+      <item>
+        <title>Homebrew World Character Keeper Ready for Use!</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>Good answers, Jeremy! I agree with all of that. And thanks for the clarification on the damage roll for monsters! Makes total sense.</p>
+<p>I think you’ve created an amazing tool - very impressive! Like your playbook sheets, this makes playing your game far more accessible, and means more people will ‘get it to the table’. Three thumbs up!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556/4</link>
+        <pubDate>Tue, 09 Jul 2019 22:11:47 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2556-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556.rss">Homebrew World Character Keeper Ready for Use!</source>
+      </item>
+      <item>
+        <title>Homebrew World Character Keeper Ready for Use!</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <p>Thanks for taking the time to review it, Paul!</p>
+<aside class="quote no-group" data-post="2" data-topic="2556">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/paul_t/40/1825_2.png" class="avatar"> Paul_T:</div>
+<blockquote>
+<p>Under “GM Stuff”, the “Damage” box is too small, and doesn’t line up quite right with the one beside it.</p>
+</blockquote>
+</aside>
+<p>Weird. It looks off for when I first load it, but then quickly corrects.  I added a little more buffer space. Maybe that will help.</p>
+<p>Oh! Also, I was missing an entry on the left hand box.  Fixed.</p>
+<aside class="quote no-group" data-post="2" data-topic="2556">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/paul_t/40/1825_2.png" class="avatar"> Paul_T:</div>
+<blockquote>
+<p>some more space for notes could be useful, perhaps (not just at the bottom, but in other spaces, too)</p>
+</blockquote>
+</aside>
+<p>Good point. It’s tough, cuz I don’t want to add <em>more</em> vertical scrolling the whole thing.</p>
+<aside class="quote no-group" data-post="2" data-topic="2556">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/paul_t/40/1825_2.png" class="avatar"> Paul_T:</div>
+<blockquote>
+<p>Having the character sheets that <em>vertical</em> could be awkward (as opposed to having them as rows or as separate tabs), or it might be just great; I’m not sure.</p>
+</blockquote>
+</aside>
+<p>Two reasons for the vertical orientation:</p>
+<ol>
+<li>Having 10 tabs to sift through seems overwhelming and bad</li>
+<li>From my experience playing with folks on the Gauntlet, people <em>really</em> like having the ability to see everyone’s character sheets all in one place. And I generally agree. Being able to see your sheet while you’re playing gives me time to think about ways I can riff on your Drive or our relationships or your moves.</li>
+</ol>
+<p>I’ve thought about trying to make something that gives you, like, 1 tab for each player, with a “HUD” section displaying abbreviated contents of everyone else’s playbook.  But I’m not sure that’s even possible, much less feasible.</p>
+<p>Small font size is definitely a sacrifice to the constraints of space.  I expect folks might have to zoom in a bit.</p>
+<aside class="quote no-group" data-post="2" data-topic="2556">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/paul_t/40/1825_2.png" class="avatar"> Paul_T:</div>
+<blockquote>
+<p>I have no idea what +advantage or -disadvantage does for monsters. They don’t roll, do they?</p>
+</blockquote>
+</aside>
+<p><em>Someone</em> rolls damage for monsters in DW/HBW.  Standard rule is that the player rolls the damage that they take, but plenty of folks drift that to the GM rolling damage. Either way: 'vantage here works the same as elsewhere… roll an extra die, discard the lowest or highest.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556/3</link>
+        <pubDate>Tue, 09 Jul 2019 21:59:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2556-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556.rss">Homebrew World Character Keeper Ready for Use!</source>
+      </item>
+      <item>
+        <title>Homebrew World Character Keeper Ready for Use!</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>Jeremy,</p>
+<p>This looks great! I flipped and read through it, but didn’t actually use it in play, so take that into consideration.</p>
+<p>Stream of consciousness thoughts:</p>
+<p>Most of it works really, really well. I was thrown by the Shield having two checkboxes for a moment (you can’t check the second one), but that makes sense. Having clickable checkboxes is far easier than writing and erasing, too (for example, for Experience)!</p>
+<p>Being able to choose between Backgrounds and having those populate the fields below works really well. This kind of touch makes using this really quick and really space-efficient, which is fantastic.</p>
+<p>Under “GM Stuff”, the “Damage” box is too small, and doesn’t line up quite right with the one beside it.</p>
+<p>The spreadsheet is nicely set up so that it’s not <em>tempting</em> to do anything game-breaking, but some more space for notes could be useful, perhaps (not just at the bottom, but in other spaces, too). I’d have to try it in actual play to see! Having the character sheets that <em>vertical</em> could be awkward (as opposed to having them as rows or as separate tabs), or it might be just great; I’m not sure.</p>
+<p>(I’m sure people will find ways to ruin the spreadsheet, but they should be able not to!)</p>
+<p>I have no idea what +advantage or -disadvantage does for monsters. They don’t roll, do they?</p>
+<p>Some of the font size (especially the reference material) is really small, but I suppose someone with poor eyesight might have some Zoom settings engaged on their browser or Google Sheets settings already.</p>
+<p>Excellent work! I would definitely use this. Lots of nice little touches, like how the Debilities, when selected, highlight the relevant stats.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556/2</link>
+        <pubDate>Tue, 09 Jul 2019 21:17:14 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2556-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556.rss">Homebrew World Character Keeper Ready for Use!</source>
+      </item>
+      <item>
+        <title>Homebrew World Character Keeper Ready for Use!</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <p>After some help getting started from <a class="mention" href="/u/michael_g_barford">@Michael_G_Barford</a>, I’ve finished a (fancy schmancy) character keeper for <a href="https://spoutinglore.blogspot.com/2018/07/homebrew-world.html" rel="nofollow noopener">Homebrew World</a>, my drift of Dungeon World (a sort of DW2.0 streamlined for one-shots and mini-series style play).</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://spoutinglore.blogspot.com/favicon.ico" class="site-icon" width="32" height="32">
+      <a href="https://spoutinglore.blogspot.com/2019/07/online-version-of-homebrew-world.html" target="_blank" rel="nofollow noopener">spoutinglore.blogspot.com</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/361;"><img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/2/2f1c373873e21fe27a4ead7e2ce3f6cb24114717.png" class="thumbnail"></div>
+
+<h3><a href="https://spoutinglore.blogspot.com/2019/07/online-version-of-homebrew-world.html" target="_blank" rel="nofollow noopener">Online Version of Homebrew World</a></h3>
+
+<p>I just finished creating an online character keeper for Homebrew World . Check it out!     Current online version    You'll need to save you...</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>It’s actually all of HBW converted into Google Sheets format, including the GM stuff, basic moves, etc.</p>
+<p>I’d be all sorts of interested in feedback, either from folks just poking around at the sheets or using them for actual online play.</p>
+<p>Specific questions:</p>
+<ul>
+<li>Are the character sheets on the <strong>PCs</strong> tab actually useful in play?</li>
+<li>Do you find yourself wanting to (or just accidentally) needing to edit content? Copy/paste stuff?  Otherwise break the spreadsheet? <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:">  If so, what and why?</li>
+</ul>
+<p>Thanks!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556/1</link>
+        <pubDate>Tue, 09 Jul 2019 16:38:42 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2556-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/homebrew-world-character-keeper-ready-for-use/2556.rss">Homebrew World Character Keeper Ready for Use!</source>
+      </item>
+  </channel>
+</rss>

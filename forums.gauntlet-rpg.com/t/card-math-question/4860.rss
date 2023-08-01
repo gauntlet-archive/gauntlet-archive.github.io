@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Card Math Question</title>
+    <link>https://forums.gauntlet-rpg.com/t/card-math-question/4860</link>
+    <description>Hi there. I&#39;m drafting a hack of *For the Queen* tentatively titled *It Always Ends in Fire,* about a doomed conspiracy to usher the world to its end. I&#39;m using ordinary playing cards and oracles instead of custom cards, to make it easier to get out into the world.
+
+Hearts, diamonds, and clubs prompt players to consult the oracles. Spades are placed in the middle of the table as &quot;Premonitions,&quot; and when enough Premonitions have been drawn, the players answer the question &quot;Do you do your part to usher the world to its end?&quot; Like *FtQ,* I&#39;d like to have a suggested number of Premonitions for a short game and a long game, but I am totally ignorant of playing-card math.
+
+Is there an engine that can calculate the likelihood of drawing a certain number of cards in a suit within a total number of draws? Or (even easier) games with similar mechanics I could look at to get a sense of how others have handled this? Thanks in advance!</description>
+    
+    <lastBuildDate>Thu, 26 Mar 2020 19:03:05 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/card-math-question/4860.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Card Math Question</title>
+        <dc:creator><![CDATA[@noah_t]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/noah_t">@noah_t</a> wrote:</p>
+          <blockquote>
+              <p>I like that idea! I’m trying to keep the rules overhead to the same minimum as the original <em>FtQ</em>, but I might have to compromise to get it to work with playing cards.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/card-math-question/4860/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/card-math-question/4860/8</link>
+        <pubDate>Thu, 26 Mar 2020 19:03:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4860-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/card-math-question/4860.rss">Card Math Question</source>
+      </item>
+      <item>
+        <title>Card Math Question</title>
+        <dc:creator><![CDATA[@Radmad]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/radmad">@Radmad</a> wrote:</p>
+          <blockquote>
+              <p>you could add a rule that whenever you draw an omen you also draw another card or cards to help build the prompt, and put any additional spades drawn on the bottom of the deck. That way you ensure you always get a higher minimum cards drawn for the shortest possible game</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/card-math-question/4860/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/card-math-question/4860/7</link>
+        <pubDate>Thu, 26 Mar 2020 17:12:32 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4860-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/card-math-question/4860.rss">Card Math Question</source>
+      </item>
+      <item>
+        <title>Card Math Question</title>
+        <dc:creator><![CDATA[@noah_t]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/noah_t">@noah_t</a> wrote:</p>
+          <blockquote>
+              <p>Thank you for that point! One flaw I figured out yesterday is that, with the above rules, the shorter the game gets, the more invention it demands from the players, and the less fictional support it gives them through prompts. I’m going to build a Spades/Omen oracle for the first draft before I test it out. I think, with prompts, a short Spades-dense game could actually be an interesting experience. But I need to get something playable first.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/card-math-question/4860/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/card-math-question/4860/6</link>
+        <pubDate>Thu, 26 Mar 2020 16:47:21 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4860-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/card-math-question/4860.rss">Card Math Question</source>
+      </item>
+      <item>
+        <title>Card Math Question</title>
+        <dc:creator><![CDATA[@Rickard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rickard">@Rickard</a> wrote:</p>
+          <blockquote>
+              <p>Even if you have three or five cards that needs to be spades for the game to end, there will always be a session when you draw enough spades in a row for this to happen.</p>
+<p>Some boardgames solves this by splitting the deck in half, and add end cards in the last stack of cards before shuffling each stack separately.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/card-math-question/4860/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/card-math-question/4860/5</link>
+        <pubDate>Thu, 26 Mar 2020 12:13:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4860-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/card-math-question/4860.rss">Card Math Question</source>
+      </item>
+      <item>
+        <title>Card Math Question</title>
+        <dc:creator><![CDATA[@noah_t]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/noah_t">@noah_t</a> wrote:</p>
+          <blockquote>
+              <p>Thanks so much! Took me a sec to find the commands I needed. Looks like plugging in “Chance of X spades in X number of draws” a couple of times should give me a rough idea.</p>
+<p><a class="mention" href="/u/dereel">@DeReel</a>, The Leviathan Manifesto looks very cool. Thanks for directing me to it!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/card-math-question/4860/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/card-math-question/4860/4</link>
+        <pubDate>Wed, 25 Mar 2020 20:28:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4860-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/card-math-question/4860.rss">Card Math Question</source>
+      </item>
+      <item>
+        <title>Card Math Question</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p><a href="http://groundhoggth.blogspot.com/2017/05/the-leviathan-manifesto.html" rel="nofollow noopener">The Leviathan Manifesto</a> by Groundhoggoth alias James_Mullen stops at 3 kings : every time a king is drawn, a bell tolls and the king is put on the side. When the third king strikes, the mission ends.<br>
+Whether it’s the number that fits your game is another question.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/card-math-question/4860/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/card-math-question/4860/3</link>
+        <pubDate>Wed, 25 Mar 2020 19:32:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4860-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/card-math-question/4860.rss">Card Math Question</source>
+      </item>
+      <item>
+        <title>Card Math Question</title>
+        <dc:creator><![CDATA[@Radmad]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/radmad">@Radmad</a> wrote:</p>
+          <blockquote>
+              <p>I always rely on Excel for this because it’s easy to custom rig formulas to calculate the chance of drawings certain suits/ranks/etc.</p>
+<p>Wolfram Alpha might be a good go to if you don’t want to mess with formulas</p>
+<p>example <a href="https://www.wolframalpha.com/input/?i=chance+to+draw+seven+clubs">https://www.wolframalpha.com/input/?i=chance+to+draw+seven+clubs</a></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/card-math-question/4860/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/card-math-question/4860/2</link>
+        <pubDate>Wed, 25 Mar 2020 19:22:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4860-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/card-math-question/4860.rss">Card Math Question</source>
+      </item>
+      <item>
+        <title>Card Math Question</title>
+        <dc:creator><![CDATA[@noah_t]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/noah_t">@noah_t</a> wrote:</p>
+          <blockquote>
+              <p>Hi there. I’m drafting a hack of <em>For the Queen</em> tentatively titled <em>It Always Ends in Fire,</em> about a doomed conspiracy to usher the world to its end. I’m using ordinary playing cards and oracles instead of custom cards, to make it easier to get out into the world.</p>
+<p>Hearts, diamonds, and clubs prompt players to consult the oracles. Spades are placed in the middle of the table as “Premonitions,” and when enough Premonitions have been drawn, the players answer the question “Do you do your part to usher the world to its end?” Like <em>FtQ,</em> I’d like to have a suggested number of Premonitions for a short game and a long game, but I am totally ignorant of playing-card math.</p>
+<p>Is there an engine that can calculate the likelihood of drawing a certain number of cards in a suit within a total number of draws? Or (even easier) games with similar mechanics I could look at to get a sense of how others have handled this? Thanks in advance!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/card-math-question/4860/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/card-math-question/4860/1</link>
+        <pubDate>Wed, 25 Mar 2020 18:58:44 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4860-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/card-math-question/4860.rss">Card Math Question</source>
+      </item>
+  </channel>
+</rss>

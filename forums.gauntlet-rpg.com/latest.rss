@@ -1,0 +1,1110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>The Gauntlet Forums - Latest topics</title>
+    <link>https://forums.gauntlet-rpg.com/latest</link>
+    <description>Latest topics</description>
+    
+      <lastBuildDate>Wed, 19 Jul 2023 00:16:47 +0000</lastBuildDate>
+      <atom:link href="https://forums.gauntlet-rpg.com/latest.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>Absolute newbie seeking feedback and advice. Simple d12 based game to be adapted to different settings</title>
+          <dc:creator><![CDATA[@201d]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/201d">@201d</a> wrote:</p>
+            <blockquote>
+              <p>Hi all! I have written a playable prototype for a TTRPG but I’m struggling with having anyone take a look at it. My friends and family aren’t into TTRPGs and any acquaintances who happen to be just don’t have time for an unfinished game.</p>
+<p>The prototype is available to download free on Itch but I’ve made several changes to the text in the last few weeks.</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      
+      <a href="https://teh-201d.itch.io/blaze-of-glory" target="_blank" rel="nofollow noopener">itch.io</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:630/500;"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/4/4bf3cf176c26e03de5d6c6099123cb4fece53dfb.png" class="thumbnail" width="630" height="500"></div>
+
+<h3><a href="https://teh-201d.itch.io/blaze-of-glory" target="_blank" rel="nofollow noopener">Blaze Of Glory by teh_201d</a></h3>
+
+<p>A Simple Cyberpunk TTRPG - powered by CoReS</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>The live manuscript can be seen on <a href="https://docs.google.com/document/d/1MWuKeiL3bs2BgIZ-_rNhhZFRaexBV0DmMEMokNezXhQ/edit?usp=sharing" rel="nofollow noopener">Google Docs</a> if you want to see the latest version. 14,441 words last time I checked.</p>
+<p>Some more about me and my game.</p>
+<ul>
+<li>I’m a dude (he/him) in my 40s who started playing TTRPGs in my 30s.</li>
+<li>I started working on the game out of my frustrations with other game systems.</li>
+<li>It started as a mod for a popular game (bonus points if you can guess which), but I eventually swapped out everything with custom mechanics.</li>
+<li>I’m extremely shy.</li>
+<li>I’m just trying to do what I see in other books, but I don’t know anything about layouts or anything. Seriously, any advice or feedback is welcome!</li>
+<li>The game started out as generic setting-less, then I decided to make it fantasy but hit a creativity wall, then decided to make it Cyberpunk and work on the fantasy version once the mechanics were tested.</li>
+<li>I Still don’t know how much of a setting I want the game to have baked in, and how much should be up to the player. I’ve heard this referred to as the goldilocks zone.</li>
+<li>I feel if my game were more polished and presentable, I could easily find playtesters and collaborators in local communities, in the meantime I’m reaching out to game design enthusiasts on the interwebs.</li>
+<li>The typical response I get when I ask anyone for help is “I’d be glad to, just don’t expect me to read anything.”</li>
+<li>One of the core design philosophies is to have dice mechanics that are easy to read, with math that can be done by counting fingers, and odds that are somewhat reliable.</li>
+<li>I’m not even sure I’m doing this right. Please let me know if I should edit or delete the post.</li>
+<li>I know the forums are going away in a couple days but Discord really stresses me out.</li>
+</ul>
+<p>Just by reading this post you have done more for my game than any of my friends, and I appreciate it.</p>
+            </blockquote>
+            <p>Posts: 10</p>
+            <p>Participants: 4</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/absolute-newbie-seeking-feedback-and-advice-simple-d12-based-game-to-be-adapted-to-different-settings/8732">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/absolute-newbie-seeking-feedback-and-advice-simple-d12-based-game-to-be-adapted-to-different-settings/8732</link>
+          <pubDate>Wed, 19 Jul 2023 00:16:47 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8732</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/absolute-newbie-seeking-feedback-and-advice-simple-d12-based-game-to-be-adapted-to-different-settings/8732.rss">Absolute newbie seeking feedback and advice. Simple d12 based game to be adapted to different settings</source>
+        </item>
+        <item>
+          <title>Harbingers - Wip of my soulslike entry to the Classic Explorer Workshop Jam</title>
+          <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+            <blockquote>
+              <p>For those not aware of the jam, here is the link: <a href="https://itch.io/jam/classic-explorer-workshop" rel="nofollow noopener">https://itch.io/jam/classic-explorer-workshop</a></p>
+<p>I’m calling it Harbingers for now. What you’ll read below is the overarching plan of the game. Some of the mechanics and systems are already drafted and I’ll post them later.</p>
+<p>I would appreciate y’all poking questions at the whole thing, offering advice and suggestions, and in general talking about what you would like in a game like this.</p>
+<hr>
+<h2>premise</h2>
+<p>Grand Heroes save the world and now no one can die.</p>
+<p>People are Undying but their souls Rot over time, until they are Unliving, mindless and obsessed.</p>
+<p>A Gardener has preserved Seeds from the Tree of Life.</p>
+<p>You are Harbingers, tasked by the Gardener to carry the remaining seeds to the place where the Tree of Life rotted, purge its dead Roots, and Sow the Seeds of Life, allowing all Unliving and Undying to finally pass on.</p>
+<p>The world will perish and from its ashes new life may grow.</p>
+<h2>create character</h2>
+<h3>Choose a Title</h3>
+<p>Your title represents your “class”. You pick all benefits associated.</p>
+<p>Examples/tone</p>
+<ul>
+<li>deceiver</li>
+<li>heretic</li>
+<li>thief</li>
+<li>charlatan</li>
+<li>fool</li>
+<li>betrayer</li>
+<li>murderer</li>
+</ul>
+<p>Each allows the following categories of benefits (tbd)</p>
+<ul>
+<li>delving</li>
+<li>journeying</li>
+<li>surviving</li>
+<li>solo skill</li>
+<li>team skill</li>
+<li>bargaining</li>
+</ul>
+<h3>Starting Qualities</h3>
+<p>All start at 10.</p>
+<p>Testing a Quality: roll 1d6. Spend as many d6 from your personal pool as you want.</p>
+<p><span class="hashtag">#todo</span></p>
+<ul>
+<li>[ ] pool: hope, it’s finite but can be replenished</li>
+<li>[ ] pool: start at 1d6 per rank</li>
+</ul>
+<h3>Rank</h3>
+<p>Starting Rank is 1.</p>
+<p>Every pick from the options below has a rank requirement. You can pick and keep as many things as you want as long as their total requirement is equal or below your Rank.</p>
+<p><span class="hashtag">#todo</span></p>
+<ul>
+<li>[ ] how do you increase rank?</li>
+<li>[ ] encounters equal a sum of everyone’s ranks? Average? Highest?</li>
+<li>[ ] is rank individual or for the whole group?</li>
+</ul>
+<h3>Choose a Memento</h3>
+<p>A memento represents another aspect of your past and let’s you choose a single benefit from a second class.</p>
+<p>The first one is free.</p>
+<h3>Equipment &amp; Magic</h3>
+<p>List of items you can pick with a Rank requirement.</p>
+<h2>create haven</h2>
+<p>A settlement with a Bonfire and a few key individuals.</p>
+<p>Procedure for its creation. Draw a map or write a description.</p>
+<p>Some NPCs come here after you find them.</p>
+<h2>Journey</h2>
+<p>When you set out, start drawing a map. Roll on the hew map for next location.</p>
+<p>Describe it according to procedure.</p>
+<p>When you roll doubles, there is a complication there.</p>
+<p>Resolve the encounter, draw the map and move on.</p>
+<h2>Delving</h2>
+<p>When you enter locations 14 and 16, you enter a Delve.</p>
+<p>Choose a Theme and a Domain. Describe what the first impression of the Delve is and name it.</p>
+<p>Roll 2d6 on the Ladder table to define the next site. Use dice of different colours, one lighter and one darker. Keep the lowest result.</p>
+<p>The lighter die moves you towards the top of the table, the darker die moves you towards the bottom.</p>
+<p>If you roll past the top, return to the Bonfire. Decide if it’s the same from before or a new one. If you roll past the bottom, return to the Guardian of the Delve.</p>
+<p>Doubles spell trouble. Remain where you are and resolve it.</p>
+<p>Once you deal with the Guardian of the Delve, keep going until you roll past the top or the bottom.</p>
+<p>Botrom: Connect the exit of the Delve to the next hex on the Journey.</p>
+<p>Top: move straight to Hex 19 and start a Heroic Delve.</p>
+<h2>surviving</h2>
+<p>Blackjack style dice minigame.</p>
+<p>Roll higher than the opponent t without rolling over 12.</p>
+<p>Hitting, standing, and other default blackjack moves reskinned to fit the theme, plus a few moves added.</p>
+<h2>dying</h2>
+<p>When a solo character dies or the whole group dies, return to a previous bonfire.</p>
+<ul>
+<li>[ ] what happens when characters backtrack?</li>
+<li>[ ] what do they lose when they die?</li>
+<li>[ ] what and how will they regain it?</li>
+</ul>
+<h2>Heroic Delve</h2>
+<p>In most aspects, identical to the regular delve, with these differences:</p>
+<ul>
+<li>Hero: a unique boss</li>
+<li>increase the Harbingers rank at the end</li>
+<li>earn Heroic Curse at the end</li>
+</ul>
+<p><span class="hashtag">#todo</span></p>
+<ul>
+<li>[ ] determine further differences and similarities</li>
+</ul>
+<h2>King of Heroes</h2>
+<p>The final Hero.</p>
+<p>Procedures to create the King of Heroes.</p>
+<p>Defeat the King of Heroes and delve into the Rotten Tree.</p>
+<p><span class="hashtag">#todo</span></p>
+<ul>
+<li>[ ] detail the conclusion</li>
+</ul>
+<hr>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/harbingers-wip-of-my-soulslike-entry-to-the-classic-explorer-workshop-jam/8730">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/harbingers-wip-of-my-soulslike-entry-to-the-classic-explorer-workshop-jam/8730</link>
+          <pubDate>Mon, 17 Jul 2023 01:19:30 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8730</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/harbingers-wip-of-my-soulslike-entry-to-the-classic-explorer-workshop-jam/8730.rss">Harbingers - Wip of my soulslike entry to the Classic Explorer Workshop Jam</source>
+        </item>
+        <item>
+          <title>New D&amp;D 5e campaign</title>
+          <dc:creator><![CDATA[@ksurls]]></dc:creator>
+          <category>Gauntlet Publishing</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/ksurls">@ksurls</a> wrote:</p>
+            <blockquote>
+              <p>I have written a D&amp;D 5e campaign. check it out here <a href="https://www.drivethrurpg.com/product/443824/Cult-of-the-Void" rel="nofollow noopener">https://www.drivethrurpg.com/product/443824/Cult-of-the-Void</a> Thanks for all purcases and comments. Proceeds go to supplement retirement</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/new-d-d-5e-campaign/8729">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/new-d-d-5e-campaign/8729</link>
+          <pubDate>Sat, 15 Jul 2023 12:33:31 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8729</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/new-d-d-5e-campaign/8729.rss">New D&amp;D 5e campaign</source>
+        </item>
+        <item>
+          <title>Where are people going for indie RPG / story-game discussion now?</title>
+          <dc:creator><![CDATA[@Ben_M]]></dc:creator>
+          <category>RPG Chat</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/ben_m">@Ben_M</a> wrote:</p>
+            <blockquote>
+              <p>What with this forum slowing down and due to close soon?</p>
+<p>I miss <a href="http://story-games.com" rel="nofollow noopener">story-games.com</a>… <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/frowning.png?v=9" title=":frowning:" class="emoji" alt=":frowning:"></p>
+            </blockquote>
+            <p>Posts: 20</p>
+            <p>Participants: 11</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/where-are-people-going-for-indie-rpg-story-game-discussion-now/8724">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/where-are-people-going-for-indie-rpg-story-game-discussion-now/8724</link>
+          <pubDate>Wed, 05 Jul 2023 22:51:50 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8724</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/where-are-people-going-for-indie-rpg-story-game-discussion-now/8724.rss">Where are people going for indie RPG / story-game discussion now?</source>
+        </item>
+        <item>
+          <title>The Gauntlet Forums Are Closing</title>
+          <dc:creator><![CDATA[@jasoncordova]]></dc:creator>
+          <category>Announcements</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/jasoncordova">@jasoncordova</a> wrote:</p>
+            <blockquote>
+              <p>The Gauntlet Forums will be closing in August. If there are any conversations you wish to preserve here, we recommend you do so at your earliest convenience. The community side of The Gauntlet has spun off to be the Open Hearth Gaming group—please see <a class="mention" href="/u/edige23">@edige23</a>’s post below this one for more information. The publishing side of The Gauntlet can be found on our Discord server: <a href="https://discord.gg/jxDbMXV" rel="nofollow noopener">https://discord.gg/jxDbMXV</a></p>
+            </blockquote>
+            <p>Posts: 13</p>
+            <p>Participants: 9</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/the-gauntlet-forums-are-closing/8723">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/the-gauntlet-forums-are-closing/8723</link>
+          <pubDate>Tue, 04 Jul 2023 14:43:15 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8723</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/the-gauntlet-forums-are-closing/8723.rss">The Gauntlet Forums Are Closing</source>
+        </item>
+        <item>
+          <title>Dungeon World spotlight.... er... etiquette (?)</title>
+          <dc:creator><![CDATA[@Ben_M]]></dc:creator>
+          <category>RPG Chat</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/ben_m">@Ben_M</a> wrote:</p>
+            <blockquote>
+              <p>I’ve been GMing PbtA games (mainly Dungeon World) for years now and I still thoroughly enjoy them. I run a campaign weekly (over Discord) with two old friends and we’re having a great time. (For context, I’ve listened to all the Gauntlet Discern Realites podcasts and regularly read these forums and others around the subject of PbtA, so I feel I understand these games pretty well.)</p>
+<p>One thing has started to tickle at the back of my brain recently, though.</p>
+<p>When you’re running a PbtA game, spotlight management is obviously really key and the GM/MC is responsible for moving the spotlight around. A thing I have begin to notice recently is that because this task always falls to me, my players are usually <em>waiting</em> for me to turn the spotlight on them (usually with a question, like “you see the paladin go down under a pile of skeletons, what do you do?”). My players are good, they trust me and they get plenty of time in the spotlight because there are just two of them.</p>
+<p>So things are happening, we’re following the fiction, moves are snowballing nicely and my players are engaged, listening and waiting. But here’s the point I’m trying to get at: <em>I</em> decide when all the spotlight changes occur. My players have learnt, through play, that this is how the game works. However, in other more “traditional” games that I still play from time to time, players will be interrupting the GM, interjecting, trying to get an action in before something else happens. They do this, I think, because they have similarly learnt that games that have rules regarding who can act in what order (e.g. intiative, speed checks) don’t just move the spotlight based on GM whim. They’re hussling for “the spotlight” and the game sometimes rewards them for that.</p>
+<p>In Dungeon World my players <em>don’t</em> hussle for the spotlight. They accept that I will turn it on them when I think it is the right moment. I’ve started to wonder if that’s something I have done wrong (e.g. unwittingly set or reinforced this by own style of GMing) or whether this is just a fact of PbtA games. If it is, I don’t think that I’ve seen this explicitly called out in any PbtA rulebook (e.g. in player advice sections I haven’t seen statements like “be ready to act when the spotlight is turned on you”).</p>
+<p>I find myself someone wanting my players to try to jump in, interrupt me, but - rightly or wrongly - they’ve sort of learnt to wait. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> Mostly it’s fine but occasionally, in action scenes, I have to explictly “switch on” a player to encourage them to make a reactive move.</p>
+<p>Sorry for the rather rambly post. I would appreciate other peoples’ thoughts and opinions on this!</p>
+            </blockquote>
+            <p>Posts: 6</p>
+            <p>Participants: 4</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-world-spotlight-er-etiquette/8719">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/dungeon-world-spotlight-er-etiquette/8719</link>
+          <pubDate>Fri, 23 Jun 2023 09:01:31 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8719</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/dungeon-world-spotlight-er-etiquette/8719.rss">Dungeon World spotlight.... er... etiquette (?)</source>
+        </item>
+        <item>
+          <title>Girl By Moonlight: Brink of the Abyss (Wednesdays at 8:30 PM PDT)</title>
+          <dc:creator><![CDATA[@OnlyAnAlligator]]></dc:creator>
+          <category>Gauntlet Calendar</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/onlyanalligator">@OnlyAnAlligator</a> wrote:</p>
+            <blockquote>
+              <p>Link: <a href="https://app.playabl.io/games/176" rel="nofollow noopener">https://app.playabl.io/games/176</a></p>
+<p>For the latter half of June through to July, I’ll be running a series of Girls by Moonlight using the At the Brink of the Abyss playset. Girls by Moonlight is a magical girl roleplaying Forged in the Dark about characters fighting against doom with the aid of magical powers and some fancy transformation animations.</p>
+<p>The At the Brink of the Abyss is specifically focused on characters fighting for a world worth saving from an encroaching evil that threatens to destroy it. The protagonists might be flawed, but they’re ultimately heroic, and even the darkest villains have the possibility of being redeemed. Good touchstones for the tone include Sailor Moon as well as She-Ra and the Princesses of Power.</p>
+<p>The game will take place over zoom, and will be recorded, although I will only post the recordings with everyone’s enthusiastic consent. As always, we will be making use of The Open Hearth’s Open Door Policy, the x-card, script change, and line and veils. One seat has been reserved for Mona.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/girl-by-moonlight-brink-of-the-abyss-wednesdays-at-8-30-pm-pdt/8713">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/girl-by-moonlight-brink-of-the-abyss-wednesdays-at-8-30-pm-pdt/8713</link>
+          <pubDate>Thu, 15 Jun 2023 17:19:47 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8713</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/girl-by-moonlight-brink-of-the-abyss-wednesdays-at-8-30-pm-pdt/8713.rss">Girl By Moonlight: Brink of the Abyss (Wednesdays at 8:30 PM PDT)</source>
+        </item>
+        <item>
+          <title>Questions about Running Trophy for the First Time</title>
+          <dc:creator><![CDATA[@jacobdensford]]></dc:creator>
+          <category>Gauntlet Publishing</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/jacobdensford">@jacobdensford</a> wrote:</p>
+            <blockquote>
+              <p>I’m finally running Trophy for the first time since getting all the physical Kickstarter stuff (I ran Trophy Dark out of Codex once back in the day), and I have some questions to ask more experienced folks.</p>
+<p>Should I start with Trophy Dark or go straight to Gold? The plan is for this to be a one-shot with the potential to play more if everyone enjoys it.</p>
+<p>Is there a particular incursion that is widely regarded to be the best for introducing the game? Or, if not, one that is a general favorite?</p>
+<p>I’m excited! Thanks, y’all.</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/questions-about-running-trophy-for-the-first-time/8708">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/questions-about-running-trophy-for-the-first-time/8708</link>
+          <pubDate>Wed, 14 Jun 2023 13:43:27 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8708</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/questions-about-running-trophy-for-the-first-time/8708.rss">Questions about Running Trophy for the First Time</source>
+        </item>
+        <item>
+          <title>2nd CoinSides Adventure Sparks Game Jam</title>
+          <dc:creator><![CDATA[@ex1st]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/ex1st">@ex1st</a> wrote:</p>
+            <blockquote>
+              <p>Hi, folks! It’s been a while.</p>
+<p>Every year, as part of our new CoinSides model launch, I run a casual game jam on itch. The game jam is to write a 1500-word CoinSides Adventure Sparks. There are prizes and the best entries will be invited to become part of the Sparks Library.</p>
+<p>What is a CoinSides?<br>
+What is an Adventure Spark?<br>
+Can I see the Sparks Library?</p>
+<p>READ ON or <a href="https://itch.io/jam/coinsides-adventure-sparks-jam-2" rel="nofollow noopener">JUMP OVER TO THE JAM</a></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/5/5407d8a2ae9e019e0d87da9307a0894b5fc6637a.jpeg" data-download-href="/uploads/short-url/bZmUULqsiQgaySG1FpEWBPmmqqS.jpeg?dl=1" title="CoinSides Adventure Sparks Title 2023 Movie Poster 2" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/5407d8a2ae9e019e0d87da9307a0894b5fc6637a_2_353x500.jpeg" alt="CoinSides Adventure Sparks Title 2023 Movie Poster 2" data-base62-sha1="bZmUULqsiQgaySG1FpEWBPmmqqS" width="353" height="500" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/5407d8a2ae9e019e0d87da9307a0894b5fc6637a_2_353x500.jpeg, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/5407d8a2ae9e019e0d87da9307a0894b5fc6637a_2_529x750.jpeg 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/5407d8a2ae9e019e0d87da9307a0894b5fc6637a_2_706x1000.jpeg 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/5407d8a2ae9e019e0d87da9307a0894b5fc6637a_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">CoinSides Adventure Sparks Title 2023 Movie Poster 2</span><span class="informations">2462×3482 1.91 MB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>Hi folks and welcome to the second game jam by EX FIRST GAMES. We are here to celebrate the creative community and inclusive space that is TTRPG. Yes! I’m your host, Charlie, and I’m here to inspire you to write something special, something truly yours, and share it with the world. There will be winners, and there will be those who don’t participate. So let’s get started.</p>
+<h2>SPARKS and WHAT THEY ARE</h2>
+<p>CoinSides Adventure Sparks (Sparks for short) are modular, system-agnostic supplements that can easily be incorporated into an existing tabletop roleplaying campaign to add color and depth to the world and story. They can be side quests, events, locations, lore, or anything. However, they must have <strong>a coin as the central theme</strong> and follow the same structure devised by Bart Wynants:</p>
+<p>· BACKGROUND - Information needed to understand the Spark.<br>
+· SETUP - 3 different, original ways to get the Spark started.<br>
+· SCENES - 2 to 4 suggested scenes the GM can easily weave into their campaign.<br>
+· AFTERMATH - A section explaining how things turn out at the Spark’s conclusion.<br>
+· All in 1,500 words, plus or minus 20%, written by you, and suitable for most ages.</p>
+<h2>WINNERS, JUDGES, CRITERIA, and PRIZES</h2>
+<p>All participants are winners. And that is that! Congratulations to you for putting the effort into making something great, completing it, and sharing it. This game jam will have two special winners. One of them will be chosen by YOU, the public, and the other by ME, using the following criteria, all in equal measure:</p>
+<p>· THE COIN - How well does it incorporate a coin thematically and mechanically?<br>
+· THE STORY - How plausible, imaginative, and different is the story?<br>
+· THE WRITER -  How well-written and structured is the content?</p>
+<p>Both winners will receive a CoinSides of their choice. What is a CoinSides? I’m so glad you asked. Please see the last section for more inspiration. For now, here are the CoinSides.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://img.itch.zone/aW1nLzEyMzk1ODA0LmpwZw==/original/NvhUEo.jpg" title="" rel="nofollow noopener"><img src="https://img.itch.zone/aW1nLzEyMzk1ODA0LmpwZw==/original/NvhUEo.jpg" alt width="690" height="230"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename"></span><span class="informations">6000×2000</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<h2>LAST but MOST IMPORTANTLY</h2>
+<p>All participants retain all rights to their entries and can share them for free or for pay. There is no limit to the number of entries you can enter. Entries must be submitted via itch and one copy should be made available for judging.</p>
+<p>After the winners are announced, some of the entries will be considered for inclusion in the CoinSides Adventure Sparks Library. This is a paid opportunity of roughly $100 per Spark, and 100% optional. All of last year’s participants took up the offer.</p>
+<p>It is no small coincidence that this game jam coincides with our 3rd CoinSides Kickstarter. This a great way to promote both the crowdfunding campaign and the jam - at the same time. What is more exciting is that there are already 2000 CoinSides owners out there and many of them would love to get some Sparks. I really hope this becomes an exciting and active jam with a large audience for your work.</p>
+<p>Yep. Everyone is a winner! Get writing.</p>
+<p>· START DATE - 2023.07.07<br>
+· END DATE - 2023.08.08<br>
+· VOTING END DATE - 2023.09.09</p>
+<h2>LINKS and CREDITS</h2>
+<p><a href="https://twitter.com/ex1stgames" rel="nofollow noopener">EX FIRST GAMES</a> is run by Charles Ward <a href="https://twitter.com/ex1stgames" rel="nofollow noopener">@ex1stgames</a></p>
+<p>The previous <a href="https://itch.io/jam/coinsides-adventure-sparks" rel="nofollow noopener">CoinSides Adventure Sparks Jam</a> has a few sample entries.<br>
+But you can find all the Sparks on my itch here <a href="https://ex1st.itch.io/" rel="nofollow noopener">https://ex1st.itch.io/</a>.</p>
+<p>Read more about the <a href="https://www.ex1st.com/games/sparks/" rel="nofollow noopener">CoinSides Adventure Sparks</a> project on my website.<br>
+The Sparks concept was devised by Bart Wynants <a href="https://twitter.com/critographer" rel="nofollow noopener">@critographer</a>.<br>
+Nikola R. Petrov <a href="https://www.nikolarpetrov.com/" rel="nofollow noopener">https://www.nikolarpetrov.com/</a> provided legal help.</p>
+<p>CoinSides was on Kickstarter in <a href="https://www.kickstarter.com/projects/ex1stgames/coinsides-one-coin-many-sides" rel="nofollow noopener">2021</a>, <a href="https://www.kickstarter.com/projects/ex1stgames/cthulhu-coinsides-one-spinning-metal-coin-featuring-9-dice" rel="nofollow noopener">2022</a>, and now in <a href="https://www.kickstarter.com/projects/ex1stgames/cyber-coinsides-10-dice-and-more-on-one-spinning-coin?ref=3rh5g9" rel="nofollow noopener">2023</a>.</p>
+<p>The cover image for this Jam is by Adam Jicha.</p>
+<h2>COINSIDES</h2>
+<p>CoinSides are 2" metal coins that can spin as a top and can be used to roll a random number. Yes, they are dice. But not just any dice. They are all the dice. Each CoinSides is able to forge all the TTRPG dice you love, from a D2 to a D100, into a single luxurious wearable gaming accessory. There are many more features that you can tap into for your entry. Trust me, these are really amazing prizes. Two overfunded Kickstarter campaigns later and only a small percentage of people know what everyone else is missing out on. There are three models to inspire you, each with its own strengths and weaknesses. Please consider these features when writing your entry. See the JAM for more details about each CoinSides</p>
+<h2>THANK YOU</h2>
+<p>I’m always impressed by how well-designed The Gauntlet is and how courteous it’s patrons are. I hope you join the jam. I can’t wait to see what you come up with.</p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/2nd-coinsides-adventure-sparks-game-jam/8700">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/2nd-coinsides-adventure-sparks-game-jam/8700</link>
+          <pubDate>Fri, 09 Jun 2023 00:14:34 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8700</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/2nd-coinsides-adventure-sparks-game-jam/8700.rss">2nd CoinSides Adventure Sparks Game Jam</source>
+        </item>
+        <item>
+          <title>My Life With Shub-Niggurath?</title>
+          <dc:creator><![CDATA[@Ben_M]]></dc:creator>
+          <category>RPG Chat</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/ben_m">@Ben_M</a> wrote:</p>
+            <blockquote>
+              <p>I’m planning to run a one-shot of My Life With Master and I’d like to give it a Cthulhu Mythos vibe. So  went with the idea that the master is Shub-Niggurath, but I’m struggling with two things right now:</p>
+<ol>
+<li>I REALLY want the Great Old One herself to feature during the game (maybe via visions that the minions have, but ideally in some physical form), BUT then I realised that the Master needs to come to a sticky end and I don’t think my players will buy Shub-Niggurath being destroyed.</li>
+<li>What does a Great Old One like that really want its little minions to <em>do</em>? Minions trying to perform these little (localised) tasks form a large part of the MLWM game.</li>
+</ol>
+<p>So I’m just looking for some advice and ideas really.</p>
+<p>Or, if you had committed yourself to running a one-shot called “My Life With Shub-Niggurath” how would you approach it? <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+            </blockquote>
+            <p>Posts: 6</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/my-life-with-shub-niggurath/8697">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/my-life-with-shub-niggurath/8697</link>
+          <pubDate>Wed, 07 Jun 2023 11:11:28 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8697</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/my-life-with-shub-niggurath/8697.rss">My Life With Shub-Niggurath?</source>
+        </item>
+        <item>
+          <title>Everything has 1 HP</title>
+          <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+            <blockquote>
+              <p>Just a funny little idea here.</p>
+<p>Everything has 1hp. That guy? 1hp. That rock? 1hp. That eldritch horror from the 5th dimension? 1hp.</p>
+<p>I was thinking about lethality. You can kill any individual with a rock. The hp abstractions is silly, although I recognize what it is useful for.</p>
+<p>So the point is that each thing has its own “vulnerabilities”.</p>
+<p>A rock is only vulnerable to a bigger rock. That guy is only vulnerable to what can get through his armour and his ability to dodge. That eldritch horror? Idk, 6th dimention stuff?</p>
+<p>Anyways, just some silly thoughts.</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/everything-has-1-hp/8688">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/everything-has-1-hp/8688</link>
+          <pubDate>Fri, 02 Jun 2023 14:57:17 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8688</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/everything-has-1-hp/8688.rss">Everything has 1 HP</source>
+        </item>
+        <item>
+          <title>Voidheart Symphony: Break the Chains! (Mondays 5:30-9 PM PST July-September)</title>
+          <dc:creator><![CDATA[@OnlyAnAlligator]]></dc:creator>
+          <category>Gauntlet Calendar</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/onlyanalligator">@OnlyAnAlligator</a> wrote:</p>
+            <blockquote>
+              <p>Posting: <a href="https://app.playabl.io/games/161" rel="nofollow noopener">https://app.playabl.io/games/161</a></p>
+<p>This is a posting for a quarterly run of Voidheart Symphony by Minerva McJanda, a game powered by the apocalypse about mundane people who have discovered that the injustice and inequality underlying the institutions of their city are being empowered by a parasitic dimension feeding off of our suffering. Together, we’re going to band together to venture into demon-filled labyrinths, take down the Castle’s avatars, and take back our city!</p>
+<p>The big touchstone for the game is obviously Persona 5, if the characters were more explicitly revolutionary in their goals, but another media source that speak to me for inspiration are NK Jemisin’s The Great Cities novels.</p>
+<p>We’ll be making use of script change, the x-card, lines and veils, as well as the Open Hearth’s Open Door policy.</p>
+<p>This game will take place over Zoom and will be recorded only if everyone involved gives their consent.</p>
+<p>A seat has been reserved for Jesse A.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/voidheart-symphony-break-the-chains-mondays-5-30-9-pm-pst-july-september/8679">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/voidheart-symphony-break-the-chains-mondays-5-30-9-pm-pst-july-september/8679</link>
+          <pubDate>Fri, 19 May 2023 21:07:20 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8679</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/voidheart-symphony-break-the-chains-mondays-5-30-9-pm-pst-july-september/8679.rss">Voidheart Symphony: Break the Chains! (Mondays 5:30-9 PM PST July-September)</source>
+        </item>
+        <item>
+          <title>Brindlewood as a play-by-post ARG?</title>
+          <dc:creator><![CDATA[@Harakeke]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/harakeke">@Harakeke</a> wrote:</p>
+            <blockquote>
+              <p>I’ve been kicking around the idea of using the Brindlewood framework to run a casual-friendly ARG leading up to a big get-together.</p>
+<p>It would start off with asynchronous play-by-post messages over the course of several months, with players corresponding with “on location” NPCs via Discord. The culmination would be an in-person LARP where players meet up in person over the course of an evening to confront the supernatural enemy behind it all.</p>
+<p>My target group would have a mix of gamers and nongamers, so I would want to shift as much of the mechanical elements as possible behind the “GM screen”. (I know this runs counter to the collaborative nature of Brindlewood, but I want everyone to be able to just jump into the story as themselves, without worrying about rules or character sheets.) I’d be selecting the individual clues and distributing them in a more Gumshoe inspired fashion (If you look in an appropriate place, you find a clue - no rolling necessary), but it would be up to players to piece together an explanation.</p>
+<p>I’m thinking that Public Access would probably work best for the tone and setting I have in mind, but dialed back a bit from straight-up horror more towards surreal “Meow Wolf” interdimensional weirdness.</p>
+<p>Has anyone attempted something like this? Does anyone have thoughts or advice?</p>
+<p>Thanks!</p>
+            </blockquote>
+            <p>Posts: 5</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/brindlewood-as-a-play-by-post-arg/8677">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/brindlewood-as-a-play-by-post-arg/8677</link>
+          <pubDate>Mon, 15 May 2023 21:06:57 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8677</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/brindlewood-as-a-play-by-post-arg/8677.rss">Brindlewood as a play-by-post ARG?</source>
+        </item>
+        <item>
+          <title>Announcing Open Hearth Gaming Community</title>
+          <dc:creator><![CDATA[@edige23]]></dc:creator>
+          <category>Announcements</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/edige23">@edige23</a> wrote:</p>
+            <blockquote>
+              <p>Open Hearth Gaming Community is working to provide a space for safe and exciting online TTRPG play. Emerging from the Gauntlet Gaming Community, this community has been organizing games since 2015. All sessions are run by volunteer game facilitators using a layered set of safety tools. Our calendar app allows for signup and waitlists for a variety of indie, trad, and story game RPGs. The community offers many other benefits including game facilitator workshops, podcasts, free online conventions, playtesting, a shared discussion space, seminars, and a Gameway program supporting marginalized gamers.</p>
+<p>We are proud of all the community has done to develop a strong and vibrant play culture over the last few years… With community feedback, we remixed our code of conduct and put together a team to handle issues and complaints. We formalized the use of a layered set of safety tools built into every game run on our calendar. In 2020 when the lockdown began, community members asked what we could do to help onboard existing TTRPG players to playing online—not to recruit people for the community, but to help people set up their own games anywhere. That led to us organizing a half-dozen free Open Gaming conventions.</p>
+<p>Work began on developing Open Hearth in 2022 when Gauntlet Publishing asked if we would spin off the community. A working group of community members came together to plan a new and independent version of the community. Over the next several months we worked with Jon Grim on Playabl, a new gaming calendar app. We’re excited to use and support further development of Playabl. It has several features lacking in our previous app, but more importantly, Jon hopes to make the app available to other TTRPG communities to organize events quickly and easily.</p>
+<p>We’re excited by this new organization and the opportunities it offers us and Gauntlet Publishing to focus on our core strengths and missions. Gauntlet Publishing has had a run of success in recent years with projects like <em>Trophy</em>, <em>Brindlewood Bay</em>, and the forthcoming <em>Arkham Herald</em>. For Open Hearth Gaming, it allows us to focus on what’s most important to us, play: playing games, talking about play, proposing ideas for new games, discussing how we run, promoting a safe and inclusive play culture, hacking and playtesting, and supporting folks in joining the hobby.</p>
+<p>Open Hearth will be supported by its own Patreon. Backers at the $4 level have a 48-hour window of priority access, but after that, sessions are open to anyone. We also offer sessions focused on new players to help them try out the community. Even if a game is full, players can always join a waitlist. Many games draw from those waitlists, and signing up for them is a great way to show that a game is in demand. Game facilitators run series using an open table policy, so players can sign up for anything from a single session to a whole campaign. Anyone who plays a session with us or supports our Patreon can join our Open Hearth Slack.</p>
+<p>We also have a Gameway program supporting gamers from marginalized communities or those suffering financial hardship. We offer priority access free of charge to those persons. They can self-identify, and we don’t ask for an explanation or details. You can see more about the program here: <a href="https://openhearthgaming.com/gameway">openhearthgaming.com/gameway</a></p>
+<p>For existing members, we will be using the <a href="https://app.playabl.io/communities/the_open_hearth">Open Hearth Playabl calendar</a>. Members already set up there don’t need to make any changes to their account. Event creators on the current Playabl calendar will keep that status.</p>
+<p>To support the Open Hearth Gaming Community, gamers can join the Patreon. Joining at the $4 level or higher gets members RSVP priority access. We will not be downgrading anyone’s current status on the calendar before June 30th. Anyone currently set as a Supporter will keep that status until then, even if they don’t support either Patreon.</p>
+<p>We will maintain the existing Gameway program and continue to support current participants. We will be checking in with existing members—or they can contact us at <a href="mailto:openhearthgamingcommunity@gmail.com">openhearthgamingcommunity@gmail.com</a>—to get set up. For anyone interested in joining this program, please feel free to contact us.</p>
+<ul>
+<li>You can find our Patreon at <a href="https://patreon.com/openhearthgaming">patreon.com/openhearthgaming</a>
+</li>
+<li>Check out our website at <a href="https://openhearthgaming.com/home">openhearthgaming.com</a>
+</li>
+<li>You can follow us on Twitter <span class="mention">@openhearthRPG</span>
+</li>
+<li>For questions you can contact us at <a href="mailto:openhearthgamingcommunity@gmail.com">openhearthgamingcommunity@gmail.com</a>
+</li>
+</ul>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/announcing-open-hearth-gaming-community/8670">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/announcing-open-hearth-gaming-community/8670</link>
+          <pubDate>Thu, 20 Apr 2023 15:01:37 +0000</pubDate>
+          <discourse:topicPinned>Yes</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8670</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/announcing-open-hearth-gaming-community/8670.rss">Announcing Open Hearth Gaming Community</source>
+        </item>
+        <item>
+          <title>Open Hearth Gaming Community</title>
+          <dc:creator><![CDATA[@Haladir]]></dc:creator>
+          <category>Gauntlet Community</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/haladir">@Haladir</a> wrote:</p>
+            <blockquote>
+              <p>For anyone who’s not on the Slack… Gauntlet Publishing and the former Gauntlet Gaming Community have officially parted ways. The new community is Open Hearth Gaming. My understanding is that the parting was amicable on both sides, but any parting is going to be painful.</p>
+<p><a href="https://openhearthgaming.com/" rel="nofollow noopener">https://openhearthgaming.com/</a></p>
+<p>Open Hearth Gaming is a direct successor. Please see that site for more details. If you’re on the former Gauntlet Slack, it has been renamed Open Hearth Gaming and your membership should carry over.</p>
+<p>[Posting as a community member: I’m not part of the leadership team on either Gauntlet Publishing or Open Hearth Gaming.]</p>
+            </blockquote>
+            <p>Posts: 5</p>
+            <p>Participants: 5</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/open-hearth-gaming-community/8669">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/open-hearth-gaming-community/8669</link>
+          <pubDate>Wed, 19 Apr 2023 14:56:56 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8669</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/open-hearth-gaming-community/8669.rss">Open Hearth Gaming Community</source>
+        </item>
+        <item>
+          <title>Tableau Kickstarter Ends Monday - Don&#39;t Miss Out On This Unique Storytelling Experience!</title>
+          <dc:creator><![CDATA[@ChristopherA]]></dc:creator>
+          <category>Hype</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/christophera">@ChristopherA</a> wrote:</p>
+            <blockquote>
+              <p>My Kickstarter for the first three playsets using the Tableau Games <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/flower_playing_cards.png?v=9" title=":flower_playing_cards:" class="emoji" alt=":flower_playing_cards:"> system is ending this Monday (the 17th), and you don’t want to miss out on this opportunity.</p>
+<p>Tableau Games is a versatile and innovative game system that uses composable rules on poker-sized playing cards to create a unique and immersive roleplaying experience. The Kickstarter offers three initial playsets - Twilight Road🛣️, Gate Watch🚪, and Improv🎪. Each playset is designed to cater to different storytelling styles and themes, ensuring there’s something for everyone.</p>
+<p>Twilight Road🛣️ takes players on transformative journeys and life-changing encounters, while Gate Watch🚪 is all about mystery, intrigue, and exploring the edges of different worlds. Improv🎪 is perfect for roleplaying, creative writing, and theatre improv enthusiasts who want to embrace the “Yes, and…” spirit in spontaneous storytelling.</p>
+<p>The Tableau Games system is flexible, allowing you to choose GM or GM-less play, different narrative styles, player roles, and mix &amp; match story elements to create the perfect story for your group. Character creation is also versatile, with endless combinations using Face, Mastery, Approach, and Path cards.</p>
+<p>Additionally, there’s an “Advanced Playtester” tier available for backers who want to help shape the future of Tableau Games. By joining this tier, you’ll be the first to test upcoming playsets like “Lovecraft Country: ‘A Study in Madness’”, “Generations”, and “Steampunk Oz” coming out later this year.</p>
+<p>I’ve written up more on about these Tableau Games playset and their design on Twitter at <span class="mention">@DvyersHands</span>. Best place to  start is in this thread of threads starting at: <a href="https://twitter.com/DyversHands/status/1647320466175184896" rel="nofollow noopener">https://twitter.com/DyversHands/status/1647320466175184896</a>. You can also subscribe for updates at <a href="https://www.DyversHands.com/" rel="nofollow noopener">https://www.DyversHands.com/</a></p>
+<p>To support this innovative project and get all three playsets of cards, pledge your support before the Kickstarter ends on Monday: <a href="https://www.kickstarter.com/projects/christophera/tableau-twilight-road-and-gate-watch-playsets-quickstarter?ref=9sksfw" rel="nofollow noopener">https://www.kickstarter.com/projects/christophera/tableau-twilight-road-and-gate-watch-playsets-quickstarter?ref=9sksfw</a></p>
+<p>Don’t miss out on this chance to embark on a journey of endless storytelling possibilities with Tableau Games. Let’s weave unforgettable stories together, because “The best stories are the ones we tell together!” <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/performing_arts.png?v=9" title=":performing_arts:" class="emoji" alt=":performing_arts:"></p>
+<p>– Christopher Allen - Dyvers Hands Publications</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/tableau-kickstarter-ends-monday-dont-miss-out-on-this-unique-storytelling-experience/8668">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/tableau-kickstarter-ends-monday-dont-miss-out-on-this-unique-storytelling-experience/8668</link>
+          <pubDate>Sat, 15 Apr 2023 22:14:35 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8668</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/tableau-kickstarter-ends-monday-dont-miss-out-on-this-unique-storytelling-experience/8668.rss">Tableau Kickstarter Ends Monday - Don&#39;t Miss Out On This Unique Storytelling Experience!</source>
+        </item>
+        <item>
+          <title>Gauntlet Video Roundup Post - April 14, 2023</title>
+          <dc:creator><![CDATA[@flatvurm]]></dc:creator>
+          <category>Gauntlet Community</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/flatvurm">@flatvurm</a> wrote:</p>
+            <blockquote>
+              <p>Greetings, all! <a href="https://www.gauntlet-rpg.com/blog/gauntlet-video-roundup-april-14-2023" rel="nofollow noopener">This week’s Gauntlet Calendar video roundup post</a> is now up on The Gauntlet Blog! This week we’ve got sessions of these great games:</p>
+<ul>
+<li><em>Beam Saber</em></li>
+<li><em>Hollows</em></li>
+<li><em>Masks</em></li>
+<li><em>Mountain Home</em></li>
+<li><em>Primetime Adventures</em></li>
+<li><em>Star Trek Adventures</em></li>
+<li><em>Stellar Conflict</em></li>
+<li><em>The Between</em></li>
+<li><em>The King’s Poisoner</em></li>
+</ul>
+<p>Thanks go out to all this week’s facilitators and players! If you want to join in the fun, head over to the <a href="https://forums.gauntlet-rpg.com/c/gauntlet-calendar">Gauntlet Calendar category</a> on the Forums to see the latest game announcements, and sign up on the <a href="https://app.playabl.io/communities/the_open_hearth" rel="nofollow noopener">Gauntlet Calendar</a> to play!</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/gauntlet-video-roundup-post-april-14-2023/8667">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/gauntlet-video-roundup-post-april-14-2023/8667</link>
+          <pubDate>Fri, 14 Apr 2023 13:06:01 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8667</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/gauntlet-video-roundup-post-april-14-2023/8667.rss">Gauntlet Video Roundup Post - April 14, 2023</source>
+        </item>
+        <item>
+          <title>Tableau Design Diary: Embracing Composable Traits Over Playbooks</title>
+          <dc:creator><![CDATA[@ChristopherA]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/christophera">@ChristopherA</a> wrote:</p>
+            <blockquote>
+              <p>Continuing my <em><strong>Tableau</strong></em> <em>Design Diary</em>  (<a href="https://forums.gauntlet-rpg.com/t/tableau-design-notes-the-power-of-constraints/8659/1">previous post</a>), I’d like to talk about some design choices that set <em><strong>Tableau</strong></em>  apart.</p>
+<p>When D. Vincent Baker introduced <em>Apocalypse World</em>  (2010), I was particularly impressed by his one-page character playbooks. While I’m unsure if he was the first to implement this concept (perhaps Harper’s <em>Lady Blackbird?</em> ), each playbook catered to a different genre niche within his setting. For example, inspired by the <em>Mad Max</em>  films, you need a Driver character not just for their skills, but to embody the personality and stunts of a post-apocalyptic road warrior. These playbooks resulted in a focus on <em>“how you do it”</em>  rather than the <em>“what can you do”</em>  found in traditional class focused character sheets.</p>
+<p>Since then, Apocalypse World has spawned a vast array of <em>PbtA</em>  (Powered by the Apocalypse) games, such as <em>Blades in the Dark</em>  (2015), which in turn birthed its own offshoots under the <em>FitD</em>  (Forged in the Dark) umbrella. The game style has continued to evolve, with titles like Java Cordova’s <em>Brindlewood Bay</em>  (2022) and <em>The Between</em>  (2022) pushing the boundaries further.</p>
+<p>Another noteworthy development inspired by <em>PbtA</em>  was Avery Alder’s <em>Dreams Askew</em>  (2018), which not only adapted character playbooks for her own unique post-apocalyptic vision but also transformed the game into a GM-less experience by creating playbooks for setting elements. This concept inspired the <em>BoB</em>  (Belonging Outside Belonging, if the game is about people on the margins) or <em>NDNM</em>  (No Dice, No Masters) game systems, which have since inspired many innovative games with even more integrated character and story elements. These range from Jay Dragon’s <em>Sleepaway</em>  (2019) with its summer camp movie horror, Riley Rethal’s <em>Galactic</em>  (2020) with <em>Star Wars</em>  &amp; <em>Battlestar Galactica</em>  archetypes and setting playbooks, and most recently, Possum Creek Games’ very successful Kickstarters for even more setting-focused games like <em>Wanderhome</em> (2021) and <em>Yabeza’s Bed &amp; Breakfast</em>  (2023).</p>
+<p>One result of these new designs in both of these major branches is that recent playbooks are becoming even tighter integrated with their settings. In <em>Bridlewood Bay</em> , you are really close to being a fictional character: you are essentially one of a number of stereotypical elderly fiction or TV-show detective, such as Miss Marple or Jim Rockford. In <em>The Between</em> , you can be the stereotype of the bold but ugly American in the Victorian Era. The same is true in most Belonging Outside Belonging designs; for instance, the Pilgrim character playbook in <em>Wanderhome</em>  is tightly integrated with the feeling of that game’s specific genre of light fantasy elements in an anthropomorphic setting.</p>
+<p>While I appreciate these designs, my preference for stories is broader, and I sought a technique that offered greater versatility across genres and themes. Like <em>Apocalypse World</em> , in <strong>Tableau’s</strong>  <em>Twilight Road</em>  playset, I have a Playset Character “Face” card for “The Driver”:</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/6/6ef99a9607f8b59a8e6430251fc7551f1be8328b.jpeg" data-download-href="/uploads/short-url/fPJik2o2Cx3ceSYeThFbXTyiHgf.jpeg?dl=1" title="Tableau - Twilight Road - The Driver - medium, cornered" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/6/6ef99a9607f8b59a8e6430251fc7551f1be8328b.jpeg" alt="Tableau - Twilight Road - The Driver - medium, cornered" data-base62-sha1="fPJik2o2Cx3ceSYeThFbXTyiHgf" width="690" height="483" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/6/6ef99a9607f8b59a8e6430251fc7551f1be8328b_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Tableau - Twilight Road - The Driver - medium, cornered</span><span class="informations">700×490 185 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>My card provides a general role for a Driver applicable to fantasy, sci-fi, or modern-day settings. Thus, players can embody a pony express rider, Han Solo, or be a trucker. But instead of checkboxes, there are separate cards that you can choose from for each “approach”. These cards describe how your character makes decisions. Are you Brash like Han Solo? Fast? Careful? Each card offers a different insight into your decision-making as a Driver that are very different.</p>
+<p>Additionally, you might have a third card, a character “Path,” that represents the delicate balance between your character’s virtues and vices. Are you a Wanderer with no attachments, or are you a Loner grappling with the challenges of forming meaningful relationships?</p>
+<p>I’ve discovered that this “composable” design for character traits offers several advantages over traditional playbooks or character sheets. The back of each card outlines the “Moves” your character can make, enabling you to be Brash in a bar or struggle against being a Loner even when you’re not driving. You can keep the relevant cards at hand and set them aside when not needed, making it easier to make decisions on what Moves your character desires to make.</p>
+<p>There is a drawback with my “composable” design choice: the loss of the evocative and intimate connections between characters and their settings. However, I believe this tradeoff can be worthwhile, as it enables a greater variety of characters and adaptability across multiple playsets.</p>
+<p>I invite you to explore how I approach composability from the full Print-and-Play version of my <strong>Tableau,</strong>  including both <em>Twilight Road</em>  and <em>GateWatch</em>  playsets, which available to <a href="https://www.kickstarter.com/projects/christophera/tableau-twilight-road-and-gate-watch-playsets-quickstarter?ref=b1oye6" rel="nofollow noopener">all Kickstarter backers</a> (even at the lowest $2 tier).</p>
+<p>I’d love to hear your thoughts on my composable character trait approach!</p>
+<p>What is your favorite character playbook? If you were to decompose it into three essences: one a genre trope or skill mastery, one a personality style or stereotype, and one a life path between good and bad, what would those three essences be?</p>
+<p>– Christopher Allen - Dyvers Hands Productions<br>
+<em>“The best stories are the ones we tell together!”</em></p>
+            </blockquote>
+            <p>Posts: 5</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/tableau-design-diary-embracing-composable-traits-over-playbooks/8666">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/tableau-design-diary-embracing-composable-traits-over-playbooks/8666</link>
+          <pubDate>Fri, 14 Apr 2023 05:44:55 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8666</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/tableau-design-diary-embracing-composable-traits-over-playbooks/8666.rss">Tableau Design Diary: Embracing Composable Traits Over Playbooks</source>
+        </item>
+        <item>
+          <title>Tableau Design Notes: The Power of Constraints</title>
+          <dc:creator><![CDATA[@ChristopherA]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/christophera">@ChristopherA</a> wrote:</p>
+            <blockquote>
+              <p><em>(forgive me if you’ve seen this post elsewhere — I really am interested in a conversation with game designers and other creatives on this topic, and just have not found the right venue for for broader discussion.)</em></p>
+<p><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/c/ce4bb7577a5148d89622357bc465bbdad9c9a472.jpeg" alt="bonsai_5524991164_99ffcc6afb_b_large" data-base62-sha1="tqYzXOzeAqZTIqZ0EMMiGZPTX90" width="500" height="375"></p>
+<blockquote>
+<p><em><strong>“The Power of Constraints:</strong>  Embrace limitations and boundaries as a source of inspiration. Appreciating the obstacles helps you see more fully how to overcome or adapt to them. Accepting constraints, they can morph into useful forms that open up new possibilities, spurring creativity.”</em>    [^1]</p>
+</blockquote>
+<p>I’d like to discuss some design choices in my <em><strong>Tableau</strong></em>  game system (just launched last weekend on <a href="https://www.kickstarter.com/projects/christophera/tableau-twilight-road-and-gate-watch-playsets-quickstarter?ref=9eh81p" rel="nofollow noopener">Kickstarter</a>) that set it apart from other storytelling games you may be familiar with.</p>
+<p>One striking difference is the presentation of the entire game’s rules on poker-sized playing cards. This idea was inspired by a periodic challenge I set for myself as a designer, in which I picked a design constraint (usually length &amp; size) to explore my creativity.</p>
+<p>One of my early examples of this is my free <a href="https://github.com/ChristopherA/MonsterSmashGame2001" rel="nofollow noopener"> <em>Monster Smash</em> </a> game that I originally wrote in 1994, where Play-Doh creatures grow fangs, legs, wings, tentacles, poison stings &amp; more, and players compete for the right to smash them. My goal was just to see how simple and elegant I could make a board game. All the rules, table of costs for the “monster parts,” a monster tracking sheet, and even the ruler needed for range attacks, all fit on a single sheet of paper. It was a huge success over the next few years at various Bay Area local game conventions and became so popular that in 2001 I wrote “The Next Page” on the back side of the page, offering some optional rules. Almost 30 years later, the game continues to be a convention favorite. I will walk in early in the morning and smell Play-Doh filling the halls, and hear both adults and kids yelling, “Smash! Smash! Smash!”. A few kids I played the game with in early have shared with me that they are now bringing their own children to conventions to play!</p>
+<p><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/0/0d7f0a1cec7d60a532be0898d93322548e78146b.jpeg" alt="DzzjySEVAAAJWS9" data-base62-sha1="1Voo3sFVYFV9QI9dMqrSe7kOR19" width="520" height="390"><br>
+In 2019, I challenged myself to create a small, elegant RPG game. I discovered an interesting price break at 18 poker-sized cards (probably because that is the size of many sports trading card decks), so I decided to work within that constraint. This led to a successful Kickstarter campaign for my original <a href="https://www.kickstarter.com/projects/christophera/gate-watcha-collaborative-storytelling-game-quickstarter" rel="nofollow noopener"> <em>Gate Watch</em> </a> game. Its rules fit on 6 cards, with the remaining cards dedicated to a random card drama mechanic and storytelling prompts. Since card backs are just wasted space, I put 18 different inspirational images on the backs of the cards.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/7/7e096f4fb8e0dcde84d666509294164d2df2139b.jpeg" data-download-href="/uploads/short-url/hYYngvYtdVfBrvcnMSKqd1GNdxN.jpeg?dl=1" title="004back" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/7/7e096f4fb8e0dcde84d666509294164d2df2139b_2_366x500.jpeg" alt="004back" data-base62-sha1="hYYngvYtdVfBrvcnMSKqd1GNdxN" width="366" height="500" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/7/7e096f4fb8e0dcde84d666509294164d2df2139b_2_366x500.jpeg, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/7/7e096f4fb8e0dcde84d666509294164d2df2139b_2_549x750.jpeg 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/7/7e096f4fb8e0dcde84d666509294164d2df2139b_2_732x1000.jpeg 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/7/7e096f4fb8e0dcde84d666509294164d2df2139b_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">004back</span><span class="informations">825×1125 1.33 MB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div><br>
+Initially, my plan for a 2020 sequel, <em>Twilight Road</em> , was to create another 18-card game. If  <em>Gate Watch</em>  was about living on the borders and edges,  <em>Twilight Road</em>  would be about the roads that pass through them. However, the lockdown halted not only my gameplay but also my playtesting efforts. The constraints of lockdown and revisiting my game designs over and over led me to realize that the two games could be intertwined. After discussions with my colleagues Aaron Reed and Shannon Appelcline, I discovered even more kinds of of story playsets were possible, each with different sets of cards, which could be all interconnected. This idea culminated in the two Tableau playsets offered in this <a href="https://www.kickstarter.com/projects/christophera/tableau-twilight-road-and-gate-watch-playsets-quickstarter?ref=b1oye6" rel="nofollow noopener">Kickstarter</a>, with more to come later this year.</p>
+<p>Another constraint I encountered was the limited space on each card. I found that I could fit a maximum of 350 words on both sides of a card. As a naturally verbose writer, I would repeatedly trim the text of each card down to about 250 words, only to have it expand again during revisions. However, after multiple iterations, the essence of each card emerged. I hope that the final result is as powerful and inspiring for you as it is for me.</p>
+<p>So, how have you used constraints in your creative life? Time limits? Size limits? Did they result in success or frustration? I’m curious to hear about your experiences.</p>
+<p>– Christopher Allen</p>
+<blockquote>
+<p><em>“The best stories are the ones we tell together!”</em></p>
+</blockquote>
+<p>[*1] Quote from <a href="https://groupworksdeck.org/patterns/Power_of_Constraints" rel="nofollow noopener">GroupWorksDeck.org</a> CC-BY</p>
+<ul>
+<li>Image credits: Bonsai  by <a href="https://www.flickr.com/photos/30014417@N04/5524991164/" rel="nofollow noopener">Dyogi</a> , CC-BY;</li>
+<li>Monster Smash Family by [USER=1149]<a class="mention" href="/u/christophera">@ChristopherA</a>[/USER], CC-BY, permission granted by mother to include her children in photo;</li>
+<li>Stone Arch Photo by Max Pixel, CC0.</li>
+</ul>
+            </blockquote>
+            <p>Posts: 10</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/tableau-design-notes-the-power-of-constraints/8659">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/tableau-design-notes-the-power-of-constraints/8659</link>
+          <pubDate>Mon, 03 Apr 2023 22:55:38 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8659</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/tableau-design-notes-the-power-of-constraints/8659.rss">Tableau Design Notes: The Power of Constraints</source>
+        </item>
+        <item>
+          <title>Experience Tableau: Try Our Free Print-N-Play Improv Playset for a Limited Time!</title>
+          <dc:creator><![CDATA[@ChristopherA]]></dc:creator>
+          <category>Hype</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/christophera">@ChristopherA</a> wrote:</p>
+            <blockquote>
+              <p>Hello everyone!</p>
+<p>A special treat awaits those who enjoy collaborative storytelling.</p>
+<p>For the month of April, we’re offering a FREE Print-N-Play promo deck of the <strong>Tableau:</strong> <em>Improv</em> Playset! This promotional deck serves as a teaser for the full <strong>Tableau</strong> game system.</p>
+<p><strong>Tableau</strong> is a GMless storytelling system for 2-5 players, played using poker-sized cards featuring rules &amp; inspirational images. It helps you create a satisfying cinematic storytelling experience over just a few hours, without the need for advance preparation or a designated gamemaster or narrator.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/5/5a457525e057c18e1acdf19a1aedfb4a8ea97248.jpeg" data-download-href="/uploads/short-url/cSzMDVOmKDAjxEFfi6vQ9NAJFDW.jpeg?dl=1" title="Tableau - Improv - DriveThruCards Kickstarter Promo v1 2023-03 (BRANCH - DTRPG Print-N-Play RGB) COVER" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/5/5a457525e057c18e1acdf19a1aedfb4a8ea97248.jpeg" alt="Tableau - Improv - DriveThruCards Kickstarter Promo v1 2023-03 (BRANCH - DTRPG Print-N-Play RGB) COVER" data-base62-sha1="cSzMDVOmKDAjxEFfi6vQ9NAJFDW" width="647" height="500" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/5a457525e057c18e1acdf19a1aedfb4a8ea97248_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Tableau - Improv - DriveThruCards Kickstarter Promo v1 2023-03 (BRANCH - DTRPG Print-N-Play RGB) COVER</span><span class="informations">792×612 127 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>The  <strong>Tableau:</strong>   <em>Improv Playset</em>  is perfect for those who enjoy the traditions of improv. It provides a simple yet unconstrained framework for weaving dramatic, character-driven, one-act story in a collaborative and cinematic way. All the  <em>Playset</em>  and  <em>Tableau Core</em>  cards you need to play are included.</p>
+<p>In addition to the  <strong>Tableau:</strong>   <em>Improv</em>  Playset, this deck includes 16  <strong>Tableau</strong>   <em>Reference</em>  cards that each offer 36 useful prompts to inspire both improv and storytelling (in categories for  <em>Genre</em> ,  <em>Mood &amp; Tone</em> ,  <em>Theme</em> ,  <em>Setting</em> ,  <em>Desires</em> ,  <em>Relationships</em> ,  <em>Catalyst Scenes</em> , and  <em>Plot Twists</em> ).</p>
+<p>This free Print-N-Play promotional deck includes:</p>
+<ul>
+<li>4  <em>Improv Playset</em>  cards for a simple one-act storytelling session</li>
+<li>19  <em>Rule</em>  cards from  <em>Tableau Core</em>
+</li>
+<li>16  <em>Reference</em>  cards</li>
+</ul>
+<p>Remember, this offer is FREE for the month of April!</p>
+<p>Download the “Print-N-Play” PDF version of the  <strong>Tableau:</strong>   <em>Improv Playset</em>  from <a href="https://www.drivethrucards.com/product/432580/Tableau-Improv-Playset-Kickstarter-Promo-PrintNPlay" rel="nofollow noopener">DriveThruCards</a> or <a href="https://www.drivethrurpg.com/product/432580/Tableau-Improv-Playset-Kickstarter-Promo-PrintNPlay" rel="nofollow noopener">DriveThruRPG</a></p>
+<p>We hope this promo deck inspires you to consider backing our first two  <strong>Tableau</strong>  playsets —  <strong>Tableau:</strong>   <em>Twilight Road</em>  and  <strong>Tableau:</strong>   <em>Gate Watch</em> . <a href="https://www.kickstarter.com/projects/christophera/tableau-twilight-road-and-gate-watch-playsets-quickstarter?ref=9eh81p" rel="nofollow noopener">Pledge now on Kickstarter!</a></p>
+<p>Happy storytelling!</p>
+<p>– Christopher Allen - Dyvers Hands Productions</p>
+<p><em><strong>“The best stories are the ones we tell together!”</strong></em></p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/experience-tableau-try-our-free-print-n-play-improv-playset-for-a-limited-time/8658">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/experience-tableau-try-our-free-print-n-play-improv-playset-for-a-limited-time/8658</link>
+          <pubDate>Mon, 03 Apr 2023 18:08:23 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8658</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/experience-tableau-try-our-free-print-n-play-improv-playset-for-a-limited-time/8658.rss">Experience Tableau: Try Our Free Print-N-Play Improv Playset for a Limited Time!</source>
+        </item>
+        <item>
+          <title>Tableau Playsets for Twilight Road &amp; Gate Watch (Just Launched on Kickstarter)</title>
+          <dc:creator><![CDATA[@ChristopherA]]></dc:creator>
+          <category>Hype</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/christophera">@ChristopherA</a> wrote:</p>
+            <blockquote>
+              <p><strong>Tableau</strong>  is a new collaborative game system for cinematic storytelling from Dyvers Hands Productions by Christopher Allen.</p>
+<p><strong>Tableau</strong>  is a GMless storytelling system for 2-5 players, played using poker-sized cards featuring rules &amp; inspirational images. Each playset includes everything you need to play except for your own index cards, markers and sheets of paper, and optionally one six-sided dice. The typical playtime is 2-3 hours.</p>
+<ul>
+<li>
+<p><strong>Tableau</strong>  helps you create a satisfying cinematic and immersive storytelling experience over the course of just a few hours.</p>
+</li>
+<li>
+<p>Together you will build an intriguing &amp; impactful story without the need for advance preparation or a designated gamemaster or narrator.</p>
+</li>
+<li>
+<p>The choices of different poker-sized cards offer you “composable” rules, giving you a flexible framework to create and control your characters and explore a range of story genres and play styles.</p>
+</li>
+<li>
+<p><strong>Tableau</strong>  also offers a number of  <em>Playsets</em>  <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/film_strip.png?v=9" title=":film_strip:" class="emoji" alt=":film_strip:"> that package together specific rules &amp; cards to create specific kinds of stories.  <strong>Twilight Road</strong>   <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/motorway.png?v=9" title=":motorway:" class="emoji" alt=":motorway:"> and  <strong>Gate Watch</strong>  <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/door.png?v=9" title=":door:" class="emoji" alt=":door:"> are the first two of a number of  <em>Playsets</em>  <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/film_strip.png?v=9" title=":film_strip:" class="emoji" alt=":film_strip:"> to come.</p>
+</li>
+<li>
+<p>Cards different  <em>Playsets</em>  <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/film_strip.png?v=9" title=":film_strip:" class="emoji" alt=":film_strip:"> may be mixed &amp; matched with each other and with future  <strong>Tableau  <em>Playsets</em></strong>  <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/film_strip.png?v=9" title=":film_strip:" class="emoji" alt=":film_strip:"> .</p>
+</li>
+</ul>
+<p>With  <strong>Tableau</strong> , you can let your imagination run wild and experience a unique and engaging way of storytelling that’s perfect for anyone who loves gaming, storytelling, or just having fun with friends.</p>
+<h3>Overview of Play</h3>
+<p><strong>Tableau</strong>  works by providing players with a shared space called  <em>The Table</em> , which acts as a structure for the stories that they tell. Using  <strong>Tableau</strong>  cards that represent rules and storytelling elements, players can choose some to place on  <em>The Table</em>  with  <em>Table Consent</em> , which is when everyone agrees on a choice made together.</p>
+<p>The game includes different types of  <strong>Tableau</strong>  cards, such as  <em>Safety</em> ,  <em>Narrative</em> ,  <em>Player Role</em> ,  <em>Casting</em> ,  <em>Drama</em> ,  <em>Story</em> , and  <em>Character</em>  cards, which allow players to create and develop unique characters and explore different story elements. Index cards are also used to demonstrate  <em>Table Consent</em>  for any rules or story elements not covered by  <strong>Tableau</strong>  cards, and they can be updated with significant details as the story progresses.</p>
+<p>Additionally, players can  <em>Take Up</em>  some cards to give someone control over its story elements and the authority to use its  <em>Moves</em> .</p>
+<p>For instance, for a simple road trip story using some of the 72-cards of  <em>Twilight Road</em>  <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/motorway.png?v=9" title=":motorway:" class="emoji" alt=":motorway:"> the storytellers might choose to put the following cards on  <em>The Table</em> :</p>
+<ul>
+<li>
+<em>Twilight Road</em>  Playset cards</li>
+<li>
+<em>Twilight Road</em>  Beats cards</li>
+<li>
+<em>Play Controls</em>  Safety Rule</li>
+<li>
+<em>Scenes</em>  Narrative Rule</li>
+<li>
+<em>Truths &amp; Questions</em>  Narrative Rule</li>
+<li>
+<em>Drama Tokens</em>  Drama Rule card</li>
+<li>
+<em>The Twilight</em>  Theme card</li>
+<li>
+<em>The Road</em>  Setting card</li>
+<li>
+<em>The Locals</em>  Setting card</li>
+<li>
+<em>The Director</em>  Player Role card</li>
+<li>
+<em>The Mapper</em>  Player Role card</li>
+<li>
+<em>The Driver</em>  Face card</li>
+<li>
+<em>The Buddy</em>  Face card</li>
+<li>
+<em>The Runaway</em>  Face card</li>
+</ul>
+<p><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/2/23b78116be1ce2ccc5e9d773757300fc08b5957e.png" alt="Storytellers Hand of Cards" data-base62-sha1="55XRMJ9e3aJIEXdr7CiHyzpdGFw" width="680" height="383"></p>
+<p>For a basic story, the storytellers will typically hold three or four cards — a  <em>Player Role</em>  card, a  <em>Story</em>  Card, and one or two  <em>Character</em>  cards. The front side has the  <em>Setup</em>  details, and the back the  <em>Moves</em>  available while holding these cards. The story is told in a series of  <em>Scenes</em> , following the instructions of the  <em>Beats</em>  card on the  <em>Table</em> . Between  <em>Scenes</em>  the  <em>Director</em>  Player Role card is passed around, and  <em>Story</em>  cards can be  <em>Set Aside</em>  or  <em>Taken Up</em> . The  <em>Drama Tokens</em>  card defines how a token pool, ala “Fate” or “Belonging Outside Belonging” is used to create karma and tension. The  <em>Beats</em>  cards will guide the storytellers to a satisfying conclusion.</p>
+<p>A different group might choose to substitute  <em>The Narrator</em>  for  <em>The Director</em>  player role for a more GM-style game or to run the last act of a mystery; or choose  <em>The Renegade</em>  instead of the  <em>The Buddy</em>  Face for a more Jack Kerouac  <em>“On the Road”</em>  style road trip; or  <em>The Entertainer</em>  Face for a  <em>“Blues Brothers”</em>  road trip. The  <em>Declare</em>  Drama Rules Card could be substituted for a more PbtA style of tension and risk. Rules from other playsets could be added, for instance  <em>The Other Side</em>  setting from the  <em>Gate Watch</em>  Playset could be a home for  <em>The Outsider</em>  Face card.</p>
+<p>We have a 14m video that gives an overview of how the <em><strong>Tableau</strong></em>: <strong>Twilight Road</strong> playset works at <a href="https://youtu.be/eWMsySbdm_0" rel="nofollow noopener">https://youtu.be/eWMsySbdm_0</a></p>
+<h3>Reviewer Quotes</h3>
+<p>“Tableau is a versatile, flexible framework for collaborative storygames grounded deep in the fundamentals of story and character. Mix and match cards to shift what themes, rules, archetypes, and ideas are on the table, helping your group tell a compelling and satisfying story.” — Aaron A. Reed, author of the <a href="https://www.kickstarter.com/projects/1850151847/archives-of-the-sky-epic-sci-fi-roleplaying" rel="nofollow noopener">Archives of the Sky</a> story game.</p>
+<h3>About the  <em>Twilight Road</em>  <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/motorway.png?v=9" title=":motorway:" class="emoji" alt=":motorway:">  <em>Playset</em>  <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/film_strip.png?v=9" title=":film_strip:" class="emoji" alt=":film_strip:">
+</h3>
+<p><img src="https://ksr-ugc.imgix.net/assets/040/196/221/97ca9e344c57a02356d097866159425c_original.png?ixlib=rb-4.0.2&amp;w=680&amp;fit=max&amp;v=1678482852&amp;gif-q=50&amp;lossless=true&amp;s=f46edb87d126154ad0630e8a37d21dca" alt="Twilight Road: Collaborative Cinematic Storytelling" width="188" height="256"></p>
+<p>You are fellow travelers on the  <em>Twilight Road</em> . Together your journey will take you through choices &amp; transitions, quests &amp; trials. What will you discover on your way? Will you find your destination or return home? Either way, you will arrive changed. These are the stories of the  <em>Twilight Road</em> . Every game session is different, every road, every journey is unique.</p>
+<h3>About the  <em>Gate Watch</em> <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/door.png?v=9" title=":door:" class="emoji" alt=":door:">  <em>Playset</em>  <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/film_strip.png?v=9" title=":film_strip:" class="emoji" alt=":film_strip:">
+</h3>
+<p><img src="https://ksr-ugc.imgix.net/assets/040/196/264/5e42c5bd996bc49ccaf3b42d5a3caa34_original.png?ixlib=rb-4.0.2&amp;w=680&amp;fit=max&amp;v=1678483116&amp;gif-q=50&amp;lossless=true&amp;s=fa2707e2dce360d74863231854e25826" alt="Gate Watch: Collaborative Cinematic Storytelling - A Playset for Tableau" width="183" height="256"></p>
+<p>You and your companions are members of the  <em>Gate Watch</em>  – charged to monitor the border between realms. Who built  <em>The Gate</em> ? What is on the other side? Why are you watching? What are you guarding against? These are the questions you will answer as you explore the  <em>Enigma</em>  that is  <em>The Gate</em> . Every game session is different, every world, every gate unique.</p>
+<h3>April Kickstarter</h3>
+<p>To support  <strong>Tableau</strong>  and experience the unique and engaging way of storytelling it provides, please consider backing it on Kickstarter. By doing so, you’ll not only help bring this exciting game to life, but you’ll also receive a copy of the game and have the chance to explore a range of genres and play styles with your friends. With  <strong>Tableau</strong> , you can let your creativity flow and experience a fun and immersive storytelling experience that’s perfect for game night or any time you want to have fun with friends.</p>
+<p>Back <strong>Tableau</strong> now at:</p>
+<p><a href="https://www.kickstarter.com/projects/christophera/tableau-twilight-road-and-gate-watch-playsets-quickstarter?ref=9eh81p" data-bbcode="true" rel="nofollow noopener">https://www.kickstarter.com/projects/christophera/tableau-twilight-road-and-gate-watch-playsets-quickstarter?ref=9eh81p</a></p>
+<p>If you are an established game reviewer and can take a look before the end of the Kickstarter, I can send you an advanced copy of the “Print &amp; Play” rules PDF — send email to <a href="mailto:ChristopherA@DyversHands?subject=Tableau%20Review%20Before%20Kickstarter">ChristopherA@DyversHands.com</a>.</p>
+<p>– Christopher Allen<br>
+<em>“The best stories are the ones we tell together!”</em></p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/tableau-playsets-for-twilight-road-gate-watch-just-launched-on-kickstarter/8657">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/tableau-playsets-for-twilight-road-gate-watch-just-launched-on-kickstarter/8657</link>
+          <pubDate>Mon, 03 Apr 2023 07:26:20 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8657</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/tableau-playsets-for-twilight-road-gate-watch-just-launched-on-kickstarter/8657.rss">Tableau Playsets for Twilight Road &amp; Gate Watch (Just Launched on Kickstarter)</source>
+        </item>
+        <item>
+          <title>Gauntlet Video Roundup Post - March 31, 2023</title>
+          <dc:creator><![CDATA[@flatvurm]]></dc:creator>
+          <category>Gauntlet Community</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/flatvurm">@flatvurm</a> wrote:</p>
+            <blockquote>
+              <p>Greetings, all! <a href="https://www.gauntlet-rpg.com/blog/gauntlet-video-roundup-march-31-2023" rel="nofollow noopener">This week’s Gauntlet Calendar video roundup post</a> is now up on The Gauntlet Blog! This week we’ve got sessions of these great games:</p>
+<ul>
+<li><em>Apocalypse Keys</em></li>
+<li><em>Hollows</em></li>
+<li><em>Mountain Home</em></li>
+<li><em>Stellar Conflict</em></li>
+<li><em>The Between</em></li>
+<li><em>Trail of Cthulhu</em></li>
+</ul>
+<p>Thanks go out to all this week’s facilitators and players. If you want to join in the fun, head over to the <a href="https://forums.gauntlet-rpg.com/c/gauntlet-calendar">Gauntlet Calendar category</a> on the Forums to see the latest game announcements, and sign up on the <a href="https://gauntletcalendar.com/events" rel="nofollow noopener">Gauntlet Calendar</a> to play!</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/gauntlet-video-roundup-post-march-31-2023/8652">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/gauntlet-video-roundup-post-march-31-2023/8652</link>
+          <pubDate>Fri, 31 Mar 2023 13:09:11 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8652</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/gauntlet-video-roundup-post-march-31-2023/8652.rss">Gauntlet Video Roundup Post - March 31, 2023</source>
+        </item>
+        <item>
+          <title>Does anyone have experience with combat/action hacks for Belonging Outside Belonging?</title>
+          <dc:creator><![CDATA[@olivetree]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/olivetree">@olivetree</a> wrote:</p>
+            <blockquote>
+              <p>I’m playing Jess Levine’s excellent <a href="https://jessfromonline.itch.io/going-rogue" rel="nofollow noopener">Going Rogue 2e</a> and really enjoying my first time with a BoB game. The one thing that feels palpably absent is some sort of structure for action sequences. It’s OK hand-waving broader events, but sometimes my group wants to zoom in on, say, a climactic battle, and we tend to flounder in those scenes. So, I’m just wondering if anyone’s come up with or found a system for propelling action that they liked.</p>
+<p>I’m not really looking to switch systems whole-cloth whenever we want to focus on a fight/shootout/chase/escape/etc. I’d rather come up with something that integrates nicely with the rest of the game. One idea would be a new pillar (“Blasters and Bullets”?) with moves like “Underestimate an opponent, gain a token,” “Back someone into a corner, give them a token,” “Cut off an escape route, give a token,” “Use a dirty trick to gain the upper hand, give a token,” “Provoke someone into attacking you, gain a token.”</p>
+<p>I also have a vague idea for using clocks here to help with pacing. Maybe the players have a clock, and the enemies have a clock, and whoever fills their clock first “wins” the scene (whatever that means in context). A stronger enemy might start with a few clock segments filled in. Maybe these clocks exist in the background outside of action scenes, and certain moves can also trigger clock increments or decrements.</p>
+<p>These are just ideas that I’ve brainstorming in the last couple hours, so it’s all untested and I don’t have a great grasp on the metaphors yet, but I think there miiiight be something here.</p>
+            </blockquote>
+            <p>Posts: 6</p>
+            <p>Participants: 4</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/does-anyone-have-experience-with-combat-action-hacks-for-belonging-outside-belonging/8645">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/does-anyone-have-experience-with-combat-action-hacks-for-belonging-outside-belonging/8645</link>
+          <pubDate>Mon, 27 Mar 2023 03:07:00 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8645</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/does-anyone-have-experience-with-combat-action-hacks-for-belonging-outside-belonging/8645.rss">Does anyone have experience with combat/action hacks for Belonging Outside Belonging?</source>
+        </item>
+        <item>
+          <title>Gauntlet Video Roundup Post - March 24, 2023</title>
+          <dc:creator><![CDATA[@flatvurm]]></dc:creator>
+          <category>Gauntlet Community</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/flatvurm">@flatvurm</a> wrote:</p>
+            <blockquote>
+              <p>Greetings, all! <a href="https://www.gauntlet-rpg.com/blog/gauntlet-video-roundup-march-24-2023" rel="nofollow noopener">This week’s Gauntlet Calendar video roundup post</a> is now up on The Gauntlet Blog! This week we’ve got sessions of these great games:</p>
+<ul>
+<li><em>Apocalypse Keys</em></li>
+<li><em>Mountain Home</em></li>
+<li><em>Stellar Conflict</em></li>
+<li><em>Survivors of the Snap</em></li>
+<li><em>The Between</em></li>
+<li><em>Trail of Cthulhu</em></li>
+</ul>
+<p>Thanks go out to all this week’s facilitators and players. If you want to join in the fun, head over to the <a href="https://forums.gauntlet-rpg.com/c/gauntlet-calendar">Gauntlet Calendar category</a> on the Forums to see the latest game announcements, and sign up on the <a href="https://gauntletcalendar.com/events" rel="nofollow noopener">Gauntlet Calendar</a> to play!</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/gauntlet-video-roundup-post-march-24-2023/8643">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/gauntlet-video-roundup-post-march-24-2023/8643</link>
+          <pubDate>Fri, 24 Mar 2023 13:16:07 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8643</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/gauntlet-video-roundup-post-march-24-2023/8643.rss">Gauntlet Video Roundup Post - March 24, 2023</source>
+        </item>
+        <item>
+          <title>Gauntlet Video Roundup Post - March 17, 2023</title>
+          <dc:creator><![CDATA[@flatvurm]]></dc:creator>
+          <category>Gauntlet Community</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/flatvurm">@flatvurm</a> wrote:</p>
+            <blockquote>
+              <p>Greetings, all! <a href="https://www.gauntlet-rpg.com/blog/gauntlet-video-roundup-march-17-2023" rel="nofollow noopener">This week’s Gauntlet Calendar video roundup post</a> is now up on The Gauntlet Blog! This week we’ve got sessions of these great games:</p>
+<ul>
+<li><em>Apocalypse Keys</em></li>
+<li><em><span class="hashtag">#iHunt</span></em></li>
+<li><em>Hollows</em></li>
+<li><em>Rosewood Abbey</em></li>
+<li><em>Talking GUMSHOE</em></li>
+<li><em>The Between</em></li>
+</ul>
+<p>Thanks go out to all this week’s facilitators and players. If you want to join in the fun, head over to the <a href="https://forums.gauntlet-rpg.com/c/gauntlet-calendar">Gauntlet Calendar category</a> on the Forums to see the latest game announcements, and sign up on the <a href="https://gauntletcalendar.com/events" rel="nofollow noopener">Gauntlet Calendar</a> to play!</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/gauntlet-video-roundup-post-march-17-2023/8639">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/gauntlet-video-roundup-post-march-17-2023/8639</link>
+          <pubDate>Fri, 17 Mar 2023 13:45:58 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8639</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/gauntlet-video-roundup-post-march-17-2023/8639.rss">Gauntlet Video Roundup Post - March 17, 2023</source>
+        </item>
+        <item>
+          <title>2400: ZONE (postponed, new dates tbd)</title>
+          <dc:creator><![CDATA[@Sandy]]></dc:creator>
+          <category>Gauntlet Calendar</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/sandy">@Sandy</a> wrote:</p>
+            <blockquote>
+              <p><strong>Didn’t think this one through and hit a big scheduling conflict. Still keen to run this so will come back to reschedule in a month or so.</strong></p>
+<p>NO ONE KNOWS WHAT CAUSED THE EVENT. Alien visitors? Collision with another dimension? Whatever it was, it sundered an area on Earth from the laws of nature. And it left wonders behind. Authorised expeditions are rare, but there are plenty of willing buyers for black market salvage if you’re willing to break the quarantine. Be careful, though: Come back not-quite-human, and the Lab will insist you visit indefinitely.</p>
+<p>ZONE is a rules-light, improvisational scifi game by Jason Tocci about a once-ordinary landscape where the laws of physics no longer apply, inspired by stories like Roadside Picnic and the Southern Reach Trilogy. No rules knowledge is required and all rules will be taught during play.</p>
+<p>I don’t think there are any specific subject matter warnings for this game. A tone of pervasive creepiness and wonder. We’ll use safety tools including lines and veils, the X card and the open door. The game will run under the Gauntlet Community Code of Conduct</p>
+<p>Please sign up for all sessions you want to attend, but sessions will be pretty episodic so it’s fine to drop in and out.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/2400-zone-postponed-new-dates-tbd/8638">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/2400-zone-postponed-new-dates-tbd/8638</link>
+          <pubDate>Fri, 17 Mar 2023 11:43:44 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8638</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/2400-zone-postponed-new-dates-tbd/8638.rss">2400: ZONE (postponed, new dates tbd)</source>
+        </item>
+        <item>
+          <title>Foundry VTT?</title>
+          <dc:creator><![CDATA[@JonSolo]]></dc:creator>
+          <category>RPG Chat</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/jonsolo">@JonSolo</a> wrote:</p>
+            <blockquote>
+              <p>I prefer PbtA games, but every so often I get the urge to try something like Wrath and Glory or Forbidden Lands. I wondered if many people had a majority negative experiences with Foundry? I haven’t ponied up for it, and was about to, but a player and a good friend said that the experience was enough to make him want to strangle its creators. Admittedly, this player is a little non-technical, but I searched around for reviews and could mostly only find positive reactions.</p>
+<p>I was hoping to ask a wider selection of people to see if maybe it would be okay to at least test out (obviously not with that player as it would send him into paroxysms of rage, apparently). I’m thinking, even if the client-server setup is problematic, I could at least use that VTT and share my screen to do a lot of the heavy lifting of those less narrative and more “rules heavy” systems.</p>
+<p>I’m not a huge fan of Roll20, personally, and though I like the direction that PlayRole and Owlbear Rodeo are going, they’re still very nascent, and don’t have the modules for these more trad systems like Wrath and Glory, The One Ring and Forbidden Lands.</p>
+            </blockquote>
+            <p>Posts: 6</p>
+            <p>Participants: 5</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/foundry-vtt/8636">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/foundry-vtt/8636</link>
+          <pubDate>Tue, 14 Mar 2023 18:23:27 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8636</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/foundry-vtt/8636.rss">Foundry VTT?</source>
+        </item>
+        <item>
+          <title>Gauntlet Video Roundup Post - March 10, 2023</title>
+          <dc:creator><![CDATA[@flatvurm]]></dc:creator>
+          <category>Gauntlet Community</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/flatvurm">@flatvurm</a> wrote:</p>
+            <blockquote>
+              <p>Greetings, all! <a href="https://www.gauntlet-rpg.com/blog/gauntlet-video-roundup-march-10-2023" rel="nofollow noopener">This week’s Gauntlet Calendar video roundup post</a> is now up on The Gauntlet Blog! This week we’ve got sessions of these great games:</p>
+<ul>
+<li><em>Apocalypse Keys</em></li>
+<li><em>Beam Saber</em></li>
+<li><em>Defy the Gods</em></li>
+<li><em>Hollows</em></li>
+<li><em>Masks</em></li>
+<li><em>Mountain Home</em></li>
+<li><em>Pictures in an Exhibition</em></li>
+<li><em>Rosewood Abbey</em></li>
+<li><em>The Between</em></li>
+<li><em>Trail of Cthulhu</em></li>
+</ul>
+<p>Thanks go out to all this week’s facilitators and players. If you want to join in the fun, head over to the <a href="https://forums.gauntlet-rpg.com/c/gauntlet-calendar">Gauntlet Calendar category</a> on the Forums to see the latest game announcements, and sign up on the <a href="https://gauntletcalendar.com/events" rel="nofollow noopener">Gauntlet Calendar</a> to play!</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/gauntlet-video-roundup-post-march-10-2023/8634">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/gauntlet-video-roundup-post-march-10-2023/8634</link>
+          <pubDate>Fri, 10 Mar 2023 14:29:10 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8634</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/gauntlet-video-roundup-post-march-10-2023/8634.rss">Gauntlet Video Roundup Post - March 10, 2023</source>
+        </item>
+        <item>
+          <title>Bump in the Dark: Cold Iron Blues</title>
+          <dc:creator><![CDATA[@Jesseabe]]></dc:creator>
+          <category>Gauntlet Calendar</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/jesseabe">@Jesseabe</a> wrote:</p>
+            <blockquote>
+              <p>It is darkest winter in Octonagon, in the heart of Iron Country. As midwinter approaches, people have reported strange sightings around the Sylvan WIlds, and not just in the deepest parts of the forest where such things are known to hide, but in the clearings closer to Last Pine, where teens go to drink, where lovers go to meet and where dealers hide their stash. And nearby, always the icepick tone of an electric guitar, playing the Cold Iron Blues.</p>
+<p><strong>This is a series of 5 games of Bump in the Dark on Wednesday evenings in May at 8PM Eastern US Time.</strong> Bump in the Dark is a tabletop roleplaying game about a group of people who, for better or worse, have dedicated their lives to hunting and dealing with monsters. There are gruesome attacks, tense investigations, nasty cryptids, nefarious factions, powerful demons, action-packed showdowns, and regular folk caught in the middle. This is a game about investigating strange mysteries and fighting monsters. <strong>Content Warnings for dark horror themes and body horror.</strong></p>
+<p>Being able to attend each session is ideal, but not required. You must RSVP to each session you wish to attend. A seat is being saved. We will use Google Meet for our sessions. All Access time is Thursday, M arch 9th at 7:30 PM US Eastern. I’ll email all players about a week before the first session with the necessary links and resources. Sessions will run up to three hours. We will plan to record, but I will confirm this with the players. <a href="https://www.gauntlet-rpg.com/community-code-of-conduct.html" rel="nofollow noopener">The Gauntlet Code of Conduct</a> will be in play and we will use Lines and Veils and the <a href="http://tinyurl.com/x-card-rpg" rel="nofollow noopener">X-Card</a>, as well as Script Change for safety tools.</p>
+<p><a href="https://app.playabl.io/games/88" class="onebox" target="_blank" rel="nofollow noopener">https://app.playabl.io/games/88</a></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/3/37e6d4d062f8bb0221dfdcdcb252dfe89c16f392.jpeg" data-download-href="/uploads/short-url/7YwOvzidEr7b1hYkJMlFoL9KTwS.jpeg?dl=1" title="a0b6e8ef84f03263ba984304ef0e410f" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/3/37e6d4d062f8bb0221dfdcdcb252dfe89c16f392_2_425x500.jpeg" alt="a0b6e8ef84f03263ba984304ef0e410f" data-base62-sha1="7YwOvzidEr7b1hYkJMlFoL9KTwS" width="425" height="500" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/3/37e6d4d062f8bb0221dfdcdcb252dfe89c16f392_2_425x500.jpeg, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/3/37e6d4d062f8bb0221dfdcdcb252dfe89c16f392_2_637x750.jpeg 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/3/37e6d4d062f8bb0221dfdcdcb252dfe89c16f392_2_850x1000.jpeg 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/3/37e6d4d062f8bb0221dfdcdcb252dfe89c16f392_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">a0b6e8ef84f03263ba984304ef0e410f</span><span class="informations">1080×1270 108 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/bump-in-the-dark-cold-iron-blues/8632">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/bump-in-the-dark-cold-iron-blues/8632</link>
+          <pubDate>Wed, 08 Mar 2023 00:30:55 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8632</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/bump-in-the-dark-cold-iron-blues/8632.rss">Bump in the Dark: Cold Iron Blues</source>
+        </item>
+        <item>
+          <title>Hearts of Wulin Basic Moves</title>
+          <dc:creator><![CDATA[@Airk]]></dc:creator>
+          <category>Gauntlet Publishing</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/airk">@Airk</a> wrote:</p>
+            <blockquote>
+              <p>I was listening to the Talking Hearts of Wulin recording, and looking at the handouts and was reminded of something I found a while ago but didn’t comment on.</p>
+<p>This is Comfort and Support from the book:<br>
+COMFORT &amp; SUPPORT<br>
+When you assist a fellow PC, roll.<br>
+ON A HIT, you lift them up: they may choose to give you a Bond with them or clear a marked Element.<br>
+ON A 10+, you may also clear an Element yourself, ask them a question they must answer, or give them a Bond with you.<br>
+In a scene, you may use this move to aid someone before or after a roll. Spend a Bond you just created with them to give them a +1 to their roll.</p>
+<p>This is Comfort and support from both the Core Moves and Core Moves (Printer Friendly) handouts:<br>
+When you assist a fellow PC, roll.<br>
+On a hit you lift them up: they may choose to give you a Bond with them or clear a marked Element.<br>
+<strong>On a 7-9</strong> you may also clear an Element yourself, ask them a question they must answer, give them a Bond with you, or gain +1 Influence (Courtly).<br>
+In a scene, you may use this move to aid someone before or after a roll. Spend a Bond you just created with them to give them a +1 to their roll</p>
+<p>Bolding mine.</p>
+<p>It seems to me like this is probably just an error in the handouts, but since it’s been around for a while now (I downloaded the most recent copy of the Core Moves from DTRPG just to check) so I thought I’d try to bring it to someone’s attention.</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/hearts-of-wulin-basic-moves/8631">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/hearts-of-wulin-basic-moves/8631</link>
+          <pubDate>Tue, 07 Mar 2023 01:36:07 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8631</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/hearts-of-wulin-basic-moves/8631.rss">Hearts of Wulin Basic Moves</source>
+        </item>
+  </channel>
+</rss>

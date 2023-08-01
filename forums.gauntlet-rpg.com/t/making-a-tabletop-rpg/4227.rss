@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Making A TableTop RPG</title>
+    <link>https://forums.gauntlet-rpg.com/t/making-a-tabletop-rpg/4227</link>
+    <description>
+
+DISCLAIMER:This is very long, please bare with me.
+
+Hello. I am new to this,but found it while 
+searching for sources to present my ideas for critique. I am fairly new to world of RPGs, having only played around four D&amp;D campaigns and DM’ing three, but I love it. I have been brainstorming ideas for a personal Tabletop RPG, one that I could play with friends that helped streamline the difficulty curve of D&amp;D while still  leaving room for innovation and strategic gameplay. Now keep in mind that I am basically a novice in this hobby, so I am looking for help and suggestions. This is currently what I have written down-
+
+Dice are restricted to 1d6. A basic role for an attack or a skill check is a 1d6, with successes on 5 or 6.  Advantage in skill checks or proficiency in weapons are a 2d6.  Advantage adds a dice, while disadvantage removes one( if the player roles with disadvantage on a single die, the success is instead restricted to only 6)
+
+two main resources: hit points and stamina.
+
+Basic attacks do one to two point of damage, so health would all be lowered to hopefully contribute to easier combat.
+
+There would be no “true” skills checks or points, this is important for combat.
+
+I’m combat, a player has two actions per round. There are five main combat actions: Attack,Heavy Attack,Focus/Prime, Move, and Evade.  
+
+Attacking allows the player to attack for one hit point of damage.
+
+Heavy attacking allows the player to use up stamina for 2 hit points of damage.
+
+Focusing/Priming increases the chances of hitting, changing of success of a bit to 4,5,6 instead.
+
+Moving allows the player to move up to the maximum distance of their movement speed.
+
+Evading allows the player to role a 1d6 against an attack. On a 5 or a 6, they avoid the attack.
+
+Stamina is a resource used to preform heavy attacks and abilities(Stamina would be considered “mana” for spellcasters). Stamina replenishes each day. If the player runs out of stamina, they become exhausted and suffer disadvantage on all roles.
+
+Health is the amount of damage you can take until you die. There would be no conventional armor class. When dropping to zero hit points, you reach a “bleeding out” state. When you bleed out, you gain half of your hp as a “death timer” of sorts. Each turn drains one hit point, finally killing you when your “death timer” reaches zero. The player is rendered unconscious in this state, and taking damage removes the specified amount of damage from the death timer.
+
+Initiative would work similar to D&amp;D, but with each player rolling two dice and using the sum as their initiative score. (Disadvantage would be one dice, with advantage being two, respectively)
+
+Weapons do not have unique damage numbers, but are categorized by four types: Light Melee, Heavy Melee, Light Range, and Heavy Range.
+Melee weapons are used in melee range, and Ranged weapons are used for long range. Mailing an attack role with melee weapons long ranged will cause it to be rolled with disadvantage(The weapon will be thrown and will be required to be picked up unless otherwise noted) and vise versa with ranged weapons melee range.  The differences between each weapon are more focused on the unique traits the have. For example, a sword may be more well rounded, while a glaive could remove the disadvantage imposed when using it from range.
+
+Spells would be more focused around status effects.  These are the possible status effects that could be implemented into spells:
+-poisoned
+-blinded
+-restrained
+-charmed
+-grappled
+-paralyzed
+-prone
+-stunned
+-unconscious
+-asleep
+-frozen
+-burning 
+These spells would cost stamina(mana), and would be the spellcasters’  main source of utility and damage. Spells would require being primed before being cast.  There are three main categories of spells:
+-Cantrips(name still in consideration)
+-Blessings
+-Curses
+Cantrips would encompass the idea of powerful, dangerous magic. These would be the damaging spells.
+Blessings would encompass the idea of revitalizing, tender magic. These would be the healing spells.
+Curses would encompass the idea of draining, rotting magic. These would be the debuffing spells.
+
+The class system would be changed pretty dramatically, to leave room for more customization. It would be easier to pick up and less complex at the beginning. The classes would be divided into five main classes, each one branching into multiple subclasses. These classes would be mainly differentiated for newer players by the health to stamina ratio:
+ 
+Spellcaster- very low health, very high stamina(mana)
+
+Rouge- low health, high stamina 
+
+Fighter- equal parts health to stamina
+
+Priest- high health, low stamina(mana)
+
+Tank(?)- very high health, very low stamina
+
+Each class would have their own proficiencies in certain weapon types as well:
+
+-Spellcaster- Light Ranged, Heavy Ranged
+
+-Rouge- Light Melee, Light Ranged
+
+-Fighter- Heavy Melee, Heavy Ranged 
+
+-Priest- Heavy Ranged, Light Melee
+
+-Tank(?)- Heavy Melee, Light Ranged 
+
+Each class would branch off into skill trees, with their subclasses representing different types/roles of the class. For example, the rouge class may branch off to a silent assassin, or a deadly ranger.  
+These skill trees would be similar in style to the ones from Dragon Age:Inquisition, with a mix of both passives and abilities in the tree. For example, a skill for an assassin could be the ability to spend stamina in order to dash and attack a short distance, while a passive could be gaining advantage to attacks made from behind a enemy.  
+
+
+These are the main ideas I have, and I would greatly appreciate any help or ideas. This is really open and I am looking for some honest critique at the logistics of the systems and such. Thank you in advance.</description>
+    
+    <lastBuildDate>Fri, 27 Dec 2019 19:45:28 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/making-a-tabletop-rpg/4227.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Making A TableTop RPG</title>
+        <dc:creator><![CDATA[@NoGoodAlias]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/nogoodalias">@NoGoodAlias</a> wrote:</p>
+          <blockquote>
+              <p>Thank you so much for this reply! It’s extremely helpful</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/making-a-tabletop-rpg/4227/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/making-a-tabletop-rpg/4227/8</link>
+        <pubDate>Fri, 27 Dec 2019 19:45:28 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4227-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/making-a-tabletop-rpg/4227.rss">Making A TableTop RPG</source>
+      </item>
+      <item>
+        <title>Making A TableTop RPG</title>
+        <dc:creator><![CDATA[@NoGoodAlias]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/nogoodalias">@NoGoodAlias</a> wrote:</p>
+          <blockquote>
+              <p>Thanks for the references, I’ll be sure to look into them all!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/making-a-tabletop-rpg/4227/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/making-a-tabletop-rpg/4227/7</link>
+        <pubDate>Fri, 27 Dec 2019 19:42:56 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4227-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/making-a-tabletop-rpg/4227.rss">Making A TableTop RPG</source>
+      </item>
+      <item>
+        <title>Making A TableTop RPG</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>You already know a bit what you want, which you already described (simple rules, combat fun). Where you will benefit from reading other games is that it shows you merely define your game by the negative, regarding what you know of DnD.<br>
+The base system you describe for combat can be used for any resolution, with normal and heavy lockpicing sets, mage wand, etc. and you can find something similar in Blades in the Dark and FitD games, an evolution of PbtA games.<br>
+For the tactical choices you want, Anima Prime, does very much that.<br>
+The way you treat death as a counterweight to combat fun, I say you also want to read Torchbearer.<br>
+And regarding setting, tone, etc. why not check M. OConnor’s Goblinville, to see how a combination of mechanics similar to these can be given an unique flavour ?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/making-a-tabletop-rpg/4227/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/making-a-tabletop-rpg/4227/6</link>
+        <pubDate>Fri, 27 Dec 2019 19:26:54 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4227-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/making-a-tabletop-rpg/4227.rss">Making A TableTop RPG</source>
+      </item>
+      <item>
+        <title>Making A TableTop RPG</title>
+        <dc:creator><![CDATA[@dominik]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dominik">@dominik</a> wrote:</p>
+          <blockquote>
+              <p>Welcome to the board. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>What you have here is probably what a lot of us did with the very first design: take what’s familiar and tweak it. This is perfectly fine and valid approach and a lot of great products come to life like that. What I feel may be missing here is familiarity with other games which <a class="mention" href="/u/jacob_wood">@Jacob_Wood</a> mentioned.</p>
+<p>I’m not going to say which games you should try and I’m not even sure if his list is correct or not. This is because what I think is missing from your description is what you’re trying to achieve with your game.</p>
+<p>You could try and go with more dramatic or narrative approach as others suggested but it’s hard to tell if that fits your needs without some more info from you.</p>
+<p>Let’s say you want a spin on D&amp;D, but what is the purpose of this spin? What do you want to emphasize when players meet at table? What behavior do you want to reward? Do you want this game to be about dungeon exploration or about travel? Do you want it to be deadly or casual? Heavy on interpersonal drama or action? And if, say, you want it to be action oriented - what kind of action would that be? It can be about working against clock, personal limitations, small or large groups of enemies. It can be crunchy (rules heavy) or freeform or cinematic.</p>
+<p>Answering “is this mechanic fine?” is impossible w/o answering “fine for what?” first. And this is what I think is missing here.</p>
+<p>Because things like initiative (or lack of it) determine if there’s any strategy in selecting types of moves. Movement isn’t always needed, perhaps you need positioning (relative) and movement is not what you should be designing. Systems interact and build certain feeling. You should probably identify this feeling first.</p>
+<p>The easiest way to do that would probably involve references to other artifacts of culture. GoT is different than LotR yet both are fantasy. What are the books, movies, etc. you like and why you want them to be represented in your game? Which features are important? How you want them to translate into mechanics?</p>
+<p>This is how I would approach game building. It’s yet another way to do things, not the best, not the worst, just a way. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"> Once you identify what would contribute to the feeling you’re aiming for, there are tons of resources here and elsewhere for each subsystem you may want to incorporate. Read those threads and resurrect them for discussion.</p>
+<p>Have fun!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/making-a-tabletop-rpg/4227/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/making-a-tabletop-rpg/4227/5</link>
+        <pubDate>Fri, 27 Dec 2019 18:52:35 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4227-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/making-a-tabletop-rpg/4227.rss">Making A TableTop RPG</source>
+      </item>
+      <item>
+        <title>Making A TableTop RPG</title>
+        <dc:creator><![CDATA[@Jacob_Wood]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jacob_wood">@Jacob_Wood</a> wrote:</p>
+          <blockquote>
+              <p>Welcome to the forums, and to the hobby in general!</p>
+<p>First, I find it encouraging that you’ve fallen in love so much with TTRPGs that it sparked some creativity within you. I also think it’s great that you’re following a passion to design something new.</p>
+<p>I’m going to avoid critiquing the mechanics you put forth for now, because early game builds always tend to go through several iterations before they really take shape. My recommendation would be to just try playing with them a little bit and see if they work for you before you start looking for ways to adjust them.</p>
+<p>With that said, there are a few other things you can do to help improve your game design chops. Most importantly: read (and hopefully play) more games. Take a look at some of the other games out there and see what they’re doing. You’ll notice there’s a lot of variance from D&amp;D, and seeing how other games do things might help you gain an understanding of your own designs.</p>
+<p>Noteably, I recommend checking out:</p>
+<ul>
+<li>Apocalypse World (or other Powered by the Apocalypse games, which you’ll see abbreviated as PbtA).</li>
+<li>Dungeon World (a fantasy-themed PbtA variant)<br>
+F* udge (a free universal system)</li>
+<li>Fate Core (built with a Fudge foundation, but now something completely different; this is a great way to see how ideas can evolve and separate from a core design principle)</li>
+</ul>
+<p>You can read about the core designs of many of these for free through an Open  Gaming License. Check out the rules for many of these and other games at <a href="http://www.opengamingnetwork.com" rel="nofollow noopener">http://www.opengamingnetwork.com</a></p>
+<p>You can also learn a lot about RPG design theory by listening to episodes of the RPG Design Panelcast. Just Google that term and you should find it. It’s a podcast of recorded game industry-related panels that have been given at various conventions over the years.</p>
+<p>This may be a bit much to dive into if you’re just trying to get your feet wet. At a minimum though, you definitely would do yourself a favor to start learning other games before really setting down on a design.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/making-a-tabletop-rpg/4227/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/making-a-tabletop-rpg/4227/4</link>
+        <pubDate>Fri, 27 Dec 2019 15:55:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4227-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/making-a-tabletop-rpg/4227.rss">Making A TableTop RPG</source>
+      </item>
+      <item>
+        <title>Making A TableTop RPG</title>
+        <dc:creator><![CDATA[@NoGoodAlias]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/nogoodalias">@NoGoodAlias</a> wrote:</p>
+          <blockquote>
+              <p>ok, thank you so much!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/making-a-tabletop-rpg/4227/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/making-a-tabletop-rpg/4227/3</link>
+        <pubDate>Fri, 27 Dec 2019 02:21:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4227-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/making-a-tabletop-rpg/4227.rss">Making A TableTop RPG</source>
+      </item>
+      <item>
+        <title>Making A TableTop RPG</title>
+        <dc:creator><![CDATA[@Gus.L]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gus.l">@Gus.L</a> wrote:</p>
+          <blockquote>
+              <p>So it seems like you have a fairly simple combat system here, the sort of thing that one sets up for a simple CRPG with rock-paper-scissors mechanics.  One of the things about table top games as opposed CRPGs is that they aren’t as good at mechanical complexity (complex mechanics take longer to sort out among people), but they tend to be better at roleplay and storytelling (because the setting or NPC responses don’t have to be written in and can evolve naturally in response to any player decision).</p>
+<p>You may want to ask yourself what your setting is and how you want people to play your game?  From the bit you have it sounds like fairly generic high fantasy (goblins, elves, dragons, and castles) - there’s a lot of systems and settings that do that, what does yours bring that’s different?  It might be worth taking some time to think about the kind of games and stories you want to play before focusing on the mechanics.  Mechanics without setting tend to remain a bit nebulous and theoretical - because one is looking at how they fit in with other mechanics rather then what sort of story they help tell or what sort of experience they deliver.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/making-a-tabletop-rpg/4227/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/making-a-tabletop-rpg/4227/2</link>
+        <pubDate>Thu, 26 Dec 2019 23:41:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4227-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/making-a-tabletop-rpg/4227.rss">Making A TableTop RPG</source>
+      </item>
+      <item>
+        <title>Making A TableTop RPG</title>
+        <dc:creator><![CDATA[@NoGoodAlias]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/nogoodalias">@NoGoodAlias</a> wrote:</p>
+          <blockquote>
+              <p>DISCLAIMER:This is very long, please bare with me.</p>
+<p>Hello. I am new to this,but found it while<br>
+searching for sources to present my ideas for critique. I am fairly new to world of RPGs, having only played around four D&amp;D campaigns and DM’ing three, but I love it. I have been brainstorming ideas for a personal Tabletop RPG, one that I could play with friends that helped streamline the difficulty curve of D&amp;D while still  leaving room for innovation and strategic gameplay. Now keep in mind that I am basically a novice in this hobby, so I am looking for help and suggestions. This is currently what I have written down-</p>
+<p>Dice are restricted to 1d6. A basic role for an attack or a skill check is a 1d6, with successes on 5 or 6.  Advantage in skill checks or proficiency in weapons are a 2d6.  Advantage adds a dice, while disadvantage removes one( if the player roles with disadvantage on a single die, the success is instead restricted to only 6)</p>
+<p>two main resources: hit points and stamina.</p>
+<p>Basic attacks do one to two point of damage, so health would all be lowered to hopefully contribute to easier combat.</p>
+<p>There would be no “true” skills checks or points, this is important for combat.</p>
+<p>I’m combat, a player has two actions per round. There are five main combat actions: Attack,Heavy Attack,Focus/Prime, Move, and Evade.</p>
+<p>Attacking allows the player to attack for one hit point of damage.</p>
+<p>Heavy attacking allows the player to use up stamina for 2 hit points of damage.</p>
+<p>Focusing/Priming increases the chances of hitting, changing of success of a bit to 4,5,6 instead.</p>
+<p>Moving allows the player to move up to the maximum distance of their movement speed.</p>
+<p>Evading allows the player to role a 1d6 against an attack. On a 5 or a 6, they avoid the attack.</p>
+<p>Stamina is a resource used to preform heavy attacks and abilities(Stamina would be considered “mana” for spellcasters). Stamina replenishes each day. If the player runs out of stamina, they become exhausted and suffer disadvantage on all roles.</p>
+<p>Health is the amount of damage you can take until you die. There would be no conventional armor class. When dropping to zero hit points, you reach a “bleeding out” state. When you bleed out, you gain half of your hp as a “death timer” of sorts. Each turn drains one hit point, finally killing you when your “death timer” reaches zero. The player is rendered unconscious in this state, and taking damage removes the specified amount of damage from the death timer.</p>
+<p>Initiative would work similar to D&amp;D, but with each player rolling two dice and using the sum as their initiative score. (Disadvantage would be one dice, with advantage being two, respectively)</p>
+<p>Weapons do not have unique damage numbers, but are categorized by four types: Light Melee, Heavy Melee, Light Range, and Heavy Range.<br>
+Melee weapons are used in melee range, and Ranged weapons are used for long range. Mailing an attack role with melee weapons long ranged will cause it to be rolled with disadvantage(The weapon will be thrown and will be required to be picked up unless otherwise noted) and vise versa with ranged weapons melee range.  The differences between each weapon are more focused on the unique traits the have. For example, a sword may be more well rounded, while a glaive could remove the disadvantage imposed when using it from range.</p>
+<p>Spells would be more focused around status effects.  These are the possible status effects that could be implemented into spells:<br>
+-poisoned<br>
+-blinded<br>
+-restrained<br>
+-charmed<br>
+-grappled<br>
+-paralyzed<br>
+-prone<br>
+-stunned<br>
+-unconscious<br>
+-asleep<br>
+-frozen<br>
+-burning<br>
+These spells would cost stamina(mana), and would be the spellcasters’  main source of utility and damage. Spells would require being primed before being cast.  There are three main categories of spells:<br>
+-Cantrips(name still in consideration)<br>
+-Blessings<br>
+-Curses<br>
+Cantrips would encompass the idea of powerful, dangerous magic. These would be the damaging spells.<br>
+Blessings would encompass the idea of revitalizing, tender magic. These would be the healing spells.<br>
+Curses would encompass the idea of draining, rotting magic. These would be the debuffing spells.</p>
+<p>The class system would be changed pretty dramatically, to leave room for more customization. It would be easier to pick up and less complex at the beginning. The classes would be divided into five main classes, each one branching into multiple subclasses. These classes would be mainly differentiated for newer players by the health to stamina ratio:</p>
+<p>Spellcaster- very low health, very high stamina(mana)</p>
+<p>Rouge- low health, high stamina</p>
+<p>Fighter- equal parts health to stamina</p>
+<p>Priest- high health, low stamina(mana)</p>
+<p>Tank(?)- very high health, very low stamina</p>
+<p>Each class would have their own proficiencies in certain weapon types as well:</p>
+<p>-Spellcaster- Light Ranged, Heavy Ranged</p>
+<p>-Rouge- Light Melee, Light Ranged</p>
+<p>-Fighter- Heavy Melee, Heavy Ranged</p>
+<p>-Priest- Heavy Ranged, Light Melee</p>
+<p>-Tank(?)- Heavy Melee, Light Ranged</p>
+<p>Each class would branch off into skill trees, with their subclasses representing different types/roles of the class. For example, the rouge class may branch off to a silent assassin, or a deadly ranger.<br>
+These skill trees would be similar in style to the ones from Dragon Age:Inquisition, with a mix of both passives and abilities in the tree. For example, a skill for an assassin could be the ability to spend stamina in order to dash and attack a short distance, while a passive could be gaining advantage to attacks made from behind a enemy.</p>
+<p>These are the main ideas I have, and I would greatly appreciate any help or ideas. This is really open and I am looking for some honest critique at the logistics of the systems and such. Thank you in advance.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/making-a-tabletop-rpg/4227/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/making-a-tabletop-rpg/4227/1</link>
+        <pubDate>Thu, 26 Dec 2019 23:10:52 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4227-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/making-a-tabletop-rpg/4227.rss">Making A TableTop RPG</source>
+      </item>
+  </channel>
+</rss>

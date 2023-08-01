@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Blue Dot Not Appearing Since Site Ported</title>
+    <link>https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949</link>
+    <description>Since the site was ported this week, I&#39;ve noticed that the blue &quot;unread&quot; dots don&#39;t appear in the posts anymore. This includes posts made since the port. Hopefully this can be fixed?</description>
+    
+    <lastBuildDate>Sun, 17 Nov 2019 14:23:37 +0000</lastBuildDate>
+    <category>Site Feedback</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Blue Dot Not Appearing Since Site Ported</title>
+        <dc:creator><![CDATA[@Christo]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/christo">@Christo</a> wrote:</p>
+          <blockquote>
+              <p>Thanks for doing the research. So strange: I could have sworn it did it in mobile.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/18</link>
+        <pubDate>Sun, 17 Nov 2019 14:23:37 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3949-18</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949.rss">Blue Dot Not Appearing Since Site Ported</source>
+      </item>
+      <item>
+        <title>Blue Dot Not Appearing Since Site Ported</title>
+        <dc:creator><![CDATA[@dominik]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dominik">@dominik</a> wrote:</p>
+          <blockquote>
+              <p>For reference desktop:</p>
+<aside class="onebox githubblob">
+  <header class="source">
+      <a href="https://github.com/discourse/discourse/blob/397852a9a62d9caef4e6afde11a6e58a7ddbf908/app/assets/stylesheets/desktop/topic-post.scss#L820" target="_blank" rel="nofollow noopener">github.com</a>
+  </header>
+  <article class="onebox-body">
+    <h4><a href="https://github.com/discourse/discourse/blob/397852a9a62d9caef4e6afde11a6e58a7ddbf908/app/assets/stylesheets/desktop/topic-post.scss#L820" target="_blank" rel="nofollow noopener">discourse/discourse/blob/397852a9a62d9caef4e6afde11a6e58a7ddbf908/app/assets/stylesheets/desktop/topic-post.scss#L820</a></h4>
+<pre class="onebox"><code class="lang-scss"><ol class="start lines" start="810" style="counter-reset: li-counter 809 ;">
+<li>}</li>
+<li>
+</li>
+<li>span.highlighted {</li>
+<li>  background-color: $tertiary-low;</li>
+<li>}</li>
+<li>
+</li>
+<li>.first.new-user:not(.staff) a {</li>
+<li>  color: $primary-low-mid;</li>
+<li>}</li>
+<li>
+</li>
+<li class="selected">.read-state {</li>
+<li>  position: absolute;</li>
+<li>  // We use absolute positioning here because we want it to display in the padding</li>
+<li>  align-self: center;</li>
+<li>  color: $tertiary-medium;</li>
+<li>  right: 0;</li>
+<li>  font-size: 0.571em;</li>
+<li>}</li>
+<li>
+</li>
+<li>.read-state.read {</li>
+<li>  visibility: hidden;</li>
+</ol></code></pre>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>and mobile:</p>
+<aside class="onebox githubblob">
+  <header class="source">
+      <a href="https://github.com/discourse/discourse/blob/397852a9a62d9caef4e6afde11a6e58a7ddbf908/app/assets/stylesheets/mobile/topic-post.scss#L463" target="_blank" rel="nofollow noopener">github.com</a>
+  </header>
+  <article class="onebox-body">
+    <h4><a href="https://github.com/discourse/discourse/blob/397852a9a62d9caef4e6afde11a6e58a7ddbf908/app/assets/stylesheets/mobile/topic-post.scss#L463" target="_blank" rel="nofollow noopener">discourse/discourse/blob/397852a9a62d9caef4e6afde11a6e58a7ddbf908/app/assets/stylesheets/mobile/topic-post.scss#L463</a></h4>
+<pre class="onebox"><code class="lang-scss"><ol class="start lines" start="453" style="counter-reset: li-counter 452 ;">
+<li>.username.new-user a {</li>
+<li>  color: $primary-low-mid;</li>
+<li>}</li>
+<li>
+</li>
+<li>.user-title {</li>
+<li>  color: $primary-medium;</li>
+<li>  overflow: hidden;</li>
+<li>  margin-right: 50px;</li>
+<li>}</li>
+<li>
+</li>
+<li class="selected">.read-state {</li>
+<li>  display: none;</li>
+<li>}</li>
+<li>
+</li>
+<li>.signup-cta {</li>
+<li>  margin-left: auto;</li>
+<li>  margin-right: auto;</li>
+<li>  width: calc(100% - 50px);</li>
+<li>  a {</li>
+<li>    margin-top: 7px;</li>
+<li>  }</li>
+</ol></code></pre>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>Based on the code history it’s been like this at least since July 2014.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/17</link>
+        <pubDate>Sun, 17 Nov 2019 12:40:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3949-17</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949.rss">Blue Dot Not Appearing Since Site Ported</source>
+      </item>
+      <item>
+        <title>Blue Dot Not Appearing Since Site Ported</title>
+        <dc:creator><![CDATA[@dominik]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dominik">@dominik</a> wrote:</p>
+          <blockquote>
+              <p>So I checked and mobile gets a different stylesheet than desktop. Desktop has .read-state class visible (and color set to blue with SVG circle inside), mobile doesn’t. That’s why you’re not seeing it on mobile. I don’t have tablet to test it on so I don’t know what styles are loaded there but it’s probably desktop, that’s why you see blue dot there. It’s not resolution dependent as developer tools on desktop with low res emulation still get desktop stylesheets served. Site owners can probably overwrite it but given how tight everything is on mobile, I don’t think there’s space for that.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/16</link>
+        <pubDate>Sun, 17 Nov 2019 12:24:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3949-16</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949.rss">Blue Dot Not Appearing Since Site Ported</source>
+      </item>
+      <item>
+        <title>Blue Dot Not Appearing Since Site Ported</title>
+        <dc:creator><![CDATA[@Christo]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/christo">@Christo</a> wrote:</p>
+          <blockquote>
+              <p>Ok, now I see the blue dots on my tablet, but not my phone. Both are Android devices.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/15</link>
+        <pubDate>Sun, 17 Nov 2019 04:28:27 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3949-15</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949.rss">Blue Dot Not Appearing Since Site Ported</source>
+      </item>
+      <item>
+        <title>Blue Dot Not Appearing Since Site Ported</title>
+        <dc:creator><![CDATA[@Robert]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/robert">@Robert</a> wrote:</p>
+          <blockquote>
+              <p>Interesting… out of curiosity, I also tried checking a few other Discourse-powered forums (Waypoint, Discourse Meta) and I’m not seeing any blue dots for unread posts there either. I can’t be sure as to the version of the forum software those sites are running, but we’re currently on the latest version as we did upgrade as part of the migration.</p>
+<p>I’ll keep looking into this and maybe see if I can restore locally on an older version to see if it’s a hidden change in the newest build.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/14</link>
+        <pubDate>Tue, 12 Nov 2019 23:54:42 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3949-14</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949.rss">Blue Dot Not Appearing Since Site Ported</source>
+      </item>
+      <item>
+        <title>Blue Dot Not Appearing Since Site Ported</title>
+        <dc:creator><![CDATA[@Christo]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/christo">@Christo</a> wrote:</p>
+          <blockquote>
+              <p>I’m in my mobile using Chrome and don’t see the dots. Have not tested on desktop.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/13</link>
+        <pubDate>Tue, 12 Nov 2019 23:31:04 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3949-13</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949.rss">Blue Dot Not Appearing Since Site Ported</source>
+      </item>
+      <item>
+        <title>Blue Dot Not Appearing Since Site Ported</title>
+        <dc:creator><![CDATA[@Robert]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/robert">@Robert</a> wrote:</p>
+          <blockquote>
+              <p>I can see the dots on the desktop version, but I see no dots in mobile either. Has anyone else tried to reproduce this in a mobile browser and/or can anyone else confirm that it was working before on mobile?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/12</link>
+        <pubDate>Tue, 12 Nov 2019 23:28:49 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3949-12</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949.rss">Blue Dot Not Appearing Since Site Ported</source>
+      </item>
+      <item>
+        <title>Blue Dot Not Appearing Since Site Ported</title>
+        <dc:creator><![CDATA[@SabineV5]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/sabinev5">@SabineV5</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/christo">@Christo</a>: Thanks for the clarification - I still see the dots, but they fade fairly quickly.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/11</link>
+        <pubDate>Tue, 12 Nov 2019 21:04:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3949-11</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949.rss">Blue Dot Not Appearing Since Site Ported</source>
+      </item>
+      <item>
+        <title>Blue Dot Not Appearing Since Site Ported</title>
+        <dc:creator><![CDATA[@dominik]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dominik">@dominik</a> wrote:</p>
+          <blockquote>
+              <p>It’s still there for me.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/6/60050bd03d2f7f81db6b71177ec3df94cc94bb4b.png" data-download-href="/uploads/short-url/dHqEcLj3aM2bLA5f1l0JzgZf9Dt.png?dl=1" title="" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/6/60050bd03d2f7f81db6b71177ec3df94cc94bb4b.png" alt data-base62-sha1="dHqEcLj3aM2bLA5f1l0JzgZf9Dt" width="690" height="134" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/6/60050bd03d2f7f81db6b71177ec3df94cc94bb4b_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename"></span><span class="informations">820×160 4.92 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/10</link>
+        <pubDate>Tue, 12 Nov 2019 21:04:24 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3949-10</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949.rss">Blue Dot Not Appearing Since Site Ported</source>
+      </item>
+      <item>
+        <title>Blue Dot Not Appearing Since Site Ported</title>
+        <dc:creator><![CDATA[@dominik]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dominik">@dominik</a> wrote:</p>
+          <blockquote>
+              <p>I don’t pay attention to the dot but it did exist, true. I’ll see if it’s still there when I get next notification. Fading out still happens to me.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/9</link>
+        <pubDate>Tue, 12 Nov 2019 20:58:04 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3949-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949.rss">Blue Dot Not Appearing Since Site Ported</source>
+      </item>
+      <item>
+        <title>Blue Dot Not Appearing Since Site Ported</title>
+        <dc:creator><![CDATA[@Christo]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/christo">@Christo</a> wrote:</p>
+          <blockquote>
+              <p>No, Sabine, not that kind of blue dot. I mean once you’ve clicked a topic it used to show the blue dots near the timestamp (e.g. 6d) to indicate ‘hey, you haven’t read this reply to the topic yet.’ Then while the dot is on your screen it will gradually fade because you have had the reply on your screen long enough to read it. <div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/5/5c60ea3618264e61a74859b1fb1ca88699b36c48.jpeg" data-download-href="/uploads/short-url/dbdz7vUwyECvheDvGtnBEtaJg3S.jpeg?dl=1" title="Screenshot_20191112-154132"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/5c60ea3618264e61a74859b1fb1ca88699b36c48_2_236x500.jpeg" alt="Screenshot_20191112-154132" data-base62-sha1="dbdz7vUwyECvheDvGtnBEtaJg3S" width="236" height="500" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/5c60ea3618264e61a74859b1fb1ca88699b36c48_2_236x500.jpeg, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/5c60ea3618264e61a74859b1fb1ca88699b36c48_2_354x750.jpeg 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/5c60ea3618264e61a74859b1fb1ca88699b36c48_2_472x1000.jpeg 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/5c60ea3618264e61a74859b1fb1ca88699b36c48_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Screenshot_20191112-154132</span><span class="informations">970×2048 445 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/8</link>
+        <pubDate>Tue, 12 Nov 2019 20:45:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3949-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949.rss">Blue Dot Not Appearing Since Site Ported</source>
+      </item>
+      <item>
+        <title>Blue Dot Not Appearing Since Site Ported</title>
+        <dc:creator><![CDATA[@SabineV5]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/sabinev5">@SabineV5</a> wrote:</p>
+          <blockquote>
+              <p>Just for clarification: Do you mean this kind of blue dot:<br>
+<img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/5/528c3c1fcc1fabc6c3fe22a335020e1ff368f75e.jpeg" alt="blue%20dot" data-base62-sha1="bMfBtesMyP36DyUwgLUF2SGgqvk" width="466" height="191"></p>
+<p>I’m using Firefox here, maybe it’s a browser thing?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/7</link>
+        <pubDate>Tue, 12 Nov 2019 20:40:41 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3949-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949.rss">Blue Dot Not Appearing Since Site Ported</source>
+      </item>
+      <item>
+        <title>Blue Dot Not Appearing Since Site Ported</title>
+        <dc:creator><![CDATA[@dominik]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dominik">@dominik</a> wrote:</p>
+          <blockquote>
+              <p>Most likely we’re all talking about different things. <a class="mention" href="/u/christo">@Christo</a>, can you post a sample screenshot with “dot should be here” drawn over?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/6</link>
+        <pubDate>Tue, 12 Nov 2019 19:22:31 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3949-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949.rss">Blue Dot Not Appearing Since Site Ported</source>
+      </item>
+      <item>
+        <title>Blue Dot Not Appearing Since Site Ported</title>
+        <dc:creator><![CDATA[@technoskald]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/technoskald">@technoskald</a> wrote:</p>
+          <blockquote>
+              <p>Works here as well. Maybe something changed in your browser config?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/5</link>
+        <pubDate>Tue, 12 Nov 2019 19:14:58 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3949-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949.rss">Blue Dot Not Appearing Since Site Ported</source>
+      </item>
+      <item>
+        <title>Blue Dot Not Appearing Since Site Ported</title>
+        <dc:creator><![CDATA[@funkaoshi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/funkaoshi">@funkaoshi</a> wrote:</p>
+          <blockquote>
+              <p>Seems to be working fine for me.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/4</link>
+        <pubDate>Tue, 12 Nov 2019 19:00:14 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3949-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949.rss">Blue Dot Not Appearing Since Site Ported</source>
+      </item>
+      <item>
+        <title>Blue Dot Not Appearing Since Site Ported</title>
+        <dc:creator><![CDATA[@Christo]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/christo">@Christo</a> wrote:</p>
+          <blockquote>
+              <p>Interesting. I only see the blue dots in the lists of topics, not when you open a topic and have new replies.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/3</link>
+        <pubDate>Tue, 12 Nov 2019 18:03:31 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3949-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949.rss">Blue Dot Not Appearing Since Site Ported</source>
+      </item>
+      <item>
+        <title>Blue Dot Not Appearing Since Site Ported</title>
+        <dc:creator><![CDATA[@dominik]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dominik">@dominik</a> wrote:</p>
+          <blockquote>
+              <p>FWIW this works for me as it did before so it’s not an universal problem. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/frowning.png?v=9" title=":frowning:" class="emoji" alt=":frowning:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/2</link>
+        <pubDate>Tue, 12 Nov 2019 18:01:54 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3949-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949.rss">Blue Dot Not Appearing Since Site Ported</source>
+      </item>
+      <item>
+        <title>Blue Dot Not Appearing Since Site Ported</title>
+        <dc:creator><![CDATA[@Christo]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/christo">@Christo</a> wrote:</p>
+          <blockquote>
+              <p>Since the site was ported this week, I’ve noticed that the blue “unread” dots don’t appear in the posts anymore. This includes posts made since the port. Hopefully this can be fixed?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949/1</link>
+        <pubDate>Tue, 12 Nov 2019 17:37:12 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3949-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/blue-dot-not-appearing-since-site-ported/3949.rss">Blue Dot Not Appearing Since Site Ported</source>
+      </item>
+  </channel>
+</rss>

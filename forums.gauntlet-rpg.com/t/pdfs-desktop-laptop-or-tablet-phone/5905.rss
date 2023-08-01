@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>PDFs: Desktop/Laptop or Tablet/Phone?</title>
+    <link>https://forums.gauntlet-rpg.com/t/pdfs-desktop-laptop-or-tablet-phone/5905</link>
+    <description>Hi Gang!
+
+I just started a poll on the Twitters to figure out how a majority of TTRPG consumers interface with PDFs... either via Desktop/Laptop or Tablet/Phone: https://twitter.com/LandNop/status/1311106689458995201
+
+Why did I structure the question as that binary? It&#39;s because I&#39;ve been exploring interactive and new features for PDF games and figuring out that some features work in the Desktop/Laptop experience and don&#39;t work on Tablet/Phone.
+
+A simple example is rollover text. Rollover text is where you move your mouse over an icon or a keyword and it shows you an instance popup with more information. It&#39;s becoming common in CRPGs, but remains uncharted territory in TTRPGs. But it doesn&#39;t work on Tablet/Phone PDFs.
+
+Anyways, I&#39;m not just asking for me, but for every designer making games, especially considering how COVID is changing how we play. Appreciate your insight and thoughts outside of the context of a poll, too. Cheers.</description>
+    
+    <lastBuildDate>Fri, 02 Oct 2020 14:26:52 +0000</lastBuildDate>
+    <category>RPG Chat</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/pdfs-desktop-laptop-or-tablet-phone/5905.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>PDFs: Desktop/Laptop or Tablet/Phone?</title>
+        <dc:creator><![CDATA[@Airk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/airk">@Airk</a> wrote:</p>
+          <blockquote>
+              <p>Sounds good to me!  Best of luck with the project!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pdfs-desktop-laptop-or-tablet-phone/5905/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pdfs-desktop-laptop-or-tablet-phone/5905/10</link>
+        <pubDate>Fri, 02 Oct 2020 14:26:52 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5905-10</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pdfs-desktop-laptop-or-tablet-phone/5905.rss">PDFs: Desktop/Laptop or Tablet/Phone?</source>
+      </item>
+      <item>
+        <title>PDFs: Desktop/Laptop or Tablet/Phone?</title>
+        <dc:creator><![CDATA[@Chad_Walker]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/chad_walker">@Chad_Walker</a> wrote:</p>
+          <blockquote>
+              <p>That makes sense. The project that inspired this poll will be PDF only, no book, so we’re doing landscape layout by design. Theoretically, it should be dope on both screens… no need to scroll up/down… just swipe left and right.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pdfs-desktop-laptop-or-tablet-phone/5905/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pdfs-desktop-laptop-or-tablet-phone/5905/9</link>
+        <pubDate>Fri, 02 Oct 2020 14:06:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5905-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pdfs-desktop-laptop-or-tablet-phone/5905.rss">PDFs: Desktop/Laptop or Tablet/Phone?</source>
+      </item>
+      <item>
+        <title>PDFs: Desktop/Laptop or Tablet/Phone?</title>
+        <dc:creator><![CDATA[@Airk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/airk">@Airk</a> wrote:</p>
+          <blockquote>
+              <p>That sounds like a good plan to me! To speak for myself, I’m always a little SURPRISED when a PDF has any fancy features, so a PDF “designed” for mobile vs “designed” for PC has little impact on my ability to use it on PC.</p>
+<p>That said, it IS nice and pretty low effort for you to make a “two page spreads” version of your PDF to make things a little more convenient for folks who consume them on widescreen monitors (basically anyone not using a mobile device these days, I think).  And I believe that should be as simple as changing the “spread” configuration in your layout software before exporting?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pdfs-desktop-laptop-or-tablet-phone/5905/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pdfs-desktop-laptop-or-tablet-phone/5905/8</link>
+        <pubDate>Fri, 02 Oct 2020 13:48:16 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5905-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pdfs-desktop-laptop-or-tablet-phone/5905.rss">PDFs: Desktop/Laptop or Tablet/Phone?</source>
+      </item>
+      <item>
+        <title>PDFs: Desktop/Laptop or Tablet/Phone?</title>
+        <dc:creator><![CDATA[@Chad_Walker]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/chad_walker">@Chad_Walker</a> wrote:</p>
+          <blockquote>
+              <p>Nope. Technical limitation. I’ve been working with Christian Nommay who did Titan effect (and it’s sweet navigation effects) and some other PDF engineering projects. While some browsers permit some effects, generally speaking, mobile just sucks for what InDesign brings to the table. We’ve been testing different design techniques on different devices and browsers to see what sticks. The only mobile “hack” that is reliable is hyperlink navigation.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pdfs-desktop-laptop-or-tablet-phone/5905/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pdfs-desktop-laptop-or-tablet-phone/5905/7</link>
+        <pubDate>Fri, 02 Oct 2020 02:09:01 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5905-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pdfs-desktop-laptop-or-tablet-phone/5905.rss">PDFs: Desktop/Laptop or Tablet/Phone?</source>
+      </item>
+      <item>
+        <title>PDFs: Desktop/Laptop or Tablet/Phone?</title>
+        <dc:creator><![CDATA[@Hopeless_Wanderer]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/hopeless_wanderer">@Hopeless_Wanderer</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/chad_walker">@Chad_Walker</a>  Does a long press on the screen have any effect on hover text?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pdfs-desktop-laptop-or-tablet-phone/5905/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pdfs-desktop-laptop-or-tablet-phone/5905/6</link>
+        <pubDate>Fri, 02 Oct 2020 02:02:37 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5905-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pdfs-desktop-laptop-or-tablet-phone/5905.rss">PDFs: Desktop/Laptop or Tablet/Phone?</source>
+      </item>
+      <item>
+        <title>PDFs: Desktop/Laptop or Tablet/Phone?</title>
+        <dc:creator><![CDATA[@Chad_Walker]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/chad_walker">@Chad_Walker</a> wrote:</p>
+          <blockquote>
+              <p>So I’ll share the insights from the poll(s)…</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/6/6c094b3fd3505f8c63a2d2c96f98f1f131979ed1.png" data-download-href="/uploads/short-url/fpJtHerhXglBSstGDljzFxpn5y9.png?dl=1" title="image" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/6/6c094b3fd3505f8c63a2d2c96f98f1f131979ed1.png" alt="image" data-base62-sha1="fpJtHerhXglBSstGDljzFxpn5y9" width="690" height="403" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/6/6c094b3fd3505f8c63a2d2c96f98f1f131979ed1_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">757×443 31.9 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/c/cf49d17b3722f1ea5e4d23b23d80e72de2574a78.png" alt="image" data-base62-sha1="tzKZsGc6b0jiyepEJPzb5pw3UBq" width="463" height="173"></p>
+<p>Basically, <em>most</em> folks interface with PDFs via desktop/laptop, but many (nearly 2/3rds as many) interface with PDFs via a mobile device. Based on the feedback here and in other places, this is due to a few factors. The sentiment I’m seeing is that people use mobile (tablet/phone) for casual reading in the living room or in bed, but also at the physical game table. People use desktop/laptop for playing online via Roll20/Discord (which makes a lot of sense). From a design perspective, this has informed me to, first, optimize a PDF for mobile delivery, period, (because it will still look/feel great on desktop/laptop), but then add the extra capabilities available to deskotp/laptop (i.e. rollover text, pop up menus, etc.) to a second PDF to be used during play.</p>
+<p>I need to emphasize that many of the creative/innovative techniques available via InDesign/etc only work on the desktop/laptop experience. For example, you can’t have rollover text (i.e. hover text) on a mobile device because you can’t “hover” your mouse over text. On mobile, it’s either you press the screen or do nothing, no in between.</p>
+<p>Anyways, I hope this is useful for folks in the design space. It certainly was for me.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pdfs-desktop-laptop-or-tablet-phone/5905/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pdfs-desktop-laptop-or-tablet-phone/5905/5</link>
+        <pubDate>Fri, 02 Oct 2020 01:17:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5905-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pdfs-desktop-laptop-or-tablet-phone/5905.rss">PDFs: Desktop/Laptop or Tablet/Phone?</source>
+      </item>
+      <item>
+        <title>PDFs: Desktop/Laptop or Tablet/Phone?</title>
+        <dc:creator><![CDATA[@Hopeless_Wanderer]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/hopeless_wanderer">@Hopeless_Wanderer</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/airk">@Airk</a> I agree with your last sentence completely.  There needs to be some kind innovation in this design space, i.e. phone, game, pdf.  But I’m not really expecting to see it happen.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pdfs-desktop-laptop-or-tablet-phone/5905/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pdfs-desktop-laptop-or-tablet-phone/5905/4</link>
+        <pubDate>Fri, 02 Oct 2020 00:51:44 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5905-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pdfs-desktop-laptop-or-tablet-phone/5905.rss">PDFs: Desktop/Laptop or Tablet/Phone?</source>
+      </item>
+      <item>
+        <title>PDFs: Desktop/Laptop or Tablet/Phone?</title>
+        <dc:creator><![CDATA[@Airk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/airk">@Airk</a> wrote:</p>
+          <blockquote>
+              <p>I can’t answer you on Twitter because I’m not there, but I am the opposite of Hopeless Wanderer.  I avoid using my phone for any tasks that don’t absolutely require it.   These days, with most of my gaming being virtual, everything gets done from a desktop PC.</p>
+<p>Prior to lockdown, the PC was still where I did most of my reading and learning, and I used a modest sized tablet for reference at the table.</p>
+<p>The only time I have used a phone for anything is when I literally forgot my tablet and had to get hold of my rules somehow. It sucked, phone screens are way too small for RPG pdfs.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pdfs-desktop-laptop-or-tablet-phone/5905/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pdfs-desktop-laptop-or-tablet-phone/5905/3</link>
+        <pubDate>Thu, 01 Oct 2020 18:26:23 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5905-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pdfs-desktop-laptop-or-tablet-phone/5905.rss">PDFs: Desktop/Laptop or Tablet/Phone?</source>
+      </item>
+      <item>
+        <title>PDFs: Desktop/Laptop or Tablet/Phone?</title>
+        <dc:creator><![CDATA[@Hopeless_Wanderer]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/hopeless_wanderer">@Hopeless_Wanderer</a> wrote:</p>
+          <blockquote>
+              <p>I use my phone for everything, even content creation–for work and play.  And almost completely ditched laptops, they’re less than 1% of my computing.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pdfs-desktop-laptop-or-tablet-phone/5905/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pdfs-desktop-laptop-or-tablet-phone/5905/2</link>
+        <pubDate>Thu, 01 Oct 2020 10:25:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5905-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pdfs-desktop-laptop-or-tablet-phone/5905.rss">PDFs: Desktop/Laptop or Tablet/Phone?</source>
+      </item>
+      <item>
+        <title>PDFs: Desktop/Laptop or Tablet/Phone?</title>
+        <dc:creator><![CDATA[@Chad_Walker]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/chad_walker">@Chad_Walker</a> wrote:</p>
+          <blockquote>
+              <p>Hi Gang!</p>
+<p>I just started a poll on the Twitters to figure out how a majority of TTRPG consumers interface with PDFs… either via Desktop/Laptop or Tablet/Phone: <a href="https://twitter.com/LandNop/status/1311106689458995201" rel="nofollow noopener">https://twitter.com/LandNop/status/1311106689458995201</a></p>
+<p>Why did I structure the question as that binary? It’s because I’ve been exploring interactive and new features for PDF games and figuring out that some features work in the Desktop/Laptop experience and don’t work on Tablet/Phone.</p>
+<p>A simple example is rollover text. Rollover text is where you move your mouse over an icon or a keyword and it shows you an instance popup with more information. It’s becoming common in CRPGs, but remains uncharted territory in TTRPGs. But it doesn’t work on Tablet/Phone PDFs.</p>
+<p>Anyways, I’m not just asking for me, but for every designer making games, especially considering how COVID is changing how we play. Appreciate your insight and thoughts outside of the context of a poll, too. Cheers.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pdfs-desktop-laptop-or-tablet-phone/5905/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pdfs-desktop-laptop-or-tablet-phone/5905/1</link>
+        <pubDate>Wed, 30 Sep 2020 01:21:13 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5905-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pdfs-desktop-laptop-or-tablet-phone/5905.rss">PDFs: Desktop/Laptop or Tablet/Phone?</source>
+      </item>
+  </channel>
+</rss>

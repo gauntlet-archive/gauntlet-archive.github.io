@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Another Way Dice Fail RPGs</title>
+    <link>https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874</link>
+    <description>The prototypical RPG mechanism is the contest and the first example given is arm wrestling.
+
+If my character has a strength of 13 and yours has a 14, yours should win, right? Your character is objectively stronger than mine, so obviously when we arm wrestle, yours wins.
+
+Except that’s not how it works. If there are 5000 RPGs with stats and dice, I would be shocked if The Internet can name 2 where that’s how it works. The rest all say “Whoa whoa whoa, sure the character with a higher strength has an advantage, and should win more on average, but there are so many other factors; and anything can happen; and uncertainty is more fun; and if the outcome is predetermined, why bother!”
+
+None of these arguments are invalid, which is a big part of why this design choice hasn’t been questioned much. But what are the arguments against?
+
+How often are these two characters going to arm wrestle? If the answer is usually once, having them each reveal their score and naming the higher the victor is a fast and intuitive resolution in the game, and serves the story well because the audience learns which of these characters was stronger.
+
+If there are factors affecting the outcome of this match, what are they? If I’m finding an extra reserve of strength because your father beat my father in arm wrestling, the audience wants to know that. If my partner is distracting you, we want to see how. If you’re fatigued, or de-motivated, or whatever, we want to feel that. Better than “roll d20 +STR” and abstract those factors, would be “choose motivations and event cards face down and simultaneously reveal to see whose final strength is higher.”
+
+D20 + STR, btw, is a joke. Even in the theoretical probabilistic mean, your character only has a 5% advantage over my character: In 40 million contests, yours will win 21 and mine will win 19. Maybe it’s not obvious that’s not enough of a difference: Suppose you have an 18 strength, the maximum possible, and I have an 11, the average: You’ll win 31 and I’ll win 9. I don’t know about you, but I will never ever win a wrestling match against Arnold Schwarzenegger.
+
+![image|500x470](upload://hoUDYuU4dZDtJk5VlIsrxxNGWxD.png)
+
+And that’s assuming every point of strength matters. There are too many games with calculated secondary stats where only every 2 or 5 points of strength actually affect contests. Collapsing modifiers is a good way to differentiate characters when the randomizer is throttled (Apocalypse World’s 2d6+stat, for instance) but actively bad in a d20 system (or percentile, heaven forbid).
+
+What about criticals? Should a 1 mean auto-fail and a max roll mean auto-success, even in the worst matchups? Yeah, sure. I agree that never having 100% certainty in a contest is better for suspense, drama, story, and fun. But you know what’s more fun than my feeble character going against your masterful character and winning because my die landed on the 20 face? My feeble character scrabbling and scheming in story-enriching ways that I as a player orchestrated.
+
+Our cause and effect reversed. Rather than roll a die representing abstract factors to see how a thing goes, make a thing go and notice whether that was a really good (like a 20), really bad (like a 1) or something in between. Maybe you make that thing go by deciding what factors are in play, or maybe its determined by the game state (including your characters stats/attributes), or maybe you just choose.
+
+What about multiple contests in sequence? AKA combat. It’s not hard to argue that even if your character is a slightly better sword fighter, even if your character is ultimately going to win the fight (barring external or extraordinary factors), the audience still wants to see an arc with multiple blows traded, with risks taken, costs paid, and surprises launched. And I don’t disagree.
+
+But in the same way I think we’ve got our cause and effect reversed in individual contests, I think there are better ways to approach combat than a series of random events. Particularly since 3-6 rolls does not begin to approach the probabilistic norm we like to imagine it does. I’ve alluded to one such system that I’m sure would be fun in combat above, so here’s another:
+
+Suppose that each character is a bundle of feelings. (They are, if your story’s any good, but suppose your game system mechanizes that.) My character is a monk: focused, optimistic, dedicated, obligated, and trained. Your character is swashbuckler: intuitive, amused, vain, unpredictable, and talented. Each round, we simultaneously choose which feeling our character is feeling and reveal them. The resolution is us as players figuring out what’s happening in this moment that’s causing our characters to feel this way now, and how that interaction plays out where we are.
+
+If I played optimistic and you played unpredictable, maybe I see you’ve forgotten to tie you shoes and go to trip you, but you swing from a chandelier, bowling me over. Of if you play unpredictable and I play optimistic, you hop on a table for no good reason and I see it’ll be easy to defeat such a sloppy opponent, tipping you off. Hmm, looks like order matters, or else some kind of priority; If the goal is to have a back-and-forth, it might literally be: this turn figure out how our cards describe me pulling, next turn, you.
+
+![image|300x225](upload://x0PYDh72XRpQqs02mTLpJmQMkFl.jpeg)
+
+Point is: Question precedent.</description>
+    
+    <lastBuildDate>Tue, 13 Oct 2020 18:55:45 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Another Way Dice Fail RPGs</title>
+        <dc:creator><![CDATA[@Gustavo_Campanelli]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gustavo_campanelli">@Gustavo_Campanelli</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="DeReel" data-post="21" data-topic="5874">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/dereel/40/3021_2.png" class="avatar"> DeReel:</div>
+<blockquote>
+<p>That’s naturalization, a form of rationalization.<br>
+Are you in a position where you have to learn, teach or somehow “sell” the rules to the players, maybe ? Because the rules, they don’t need to be “logical” to be valid.</p>
+</blockquote>
+</aside>
+<p>You are right, they don’t need to be logical, but they can be logical. Anyway, that was a way to show how I would handle that dice roll as a D20 GM, but since I don’t do d20 anymore it was more an idea about modeling it. If you don’t like it, don’t use it, it’s not for everybody because we all play these games differently.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/33">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/33</link>
+        <pubDate>Tue, 13 Oct 2020 18:55:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5874-33</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874.rss">Another Way Dice Fail RPGs</source>
+      </item>
+      <item>
+        <title>Another Way Dice Fail RPGs</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>Thank you for the gentle warning !<br>
+I apologize also for starting rambling, too. I’ll unpack a bit what I meant by : “It’s pointless (hoping that players make up their minds about drama or physics)”.<br>
+I meant it’s pointless because everyone has a right to ask even something of an ideal from a game. And for many people, what I find uncomfortable as a split (between drama and physics) IS what they want from a game. And asking that they don’t ask it is absurd.<br>
+So why do we keep reasserting what we like and don’t like? I guess, in this thread with many new faces, we’re trying to know each other, right ? Hence the feeling we’re a bit turning in circles, maybe stepping too close sometimes, and certainly drifting from OP.<br>
+I’ll open a new thread.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/32">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/32</link>
+        <pubDate>Wed, 30 Sep 2020 12:54:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5874-32</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874.rss">Another Way Dice Fail RPGs</source>
+      </item>
+      <item>
+        <title>Another Way Dice Fail RPGs</title>
+        <dc:creator><![CDATA[@RedMagus77]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/redmagus77">@RedMagus77</a> wrote:</p>
+          <blockquote>
+              <p>We’ve had some reports in this thread, so let me remind everyone of the following in our Code of Conduct:</p>
+<ol>
+<li>
+<strong>Creativity.</strong>  Community members should be supportive and kind. They should think about the impact of their words, the privilege they hold, and the relative position of those they interact with. Where possible, criticisms should offer solutions and alternatives. Personal attacks, even indirect subtweeting, should be avoided. Don’t hurt one another and don’t mock or erase someone’s life or experience. Do think about how you can model and support ideas which create rather than destroy.</li>
+</ol>
+<p>Please remember to focus any arguments or conversation at the main topic, and not at each other, and we have the report function for any questionable or aggressively adversarial posts.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/31">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/31</link>
+        <pubDate>Wed, 30 Sep 2020 12:18:57 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5874-31</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874.rss">Another Way Dice Fail RPGs</source>
+      </item>
+      <item>
+        <title>Another Way Dice Fail RPGs</title>
+        <dc:creator><![CDATA[@RDUNeil]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rduneil">@RDUNeil</a> wrote:</p>
+          <blockquote>
+              <p>I never played Runequest (though I own three different versions… one a pretty looking box set, still shrink wrapped), but I get what you are saying. I was intending to provide examples of “if you take it to extremes…” … that is where it would head. Probably why I never played a game RAW very often, because there was always a rule that “felt wrong” and, IMO, you just dumped it or changed it to get what you wanted.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/30">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/30</link>
+        <pubDate>Tue, 29 Sep 2020 22:54:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5874-30</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874.rss">Another Way Dice Fail RPGs</source>
+      </item>
+      <item>
+        <title>Another Way Dice Fail RPGs</title>
+        <dc:creator><![CDATA[@Ben_M]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/ben_m">@Ben_M</a> wrote:</p>
+          <blockquote>
+              <p>I’m not convinced that</p>
+<blockquote>
+<p>Too much heavy rules simulation and the character becomes simply input into a coded scenario</p>
+</blockquote>
+<p>is a given. The scenario need not be coded, it’s just that the action (that a player <em>chose</em>) has a strict method of evaluation.</p>
+<p>The rules as written in RQ and other similar games worked for us back then and didn’t require us to interpret much.  I’ve moved on since then - I want the drama without the hard fails nowadays. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/29">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/29</link>
+        <pubDate>Tue, 29 Sep 2020 21:07:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5874-29</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874.rss">Another Way Dice Fail RPGs</source>
+      </item>
+      <item>
+        <title>Another Way Dice Fail RPGs</title>
+        <dc:creator><![CDATA[@RDUNeil]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rduneil">@RDUNeil</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="Radmad" data-post="27" data-topic="5874">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/radmad/40/2161_2.png" class="avatar"> Radmad:</div>
+<blockquote>
+<p>the drama is whether or not the crook actually faces justice</p>
+</blockquote>
+</aside>
+<p>is exactly what I’m getting at. I just prefer the mechanics of whether not my Noir protagonist was ‘good enough’ in the moment it counted to shape the drama rather than some perceived genre emulation.</p>
+<p>Genre’s may have certain beats that should be hit, but how those beats play out aren’t singularly determined. They exist in a range of outcomes. The genre expectations can even shape the interpretation and PC reaction of whatever the dice indicate… but they don’t (or shouldn’t) pre-determine the outcome.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/28</link>
+        <pubDate>Tue, 29 Sep 2020 19:44:54 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5874-28</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874.rss">Another Way Dice Fail RPGs</source>
+      </item>
+      <item>
+        <title>Another Way Dice Fail RPGs</title>
+        <dc:creator><![CDATA[@Radmad]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/radmad">@Radmad</a> wrote:</p>
+          <blockquote>
+              <p>so what I’m hearing is you don’t want to play a Noir crime game, you want to play an action crime game.</p>
+<p>Noir is about flawed people struggling to find justice in an unjust world. I agree with <a class="mention" href="/u/dereel">@DeReel</a>’s depiction quite heartily that in a Noir rpg, the level of guilt of any given character is what determines whether they live or die. I would go so far as to say a Noir game wouldn’t bother having stats for shooting guns, what Noir protagonist is bad at shooting guns? The drama is not whether or not they’re skilled enough to get the crook, the drama is whether or not the crook actually faces justice.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/27">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/27</link>
+        <pubDate>Tue, 29 Sep 2020 19:23:35 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5874-27</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874.rss">Another Way Dice Fail RPGs</source>
+      </item>
+      <item>
+        <title>Another Way Dice Fail RPGs</title>
+        <dc:creator><![CDATA[@RDUNeil]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rduneil">@RDUNeil</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="DeReel" data-post="25" data-topic="5874">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/dereel/40/3021_2.png" class="avatar"> DeReel:</div>
+<blockquote>
+<p>if you’re going to play a shooting game,</p>
+</blockquote>
+</aside>
+<p>… there are games that are NOT about shooting?</p>
+<p>huh.</p>
+<p>Seriously though, I get what you are saying… “What is the game about?” is a serious question… one that New Model/Fiction First tend to micro-focus on. I tend to balk at the equation of “ficton first” equals “slave to genre”… but I get that others are into that.</p>
+<p>For example… Hearts of a Wu-Lin is a great game, and my one experience was amazing (great GM and players who all were well versed in wuxia, epic Chinese opera, Shaw Bros. films, etc).  It hit all the “feel points” as you mentioned them. Honestly a great game.</p>
+<p>But… my one “meh” bit was that combat lacked any heft. Duel’s are "jump right to the outcome and “feel moment” in regards to die roll says “You win, you win but you shouldn’t, or you lose” then describe how that played out. I get what this is doing and why… but it leaves me cold.  If I “won but I shouldn’t have” I want that to show up in play… in a duel of 37 strikes and counters, I want every one played out, where it hit, or how it was blocked… how a Rising Thunder Punch flows into a Spinning Tornado Kick, only to be countered by Mountain Abides Stance… and only my use of the forbidden Hidden Viper Strike saved me from defeat… not because that was pre-determined by the dice, but because I, the player, made that decision in the moment of combat and the dice allowed it to happen, now the results on the story have to be dealt with.</p>
+<p>In your example of a Noir game’s lethality being determined by “guilt of the villain”… I can see that is cute, but feels like it is trying too hard. If the villain is guilty as hell, and my strong-jawed detective Luthor Black takes a shot… I still want the dice and mechanics about shooting to determine whether I get him or not. If the villain is defeated ‘just because he should be’ that is utterly unsatisfying and there is no feeling of having “earned” that victory. It the dice are against me, Luthor Black loses, and now has to figure out how to redeem himself (after he gets out of the hospital) and go after the murderous merc again. Ot maybe Luthor Black meets a tragic end, where luck just wasn’t with him and the mechanics put him six feet under.</p>
+<p>Games need both the naturalism simulation (to an extent) as well as the evocation of “feel points” to be complete. Individually they are either artless mechanics or bystanders to some platonic ideal of genre.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/26</link>
+        <pubDate>Tue, 29 Sep 2020 19:04:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5874-26</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874.rss">Another Way Dice Fail RPGs</source>
+      </item>
+      <item>
+        <title>Another Way Dice Fail RPGs</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>I agree with there being various approaches (more “simulation”, more “story”, etc.) such as you describe. Another important (bullet) point is this : if you’re going to play a shooting game, you need a mechanic for (or “tightly around the void form of”) shooting. Because that’s where the focus is. And you can’t focus on everything. I am going to ramble a bit on this.</p>
+<p>You’ll always be “a describer of things without sufficient boundaries” when you focus a game on things it doesn’t want you to look at. So many players want “story” but don’t retroengineer what a story is : they remember the moment and the emotion when they were caught in a story, and try to jumpstart these emotions by mimicking what they associate with that moment. That’s cargo culting.</p>
+<p>So if what one wants is the feel of a Noir crime story, a tool to determine if you hit the target by physical laws is simply off topic. You need to determine if the target is guilty. In such a world, it is guilt that determines the lethality of the shot. I’ll stop rambling when people stop asking from a shooting game to write them a Film Noir. But that’s pointless, I know.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/25</link>
+        <pubDate>Tue, 29 Sep 2020 18:33:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5874-25</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874.rss">Another Way Dice Fail RPGs</source>
+      </item>
+      <item>
+        <title>Another Way Dice Fail RPGs</title>
+        <dc:creator><![CDATA[@RDUNeil]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rduneil">@RDUNeil</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="Ben_M" data-post="22" data-topic="5874">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/ben_m/40/3190_2.png" class="avatar"> Ben_M:</div>
+<blockquote>
+<p>So when you take the perspective <a class="mention" href="/u/dereel">@DeReel</a> describes here, the result of a die roll is just grist for the mill. It inspires us at the table to describe what actually happened (and I find this pleasingly analogous to me – as GM – rolling on a random table at the table to inspire myself).</p>
+</blockquote>
+</aside>
+<p>I think dice rolls are always “grist for the mill” unless one has been taught that the only “interpretation” is what the book (the rules) defines… which to me is never the case. Ultimately that is where pure simulationism fails, is that the book/charts/rules can never cover every possible eventuality, thus interpretation always has to happen at some point.</p>
+<p>The issue is if you remove all rule/mechanic adjudication and go pure interpretation, you are just story telling… and that is unsatisfying as well. It is the blend of adjudication (what do the rules say happens) and interpretation (description of what it looks and feels like and how it drives drama) that is necessary for good play. Too far in either direction and player/PC agency and investement are diminished.</p>
+<p>Too much heavy rules simulation and the character becomes simply input into a coded scenario and the player just an observer about how random outcomes are intepreted by the code and play out.</p>
+<p>Too much handwaivy interpretation, and the player is now just a describer of things without sufficient boundaries. Again, lacking agency and investment in the player making good decisions and pushing for a certain outcome.</p>
+<p>The balance is key… mechanics adjudicate, players (including GM) interpret… in tandem.</p>
+<p>i.e. scenario:  I shoot the merc with my pistol!</p>
+<ol>
+<li>Adjudication is “do I hit” based on the dice…</li>
+<li>“what happens when I hit or miss” is the interpretation.</li>
+</ol>
+<p>Simulationism tends to layer more mechanics in between these steps , with the misguided belief that enough rules will remove the need for interpretation… which is never the case.</p>
+<p>But… a few more rules might be nice.</p>
+<ol>
+<li>
+<p>Do I hit?   Yes<br>
+1.a Where do I hit? Chest<br>
+1.b How much damage do I do?   9 pts<br>
+1.c Is the Chest armored? No<br>
+1.d 9 points out of 15 is nearly 2/3s gone in one shot.</p>
+</li>
+<li>
+<p>NOW I have some meat to play with on my interpretation. “You hit the merc dead center, the bullet punches all the way through, puncturing a lung on the way. He staggers to his knees, clutching his chest, badly wounded.”</p>
+</li>
+</ol>
+<p>or</p>
+<ol>
+<li>
+<p>Do I hit?   Yes<br>
+1.a Where do I hit? Chest<br>
+1.b How much damage do I do?   9 pts<br>
+1.c Is the Chest armored? YES<br>
+1.d 10 pts armor soaks the 9 points completely.</p>
+</li>
+<li>
+<p>“The bullet hits squarely in the chest plate of his Type IIIa combat vest. He snarls, “Pathetic,” and raises his assault rifle and fires!”</p>
+</li>
+</ol>
+<p>Both these interpretations are adding drama and emerging narrative flow to the outcome of a series of rules… but the rules help shape that interpretation.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/24</link>
+        <pubDate>Tue, 29 Sep 2020 17:44:26 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5874-24</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874.rss">Another Way Dice Fail RPGs</source>
+      </item>
+      <item>
+        <title>Another Way Dice Fail RPGs</title>
+        <dc:creator><![CDATA[@Rickard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rickard">@Rickard</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="jtreat3" data-post="1" data-topic="5874">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/jtreat3/40/1190_2.png" class="avatar"> jtreat3:</div>
+<blockquote>
+<p>If there are factors affecting the outcome of this match, what are they? If I’m finding an extra reserve of strength because your father beat my father in arm wrestling, </p>
+</blockquote>
+</aside>
+<p>If I buy into your point, it’s also weird if you are playing with modifications. Like, if I beat your character with higher Str in arm wrestling, we could always explain the result away as if you were out on a bender the night before. But if you have a game system where you should also apply modifications before the roll, the bender should then have affected the numbers <em>before</em> the roll.</p>
+<p>I’m not a huge fan of modifications because of this.</p>
+<p>I would rather go with a system where a higher score always wins, unless you make something up that can turn the tide. Like drugging your opponent the day before. That will <em>allow</em> you do the Str 13 vs Str 14 roll. (That will also follow the heroe’s journey in some way, where you can’t beat your opponent until you level up.)</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/23</link>
+        <pubDate>Mon, 28 Sep 2020 12:30:31 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5874-23</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874.rss">Another Way Dice Fail RPGs</source>
+      </item>
+      <item>
+        <title>Another Way Dice Fail RPGs</title>
+        <dc:creator><![CDATA[@Ben_M]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/ben_m">@Ben_M</a> wrote:</p>
+          <blockquote>
+              <p>Bit late to this one, but the conversation is fascinating.</p>
+<aside class="quote no-group" data-username="DeReel" data-post="9" data-topic="5874">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/dereel/40/3021_2.png" class="avatar"> DeReel:</div>
+<blockquote>
+<p>My experience is this : we roll for the duel, and see the result. Then someone can add a descriptive detail that <em>explains</em> why the winner won.</p>
+</blockquote>
+</aside>
+<p>This has been the big, rather belated, revelation for me as a GM and amateur table-analyst.  I come from a pretty simulationist background (Runequest and the like, back in the day), and the stats and then the dice roll determined straight success or fail.  The <em>reason</em> for success/fail was always the character not being good enough (i.e. making a mistake) and it began to cause all sorts of disquiet in my pursuit of a satisfying, emerging narrative.</p>
+<p>So when you take the perspective <a class="mention" href="/u/dereel">@DeReel</a> describes here, the result of a die roll is just grist for the mill.  It inspires us at the table to describe what actually happened (and I find this pleasingly analogous to me – as GM – rolling on a random table at the table to inspire myself).</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/22</link>
+        <pubDate>Mon, 28 Sep 2020 10:37:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5874-22</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874.rss">Another Way Dice Fail RPGs</source>
+      </item>
+      <item>
+        <title>Another Way Dice Fail RPGs</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="Gustavo_Campanelli" data-post="20" data-topic="5874">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/gustavo_campanelli/40/633_2.png" class="avatar"> Gustavo_Campanelli:</div>
+<blockquote>
+<p>Because it’s not only about strength, technique is also important.</p>
+</blockquote>
+</aside>
+<p>That’s naturalization, a form of rationalization.<br>
+Are you in a position where you have to learn, teach or somehow “sell” the rules to the players, maybe ? Because the rules, they don’t need to be “logical” to be valid.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/21</link>
+        <pubDate>Sun, 27 Sep 2020 12:04:35 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5874-21</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874.rss">Another Way Dice Fail RPGs</source>
+      </item>
+      <item>
+        <title>Another Way Dice Fail RPGs</title>
+        <dc:creator><![CDATA[@Gustavo_Campanelli]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gustavo_campanelli">@Gustavo_Campanelli</a> wrote:</p>
+          <blockquote>
+              <p>Well, let’s say you have one more strength point, what I could do then is say you get a +1 bonus to your dexterity roll to solve this. Because it’s not only about strength, technique is also important.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/20</link>
+        <pubDate>Fri, 25 Sep 2020 10:06:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5874-20</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874.rss">Another Way Dice Fail RPGs</source>
+      </item>
+      <item>
+        <title>Another Way Dice Fail RPGs</title>
+        <dc:creator><![CDATA[@Gus.L]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gus.l">@Gus.L</a> wrote:</p>
+          <blockquote>
+              <p>I don’t the the original post was talking about audience in the sense of consumer market share … Now I don’t know the original writer’s intent, I can’t - death of the author and all that, but…</p>
+<blockquote>
+<p>If I’m finding an extra reserve of strength because your father beat my father in arm wrestling, the audience wants to know that. "</p>
+</blockquote>
+<p>Does that work as " If I’m finding an extra reserve of strength because your father beat my father in arm wrestling, the player wants to know that."</p>
+<p>Yes I think it does - hence the meaning I’m using.</p>
+<p>Does it work as " If I’m finding an extra reserve of strength because your father beat my father in arm wrestling, the market for the game wants to know that."</p>
+<p>Seems a bit of an odd concern here?  I mean maybe? It still eliminates the player as someone with agency.  We could even replace it with “consumer” and what we might get is that the concern of the designer should be catering to consumers – e.g. selling copies.  I know this is a popular metric for judging if a design is good or bad … especially in certain scenes, but frankly I find it a bit gross, I have delicate sensibilities.</p>
+<p>I’d prefer to give the poster the benefit of the doubt and believe that the term audience was used in a way that follows from the abundance of narrative/theatrical/literary terms and concern in the rest of the post, as a literal audience of the mechanic - either viewers or players who fulfill the role.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/19</link>
+        <pubDate>Thu, 24 Sep 2020 17:33:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5874-19</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874.rss">Another Way Dice Fail RPGs</source>
+      </item>
+      <item>
+        <title>Another Way Dice Fail RPGs</title>
+        <dc:creator><![CDATA[@Deckard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deckard">@Deckard</a> wrote:</p>
+          <blockquote>
+              <blockquote>
+<p>Do you also want “physical simulation” ? or “realistic narration” ? Most tables don’t see the divide. Realistic narration works fine with descriptive qualities. Physical simulation and its “objectivity” runs into a forest of problems.<br>
+Who will interpret the odds ? and the result ? Do you want the rules to adjudicate that ? or the players ? or the GM ? Bear with me : descriptive qualities can work just right for physics simulation if there is an expert at the table. They will do certainly better than fixed rules. But what if players have a very naive view of physics ?</p>
+</blockquote>
+<p>And, don’t forget that after all this, the game should still fun?  If I want more realistic odds, I’d play Gurps.  But, I won’t play Gurps because I find the uncertainty entertaining.</p>
+<p>The odds reflected in the table make pretty good sense for D&amp;D 5e because the characters are really heroic and get to succeed more as an underdog.  The argument being made fits well with earlier D&amp;D versions though because the system and odds do not really reflect a hard scrabble world.</p>
+<p>That’s said, I also prefer Dungeon World to D&amp;D for many reasons.  Two of these are because a +1 has a bigger impact in DW AND also the game does not pretend to simulate the real world in any serious (but false) way.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/18</link>
+        <pubDate>Thu, 24 Sep 2020 17:29:52 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5874-18</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874.rss">Another Way Dice Fail RPGs</source>
+      </item>
+      <item>
+        <title>Another Way Dice Fail RPGs</title>
+        <dc:creator><![CDATA[@Deckard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deckard">@Deckard</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/dereel">@DeReel</a>, now I want to see how you would develop an Over the Top movie rpg.  <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/stuck_out_tongue_closed_eyes.png?v=9" title=":stuck_out_tongue_closed_eyes:" class="emoji" alt=":stuck_out_tongue_closed_eyes:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/17</link>
+        <pubDate>Thu, 24 Sep 2020 17:18:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5874-17</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874.rss">Another Way Dice Fail RPGs</source>
+      </item>
+      <item>
+        <title>Another Way Dice Fail RPGs</title>
+        <dc:creator><![CDATA[@dominik]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dominik">@dominik</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group quote-modified" data-username="Gus.L" data-post="11" data-topic="5874">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/gus.l/40/3198_2.png" class="avatar"> Gus.L:</div>
+<blockquote>
+<p>Generally the members of a TTRPG group are known as “players” who “play” a game. (…) Audiences are generally considered passive, they spectate.</p>
+</blockquote>
+</aside>
+<p>That’s only one of the definitions of what “audience” is. But that’s not what - in my mind - audience means when related to ttrpg. As a consumer of a product (rules, setting, you name it) I am either in the target audience of this product, or not. In other words the audience here refers to <em>the people giving attention to something</em> and attention giving isn’t necessarily a passive experience as evident by the fact that we discuss about the products we consume, we participate in hype cycles of releases, etc. So from my point of view your definition is both correct in general as well as not relevant specifically in the context of RPGs (outside of things like let’s plays or instructional video materials - which isn’t what the discussion was about).</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/16</link>
+        <pubDate>Thu, 24 Sep 2020 16:12:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5874-16</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874.rss">Another Way Dice Fail RPGs</source>
+      </item>
+      <item>
+        <title>Another Way Dice Fail RPGs</title>
+        <dc:creator><![CDATA[@Gus.L]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gus.l">@Gus.L</a> wrote:</p>
+          <blockquote>
+              <p>That’s the basic point yes.</p>
+<p>Secondly the authors selection of D20 Stat test mechanics (specifically D&amp;D mechanics) seems an odd choice for talking about encouraging narrative play?</p>
+<p>The argument is that mechanical systems - specifically the way probabilities work in D20 systems with 3-18 statistics - fail to deliver results that are narratively coherent and genre faithful (e.g. the strong PC should almost always win at feats of strength because that’s the PCs role in the narrative and it damages the expectation of someone watching play unfold - and who that someone is becomes a secondary issue…) Yet these concerns aren’t the ones that the designers seek to address - OD&amp;D, the game that started the 3-18 stat system and those following it have very little concern about genre fidelity or narrative cohesion.  We can fruitfully ask what the D20 stat check (and there’s lots of varieties – I prefer Xd6 vs. stat value personally) is intended to do but really only in the context of what those D20 systems to do.  Understanding what sort of play is involved is really the first step to avoiding bad play experiences and towards interrogating a set of rules.</p>
+<p>I read the original post and I don’t really know what I’m supposed to get out of it except “Don’t replace the rules of Dogs in the Vineyard or Night Witches with AD&amp;D and expect them to deliver the same play experience?”</p>
+<p>I should add that another goal of my original reply was to move a bit beyond that and ask</p>
+<p><strong>"What are various play experiences that dice and randomness are meant to deliver?  How does the appeal to dice and when a system calls for it define or effect play style?"</strong></p>
+<p>That’s why I brought up the discussion of the joy of gambling.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/15</link>
+        <pubDate>Thu, 24 Sep 2020 14:26:06 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5874-15</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874.rss">Another Way Dice Fail RPGs</source>
+      </item>
+      <item>
+        <title>Another Way Dice Fail RPGs</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>I think I get it now thanks to your explanations. It’s not that you or I dislike the topic of the discussion (“let’s find arguments against using D20+STR for an arm wrestling duel”) nor that we oppose these arguments. The case is we need to see these arguments foundations because we suspect they simply are invalid (“trying to cut steel with a knife” by the tool metaphor) or misdirected (“if you don’t like this toy try that one”).</p>
+<p>Less polemical would be neatly framing the discussion “this is for the original example only” ; brainstorming “hey, here are others arguments against D20+STR, let’s make a heap” ; or sharing experiences “my table was pushing for real time action, so we just dropped the dice and now perform martial arts in slo-mo.”</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/14</link>
+        <pubDate>Thu, 24 Sep 2020 05:34:24 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5874-14</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874.rss">Another Way Dice Fail RPGs</source>
+      </item>
+      <item>
+        <title>Another Way Dice Fail RPGs</title>
+        <dc:creator><![CDATA[@Gus.L]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gus.l">@Gus.L</a> wrote:</p>
+          <blockquote>
+              <p>I’m decently versed in GSN theory, or at least I’ve read the essay. I don’t use the terms mostly because I don’t find the way they’re used in popular game design discussion especially helpful, but also because I don’t entirely trust them.</p>
+<p>I do enjoy the sorts of games the old Forge would call gamist, but then the old Forge mostly used that as a slur, though that’s not really the point. The point I’m trying to make is that whatever the needs of genre emulation and narrative cohesion that d20 skill checks fail to meet, they aren’t a mechanic design to meet those needs.  The playstyle of either classic d20 stat based exploration/problem solving games or contemporary traditional tactical combat games use isn’t intended to deliver story beats.</p>
+<p>Complaints about mechanics that aren’t meant to do what one claims they should be doing isn’t a design issue, it’s either a misunderstanding or edition warring.  It’s one thing if I say “2d6 based partial failure mechanics encourage too much reliance on die rolls for the problem solving play style I prefer” We can have a legitimate discussion about a lot of things - that playstyle, the purpose of such mechanics, potential replacement mechanics and so on.  When I instead say “2d6 partial failure mechanics ruin play because they don’t offer challenge” in order to discuss that claim we’ll have to unravel a lot of my assumptions to get to the point.</p>
+<p>In the case here I think there may be a bit of the assumptions found in the popular form of GSN theory poking out - that classic games are largely Gamist and thus mostly about system mastery, that Narrative play is better (or at least the only sort of play worth discussing) etc. I don’t really know.  I find a bit of this in the player = audience idea.</p>
+<p>What I’m wanting to unwrap there is that a theatrical frame around play (at least the terminology) seems to miss or disfavor important elements of play, elements of play that can be key to how and why a game would use die rolls.  Likewise the audience framing shows a specific emphasis on a playstyle that is only one of several, and to address the take that assumption needs to be unwrapped.</p>
+<p>Again I’m perfectly willing to believe d20 based stat checks don’t do well at delivering narrative cohesion and genre fidelity - and that this is a legitimate concern for people who want to emphasize those design principles.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/13</link>
+        <pubDate>Thu, 24 Sep 2020 04:59:56 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5874-13</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874.rss">Another Way Dice Fail RPGs</source>
+      </item>
+      <item>
+        <title>Another Way Dice Fail RPGs</title>
+        <dc:creator><![CDATA[@RDUNeil]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rduneil">@RDUNeil</a> wrote:</p>
+          <blockquote>
+              <p>I don’t want to assume, so what I’m saying here is only my interpretation of what you wrote, and I could be very wrong.</p>
+<p>That said, your POV expressed seems to me to be, in old Forge speak, very Gamist in approach.</p>
+<p>This is not a bad thing, simply one perspective in the old triumverate of Gamist, Simulationist and Narrativist play. (I’m sure there are more up to date theories on play style and such, but I find the old divisions still quite useful.)</p>
+<p>Essentially, Gamist play sees the RPG experience much as you described it… a GAME first and foremost… something to “win”… usually by players demonstrating their cleverness and system mastery to show how good a player they are. The rules, understanding them, manipulating them to advantage… and being rewarded and recognized for that behavior are all Gamist goals.</p>
+<p>Not everyone is a Gamist. Simulationist and Narrativist have very different goals in playing RPGs. Sim looks to the structure of role play to evoke a very particular play experience… either a lived in “immersion” (yes, I know this is a divisive term) or a particular genre feel, etc. It isn’t about winning as much as “Did that Star Wars game really feel like Star Wars… did the droids do what droids should do, and the Hutts do what Hutts do, etc.” It is a focus on commitment to genre verisimilitude, exploring a created world, etc…</p>
+<p>Narrative play is about exploring THEME. It can be just as mechanistic as Gamist play, but seeks a very different outcome. It seeks to evoke an agreed upon theme… “nature of heroism” or “loss and redemption” or “teen angst symbolically manifested as monsters” or whatever. It can be quite heavy handed, or more lightly applied.</p>
+<p>The idea of a story arc and playing to an audience (that being the players) I feel falls right between Sim and Nar play. A good story follows a traditional arc… intro, rising action, obstacle, climax, denoument… so the game wants to simulate those stages of a story by how scenes are framed, etc. Good stories also are thematic… they are about redemption, or the hero quest, or the place of the outsider in society, etc.   The mechanics are in service to creating an experience where the story arc happens and the actual play of that arc explores the themes in question.</p>
+<p>These different play styles ( and the fact that every player has a bit of all of them to some extent, just usually one more than the others) really shape the focus on “audience” or not. I would actually agree with you that audience is not a concern in much of Gamist play… maybe only in as much as the Gamist wants the other players at the table to recognize how good she is/how much she knows/how well she has mastered the system, etc.</p>
+<p>Again, all this is simply my interpretation of what you wrote… so I mean no judgment or anything. Just enjoy talking about this stuff.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/12</link>
+        <pubDate>Thu, 24 Sep 2020 04:11:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5874-12</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874.rss">Another Way Dice Fail RPGs</source>
+      </item>
+      <item>
+        <title>Another Way Dice Fail RPGs</title>
+        <dc:creator><![CDATA[@Gus.L]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gus.l">@Gus.L</a> wrote:</p>
+          <blockquote>
+              <p>There’s a lot to talk about here, but I’d like to push back on the “audience” issue a bit.</p>
+<p>The idea that the people involved in the game itself are the audience presents some concerns, and perhaps clarifies a bit of why I break with the original argument here.</p>
+<p>Generally the members of a TTRPG group are known as “players” who “play” a game. There’s a few key distinctions here between player and audience that deserve to be unravelled.</p>
+<p>A. Audiences are generally considered passive, they spectate. The audience in a football game does not participate in play for example.  Sure there are forms of entertainment where audience participation is encouraged or expected, but they are rare and the audience participant is rarely more then a foil for the performer.</p>
+<p>B. Audience is generally a term related to drama not games. While audiences exist for sporting events, and even card games, for me at least the first image brought to mind is a play, novel or film – static entertainment where chance isn’t involved. The audience spectates as the performs act out a story.</p>
+<p>I find it interesting that the term would seem like something to use in the context of TTRPGs, most of all to describe the players. A player being someone who is actively involved in the progress of the game. Likewise the activity of players rather then audience or performers derives its excitment from an unpredictable ending, a contest or unfolding of possiblity where the activity’s unknowable outcome is itself an element of it that brings joy.</p>
+<p>Now a TTRPG could conceivably be played for an audience. The popularity of actual play seems to show this … and it’s interesting to explore what mechanics might look like tailored not to the fun of the players but that of the audience.</p>
+<p>Likewise, a TTRPG where the players are sone combination of player, audience and performer is possible, popular even. The players’ abilities to perform an improvised genre appropriate story with a high degree of genre fidelity and narrative cohesion being the source of joy as an audience or even mechanivmcally rewarding to the player.</p>
+<p>Both though would be pretty different sorts of games then one using a d20 opposed STR check to model an arm wrestling match between PCs… The original poster’s argument for dramatic and story coherent outcomes is one that’s worth debating in this context – but from what I can tell the mechanics of such games use dice rather differently?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/11</link>
+        <pubDate>Thu, 24 Sep 2020 00:09:04 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5874-11</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874.rss">Another Way Dice Fail RPGs</source>
+      </item>
+      <item>
+        <title>Another Way Dice Fail RPGs</title>
+        <dc:creator><![CDATA[@RDUNeil]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rduneil">@RDUNeil</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="DeReel" data-post="9" data-topic="5874">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/dereel/40/3021_2.png" class="avatar"> DeReel:</div>
+<blockquote>
+<p>It could be argued that players are their own audience, aren’t we ?</p>
+</blockquote>
+</aside>
+<p>Completely agree. I often try to explain that RPG play is a unique social and creative activity in that the authors and audience are the same people… you are actively involved in creating a story that you are also actively watching as it plays out. I don’t really know of any other activity like that.</p>
+<p>How much value a particular player holds with that story comes down to “taste” and assumptions and expectations. For me, that unfolding story and the narrative experience is paramount. For others it may be of minimal value.</p>
+<aside class="quote no-group" data-username="DeReel" data-post="9" data-topic="5874">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/dereel/40/3021_2.png" class="avatar"> DeReel:</div>
+<blockquote>
+<p>For the communication part of the RPG conversation, it’s clearly an advantage. We communicate much more easily when we already know what is being communicated.</p>
+</blockquote>
+</aside>
+<p>This is getting at the underlying social contract of play… is everybody operating under the same criteria and assumptions? If so, you’ll get more harmony. Discord arises when assumptions/expectations clash. Even exploring new territory can be harmonious if everyone is onboard with which old assumptions are being challenged by new ideas.</p>
+<p>Very early on I realized that my expectation of focus on unfolding story and narrative experience was NOT shared by everyone, and it explained why we might clash on what was acceptable play.</p>
+<aside class="quote no-group" data-username="DeReel" data-post="9" data-topic="5874">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/dereel/40/3021_2.png" class="avatar"> DeReel:</div>
+<blockquote>
+<p>My experience is this : we roll for the duel, and see the result. Then someone can add a descriptive detail that <em>explains</em> why the winner won. Maybe it is obvious : the winner was prepared, they have better VMA. They know the ropes. That’s usually for the winner to describe, and characterize. Or the GM can introduce a non-neutral, dynamic, narrative element. But if victory was against the odds, maybe there’s some other factor coming in. A rumor in the crowd. Overconfidence in the champion. Whatever. The dice here represent… something neutral and random, or something significant the GM is smuggling right there, right ? So the dice really are used according to the “table agreement” of who can say what anyway.</p>
+</blockquote>
+</aside>
+<p>This very much mirrors my own experience… if the dice provide an unexpected (but possible) result, then the story bends at the moment to produce a narrative interpretation of “why” to explain that. If these unexpected results happen too often, you are back to my earlier post about analyzing the procedure to fix it, to reduce the unexpected down to a more acceptable level.</p>
+<p>I can only guess, but I wonder if the OP, in talking about…</p>
+<aside class="quote no-group" data-username="jtreat3" data-post="1" data-topic="5874">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/jtreat3/40/1190_2.png" class="avatar"> jtreat3:</div>
+<blockquote>
+<p>Our cause and effect reversed. Rather than roll a die representing abstract factors to see how a thing goes, make a thing go and notice whether that was a really good (like a 20), really bad (like a 1) or something in between. Maybe you make that thing go by deciding what factors are in play, or maybe its determined by the game state (including your characters stats/attributes), or maybe you just choose.</p>
+</blockquote>
+</aside>
+<p>… was simply saying “Instead of interpreting die rolls with abstract factors, lets make those factors less abstract and apply them <em>a priori</em> to the event.”</p>
+<p>With dice, this is just another way to get modifiers… bonus or penalty… say in this case, based on your state of mind. Fair enough… not far off from what stats like Stress or Momentum do in current games. I think the difference is that somehow the “state of mind” simply contrasts with the opposing “state of mind” and a success or failure is decided without rolling any dice. I just don’t have a clue how that might be managed. You’d have to assign values to emotional states and have some way of comparing them (like the Robo-Rally example of revealing them one at a time)… with some kind of commensurate cost to invoking more powerful emotions, etc. Some kind of bidding mechanism? I really don’t know.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/10</link>
+        <pubDate>Wed, 23 Sep 2020 22:13:09 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5874-10</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874.rss">Another Way Dice Fail RPGs</source>
+      </item>
+      <item>
+        <title>Another Way Dice Fail RPGs</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>It could be argued that players are their own audience, aren’t we ?</p>
+<p>Considering the stated topic is “What are the arguments against (rolling for a fisticuff duel or that sort of contests)”, I’d say the arguments you present in favour of (rolling for fisticuff) are off topic.  But you’re right that there is a lot of assumptions, yes, about the players, and I wonder whether D&amp;D is just used as a kicker or if it’s a frame for the whole discussion.</p>
+<p>Re-reading OP I found one of those assumptions lying in a non-sequitur : “If there are factors affecting the outcome of this match, what are they? If I’m finding an extra reserve of strength because your father beat my father in arm wrestling, the audience wants to know that. If my partner is distracting you, we want to see how. If you’re fatigued, or de-motivated, or whatever, we want to feel that.” That’s a healthy expression of desire, not an assumption. But something is untold then that leads to this non-sequitur : "Better than “roll d20 +STR” and abstract those factors, would be “choose motivations and event cards face down and simultaneously reveal to see whose final strength is higher.”<br>
+I find the 2 propositions disconnected. They describe a specific experience. My experience is this : we roll for the duel, and see the result. Then someone can add a descriptive detail that <em>explains</em> why the winner won. Maybe it is obvious : the winner was prepared, they have better VMA. They know the ropes. That’s usually for the winner to describe, and characterize. Or the GM can introduce a non-neutral, dynamic, narrative element. But if victory was against the odds, maybe there’s some other factor coming in. A rumor in the crowd. Overconfidence in the champion. Whatever. The dice here represent… something neutral and random, or something significant the GM is smuggling right there, right ? So the dice really are used according to the “table agreement” of who can say what anyway.</p>
+<p>But that’s not what OP says. OP follows by exchanging dice roll with card bets and stats with descriptive qualities. This looks like a total non-sequitur to me. I deduced that jtreat wanted to jump to the conclusion, they wanted the conclusion : namely, to focus more on “why” stats affecting the roll (as ±modifiers, the traditional tool for the job).</p>
+<p>Looking for “assumptions” I also found : “trad games actually had an <strong>advantage</strong> in that it was just <strong>assumed</strong> (a certain system)” (RDUNeil).</p>
+<p>More than assumptions, I conclude that we come to the table with different tastes : some like what goes with ease, that is, without saying. For the communication part of the RPG conversation, it’s clearly an advantage. We communicate much more easily when we already know what is being communicated.  Others want to create and explore new territory. And you don’t launch an expedition if a die roll decides of your success : you need reassurance.<br>
+I say these aspirations are contradictory. Not incompatible, but the space in-between is probably uncomfortable. Also, probably instructive.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874/9</link>
+        <pubDate>Wed, 23 Sep 2020 19:14:28 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5874-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/another-way-dice-fail-rpgs/5874.rss">Another Way Dice Fail RPGs</source>
+      </item>
+  </channel>
+</rss>

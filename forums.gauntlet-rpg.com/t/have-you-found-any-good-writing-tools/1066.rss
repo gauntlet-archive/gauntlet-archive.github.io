@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Have you found any good writing tools?</title>
+    <link>https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066</link>
+    <description>I’ve often found that the ideas for game design can be very straightforward, but writing them down in an expressive way so that someone you don’t know can pick them up could do with help. 
+
+For instance, I often write sentences which are much too long :) 
+
+One of the tools that I’ve recently come across which helps me think better about the way of writing is the online tool ‘Hemingway’
+
+http://www.hemingwayapp.com
+
+Paste some of your writing in there and it will highlight adverbs, use of passive voice, overly complex sentences and other things. It has been an eye-opener for me, and I commend it to you for a try out.
+
+Now I stumbled across that, but it made me wonder - what writing tools have you found that help you make the process of writing (or editing) better?
+
+Thanks</description>
+    
+    <lastBuildDate>Sun, 21 Aug 2022 16:51:13 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Have you found any good writing tools?</title>
+        <dc:creator><![CDATA[@Thomas_Junk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/thomas_junk">@Thomas_Junk</a> wrote:</p>
+          <blockquote>
+              <p>I settled  with <a href="https://obsidian.md/" rel="nofollow noopener">Obsidian</a>. It is my go to tool for everything at the moment.</p>
+<p>It is basically markdown. So what makes it so powerful and why should everyone take a glimpse at it?</p>
+<p>Its main strength is that is based on the <a href="https://zettelkasten.de/posts/overview/#the-introduction-to-the-zettelkasten-method" rel="nofollow noopener">Zettelkasten Method</a> which makes it good for any kind of knowledge management. Its best feature is the <a href="https://help.obsidian.md/Plugins/Graph+view" rel="nofollow noopener">Graph View</a> which let’s you view the (inter-) connections of your konwledge kept in your vault (i.e. “folder”).</p>
+<p>It is easy enhancable through <a href="https://obsidian.md/plugins" rel="nofollow noopener">plugins</a> (written in Javascript):</p>
+<ul>
+<li>
+<p>Say you want to get more out of ordinary markdown tables: Check out <a href="https://github.com/tgrosinger/advanced-tables-obsidian" rel="nofollow noopener">Advanced Tables</a></p>
+</li>
+<li>
+<p>Say you are a data, stats and charts person: you should have a look at <a href="https://github.com/blacksmithgu/obsidian-dataview" rel="nofollow noopener">Dataview</a> and <a href="https://github.com/phibr0/obsidian-charts" rel="nofollow noopener">Obsidian Charts</a></p>
+</li>
+<li>
+<p>For simple outlining I use: <a href="https://github.com/vslinko/obsidian-outliner" rel="nofollow noopener">Outliner</a></p>
+</li>
+</ul>
+<p>If you have programming skills, it is easily extendable / hackable with Javascript.</p>
+<p>And the best thing: It’s <a href="https://obsidian.md/eula" rel="nofollow noopener">mostly free</a> - though sadly (at the moment) not Open Source (</p>
+<blockquote>
+<p>You need to pay for Obsidian  <strong>if and only if</strong>  you use it to contribute, directly or indirectly, to revenue-generating, work-related activities in a company that has two or more people. Get a commercial license for each user if that’s the case. Registered non-profit organizations do not need commercial licenses.</p>
+</blockquote>
+<p>For all other uses, you can use Obsidian  <strong>for free forever</strong> .</p>
+<p>Tip for syncing between devices: Use <a href="https://syncthing.net/" rel="nofollow noopener">Syncthing</a>.</p>
+<p>I use one vault (“folder”) for my work, one folder for personal growth things and journalling and another one for running adventures.</p>
+<p>I recently organized the prep for an adventure:</p>
+<p>Adventure-Folder<br>
+-&gt; Locations<br>
+-&gt; Persons<br>
+-&gt; Monsters<br>
+-&gt; Items</p>
+<p>I had a “Meta-Document” where I lay down the general flow of the adventure.<br>
+Say you want a flow-chart of a temple, using <a href="https://mermaid-js.github.io/mermaid/#/" rel="nofollow noopener">Mermaid</a> results in <a href="https://mermaid.live/edit#pako:eNplkDsOwjAMQK9ieYYLdEAC2oqFBbolDFbj0kj5VMEZEOLuBAoSCC_-vDfYvmEfDWOF50TTCF2tA5RYqyZIotAzxAFkZOjYT45PsFyuYKP2ZAPsyLnT7G9e861qbboIHGL0P6BWR-5jMP-kUd1o0w_YvkCr2piTjN-kmcncwDPhAj0nT9aUE27PicayrWeNVSkND5SdaNThXtQ8GRJujJWYsBrIXXiBlCUer6HHSlLmj1RbKh_xb-v-AAyrWwY" rel="nofollow noopener">this</a></p>
+<p>When I wanted to describe a scene, I could easily link to Persons, Monsters, Items etc. which allows a smooth running of the adventure.</p>
+<p>No Marketing - just an enthusiast <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/smile.png?v=9" title=":smile:" class="emoji" alt=":smile:"></p>
+<p>P.S.: If you are a writer dedicating a single vault to the story you write and adding <a href="https://git-scm.com/" rel="nofollow noopener">git</a> into the mix and use <a href="https://git-fork.com/" rel="nofollow noopener">fork</a> as a UI for git, you could version your files or even branch off new versions of your complete story.</p>
+<p>Edit: <a href="https://github.com/ThomasJunk/Rollenspiel" rel="nofollow noopener">This</a> is a sample repo for prep (german).</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/31">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/31</link>
+        <pubDate>Fri, 19 Aug 2022 18:00:24 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1066-31</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066.rss">Have you found any good writing tools?</source>
+      </item>
+      <item>
+        <title>Have you found any good writing tools?</title>
+        <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+          <blockquote>
+              <p>I’ve been working on <a href="http://notion.so/" rel="nofollow noopener">Notion</a> for the past few months and it’s been working wonders for me. There is some clunkiness in parts but I appreciate the organizational possibilities, the fact that you can sync blocks of texts (and therefore edit the same text in more than one page) and share your pages directly to the web with a link. The closest I got to it before was <a href="https://www.dropbox.com/paper" rel="nofollow noopener">dropbox paper</a>. It is good for a bunch of things and easier than Notion for sharing and getting comments, but Notion so far has been making me happier.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/30">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/30</link>
+        <pubDate>Wed, 08 Dec 2021 00:06:04 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1066-30</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066.rss">Have you found any good writing tools?</source>
+      </item>
+      <item>
+        <title>Have you found any good writing tools?</title>
+        <dc:creator><![CDATA[@Alex]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alex">@Alex</a> wrote:</p>
+          <blockquote>
+              <p>I ended up liking IAWriter so much I wrote a blog post about it <a href="https://planesailinggames.com/review-ia-writer.html" rel="nofollow noopener">https://planesailinggames.com/review-ia-writer.html</a></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/29">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/29</link>
+        <pubDate>Tue, 07 Dec 2021 18:08:31 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1066-29</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066.rss">Have you found any good writing tools?</source>
+      </item>
+      <item>
+        <title>Have you found any good writing tools?</title>
+        <dc:creator><![CDATA[@aryramsey]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/aryramsey">@aryramsey</a> wrote:</p>
+          <blockquote>
+              <p>Parenthetically, I also use Scapple in every Hangouts game I play to keep notes on my character, fragments of background which may or may not come into play, and relationship maps. Here’s a screen from a game of World Wide Wresting.<div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/9/993156aef22bd925de57c5112c1aa3c94bb7b89a.png" data-download-href="/uploads/short-url/lRcL9c6lnRbRv9nGAJm16jQ9ymC.png?dl=1" title="wrestle" rel="nofollow noopener"><img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/9/993156aef22bd925de57c5112c1aa3c94bb7b89a_2_690x342.png" alt="wrestle" data-base62-sha1="lRcL9c6lnRbRv9nGAJm16jQ9ymC" width="690" height="342" srcset="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/9/993156aef22bd925de57c5112c1aa3c94bb7b89a_2_690x342.png, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/9/993156aef22bd925de57c5112c1aa3c94bb7b89a.png 1.5x, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/9/993156aef22bd925de57c5112c1aa3c94bb7b89a.png 2x" data-small-upload="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/9/993156aef22bd925de57c5112c1aa3c94bb7b89a_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">wrestle</span><span class="informations">800×397 140 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/28</link>
+        <pubDate>Mon, 25 Mar 2019 09:57:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1066-28</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066.rss">Have you found any good writing tools?</source>
+      </item>
+      <item>
+        <title>Have you found any good writing tools?</title>
+        <dc:creator><![CDATA[@lindevi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/lindevi">@lindevi</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/ludovico_alves">@Ludovico_Alves</a> I know that multiple style sheets is a feature PerfectIt offers, but I haven’t had a chance to dive into it. It definitely looked like it would take some time to get set up, and I was struggling to just keep my external style guides updated for vendors (ha ha).</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/26</link>
+        <pubDate>Sun, 24 Mar 2019 00:50:00 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1066-26</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066.rss">Have you found any good writing tools?</source>
+      </item>
+      <item>
+        <title>Have you found any good writing tools?</title>
+        <dc:creator><![CDATA[@epiclutesolo]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/epiclutesolo">@epiclutesolo</a> wrote:</p>
+          <blockquote>
+              <p>This might not be for everyone but <a href="http://www.workflowy.com" rel="nofollow noopener">www.workflowy.com</a><br>
+It’s the most minimalist system I’ve seen for idea organization.<br>
+Drop all your ideas into a tree. Once they’re organized writing them down coherently is much easier.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/25</link>
+        <pubDate>Tue, 19 Mar 2019 19:30:03 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1066-25</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066.rss">Have you found any good writing tools?</source>
+      </item>
+      <item>
+        <title>Have you found any good writing tools?</title>
+        <dc:creator><![CDATA[@tina]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/tina">@tina</a> wrote:</p>
+          <blockquote>
+              <p>Along those lines, I’ve found it useful to have writing being read back to me using speech synthesis. It catches many typos (because the speech processor noticeably stumbles over them) and gives you a pretty good feel abut sentence flow - whether it’s too long, repetitive-sounding, convoluted, stilted, etc.</p>
+<p>There are several ways to go about this. MS Word has a read-aloud option, Mac OS has an accessibility option for it that can be turned on with a keyboard combo, you could export to ebook and have the Google Books phone app read your text aloud… there are probably more ways to do it.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/24</link>
+        <pubDate>Tue, 19 Mar 2019 17:27:53 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1066-24</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066.rss">Have you found any good writing tools?</source>
+      </item>
+      <item>
+        <title>Have you found any good writing tools?</title>
+        <dc:creator><![CDATA[@beepeegee]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/beepeegee">@beepeegee</a> wrote:</p>
+          <blockquote>
+              <p>For plain text files, I’m using <a href="https://gottcode.org/focuswriter/" rel="nofollow noopener">FocusWriter</a>. It’s OpenSource and works on Windows, Mac, Linux.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/23</link>
+        <pubDate>Tue, 19 Mar 2019 17:04:35 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1066-23</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066.rss">Have you found any good writing tools?</source>
+      </item>
+      <item>
+        <title>Have you found any good writing tools?</title>
+        <dc:creator><![CDATA[@Alex]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alex">@Alex</a> wrote:</p>
+          <blockquote>
+              <p>Thanks for all the useful discussions and forums - I had to stop replying yesterday because the new forums decided that I was being too chatty for a newby !?!</p>
+<p>A tool that I’ve been considering trying is IAwriter. I’m in software development as a day job, and syntax highlighting has been brilliant while coding. The idea of a writing tool which can highlight English syntax has an appeal, so I can check my verbs, adverbs etc. It’s a markdown editor too, and I do like markdown for writing.</p>
+<p>Interesting to see a lot of love for Scrivener, it certainly sounds interesting.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/22</link>
+        <pubDate>Mon, 18 Mar 2019 19:32:08 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1066-22</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066.rss">Have you found any good writing tools?</source>
+      </item>
+      <item>
+        <title>Have you found any good writing tools?</title>
+        <dc:creator><![CDATA[@Alex]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alex">@Alex</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="6" data-topic="1066">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/stephen_karnes/40/933_2.png" class="avatar"> Stephen_Karnes:</div>
+<blockquote>
+<p>Not a tool, per se, but a good way to edit/proofread your writing is to change the font type, size, color, etc. It tricks your brain into reading it as if it hasn’t seen it before and gives you a more objective view of it.</p>
+</blockquote>
+</aside>
+<p>Great tip. I would often change my page size to get everything to reflow for the same reason. It’s darn hard to proofread your own work because the brain cleverly remembers what you meant to say, but that kind of thing really does help</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/21</link>
+        <pubDate>Mon, 18 Mar 2019 19:27:39 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1066-21</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066.rss">Have you found any good writing tools?</source>
+      </item>
+      <item>
+        <title>Have you found any good writing tools?</title>
+        <dc:creator><![CDATA[@jestr]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jestr">@jestr</a> wrote:</p>
+          <blockquote>
+              <p>Another one for Typora for keeping notes on the computer—especially for non Mac OS users. Nice and simple. <em>chef’s kiss</em></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/20</link>
+        <pubDate>Mon, 18 Mar 2019 18:51:12 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1066-20</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066.rss">Have you found any good writing tools?</source>
+      </item>
+      <item>
+        <title>Have you found any good writing tools?</title>
+        <dc:creator><![CDATA[@mcbacon]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/mcbacon">@mcbacon</a> wrote:</p>
+          <blockquote>
+              <p>I definitely love Scrivener for organizing thoughts.</p>
+<p>Another tool I really like is <a href="https://typora.io/" rel="nofollow noopener">Typora</a>, which just does no-nonsense markdown editing/preview and exports to PDF. I use it when I want to focus, because it doesn’t offer much in the way of distractions.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/19</link>
+        <pubDate>Mon, 18 Mar 2019 12:23:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1066-19</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066.rss">Have you found any good writing tools?</source>
+      </item>
+      <item>
+        <title>Have you found any good writing tools?</title>
+        <dc:creator><![CDATA[@Ludovico_Alves]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/ludovico_alves">@Ludovico_Alves</a> wrote:</p>
+          <blockquote>
+              <p>This. If you plan to do any serious writing/copyediting, getting a thick, proper dictionary is a must have.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/18</link>
+        <pubDate>Mon, 18 Mar 2019 09:59:00 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1066-18</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066.rss">Have you found any good writing tools?</source>
+      </item>
+      <item>
+        <title>Have you found any good writing tools?</title>
+        <dc:creator><![CDATA[@beepeegee]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/beepeegee">@beepeegee</a> wrote:</p>
+          <blockquote>
+              <p>I used to incorporate many tools like mindmapping apps etc. Now my writing process consists of pen+paper+clipboard and flat text or markdown files on the computer with a simple editor.</p>
+<p>Most important tool for me has been various online thesauri. Also, dictionaries.<br>
+I never write with spellcheckers and made a habit  of looking up words that seem unclear.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/17</link>
+        <pubDate>Mon, 18 Mar 2019 09:53:47 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1066-17</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066.rss">Have you found any good writing tools?</source>
+      </item>
+      <item>
+        <title>Have you found any good writing tools?</title>
+        <dc:creator><![CDATA[@Ludovico_Alves]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/ludovico_alves">@Ludovico_Alves</a> wrote:</p>
+          <blockquote>
+              <p>The only way I can keep motivated enough to write consistently is to see a lot of things I did not consider writing part of the writing process - not only the hours beating text.</p>
+<p>I usually write in “phases”.</p>
+<ul>
+<li>Conceptualizing: the original outline, theme, tone and cast of a story.</li>
+<li>Research: Actual research into topics pertaining to the story, but also learning a new skill - any skill - or just reading/playing in general</li>
+<li>“Writing”: When I actually sit down and try to type as much text as possible.</li>
+<li>Breather: The period where I am not touching a project, letting it “breath” by distancing myself from it. This makes it easier to do the next two steps.</li>
+<li>Proof-reading and copyedit: Give it a light pass, mechanical and grammatical focused, followed by a more in-depth language-dependent revision.</li>
+<li>Redraft: When I take the notes and make a new draft. Then it goes back to</li>
+<li>I can’t even look at it anymore: The moment when the anxiety of going through the cycle of the previous two steps is too much and I release the text into the world amid my own screams.</li>
+</ul>
+<p>This method does not work very well - at least for me - for design work, but that may be a question of attention disorder and/or motivation. It does work for most of other fictional and non-fictional writing; having multiple projects in different stages, it is hard the day I am not motivated to work on some element of it.</p>
+<p>Scrivener is very helpful with this, since it allows me to organize multiple drafts, notes and research material. Still, my most helpful tool is piles of index cards with punchy descriptions of scenes I want to have later.</p>
+<p>NaNoWriMo + any good archiving tool is a powerful resources. I have been using all the Novembers since 2016 as massive conceptualizing, stream of thought conceptualizing/drafting phases for very productive purposes. I have material there for ten years of writing.</p>
+<p>P.S. <a class="mention" href="/u/lindevi">@lindevi</a>, can you easily customize/switch style guides for PerfectIt? Keeping track of which style for either side of the ocean and for which journal is a major copyediting hurdle for me.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/16</link>
+        <pubDate>Mon, 18 Mar 2019 09:16:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1066-16</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066.rss">Have you found any good writing tools?</source>
+      </item>
+      <item>
+        <title>Have you found any good writing tools?</title>
+        <dc:creator><![CDATA[@Ineti]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/ineti">@Ineti</a> wrote:</p>
+          <blockquote>
+              <p>I love Scrivener for outlining and for organizing vast amounts of material into one file rather than having tons of folders and files on a hard drive. The corkboard function is awesome for moving around virtual 3x5 cards. The built-in word processor is great too, as is its ability to export materials into various ebook formats and PDF, Word, etc. There’s more functionality built into the tool than almost anyone would ever need.</p>
+<p>Scrivener and my Alphasmart Neo are my top two writing tools next to my brain and hands.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/15</link>
+        <pubDate>Sun, 17 Mar 2019 23:51:40 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1066-15</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066.rss">Have you found any good writing tools?</source>
+      </item>
+      <item>
+        <title>Have you found any good writing tools?</title>
+        <dc:creator><![CDATA[@MrLloyd]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/mrlloyd">@MrLloyd</a> wrote:</p>
+          <blockquote>
+              <p>Writing Tools, by Roy Peter Clark, is full of good advice about how to put words in the right order.</p>
+<p>So is ‘On Writing’ by Steven King.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/14</link>
+        <pubDate>Sun, 17 Mar 2019 21:56:26 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1066-14</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066.rss">Have you found any good writing tools?</source>
+      </item>
+      <item>
+        <title>Have you found any good writing tools?</title>
+        <dc:creator><![CDATA[@Bethany_H]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/bethany_h">@Bethany_H</a> wrote:</p>
+          <blockquote>
+              <p>Along the same lines, yWriter and Cherrytree are both good for keeping a lot of notes organized in a single file.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/13</link>
+        <pubDate>Sun, 17 Mar 2019 16:06:41 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1066-13</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066.rss">Have you found any good writing tools?</source>
+      </item>
+      <item>
+        <title>Have you found any good writing tools?</title>
+        <dc:creator><![CDATA[@lindevi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/lindevi">@lindevi</a> wrote:</p>
+          <blockquote>
+              <p>I can recommend Scrivener for writers with complex projects–I’ve been using it for NaNoWriMo since at least 2013. The snapshot feature allows you to keep multiple versions of a draft for a scene on hand without having to deal with organizing dozens of files on your computer, and outliners will appreciate being able to convert their outline to folders for organizing the story. It’s worth the learning curve if you feel like writing a manuscript in a single Word file is unwieldy, but I still prefer Word’s formatting tools (esp. paragraph and character styles) when it comes to prepping a manuscript to go into layout.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/12</link>
+        <pubDate>Sun, 17 Mar 2019 15:42:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1066-12</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066.rss">Have you found any good writing tools?</source>
+      </item>
+      <item>
+        <title>Have you found any good writing tools?</title>
+        <dc:creator><![CDATA[@seaandsailor]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/seaandsailor">@seaandsailor</a> wrote:</p>
+          <blockquote>
+              <p>Whoa, this is amazing! Puts my own bullet journal to shame, lol. I love geeky tracking of stuff (I track my sleep and exercise in a similar way, as well as my mood) and this just takes it to the next level <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=6" title=":slight_smile:" class="emoji" alt=":slight_smile:"> I’ll definitely copy some of this, but probably in a less aesthetically-pleasing way.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/11</link>
+        <pubDate>Sun, 17 Mar 2019 15:28:37 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1066-11</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066.rss">Have you found any good writing tools?</source>
+      </item>
+      <item>
+        <title>Have you found any good writing tools?</title>
+        <dc:creator><![CDATA[@Alex]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alex">@Alex</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="4" data-topic="1066">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/beckya/40/638_2.png" class="avatar"> BeckyA:</div>
+<blockquote>
+<p>I love bullet journalling but I’m always looking for new hacks - can you tell me more detail about your system?</p>
+</blockquote>
+</aside>
+<p>The main thing for me was how I used my ‘discretionary’ time, and I worked out that I’d got about 30 hours each week which I was using for watching television, playing computer games and stuff (and squeezing around that stuff I wanted to do). I’d heard somebody say “as the weeks go, so the months go. As the months go, so the year goes” and the context was about using time more intentionally.</p>
+<p>So I had a think, and decided that there were 7 areas which I’d like to try to spend four hours on each, each week. I chose Spirtuality, Exercise, Creative, Reading, Chores, Professional and Relationships. I can fill in half-hour blocks with my coloured pencils, and as the week goes on I can see where I’ve not been spending much time in a week, and grab a bit more time reading (or doing chores!).</p>
+<p>I included on the same page a little bit for recording things to be grateful for, to give me something to look back on; a ‘fruit and veg’ tracker because I want to get better with my diet and a ‘sleep’ tracker because I know I’m bad there, and want to find out <em>how</em> bad!</p>
+<p>The other big bit is ‘accomplishments’. I’ve never found to-do lists great, because they sit there accusing me, and don’t help with my procrastination. But elsewhere in my journal I’ve got lists of objectives (household, website, game development etc). Each Sunday afternoon when I get ready and draw up a page for the coming week, I pick three or four things that I’d like to accomplish that week. Mostly three things. Then I tick them off when I do them. If I accomplish extra things in the week I write them in and take credit for them <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>I’ll attach a photo of the first two weeks in March. I find the small amount of pleasure I get from a little bit of colouring encourages me to keep it all up - and it is proving genuinely useful for me.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/1X/ce1227befe1fb360d67946aa08b823c3c323d57e.jpeg" data-download-href="/uploads/short-url/toZfTuZgWDtIDv2OUQwbB4sUM6a.jpeg?dl=1" title="image" rel="nofollow noopener"><img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/1X/ce1227befe1fb360d67946aa08b823c3c323d57e_2_666x500.jpeg" alt="image" data-base62-sha1="toZfTuZgWDtIDv2OUQwbB4sUM6a" width="666" height="500" srcset="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/1X/ce1227befe1fb360d67946aa08b823c3c323d57e_2_666x500.jpeg, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/1X/ce1227befe1fb360d67946aa08b823c3c323d57e_2_999x750.jpeg 1.5x, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/1X/ce1227befe1fb360d67946aa08b823c3c323d57e_2_1332x1000.jpeg 2x" data-small-upload="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/1X/ce1227befe1fb360d67946aa08b823c3c323d57e_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">4032×3024 3.89 MB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/10</link>
+        <pubDate>Sun, 17 Mar 2019 15:14:27 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1066-10</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066.rss">Have you found any good writing tools?</source>
+      </item>
+      <item>
+        <title>Have you found any good writing tools?</title>
+        <dc:creator><![CDATA[@seaandsailor]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/seaandsailor">@seaandsailor</a> wrote:</p>
+          <blockquote>
+              <p>A lot of people love <a href="https://www.literatureandlatte.com/scrivener/overview" rel="nofollow noopener">Scrivener</a>, which I have never used, but I’ve taken advantage of other notebook-based approaches to writing (such as <a href="http://happenapps.com/" rel="nofollow noopener">Quiver</a>, which is sold as a tool for programmers but is useful for any kind of writing). I love being able to make outlines and having separate documents for different aspects of whatever I’m writing (be it ideas, characters, rules…), but have it all at the same place so I don’t need to juggle with multiple files. There are some free alternatives to Scrivener such as <a href="http://www.bibisco.com/" rel="nofollow noopener">Bibisco</a> (focused on novel writing) and <a href="http://www.theologeek.ch/manuskript/" rel="nofollow noopener">Manuskript</a>.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/9</link>
+        <pubDate>Sun, 17 Mar 2019 15:12:26 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1066-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066.rss">Have you found any good writing tools?</source>
+      </item>
+      <item>
+        <title>Have you found any good writing tools?</title>
+        <dc:creator><![CDATA[@lindevi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/lindevi">@lindevi</a> wrote:</p>
+          <blockquote>
+              <p>I do professional developmental editing and copy editing, and I can’t tell you how many hours <a href="https://intelligentediting.com/product/what-perfectit-does/" rel="nofollow noopener">PerfectIt</a> has saved for me. I recommend it for anyone who wants to publish their writing (especially self-publishers). Here are some of the things it catches:</p>
+<ul>
+<li>Inconsistently spelled, hyphenated, and capitalized words and phrases</li>
+<li>Inconsistently capitalized headings (headline style vs sentence style)</li>
+<li>Missing start or ending quotation marks, parentheses, brackets, etc.</li>
+<li>Missing definitions for abbreviation (or instances where the abbreviation should be used instead of the full term)</li>
+<li>Embarrassing typos (especially curse words)</li>
+</ul>
+<p><a href="https://grammarly.com/" rel="nofollow noopener">Grammarly</a> is… OK. It’s better than nothing, but it can also introduce incorrect commas into your work if you don’t know the rules.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/8</link>
+        <pubDate>Sun, 17 Mar 2019 14:56:26 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1066-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066.rss">Have you found any good writing tools?</source>
+      </item>
+      <item>
+        <title>Have you found any good writing tools?</title>
+        <dc:creator><![CDATA[@koboldorosso]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/koboldorosso">@koboldorosso</a> wrote:</p>
+          <blockquote>
+              <p>This is going to be a bit of an unusual suggestion but it’s working for me: I’ve been using <a href="https://www.are.na/" rel="nofollow noopener">are.na</a> for writing and researching rpgs.</p>
+<p>Are.na is basically a bookmarking service, created for research and presented in a very visual way. You can create channels (think of it as a folder), and into channels you can paste links, upload images and just add blocks of text. Each one of the elements in the channel is also kind of an index card and you can rearrange them around in an order.</p>
+<p>I’m finding it very effective for the way I write (or at least conceptualize) games: I have a lot of small ideas that need to work together. I create text blocks with these ideas and organize them around to give the game structure. It may not work in the long run, but it seems like an effective tool for outlining and exploring different things.</p>
+<p>(While not at all done: <a href="https://www.are.na/jacopo-colo/pwr01-dashpunk" rel="nofollow noopener">this is the channel I’m using for working on a game tentatively called Dashpunk</a>. It shows pretty well what kind of output you could get from Are.na)</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/7</link>
+        <pubDate>Sun, 17 Mar 2019 14:32:17 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1066-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066.rss">Have you found any good writing tools?</source>
+      </item>
+      <item>
+        <title>Have you found any good writing tools?</title>
+        <dc:creator><![CDATA[@Stephen_Karnes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/stephen_karnes">@Stephen_Karnes</a> wrote:</p>
+          <blockquote>
+              <p>As an English teacher, I absolutely approve. The advice I give my students most often is ‘don’t let words get in the way of meaning.’</p>
+<p>Not a tool, per se, but a good way to edit/proofread your writing is to change the font type, size, color, etc. It tricks your brain into reading it as if it hasn’t seen it before and gives you a more objective view of it.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066/6</link>
+        <pubDate>Sun, 17 Mar 2019 14:31:01 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1066-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/have-you-found-any-good-writing-tools/1066.rss">Have you found any good writing tools?</source>
+      </item>
+  </channel>
+</rss>

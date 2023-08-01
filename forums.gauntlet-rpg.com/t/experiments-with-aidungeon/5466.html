@@ -1,0 +1,690 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  
+<!-- Mirrored from forums.gauntlet-rpg.com/t/experiments-with-aidungeon/5466 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 01 Aug 2023 01:00:32 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8">
+    <title>Experiments with AIDungeon - RPG Chat - The Gauntlet Forums</title>
+    <meta name="description" content="A few months ago I found out about this amazing ai-powered tool called AIDungeon. You can find it at aidungeon.io 
+It is built as a text-based adventure, where the GM side is managed by a machine learning model known as &amp;hellip;">
+    <meta name="generator" content="Discourse 2.4.0.beta10 - https://github.com/discourse/discourse version 7c30986b5efe231d4b22ad3e657fc83ec452e89c">
+<link rel="icon" type="image/png" href="https://gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f2859febedbe43114f6e22a494620bdc35bf8786_2_32x32.png">
+<link rel="apple-touch-icon" type="image/png" href="https://gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f2859febedbe43114f6e22a494620bdc35bf8786_2_180x180.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover">
+<link rel="canonical" href="5466.html" />
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://forums.gauntlet-rpg.com","potentialAction":{"@type":"SearchAction","target":"https://forums.gauntlet-rpg.com/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link rel="search" type="application/opensearchdescription+xml" href="../../opensearch.xml" title="The Gauntlet Forums Search">
+
+      <link href="../../stylesheets/desktop_55f06712376291d809ecf79aecaf07fd06a8c979.css_%3b%20filename_%3dUTF-8%27%27desktop_55f06712376291d809ecf79aecaf07fd06a8c9791a85.css?__ws=forums.gauntlet-rpg.com" media="all" rel="stylesheet" data-target="desktop" data-theme-id="2"/>
+      <link href="../../stylesheets/desktop_theme_2_2d4c228818bc7664ec196065afb575563959f7b9.css_%3b%20filename_%3dUTF-8%27%27desktop_theme_2_2d4c228818bc7664ec196065afb575563959f7b91a85.css?__ws=forums.gauntlet-rpg.com" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="2"/>
+    
+    
+        <link rel="alternate" type="application/rss+xml" title="RSS feed of &#39;Experiments with AIDungeon&#39;" href="5466.rss" />
+    <meta property="og:site_name" content="The Gauntlet Forums" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="https://gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/f/f2859febedbe43114f6e22a494620bdc35bf8786.png" />
+<meta property="og:image" content="https://gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/f/f2859febedbe43114f6e22a494620bdc35bf8786.png" />
+<meta property="og:url" content="https://forums.gauntlet-rpg.com/t/experiments-with-aidungeon/5466" />
+<meta name="twitter:url" content="https://forums.gauntlet-rpg.com/t/experiments-with-aidungeon/5466" />
+<meta property="og:title" content="Experiments with AIDungeon" />
+<meta name="twitter:title" content="Experiments with AIDungeon" />
+<meta property="og:description" content="A few months ago I found out about this amazing ai-powered tool called AIDungeon. You can find it at aidungeon.io  It is built as a text-based adventure, where the GM side is managed by a machine learning model known as GPT-2.  GPT-2 has been trained with a large body of literature (including many choose your adventure books) and it can infer the best way to complete a text based on the training material and a prompt.  By collating GM text and player text in a growing text, AI Dungeon generates ..." />
+<meta name="twitter:description" content="A few months ago I found out about this amazing ai-powered tool called AIDungeon. You can find it at aidungeon.io  It is built as a text-based adventure, where the GM side is managed by a machine learning model known as GPT-2.  GPT-2 has been trained with a large body of literature (including many choose your adventure books) and it can infer the best way to complete a text based on the training material and a prompt.  By collating GM text and player text in a growing text, AI Dungeon generates ..." />
+<meta name="twitter:label1" value="Reading time" />
+<meta name="twitter:data1" value="6 mins 🕑" />
+<meta name="twitter:label2" value="Likes" />
+<meta name="twitter:data2" value="26 ❤" />
+<meta property="article:published_time" content="2020-06-22T08:34:43+00:00" />
+<meta property="og:ignore_canonical" content="true" />
+
+
+
+    
+  </head>
+  <body class="crawler">
+    
+    <header>
+      <a href="../../index.html">
+          <img src="https://gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/1X/90fcb9d8a54a6098ad0291236cecc89a0dda0bed.png" alt="The Gauntlet Forums" id="site-logo" style="max-width: 150px;">
+      </a>
+    </header>
+    <div id="main-outlet" class="wrap">
+        <h1 class="crawler-topic-title">
+    <a href="5466.html">Experiments with AIDungeon</a>
+  </h1>
+
+  <div id="breadcrumbs" itemscope itemtype="http://schema.org/BreadcrumbList">
+      <div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a href="../../c/rpg-chat.html" class="badge-wrapper bullet" itemprop="item">
+          <span class="badge-category-bg"></span>
+          <span class="category-title" itemprop="name">RPG Chat</span>
+        </a>
+        <meta itemprop="position" content="1" />
+      </div>
+  </div>
+
+
+  
+
+
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Chiaroscuro'><span itemprop='name'>Chiaroscuro</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <meta itemprop='datePublished' content='2020-06-22T08:34:43Z'>
+              <time itemprop='dateModified' datetime='2020-06-22T08:39:51Z' class='post-time'>
+                June 22, 2020,  8:39am
+              </time>
+          <span itemprop='position'>#1</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>A few months ago I found out about this amazing ai-powered tool called AIDungeon. You can find it at <a href="http://aidungeon.io/" rel="nofollow noopener">aidungeon.io</a></p>
+<p>It is built as a text-based adventure, where the GM side is managed by a machine learning model known as GPT-2.  GPT-2 has been trained with a large body of literature (including many choose your adventure books) and it can infer the best way to complete a text based on the training material and a prompt.  By collating GM text and player text in a growing text, AI Dungeon generates more GM interactions.</p>
+<p>I have seen the relevance of the game generated text leaping forward in the past six months and I started putting together an adventure by copying and pasting bits from Tomb of The Serpent King, the Trophy Gold book and my memories of ToTSK games I played.  When you build an AI Dungeon scenario you can also create some hidden text that the AI uses both for mood and to create facts about the world and that is where I copy-pasted paragraphs from the pdfs and wrote up some rituals.</p>
+<p>The tool is amazing not just for solo roleplaying (it also supports turn-taking narration with a multi-user mode) but it can be used as a generator of characters, items, places and as an oracle to find out what happens next. It can often amaze you and take you to strange places.</p>
+<p>Just for a small taste… this is the adventure of Fionn, a scholar that went to explore the tomb, to never leave it again, killed by a companion possessed by the ghosts of the serpent race - <a href="https://play.aidungeon.io/adventure/05bb86f1-039d-49fd-9194-31675c7fed6b" rel="nofollow noopener">https://play.aidungeon.io/adventure/05bb86f1-039d-49fd-9194-31675c7fed6b</a></p>
+<p>And here is the adventure of the Neven, a noble descended into the tomb looking for power… and encountering it too soon in the shape of a fire breathing dragon… <a href="https://play.aidungeon.io/adventure/fe12cea2-05dc-4efa-80de-62efdc2150ff" rel="nofollow noopener">https://play.aidungeon.io/adventure/fe12cea2-05dc-4efa-80de-62efdc2150ff</a></p>
+<p>Talia, a Warrior Priestess of the Sisters, is the first to lead an expedition that has not come to its end, yet. This is how the story starts. Let me know if you would like to see more. The first line starting an inset paragraph is usually my inputs to the AI dungeon engine. It is usually just one sentence long and is completed by the AI.</p>
+<blockquote>
+<p>A landslide has opened access to a secluded valley. On the bottom of the pit of an open sky mine there is the entrance to a hidden tomb complex that is said to have belonged to the ancient race of the Serpent Kings.</p>
+<p>You hired Baso, a mercenary. Theon, a spelunker and burglar is also part of the group. Your friend the sorcerer Sareh also joined the team.</p>
+<p>You are Talia, a fierce Warrior Priestess. You want to enter the Tomb of the Serpent King to find the ancient reliquary of the Sisters, stolen away by the Serpent Kings.<br>
+Your group is small, but you are sure that it can handle whatever is inside the tomb.</p>
+<p>You didn’t expect to find a full adventuring team already inside the complex. A motley group of half mad explorers and crackpots led by a woman called Helena. She is obsessed with finding the lost city of the Serpent Kings.</p>
+<p>The expedition team has been studying the complex for months, stealing in after dark to gather clues to solve the mystery of the tomb.</p>
+<p>The group is worried. A few days ago they found Helena’s missing boyfriend Ral in a dead faint, smelling of snake venom. He has been acting very strange ever since.</p>
+<p>Helena is hysterical, claiming that the complex is cursed and that everyone who has entered it has died. Her expedition team is beginning to look like the walking dead.</p>
+<p>Your own team members are nervous. Theon is the only one who has ever met Helena. He claims that she is full of hot air and not to be trusted.</p>
+<blockquote>
+<p>Talia walks up to Helena’s camp just outside the entrance to the complex.<br>
+You approach the camp of Helena and her expedition team. You see her, dressed in a tight fitting leather outfit, a whip in her hand, standing over the bodies of her workers. She turns towards you, a sneer forming on her face as she addresses you.<br>
+“So… you came to see me after all,” she says.</p>
+</blockquote>
+<blockquote>
+<p>Talia says “Theon told me you are the best at what you do. I knew then I had to speak to you.”<br>
+“Hmm, Theon did say that,” Helena says, giving a faint smile.</p>
+</blockquote>
+<blockquote>
+<p>Talia says “he told me you would help fellow adventurers if they could help you back”<br>
+“Well, maybe,” Helena says.<br>
+“I have heard the rumors about the tomb. Is it as impressive as is claimed?”<br>
+“Better.”<br>
+“It better be,” you reply, before smirking.</p>
+</blockquote>
+</blockquote>
+        </div>
+
+        <meta itemprop='headline' content='Experiments with AIDungeon'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="11" />
+           <span class='post-likes'>11 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+            <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+            </div>
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Paul_T'><span itemprop='name'>Paul_T</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2020-06-22T19:47:57Z' class='post-time'>
+                June 22, 2020,  7:47pm
+              </time>
+          <span itemprop='position'>#2</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>I’ve fooled around with this a bit, but not to the extent you have. Nice to see someone pushing the limits of this tool!</p>
+        </div>
+
+        <meta itemprop='headline' content='Experiments with AIDungeon'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="1" />
+           <span class='post-likes'>1 Like</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Rickard'><span itemprop='name'>Rickard</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2020-06-22T20:54:45Z' class='post-time'>
+                June 22, 2020,  8:54pm
+              </time>
+          <span itemprop='position'>#3</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Oh, now I remember why this was so familiar. It was on one of the <a href="https://www.youtube.com/watch?v=NZbOqo9QrV4" data-bbcode="true" rel="nofollow noopener">Corridor Crew</a> episodes.</p>
+<p>Really cool idea. When I went on a dragon slaying quest, the generated name for the dragon was “Smokey”. <img src="../../images/emoji/twitter/smileyc164.png?v=9" title=":smiley:" class="emoji" alt=":smiley:"></p>
+        </div>
+
+        <meta itemprop='headline' content='Experiments with AIDungeon'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="1" />
+           <span class='post-likes'>1 Like</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+            <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+            </div>
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Chiaroscuro'><span itemprop='name'>Chiaroscuro</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2020-06-22T21:12:50Z' class='post-time'>
+                June 22, 2020,  9:12pm
+              </time>
+          <span itemprop='position'>#4</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>I find that it really shines when you try custom scenarios and you play like you were playing a serious game with a human GM. Custom scenarios allow you to create the right mood and tie in to all the right cultural references.</p>
+        </div>
+
+        <meta itemprop='headline' content='Experiments with AIDungeon'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="1" />
+           <span class='post-likes'>1 Like</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/kwarnberg'><span itemprop='name'>kwarnberg</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2020-06-26T11:01:37Z' class='post-time'>
+                June 26, 2020, 11:01am
+              </time>
+          <span itemprop='position'>#5</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>I played around with this a couple of days ago. My zombie survival story ended with me getting married and growing old with one of the other characters, spending my days reminiscing about the good old days when the world ended. It was weird and cozy. As the apocalypse should be.</p>
+        </div>
+
+        <meta itemprop='headline' content='Experiments with AIDungeon'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="2" />
+           <span class='post-likes'>2 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/igorhorst'><span itemprop='name'>igorhorst</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <meta itemprop='datePublished' content='2020-07-31T01:48:31Z'>
+              <time itemprop='dateModified' datetime='2020-07-31T01:49:07Z' class='post-time'>
+                July 31, 2020,  1:49am
+              </time>
+          <span itemprop='position'>#6</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>So recently, AI Dungeon switched over to GPT-3, with two models available: a free version called Griffon, and a version only available to Premium members ($10/month) called Dragon. GPT-3 is well-known for its general-purpose text generation capabilities, so long as you design the right prompts. Which gave me an idea…</p>
+<p>I posted on r/proceduralgeneration about my experiment with using AI Dungeon’s Dragon Model <a href="https://www.reddit.com/r/proceduralgeneration/comments/hygi3s/using_ai_dungeon_for_character_generation_for/" rel="nofollow noopener">to generate characters using the “7-3-1” technique created by Jason Cordova</a>. It seems to work 40% of the time on autopilot (and it’s very easy to undo, retry, or alter the output…so the actual success on the field is probably much higher), so the results are promising to me. I look forward to creating new prompts for AI Dungeon to use, thereby generating content for tabletop RPG sessions.</p>
+<p>There is a catch though - it is very easy to write prompts, but hard to debug them and figure out what’s going on right or wrong…so I’ll need to learn how to do “prompt engineering” properly. That, or wait for OpenAI (the creator of the GPT models) to let people find-tune the GPT models, thereby making them more efficient at tabletop RPG content generation.</p>
+        </div>
+
+        <meta itemprop='headline' content='Experiments with AIDungeon'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="2" />
+           <span class='post-likes'>2 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+            <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+            </div>
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Chiaroscuro'><span itemprop='name'>Chiaroscuro</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2020-07-31T19:37:23Z' class='post-time'>
+                July 31, 2020,  7:37pm
+              </time>
+          <span itemprop='position'>#7</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>I have read <a href="https://pastebin.com/raw/iBqnQv8W">your example</a> and it is really amazing.  I should probably switch to GPT-3 as well. The potential for creativity aids and tools is incredible.</p>
+<p>I was thinking to use this model within a more controlled framework (as you did actually) and mixing it with more procedural generation techniques.</p>
+<p><a class="mention" href="https://forums.gauntlet-rpg.com/u/igorhorst">@igorhorst</a> do you know Abulafia? I have built an API on top and you can query for specific generators… I would love to use this in conjunction with GPT-3</p>
+        </div>
+
+        <meta itemprop='headline' content='Experiments with AIDungeon'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+            <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+            </div>
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/igorhorst'><span itemprop='name'>igorhorst</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2020-07-31T22:54:08Z' class='post-time'>
+                July 31, 2020, 10:54pm
+              </time>
+          <span itemprop='position'>#8</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>I have heard of Abulafia, and even used it a few times. Is your API documented anywhere? I might want to try it out.</p>
+<p>Hm, I guess the existence of an Abulafia API gives me an interesting idea - use Abulafia to generate a few example paragraphs and then feed them into GPT-3 with the correct prompt. If this can all be done programmatically, then I think I got a good foundation for a <a href="https://nanogenmo.github.io/" rel="nofollow noopener">“National Novel Generation Month”</a> project. All I need to do is to figure out how to write a prompt that succeeds all of the time…</p>
+        </div>
+
+        <meta itemprop='headline' content='Experiments with AIDungeon'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="2" />
+          </div>
+
+            <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+            </div>
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Chiaroscuro'><span itemprop='name'>Chiaroscuro</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2020-08-01T13:14:45Z' class='post-time'>
+                August 1, 2020,  1:14pm
+              </time>
+          <span itemprop='position'>#9</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>You can start experimenting with a service endpoint that I created.</p>
+<p>Try this example: <a href="https://abulafia-library-ptrpwdvrrxkp.runkit.sh/pick/1E_DMG_Demon/main">https://abulafia-library-ptrpwdvrrxkp.runkit.sh/pick/1E_DMG_Demon/main</a></p>
+<p>The “1E_DMG_Demon” is the name of the abulafia page you want. Try these ones as well:</p>
+<ul>
+<li><a href="https://abulafia-library-ptrpwdvrrxkp.runkit.sh/pick/Petty_Prince_Random_Generator/main">https://abulafia-library-ptrpwdvrrxkp.runkit.sh/pick/Petty_Prince_Random_Generator/main</a></li>
+<li><a href="https://abulafia-library-ptrpwdvrrxkp.runkit.sh/pick/Enchanted_Items/main">https://abulafia-library-ptrpwdvrrxkp.runkit.sh/pick/Enchanted_Items/main</a></li>
+</ul>
+<p>If you find some value I will go into more detail and give you the code. Let me know if it breaks somewhere!</p>
+<p>I was also reasoning on the same rough line as you… some basic narrative structure, Abulafia prompts and GPT-3!</p>
+        </div>
+
+        <meta itemprop='headline' content='Experiments with AIDungeon'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="1" />
+           <span class='post-likes'>1 Like</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+            <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+            </div>
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Chiaroscuro'><span itemprop='name'>Chiaroscuro</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <meta itemprop='datePublished' content='2020-08-01T13:21:11Z'>
+              <time itemprop='dateModified' datetime='2020-08-01T13:32:29Z' class='post-time'>
+                August 1, 2020,  1:32pm
+              </time>
+          <span itemprop='position'>#10</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Also, about NanoGenMo… yes I think it can be done. Even the GPT-2 results that I got for Tomb of the Serpent Kings were nothing short of amazing.</p>
+<p>You can have good fun also using the back cover of books or the reviews of d&amp;d modules as prompts for the AI.</p>
+<p>BTW, this is the follow up of the TotSK story above.</p>
+<blockquote>
+<p>Talia says “can you give us some intel on the Tomb before we go in?”<br>
+“Sure,” Helena says. “You’ll need these.”<br>
+Helena hands you a small vial of something and a silver dagger, its hilt wrapped in snake skin.<br>
+“What is it? An antidote?”<br>
+"Of course. If I were you I’d stick it in my arm first and then drink what’s in the vial. If you want to survive the experience.</p>
+</blockquote>
+<blockquote>
+<p>Talia takes the antidote vial and the snake skin dagger.</p>
+</blockquote>
+<blockquote>
+<p>Talia says “is the dagger magical?”<br>
+“It has a minor enchantment. It won’t kill you, just hurts like hell. You’ll be able to speak basic sentences in the snake tongue for the duration though.”</p>
+</blockquote>
+<blockquote>
+<p>Talia says “thank you Helena, I am in your debt. May the Sisters grant you what you wish for.”<br>
+Helena smiles, before barking out a command to her team, the next few hours are spent in preparation.<br>
+The main pavilion of the camp is large, decorated with symbols related to the dark arts.</p>
+</blockquote>
+<blockquote>
+<p>Talia asks Sareh what is the meaning and function of the symbols.<br>
+“Those symbols?” Sareh asks, pointing at the dark symbols on the tent. “Those are infernal symbols. You don’t want to know what they do. I suggest you just avoid them.”<br>
+Sareh looks at the ground, deep in thought.<br>
+“Those are necromantic symbols.”<br>
+“What’s the difference?” Talia asks.<br>
+“Those symbols… they bind the infernal powers to this world. If you draw those symbols, you are calling upon infernal powers.”</p>
+</blockquote>
+<blockquote>
+<p>Talia says “why do you think Helena is getting this place decorated with necromantic symbols?”<br>
+“She wants the powers of the dead. This place… it’s a gateway to the dead.”<br>
+Talia suddenly stares at Sareh with suspicion.<br>
+“How do you know all this?” you ask.<br>
+“I’ve… I’ve done a little reading.”<br>
+“You’ve done a lot of reading, Sareh,” Talia says.</p>
+</blockquote>
+<blockquote>
+<p>Talia gets her crew going towards the entrance of the tomb complex.<br>
+“Well, you heard the woman. Let’s get inside and get this job done,” you say.<br>
+You and your men move forward into the entrance of the necromancer’s lair.</p>
+</blockquote>
+<blockquote>
+<p>Talia says “Theon, check out the entrance and scout ahead”<br>
+“Yes, sir,” Theon says.<br>
+Theon salutes and moves ahead into the darkness.<br>
+You stand in the entrance of the necromancer’s tomb.</p>
+</blockquote>
+<blockquote>
+<p>Talia lights up a torch and follows Theon in the tomb.<br>
+You take the opportunity to scout ahead, and move forward into the necromancer’s lair.<br>
+The area is a large underground chasm, with strange symbols carved into the walls.</p>
+</blockquote>
+<blockquote>
+<p>Talia lights up the symbols with the torch to see them better.<br>
+Talia takes the opportunity to mark the walls with symbols of power.<br>
+Theon returns from scouting ahead.<br>
+“The area is clear, sir,” Theon says.</p>
+</blockquote>
+<blockquote>
+<p>Talia says “well done Theon. Sareh, do you recognize these symbols on the walls?”<br>
+“Those are infernal symbols.”<br>
+"What do you make of them?<br>
+“I’ve never seen these symbols before. This is a summoning chamber,” Sareh says. “This is bad. Very bad.”<br>
+You see a large, demonic looking creature standing in the chasm.</p>
+</blockquote>
+<blockquote>
+<p>Talia looks down the chasm at the demonic looking shape.<br>
+You take a look down the large chasm, and see the demonic shape. It has an odd head with two insect-like antennae coming out of its forehead.</p>
+</blockquote>
+<blockquote>
+<p>Talia studies the figure to understand if it is a statue of some kind.<br>
+“It’s a statue,” you say.<br>
+Talia looks at the demonic statue.<br>
+“It looks like stone, but it feels like… like it’s made of flesh,” Talia says.<br>
+“Let’s move on,” you say.<br>
+You take a look at the large chasm. There is a walkway along the wall of the chasm.</p>
+</blockquote>
+<p>“We should go along the walkway,”<br>
+the party moves forward, Theon leading, Talia following with the torch, and Sareh and Baso closing the line.</p>
+<p>Suddenly, the chasm gives a large rumble.<br>
+" Run!" you shout.<br>
+Sareh and Baso run towards you. You hear a growl, and turn to face the large chasm. You see a large, black shape moving rapidly towards you.<br>
+“Back to back!” you shout. “Mortal bullet versus demonic invasion! Who will win: iron, or iron?”</p>
+<blockquote>
+<p>Talia says “fast Sareh, cast a protection ritual!”<br>
+Sareh begins to chant.<br>
+“Hold your ground!” Baso shouts.<br>
+You draw your crossbow and fire at the creature. The dart makes contact, but it seems to have no effect.</p>
+</blockquote>
+<blockquote>
+<p>Talia prays the Sister to cast a searing light on the dark shape.<br>
+Talia prays to the goddess, and a bright white light appears, illuminating the beast. It’s skin appears to be made of hundreds of Eyes, all peering at you.<br>
+Sareh’s ritual seems to be working. The dark shape begins to writhe and roar in pain.<br>
+“shoot it!” you shout.<br>
+You aim your crossbow at the creature, and fire. The bolt hits home, and the demonic shape begins to scream in pain. It begins to rapidly writhe, trying to escape the light.<br>
+Baso and Theon target the creature with a volley of arrows, and though it stops screaming, the creature now clings to the wall. It begins to burn, and in a few seconds is reduced to ash, leaving the wall scorched.<br>
+“Ha! It’s dead!”</p>
+</blockquote>
+<blockquote>
+<p>Talia examines the rests of the creature.<br>
+“It’s ash,” you say. “We should go.”<br>
+“I’ll say,” Baso says. “Well, let’s get going.”<br>
+You and your allies begin to head out of the room. You head back to the passage along the chasm you were previously exploring. You walk along corridors and descend stairs. Eventually, you find yourself in a massive treasure room. It is covered with gold and gems.</p>
+</blockquote>
+<blockquote>
+<p>Talia asks Theon to check the room for traps.<br>
+Theon walks through the room, examining each object.<br>
+“Well?” you ask. “What do you see?”<br>
+“No traps,” he says.</p>
+</blockquote>
+<blockquote>
+<p>Talia sorts through the treasures looking for anything that might have been stolen from the Sisters’ temples.<br>
+You sort through the gems and gold, but find nothing.<br>
+“We should keep looking,” Talia says. “Sister Yvette said they would be here.”<br>
+“Are you sure this is the place?” Theon asks.<br>
+“I’m sure,” you say. “We have to find them.”<br>
+“Well, let’s keep searching,” he says.<br>
+Suddenly, there is a scream from above. Theon and Baso look up, while you look where they are looking. You see a hooded figure standing on the edge of a balcony.<br>
+“Shoot them!” the figure shouts.</p>
+</blockquote>
+<blockquote>
+<p>Talia says “hide behind the pillars now!”<br>
+You quickly hide behind the pillar.<br>
+Theon and Baso are already doing so.<br>
+“Theon, Sareh! Now!” you shout.<br>
+The two mercenaries quickly get up and fire their crossbows at the assassin, but they miss. Then, the figure throws something at Theon, which hits him in the head and knocks him unconscious.</p>
+</blockquote>
+<blockquote>
+<p>Talia shoots her crossbow to the hooded assassin.<br>
+Talia raises her crossbow, aiming at the assassin’s head.<br>
+Suddenly, Talia shoots the figure with her own crossbow. There is a gasp, and the figure falls from the balcony to his death.</p>
+</blockquote>
+<blockquote>
+<p>Talia watches out for other hidden assassins.<br>
+“Baso! Sareh!” Talia shouts.<br>
+Sereh and Baso begin running towards you, both still aiming their crossbows. Then, there is a sudden shriek from the balcony.<br>
+“Go! Go!” you shout, running towards the exit.<br>
+Sereh and Baso fire their crossbows, but they, too, miss.</p>
+</blockquote>
+<blockquote>
+<p>Talia grabs Theon and drags him to the exit.<br>
+You run as fast as you can, and just make it to the door. As you run out of it, you are dragging Theon. Then, the door closes, and the lock engages.</p>
+</blockquote>
+        </div>
+
+        <meta itemprop='headline' content='Experiments with AIDungeon'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="3" />
+           <span class='post-likes'>3 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+            <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+                  <div itemprop='itemListElement' itemscope itemtype='http://schema.org/ListItem'>
+                    <a href="../annalise-short-solo-actual-play-using-the-cut-up-method/6707/3.html" itemprop='item'>
+                      <meta itemprop='url' content='../annalise-short-solo-actual-play-using-the-cut-up-method/6707/3.html'>
+                      <meta itemprop='position' content='1'>
+                      <span itemprop='name'>Annalise (short solo actual play using the cut-up method)</span>
+                    </a>
+                  </div>
+            </div>
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/igorhorst'><span itemprop='name'>igorhorst</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <meta itemprop='datePublished' content='2020-12-26T19:59:49Z'>
+              <time itemprop='dateModified' datetime='2020-12-26T20:00:25Z' class='post-time'>
+                December 26, 2020,  8:00pm
+              </time>
+          <span itemprop='position'>#11</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>So I forgot about this thread and my original idea of using Abulafia to generate a few example paragraphs that I would tend seed into AI Dungeon. Instead, I took a different path…</p>
+<p>As part of National Novel Generation Month, I used AI Dungeon to create a <a href="https://drive.google.com/file/d/11UMguCWOKRkTkL1lc5HSAhGnXlOdHum9/view" rel="nofollow noopener">fan-made supplement</a> for the RPG <span class="bbcode-i">Legend of the Five Rings</span> that deals with the mysterious Kolat secret society. I simply provided it prompts, and then edited the generated outputs.</p>
+<p>Interestingly, the “prompts” I used was simply giving it an example, and then letting AI Dungeon imitate that example. For example, I was able to create Adventure Seeds simply by giving AI Dungeon an example of a “real” Adventure Seed in the sourcebook <em>Emerald Empire</em>. So I am very confident that using Abulafia’s generated paragraphs would wind up working…after all, it worked well for this project.</p>
+<p>Due to lack of time, the supplement itself only contains a total of 3260 words, so for the NaNoGenMo submission itself, <a href="https://github.com/tra38/nanogenmo-2020/blob/main/output_file.md" rel="nofollow noopener">I added a bunch of “meows” at the end</a>.</p>
+<p>For more information about the project (and how I used AI Dungeon), you may look at these links:</p>
+<ul>
+<li>GitHub Issue Associated With Project:<br>
+<a href="https://github.com/tra38/nanogenmo-2020" rel="nofollow noopener">https://github.com/tra38/nanogenmo-2020</a>
+</li>
+<li>GitHub Repository:<br>
+<a href="https://github.com/NaNoGenMo/2020/issues/31" rel="nofollow noopener">https://github.com/NaNoGenMo/2020/issues/31</a>
+</li>
+</ul>
+        </div>
+
+        <meta itemprop='headline' content='Experiments with AIDungeon'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="4" />
+           <span class='post-likes'>4 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+            <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+            </div>
+
+    </div>
+
+
+
+
+
+
+    </div>
+    <footer class="container wrap">
+      <nav class='crawler-nav' itemscope itemtype='http://schema.org/SiteNavigationElement'>
+        <ul>
+        <li itemprop="name"><a href='../../index.html' itemprop="url">Home </a></li>
+        <li itemprop="name"><a href='../../categories.html' itemprop="url">Categories </a></li>
+        <li itemprop="name"><a href='../../guidelines.html' itemprop="url">FAQ/Guidelines </a></li>
+        <li itemprop="name"><a href='../../tos.html' itemprop="url">Terms of Service </a></li>
+        <li itemprop="name"><a href='../../privacy.html' itemprop="url">Privacy Policy </a></li>
+        </ul>
+      </nav>
+      <p class='powered-by-link'>Powered by <a href="https://www.discourse.org/">Discourse</a>, best viewed with JavaScript enabled</p>
+    </footer>
+    
+    
+  </body>
+  
+
+<!-- Mirrored from forums.gauntlet-rpg.com/t/experiments-with-aidungeon/5466 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 01 Aug 2023 01:00:32 GMT -->
+</html>

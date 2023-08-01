@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>The Gauntlet Forums Search</ShortName>
+  <Description>Search for posts on The Gauntlet Forums</Description>
+  <Tags>discourse forum</Tags>
+    <Image type="image/png">https://gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f2859febedbe43114f6e22a494620bdc35bf8786_2_32x32.png</Image>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://forums.gauntlet-rpg.com/opensearch.xml"/>
+  <Url type="text/html" template="https://forums.gauntlet-rpg.com/search?q={searchTerms}"/>
+  <Query role="example" searchTerms="search term"/>
+</OpenSearchDescription>

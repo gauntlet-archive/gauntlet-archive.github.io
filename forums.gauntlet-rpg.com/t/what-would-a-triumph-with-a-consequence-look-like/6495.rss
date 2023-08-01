@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>What would a triumph with a consequence look like?</title>
+    <link>https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495</link>
+    <description>**My question:**
+
+I am toying with a game mechanic that would at times allow characters to &quot;triumph&quot; - briefly passing narrative to control to a player so she can narrate her success and receive tokens or xp (like a pbta 12+). However at times there may be an additional complication involved. A &quot;triumph&quot; with a complication.
+
+Are there examples like this in other games? I would love to take a look. 
+
+Some solutions I can think of are adding complicating questions under moves so a player may ask her fellow players in case of a complication.
+
+For example:
+
+Amila uses *spill the tea* and triumphs (with a complication)! She collects a token and narrates: &quot;Duchess Averline did not know what hit her. She was so shocked at what I said that she fainted into the cake. Splat.&quot; Amila&#39;s then asks the table the complicating question: &quot;Who is inadvertently burned?&quot;
+_________________________________________
+**Some context:**
+
+In order to emulate anime narrative structure and mechanically give lend more importance to side characters I have been toying with a dice system inspired by Genysis, Trophy Gold, and Burn Bryte.
+
+The game uses a dice pool:
+
+A player rolls a base 2d6. 
+If there is a match she hits. If the dice do not match she misses. If the dice are sequential, there is a silver lining to the miss (like in Genysys, a miss with advantage). She may gain tokens or xp (alla dungeon world).
+
+She can roll more dice if she accepts a devil&#39;s bargain, uses a Side Character&#39;s move as her own, or has advantage.
+
+Let&#39;s say she rolls 3d6.
+If all three match, she triumphs. She narrates her success and receives tokens or xp.
+If two dice match but not all, there is a hit with a complication (a pbta 7-9 result equivalent).
+
+Let&#39;s say she rolls 4d6.
+If three dice match, she triumphs. But if not all dice match, then she experiences a complication as well. Hence my question.</description>
+    
+    <lastBuildDate>Wed, 10 Mar 2021 02:45:05 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>What would a triumph with a consequence look like?</title>
+        <dc:creator><![CDATA[@Ben_Bisogno]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/ben_bisogno">@Ben_Bisogno</a> wrote:</p>
+          <blockquote>
+              <aside class="onebox googledocs">
+  <header class="source">
+      <a href="https://docs.google.com/document/d/1wZrauyzJtv2xxFBRtbGqt6nMY-rV_0rqGLPeqDirjUc/edit?usp=sharing" target="_blank">docs.google.com</a>
+  </header>
+  <article class="onebox-body">
+    <a href="https://docs.google.com/document/d/1wZrauyzJtv2xxFBRtbGqt6nMY-rV_0rqGLPeqDirjUc/edit?usp=sharing" target="_blank"><span class="googledocs-onebox-logo g-docs-logo"></span></a>
+
+<h3><a href="https://docs.google.com/document/d/1wZrauyzJtv2xxFBRtbGqt6nMY-rV_0rqGLPeqDirjUc/edit?usp=sharing" target="_blank">Power Up Engine</a></h3>
+
+<p>POWER UP ENGINE - A DICE POOL SYSTEM an engine for a tactile sense of advancement and high stakes drama ✨Shiny Prince Games 2020✨    INTRODUCTION  THE CONCEPT   Power Up Engine is designed to emulate stories told in anime - where by working together...</p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>Here is my current solution:</p>
+<p>ONE TRIUMPH AND TWO THREATS<br>
+<em>three matching dice is a <strong>triumph</strong>. The unmatched dice are <strong>threats</strong>.</em></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/8/8181d1564d9b596406680dd091d7273d170dd875.png" data-download-href="/uploads/short-url/itFJ478NcKHCYDJCTTQfPSFcaLX.png?dl=1" title=""><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/8/8181d1564d9b596406680dd091d7273d170dd875_2_28x28.png" alt data-base62-sha1="itFJ478NcKHCYDJCTTQfPSFcaLX" width="28" height="28" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/8/8181d1564d9b596406680dd091d7273d170dd875_2_28x28.png, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/8/8181d1564d9b596406680dd091d7273d170dd875_2_42x42.png 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/8/8181d1564d9b596406680dd091d7273d170dd875_2_56x56.png 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/8/8181d1564d9b596406680dd091d7273d170dd875_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename"></span><span class="informations">512×512 4.09 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/8/8181d1564d9b596406680dd091d7273d170dd875.png" data-download-href="/uploads/short-url/itFJ478NcKHCYDJCTTQfPSFcaLX.png?dl=1" title=""><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/8/8181d1564d9b596406680dd091d7273d170dd875_2_28x28.png" alt data-base62-sha1="itFJ478NcKHCYDJCTTQfPSFcaLX" width="28" height="28" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/8/8181d1564d9b596406680dd091d7273d170dd875_2_28x28.png, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/8/8181d1564d9b596406680dd091d7273d170dd875_2_42x42.png 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/8/8181d1564d9b596406680dd091d7273d170dd875_2_56x56.png 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/8/8181d1564d9b596406680dd091d7273d170dd875_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename"></span><span class="informations">512×512 4.09 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/8/8181d1564d9b596406680dd091d7273d170dd875.png" data-download-href="/uploads/short-url/itFJ478NcKHCYDJCTTQfPSFcaLX.png?dl=1" title=""><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/8/8181d1564d9b596406680dd091d7273d170dd875_2_28x28.png" alt data-base62-sha1="itFJ478NcKHCYDJCTTQfPSFcaLX" width="28" height="28" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/8/8181d1564d9b596406680dd091d7273d170dd875_2_28x28.png, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/8/8181d1564d9b596406680dd091d7273d170dd875_2_42x42.png 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/8/8181d1564d9b596406680dd091d7273d170dd875_2_56x56.png 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/8/8181d1564d9b596406680dd091d7273d170dd875_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename"></span><span class="informations">512×512 4.09 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/c/ca76ac2b200e13a8ed883f81e976aec9561ec430.png" data-download-href="/uploads/short-url/sT4HDfKccAzWTsfWuDXMRXlFJYc.png?dl=1" title=""><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/c/ca76ac2b200e13a8ed883f81e976aec9561ec430_2_28x28.png" alt data-base62-sha1="sT4HDfKccAzWTsfWuDXMRXlFJYc" width="28" height="28" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/c/ca76ac2b200e13a8ed883f81e976aec9561ec430_2_28x28.png, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/c/ca76ac2b200e13a8ed883f81e976aec9561ec430_2_42x42.png 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/c/ca76ac2b200e13a8ed883f81e976aec9561ec430_2_56x56.png 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/c/ca76ac2b200e13a8ed883f81e976aec9561ec430_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename"></span><span class="informations">512×512 5.42 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/2/24a07cd575a18e26766a5cbbe01402a4fe5cb666.png" data-download-href="/uploads/short-url/5e11ZoRfufv5v4G6BA7Kb27SnUW.png?dl=1" title=""><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/2/24a07cd575a18e26766a5cbbe01402a4fe5cb666_2_29x29.png" alt data-base62-sha1="5e11ZoRfufv5v4G6BA7Kb27SnUW" width="29" height="29" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/2/24a07cd575a18e26766a5cbbe01402a4fe5cb666_2_29x29.png, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/2/24a07cd575a18e26766a5cbbe01402a4fe5cb666_2_43x43.png 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/2/24a07cd575a18e26766a5cbbe01402a4fe5cb666_2_58x58.png 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/2/24a07cd575a18e26766a5cbbe01402a4fe5cb666_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename"></span><span class="informations">512×512 4.8 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>In the game <strong>triumph</strong> means all <strong>threats</strong> are ignored unless the player who rolled consents to consequences proposed by the GM. In this case the player then may accept them in exchange for XP or some other benefit. I will leave it up to the GM was she feels is a good consequence, which depends on the situation.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495/16</link>
+        <pubDate>Wed, 10 Mar 2021 02:45:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6495-16</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495.rss">What would a triumph with a consequence look like?</source>
+      </item>
+      <item>
+        <title>What would a triumph with a consequence look like?</title>
+        <dc:creator><![CDATA[@MishaPanarin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/mishapanarin">@MishaPanarin</a> wrote:</p>
+          <blockquote>
+              <p>Just today I was talking to a friend about how Masks exemplifies this in one of its moves.</p>
+<p>The example for “Engage a Threat Directly” (the move most commonly used for brawling with baddies) says that on a miss you may sometimes have the character achieve their goal at a great cost. The example given shows the Bull (bioengineered ultra-strong fighter) facing a dozen armored mooks, rolling a miss and <em>still</em> managing to beat them up easily - <em>but</em> when she takes off one of the mooks’ helmet she realizes they were just like her, bioengineered children made to fight. This is both triumph and complication and they do it on a missed roll which I think is brilliant.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495/15</link>
+        <pubDate>Sat, 06 Mar 2021 04:01:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6495-15</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495.rss">What would a triumph with a consequence look like?</source>
+      </item>
+      <item>
+        <title>What would a triumph with a consequence look like?</title>
+        <dc:creator><![CDATA[@CrudelyDrawnSwords]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/crudelydrawnswords">@CrudelyDrawnSwords</a> wrote:</p>
+          <blockquote>
+              <p>A triumph with a consequence to me could mean that you succeed a little too far - you throw the mook you’re fighting with such force the table he lands on collapses and slides off down the stairs with a thunderous roar. The door you are trying to break open explodes into splinters. The perp you were interrogating not only tells you everything you want to know, but now fully trusts you and believes that you will be able to keep them safe from the consequences of giving you this information. The spell you were casting is so potent that word of your skill will soon spread far and wide and every two-bit magical duelist will be seeking to match wits with you.</p>
+<p>The only problem with that from my perspective is that this is already how I often narrate a failure or intermediate success, and it would be a shame to take that off the table/limit it to this specific combination of dice.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495/14</link>
+        <pubDate>Fri, 26 Feb 2021 10:48:01 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6495-14</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495.rss">What would a triumph with a consequence look like?</source>
+      </item>
+      <item>
+        <title>What would a triumph with a consequence look like?</title>
+        <dc:creator><![CDATA[@acegiak]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/acegiak">@acegiak</a> wrote:</p>
+          <blockquote>
+              <p>“The MC tells you the cost and i you agree you do it.” is a GREAT way of handling that base level interaction and we experimented a bit with that at one point when we were doing the base design for dungeonpunk. Our aim was definitely to embrace that “upgrade to competency with advanced moves” mentality, the game was actually borne out of a discussion of some concepts around that. Specifically the game is partly our exploration of PBTA in response to this article: <a href="https://sidneyicarus.wordpress.com/2020/07/24/the-snowball-i-oceans-and-puddles/" rel="nofollow noopener">https://sidneyicarus.wordpress.com/2020/07/24/the-snowball-i-oceans-and-puddles/</a></p>
+<p>The reason we went with <em>having</em> a basic fallback move that involves dice rather than just GM/Player negotiation is my own philosophy around game design, IE that games should do <em>work</em> so that players have to exert less energy to have more fun. The GM/Player negotiation model works really well but it is a high load activity both for cognition and social processing. By creating a structure that hands some of the decision making and, importantly, <em>responsibility for outcomes</em> off to the dice, we reduce the amount of cognitive and social processing work the players have to do each time they hit this point in the game’s rhythm, which is pretty often.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495/13</link>
+        <pubDate>Fri, 26 Feb 2021 08:21:52 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6495-13</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495.rss">What would a triumph with a consequence look like?</source>
+      </item>
+      <item>
+        <title>What would a triumph with a consequence look like?</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>I see what you mean here. I find this significantly less exciting, as it’s very similar to ‘act under fire’ in the original game (AW), except without the occasional breakout 10+ roll.</p>
+<p>The idea of structuring PbtA play so that you “upgrade” to more advanced moves is a nice format, though. Many/most PbtA games have this in them a little bit, but I’ve yet to see a game really embrace it full-on.</p>
+<p>As an easy alternative, by the way, it can be done without rolling at all:</p>
+<p>When you try something difficult or risky, the MC tells you what it will cost you. If you agree to the cost, you do it.</p>
+<p>That can be surprisingly effective as a tool.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495/12</link>
+        <pubDate>Wed, 10 Feb 2021 18:11:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6495-12</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495.rss">What would a triumph with a consequence look like?</source>
+      </item>
+      <item>
+        <title>What would a triumph with a consequence look like?</title>
+        <dc:creator><![CDATA[@Jesseabe]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jesseabe">@Jesseabe</a> wrote:</p>
+          <blockquote>
+              <ol>
+<li>I like the way it interacts with the advanced moves, such that anybody can try more or less anything, but if you want it to turn out well, you need to be good at it i.e. have the advanced move for it.</li>
+<li>I think it’s also intended to be played in a kind of OSR style where if you can come up with a clever way to avoid rolling, that’s the ideal.  So on the one hand, you’re either good at the thing, which means success can work out well for you, but you still risk failure, or you avoid rolling altogether with cleverness, or you take your chances with “struggle,” and even success is mixed.</li>
+<li>I like how even though success on the move isn’t complete, you get a choice of what happens.  You can achieve your goal, and then have a new problem to deal with or not quite get what you want, but not have to worry about something new.  It’s a level of control that, I think, can still feel good even though it’s not really “full success.”  I’m curious to see how it feels in play.</li>
+</ol>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495/11</link>
+        <pubDate>Wed, 10 Feb 2021 03:01:21 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6495-11</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495.rss">What would a triumph with a consequence look like?</source>
+      </item>
+      <item>
+        <title>What would a triumph with a consequence look like?</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>What makes that cool?</p>
+<p>Is it just the implication that you can’t get far with the basic move? Or something more?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495/10</link>
+        <pubDate>Wed, 10 Feb 2021 02:06:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6495-10</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495.rss">What would a triumph with a consequence look like?</source>
+      </item>
+      <item>
+        <title>What would a triumph with a consequence look like?</title>
+        <dc:creator><![CDATA[@Jesseabe]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jesseabe">@Jesseabe</a> wrote:</p>
+          <blockquote>
+              <p>So DungeonPunk, a new game that takes some elements from World of Dungeons, takes some more Dungeon WOrld stuff, and uses Blades in the Dark dice pools, has a cool thing.  The main move, struggle, gives you this choice when you succeed:  On a success : Choose one: ● You are fully successful ● You avoid misfortune.  So the best you can do with the basic move either fully succeed at what you tried and have some misfortune take place or succeed partially, and avoid misfortune.  You need to take advanced moves to actually succeed at specific actions without a hitch.  It’s very cool, and kind of in the space you’re talking about.  Game is here:  <a href="https://acegiak.itch.io/dungeonpunk">https://acegiak.itch.io/dungeonpunk</a></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495/9</link>
+        <pubDate>Tue, 09 Feb 2021 23:05:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6495-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495.rss">What would a triumph with a consequence look like?</source>
+      </item>
+      <item>
+        <title>What would a triumph with a consequence look like?</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>This might be both easier and more helpful - the “technology” stripped down:</p>
+<p><a href="http://www.lumpley.com/archive/148.html" class="onebox" target="_blank">http://www.lumpley.com/archive/148.html</a></p>
+<p>I use Otherkind dice techniques in many, many of my designs.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495/8</link>
+        <pubDate>Tue, 09 Feb 2021 17:57:01 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6495-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495.rss">What would a triumph with a consequence look like?</source>
+      </item>
+      <item>
+        <title>What would a triumph with a consequence look like?</title>
+        <dc:creator><![CDATA[@Alun_R]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alun_r">@Alun_R</a> wrote:</p>
+          <blockquote>
+              <p>In my games built out from Cthulhu Dark …<br>
+If you roll 6, You succeed brilliantly and the GM will agree with you what extra benefit you get … BUT [something you see/learn/discover … depending on the game] … Roll for Stress.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495/7</link>
+        <pubDate>Tue, 09 Feb 2021 17:56:58 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6495-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495.rss">What would a triumph with a consequence look like?</source>
+      </item>
+      <item>
+        <title>What would a triumph with a consequence look like?</title>
+        <dc:creator><![CDATA[@Ben_Bisogno]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/ben_bisogno">@Ben_Bisogno</a> wrote:</p>
+          <blockquote>
+              <p>Thank you for the Polaris, Otherkind, and Capes references DeReel! I truly do appreciate reading your responses and engagement with the forums.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495/6</link>
+        <pubDate>Tue, 09 Feb 2021 16:08:39 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6495-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495.rss">What would a triumph with a consequence look like?</source>
+      </item>
+      <item>
+        <title>What would a triumph with a consequence look like?</title>
+        <dc:creator><![CDATA[@Ben_Bisogno]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/ben_bisogno">@Ben_Bisogno</a> wrote:</p>
+          <blockquote>
+              <p>Awe Paul, this is beautiful. I am definitely checking out Otherkind right now! Thank you so much.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495/5</link>
+        <pubDate>Tue, 09 Feb 2021 16:07:18 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6495-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495.rss">What would a triumph with a consequence look like?</source>
+      </item>
+      <item>
+        <title>What would a triumph with a consequence look like?</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>Otherkind was a game by Vincent Baker, which formalized various dangers and complications within a given action (eventually inspiring things like PbtA’s mixed outcomes and choosing from a list).</p>
+<p>I see no issue with a triumph and a complication, exactly as your example shows. The players just have to be aware to narrate complications that don’t cheapen the triumph itself. One way to do this is to make the complication affect another character or a different concern/issue (as your example did). (“Yes, the Princess totally falls in love with you. But, also, it looks like your car has broken down, so you two are stuck here on the island.”)</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495/4</link>
+        <pubDate>Tue, 09 Feb 2021 15:30:44 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6495-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495.rss">What would a triumph with a consequence look like?</source>
+      </item>
+      <item>
+        <title>What would a triumph with a consequence look like?</title>
+        <dc:creator><![CDATA[@Ben_Bisogno]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/ben_bisogno">@Ben_Bisogno</a> wrote:</p>
+          <blockquote>
+              <p>DeReel what is Otherkind?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495/3</link>
+        <pubDate>Tue, 09 Feb 2021 13:38:52 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6495-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495.rss">What would a triumph with a consequence look like?</source>
+      </item>
+      <item>
+        <title>What would a triumph with a consequence look like?</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>As an Otherkind dice lover, I see them doing this and much more.</p>
+<p>Devil’s Bargain of course.</p>
+<p>Other games have another player narrate the complication. Like the genius “But only if” from Polaris (AP on this site). In Capes you regularly narrate a goal while an adversary narrate another goal. In the end, I feel it’s the same, because they make you admit to the complication, which is better than authoring it half heartedly.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495/2</link>
+        <pubDate>Tue, 09 Feb 2021 13:29:44 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6495-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495.rss">What would a triumph with a consequence look like?</source>
+      </item>
+      <item>
+        <title>What would a triumph with a consequence look like?</title>
+        <dc:creator><![CDATA[@Ben_Bisogno]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/ben_bisogno">@Ben_Bisogno</a> wrote:</p>
+          <blockquote>
+              <p><strong>My question:</strong></p>
+<p>I am toying with a game mechanic that would at times allow characters to “triumph” - briefly passing narrative to control to a player so she can narrate her success and receive tokens or xp (like a pbta 12+). However at times there may be an additional complication involved. A “triumph” with a complication.</p>
+<p>Are there examples like this in other games? I would love to take a look.</p>
+<p>Some solutions I can think of are adding complicating questions under moves so a player may ask her fellow players in case of a complication.</p>
+<p>For example:</p>
+<p>Amila uses <em>spill the tea</em> and triumphs (with a complication)! She collects a token and narrates: “Duchess Averline did not know what hit her. She was so shocked at what I said that she fainted into the cake. Splat.” Amila’s then asks the table the complicating question: “Who is inadvertently burned?”</p>
+<hr>
+<p><strong>Some context:</strong></p>
+<p>In order to emulate anime narrative structure and mechanically give lend more importance to side characters I have been toying with a dice system inspired by Genysis, Trophy Gold, and Burn Bryte.</p>
+<p>The game uses a dice pool:</p>
+<p>A player rolls a base 2d6.<br>
+If there is a match she hits. If the dice do not match she misses. If the dice are sequential, there is a silver lining to the miss (like in Genysys, a miss with advantage). She may gain tokens or xp (alla dungeon world).</p>
+<p>She can roll more dice if she accepts a devil’s bargain, uses a Side Character’s move as her own, or has advantage.</p>
+<p>Let’s say she rolls 3d6.<br>
+If all three match, she triumphs. She narrates her success and receives tokens or xp.<br>
+If two dice match but not all, there is a hit with a complication (a pbta 7-9 result equivalent).</p>
+<p>Let’s say she rolls 4d6.<br>
+If three dice match, she triumphs. But if not all dice match, then she experiences a complication as well. Hence my question.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495/1</link>
+        <pubDate>Tue, 09 Feb 2021 12:56:54 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6495-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-a-triumph-with-a-consequence-look-like/6495.rss">What would a triumph with a consequence look like?</source>
+      </item>
+  </channel>
+</rss>

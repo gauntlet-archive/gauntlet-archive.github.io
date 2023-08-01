@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Mod of Trophy: GM-less with a tweaked meta-narrative</title>
+    <link>https://forums.gauntlet-rpg.com/t/mod-of-trophy-gm-less-with-a-tweaked-meta-narrative/2761</link>
+    <description>Hi! I am thinking about play testing a modified version of Trophy. The big changes are: 1. I made it GM-less; and 2. I hard-coded a focus on Drives into the rules and tweaked the meta-narrative regarding the PCs corruption. I would be very curious about any feedback that people may have.
+
+Two caveats:
+
+1. I have never had the pleasure of playing Trophy. I have only studied the rules and watched actual plays. This fact alone may make this a highly misguided enterprise.
+
+2. I have never attempted to &quot;hack&quot; a game to this extent.
+
+As an alternative, here is a link to a Google doc with the same content. Feel free to directly comment in the doc!
+
+https://tinyurl.com/y5kkej29
+
+Cheers!
+
+My goals:
+
+1. Make the game GM-less. I have a strong preference for GM-less games for personal and political reasons (which I won&#39;t get into here). In my experience, GM-less games generally benefit from a tight narrative framework. Trophy&#39;s Ring structure (and GM guide to Terrors and Temptations) provides just such a framework.
+
+2. Focus more on Drives &amp; tweak the meta-narrative. I noticed that Drives sometimes went unexplored until relatively late in the actual plays that I watched. I changed the rules to make sure players flesh out their Drives steadily throughout the game. Also, as I understand it, the meta-narrative of Trophy is that the Forest takes over the PCs and makes them do its bidding. I really dig that, but I wanted to try a slightly different script: the PCs are already corrupt; the Forest merely brings out their true colors by putting them in highly stressful situations. In other words: The true horror was inside the PCs all along.
+
+Below are the rules changes that I made to hopefully accomplish the above goals. Unless specifically mentioned, all other rules remain the same.
+
+*Building the Terror &amp; Temptation without a GM*
+
+Review the guidelines for the Terror &amp; Temptation in the current Ring, keeping the overarching Theme of the session in mind. Any player with an idea for a Terror or Temptation can volunteer to start. You may start with either the Terror or Temptation -- the order doesn&#39;t matter. Make a brief statement (2 - 4 sentences) -- this is now a fact in the fiction and cannot be contradicted, only added to.
+
+Approaches:
+
+You may *make a bold statement* if you have a clearly defined idea for the scene and want to cut straight to the point. Examples:
+
+* Terror: A giant snake slithers out of the mist.
+* Temptation: A golden crown rests on the corpse&#39;s head.
+
+Or you may *be subtle* if you are less sure what direction you want to take the scene, or want to slowly build the tension. Examples:
+
+* Terror: You hear a hissing noise.
+* Temptation: A glint of gold catches your eye.
+
+Regardless of the approach, leave room for elaboration. At the end of the statement, ask a loaded question, following the below guidelines:
+
+* The question must be open-ended (i.e., cannot be answered with a &quot;yes/no&quot;)
+* The question may include assumptions (e.g., the question “what is so strange about the snake&#39;s eyes?” assumes that the snake’s eyes are strange.)
+* Make it personal, especially if it relates to the player&#39;s Drive (e.g., “how does the corpse remind you of your imprisoned brother who you want to save?”)
+
+[Design note: This is essentially the Discovery Phase from Swords Without Masters linked together in successive phases. My hope is that this shared building of the Terror and Temptation will tap into the creativity of all the players and make the end result pleasantly surprising since no one person is completely steering the ship. The risks, of course, is that the diffusion of creative responsibility will lead to a muddled result.]
+
+The player who answers the question then contributes their own statement and asks a loaded question. Continue this process until everyone has contributed at least one statement to the Terror or Temptation. If necessary, the starting player may add one more statement to round out the description. (Max. # of statements = # of players + 1.) Once completed, the closing player describes some development (a threat, provocation, or enticement) that demands that the players act (e.g., the snake rears back to strike). Otherwise, simply ask the players: &quot;what do you do next?&quot;
+
+The remainder of the scene is resolved through normal Risk and Ruin rolls. However, instead of the GM having final say, the group will decide outcomes, complications, and Devil&#39;s Bargains by consensus according to whatever makes sense in the fiction and is most dramatic.
+
+*Drive Questions:*
+
+Each player must answer the Drive Question for the current Ring before proceeding to the next. Answers should be given by showing, not telling: use action, dialogue, dreams/visions, or flashbacks. Players may call out that they are answering their Drive Question at any point during regular Ring scenes with Terrors and Temptations. If necessary, players may call for a Moment between Rings to answer their Drive Question. (Moments are scenes in between Rings. There is no Terror or Temptation; the focus is entirely on answering the Drive Question.)
+
+[Design note: Drive Questions are a new requirement for proceeding to the next Ring. It forces players to fully flesh out their Drives early in the game...so that they can eventually be twisted and corrupted! I stole the idea of interrupting Ring scenes to answer Drive Questions from personal scenes in Grey Ranks; I stole the idea of moments as interstitial breaks from After the War.]
+
+*Drive Questions*
+
+Ring 1: Why is your drive good, just or worthy?
+
+Ring 2: Why is the treasure absolutely necessary to achieve your drive?
+
+Ring 3: Why are you the only one in the world who can realize your Drive?
+
+Ring 4: What would happen if you failed to realize your Drive?
+
+Ring 5: How far will you go to realize your Drive?
+
+*Ruin Questions*
+
+When your Ruin increases, other players get to ask you a Ruin Question -- a loaded question (i.e., an open-ended question that assumes certain facts as true) that challenges the foundations of the PC&#39;s Drive. The aim of the Ruin Question is to progressively reveal the hypocrisy and self-serving nature of the PC&#39;s true motivations. (The PCs themselves may not be aware of this motivation in the beginning. The true horror of the forest is its ability to strip away our artifice and self-delusion.)
+
+Questions should build off the answers to earlier Drive and Ruin questions. If a player hasn&#39;t answered a Drive Question yet, then they should do so immediately before answering the Ruin Question.
+
+Answers should be given by showing, not telling: use action, dialogue, dreams/visions, or flashbacks.
+
+[Design note: Ruin Questions replace Conditions in the standard Trophy game. You can still do thematically tailored body horror -- just use the consequences of failed Risk Rolls and Devil&#39;s Bargains, instead.]
+
+Examples
+
+Drive: Buy your brother&#39;s freedom from Barsul Prison.
+Ruin questions:
+* Why did you let your brother languish for 10 years before seeking a treasure that could buy his freedom?
+* What horrible things will the corrupt officials do with the treasure once you bribe them to free your brother?
+* The treasure is vastly more valuable than the sum needed to free your brother -- so why are you still on this dangerous journey?
+* How did you escape the police that night while your brother was caught and imprisoned?
+* How did you convince your brother to keep his mouth shut about your complicity in his crimes?
+
+Drive: Earn the respect of the governor of Fort Duhrin.
+Ruin questions:
+* What new weapon will the governor build using the treasure to suppress dissent amongst his subjects?
+* How did you disgrace yourself in the eyes of the governor such that you need to win back his respect with the treasure?
+
+That&#39;s it. Love to hear your thoughts!</description>
+    
+    <lastBuildDate>Thu, 01 Aug 2019 21:29:23 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/mod-of-trophy-gm-less-with-a-tweaked-meta-narrative/2761.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Mod of Trophy: GM-less with a tweaked meta-narrative</title>
+        <dc:creator><![CDATA[@Larry_S]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/larry_s">@Larry_S</a> wrote:</p>
+          <blockquote>
+              <p>Thanks, <a class="mention" href="/u/sabinev5">@SabineV5</a> ! And yes, I would love to play test this with you! I will let you know when I get ready to put up a session on Gauntlet Hangouts.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/mod-of-trophy-gm-less-with-a-tweaked-meta-narrative/2761/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/mod-of-trophy-gm-less-with-a-tweaked-meta-narrative/2761/4</link>
+        <pubDate>Thu, 01 Aug 2019 21:29:23 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2761-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/mod-of-trophy-gm-less-with-a-tweaked-meta-narrative/2761.rss">Mod of Trophy: GM-less with a tweaked meta-narrative</source>
+      </item>
+      <item>
+        <title>Mod of Trophy: GM-less with a tweaked meta-narrative</title>
+        <dc:creator><![CDATA[@SabineV5]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/sabinev5">@SabineV5</a> wrote:</p>
+          <blockquote>
+              <p>Oh, I really like this! Are you looking for people to give it a test run?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/mod-of-trophy-gm-less-with-a-tweaked-meta-narrative/2761/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/mod-of-trophy-gm-less-with-a-tweaked-meta-narrative/2761/3</link>
+        <pubDate>Thu, 01 Aug 2019 19:33:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2761-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/mod-of-trophy-gm-less-with-a-tweaked-meta-narrative/2761.rss">Mod of Trophy: GM-less with a tweaked meta-narrative</source>
+      </item>
+      <item>
+        <title>Mod of Trophy: GM-less with a tweaked meta-narrative</title>
+        <dc:creator><![CDATA[@Larry_S]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/larry_s">@Larry_S</a> wrote:</p>
+          <blockquote>
+              <p>Hi! I am thinking about play testing a modified version of Trophy. The big changes are: 1. I made it GM-less; and 2. I hard-coded a focus on Drives into the rules and tweaked the meta-narrative regarding the PCs corruption. I would be very curious about any feedback that people may have.</p>
+<p>Two caveats:</p>
+<ol>
+<li>
+<p>I have never had the pleasure of playing Trophy. I have only studied the rules and watched actual plays. This fact alone may make this a highly misguided enterprise.</p>
+</li>
+<li>
+<p>I have never attempted to “hack” a game to this extent.</p>
+</li>
+</ol>
+<p>As an alternative, here is a link to a Google doc with the same content. Feel free to directly comment in the doc!</p>
+<aside class="onebox googledocs">
+  <header class="source">
+      <a href="https://docs.google.com/document/d/1bwSlWjmpK0OVd46vUS3xS0TAIA5_3A8rQVhYr9daXyg/edit?usp=drivesdk" target="_blank" rel="nofollow noopener">docs.google.com</a>
+  </header>
+  <article class="onebox-body">
+    <a href="https://docs.google.com/document/d/1bwSlWjmpK0OVd46vUS3xS0TAIA5_3A8rQVhYr9daXyg/edit?usp=drivesdk" target="_blank" rel="nofollow noopener"><span class="googledocs-onebox-logo g-docs-logo"></span></a>
+
+<h3><a href="https://docs.google.com/document/d/1bwSlWjmpK0OVd46vUS3xS0TAIA5_3A8rQVhYr9daXyg/edit?usp=drivesdk" target="_blank" rel="nofollow noopener">Trophy GM-less mod</a></h3>
+
+<p>Trophy GM-less mod  Hi! I am thinking about play testing a modified version of Trophy. The big changes are: 1. I made it GM-less; and 2. I hard-coded a focus on Drives into the rules and tweaked the meta-narrative regarding the PCs corruption. I...</p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>Cheers!</p>
+<p>My goals:</p>
+<ol>
+<li>
+<p>Make the game GM-less. I have a strong preference for GM-less games for personal and political reasons (which I won’t get into here). In my experience, GM-less games generally benefit from a tight narrative framework. Trophy’s Ring structure (and GM guide to Terrors and Temptations) provides just such a framework.</p>
+</li>
+<li>
+<p>Focus more on Drives &amp; tweak the meta-narrative. I noticed that Drives sometimes went unexplored until relatively late in the actual plays that I watched. I changed the rules to make sure players flesh out their Drives steadily throughout the game. Also, as I understand it, the meta-narrative of Trophy is that the Forest takes over the PCs and makes them do its bidding. I really dig that, but I wanted to try a slightly different script: the PCs are already corrupt; the Forest merely brings out their true colors by putting them in highly stressful situations. In other words: The true horror was inside the PCs all along.</p>
+</li>
+</ol>
+<p>Below are the rules changes that I made to hopefully accomplish the above goals. Unless specifically mentioned, all other rules remain the same.</p>
+<p><em>Building the Terror &amp; Temptation without a GM</em></p>
+<p>Review the guidelines for the Terror &amp; Temptation in the current Ring, keeping the overarching Theme of the session in mind. Any player with an idea for a Terror or Temptation can volunteer to start. You may start with either the Terror or Temptation – the order doesn’t matter. Make a brief statement (2 - 4 sentences) – this is now a fact in the fiction and cannot be contradicted, only added to.</p>
+<p>Approaches:</p>
+<p>You may <em>make a bold statement</em> if you have a clearly defined idea for the scene and want to cut straight to the point. Examples:</p>
+<ul>
+<li>Terror: A giant snake slithers out of the mist.</li>
+<li>Temptation: A golden crown rests on the corpse’s head.</li>
+</ul>
+<p>Or you may <em>be subtle</em> if you are less sure what direction you want to take the scene, or want to slowly build the tension. Examples:</p>
+<ul>
+<li>Terror: You hear a hissing noise.</li>
+<li>Temptation: A glint of gold catches your eye.</li>
+</ul>
+<p>Regardless of the approach, leave room for elaboration. At the end of the statement, ask a loaded question, following the below guidelines:</p>
+<ul>
+<li>The question must be open-ended (i.e., cannot be answered with a “yes/no”)</li>
+<li>The question may include assumptions (e.g., the question “what is so strange about the snake’s eyes?” assumes that the snake’s eyes are strange.)</li>
+<li>Make it personal, especially if it relates to the player’s Drive (e.g., “how does the corpse remind you of your imprisoned brother who you want to save?”)</li>
+</ul>
+<p>[Design note: This is essentially the Discovery Phase from Swords Without Masters linked together in successive phases. My hope is that this shared building of the Terror and Temptation will tap into the creativity of all the players and make the end result pleasantly surprising since no one person is completely steering the ship. The risks, of course, is that the diffusion of creative responsibility will lead to a muddled result.]</p>
+<p>The player who answers the question then contributes their own statement and asks a loaded question. Continue this process until everyone has contributed at least one statement to the Terror or Temptation. If necessary, the starting player may add one more statement to round out the description. (Max. # of statements = # of players + 1.) Once completed, the closing player describes some development (a threat, provocation, or enticement) that demands that the players act (e.g., the snake rears back to strike). Otherwise, simply ask the players: “what do you do next?”</p>
+<p>The remainder of the scene is resolved through normal Risk and Ruin rolls. However, instead of the GM having final say, the group will decide outcomes, complications, and Devil’s Bargains by consensus according to whatever makes sense in the fiction and is most dramatic.</p>
+<p><em>Drive Questions:</em></p>
+<p>Each player must answer the Drive Question for the current Ring before proceeding to the next. Answers should be given by showing, not telling: use action, dialogue, dreams/visions, or flashbacks. Players may call out that they are answering their Drive Question at any point during regular Ring scenes with Terrors and Temptations. If necessary, players may call for a Moment between Rings to answer their Drive Question. (Moments are scenes in between Rings. There is no Terror or Temptation; the focus is entirely on answering the Drive Question.)</p>
+<p>[Design note: Drive Questions are a new requirement for proceeding to the next Ring. It forces players to fully flesh out their Drives early in the game…so that they can eventually be twisted and corrupted! I stole the idea of interrupting Ring scenes to answer Drive Questions from personal scenes in Grey Ranks; I stole the idea of moments as interstitial breaks from After the War.]</p>
+<p><em>Drive Questions</em></p>
+<p>Ring 1: Why is your drive good, just or worthy?</p>
+<p>Ring 2: Why is the treasure absolutely necessary to achieve your drive?</p>
+<p>Ring 3: Why are you the only one in the world who can realize your Drive?</p>
+<p>Ring 4: What would happen if you failed to realize your Drive?</p>
+<p>Ring 5: How far will you go to realize your Drive?</p>
+<p><em>Ruin Questions</em></p>
+<p>When your Ruin increases, other players get to ask you a Ruin Question – a loaded question (i.e., an open-ended question that assumes certain facts as true) that challenges the foundations of the PC’s Drive. The aim of the Ruin Question is to progressively reveal the hypocrisy and self-serving nature of the PC’s true motivations. (The PCs themselves may not be aware of this motivation in the beginning. The true horror of the forest is its ability to strip away our artifice and self-delusion.)</p>
+<p>Questions should build off the answers to earlier Drive and Ruin questions. If a player hasn’t answered a Drive Question yet, then they should do so immediately before answering the Ruin Question.</p>
+<p>Answers should be given by showing, not telling: use action, dialogue, dreams/visions, or flashbacks.</p>
+<p>[Design note: Ruin Questions replace Conditions in the standard Trophy game. You can still do thematically tailored body horror – just use the consequences of failed Risk Rolls and Devil’s Bargains, instead.]</p>
+<p>Examples</p>
+<p>Drive: Buy your brother’s freedom from Barsul Prison.<br>
+Ruin questions:</p>
+<ul>
+<li>Why did you let your brother languish for 10 years before seeking a treasure that could buy his freedom?</li>
+<li>What horrible things will the corrupt officials do with the treasure once you bribe them to free your brother?</li>
+<li>The treasure is vastly more valuable than the sum needed to free your brother – so why are you still on this dangerous journey?</li>
+<li>How did you escape the police that night while your brother was caught and imprisoned?</li>
+<li>How did you convince your brother to keep his mouth shut about your complicity in his crimes?</li>
+</ul>
+<p>Drive: Earn the respect of the governor of Fort Duhrin.<br>
+Ruin questions:</p>
+<ul>
+<li>What new weapon will the governor build using the treasure to suppress dissent amongst his subjects?</li>
+<li>How did you disgrace yourself in the eyes of the governor such that you need to win back his respect with the treasure?</li>
+</ul>
+<p>That’s it. Love to hear your thoughts!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/mod-of-trophy-gm-less-with-a-tweaked-meta-narrative/2761/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/mod-of-trophy-gm-less-with-a-tweaked-meta-narrative/2761/1</link>
+        <pubDate>Wed, 31 Jul 2019 23:24:06 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2761-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/mod-of-trophy-gm-less-with-a-tweaked-meta-narrative/2761.rss">Mod of Trophy: GM-less with a tweaked meta-narrative</source>
+      </item>
+  </channel>
+</rss>

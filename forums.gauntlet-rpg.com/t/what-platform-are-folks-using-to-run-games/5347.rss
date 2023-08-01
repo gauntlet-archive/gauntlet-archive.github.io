@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>What platform are folks using to run games?</title>
+    <link>https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347</link>
+    <description>I haven&#39;t run games in a very long time, took a break. 
+
+Thinking about getting back into it, since I have some kickstarters that I backed (seems like forever go) coming in. 
+
+Since Hangouts on Air and Google Plus are gone, what are folks using to run video chat for their games? 
+
+Thanks,</description>
+    
+    <lastBuildDate>Thu, 04 Jun 2020 15:40:41 +0000</lastBuildDate>
+    <category>RPG Chat</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>What platform are folks using to run games?</title>
+        <dc:creator><![CDATA[@dominik]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dominik">@dominik</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="DeReel" data-post="10" data-topic="5347">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/dereel/40/3021_2.png" class="avatar"> DeReel:</div>
+<blockquote>
+<p>Can we say E2E Encryption is a guarantee of privacy that Zoom lacked ; and will keep lacking for non-payers ?</p>
+</blockquote>
+</aside>
+<p>E2E encryption is a guarantee even for non-paying customers, exactly like I stated above. Communication in each room is encrypted using a one time AES256 key. Even the author of that tweet backtracked.</p>
+<aside class="onebox twitterstatus">
+  <header class="source">
+      <a href="https://twitter.com/NicoAGrant/status/1268305480985612288" target="_blank">twitter.com</a>
+  </header>
+  <article class="onebox-body">
+    <img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/2/2ba6300ab5f76d34fcd700020780b7442d1603b4.jpeg" class="thumbnail onebox-avatar" width="400" height="400">
+
+<h4><a href="https://twitter.com/NicoAGrant/status/1268305480985612288" target="_blank">Nico Grant (NicoAGrant)</a></h4>
+
+<div class="tweet"> UPDATE: Zoom has responded to these concerns and said it will only share information with law enforcement when something like child sexual abuse happens on its platform and that it doesn't have a backdoor into meetings. More here:
+<a target="_blank" href="https://www.bloomberg.com/news/articles/2020-06-03/zoom-s-pledge-to-work-with-law-enforcement-spurs-online-blowback?srnd=technology-vp&amp;sref=hrCMbsfP">bloomberg.com/news/articles/…</a>
+</div>
+
+<div class="date">
+  <a href="https://twitter.com/NicoAGrant/status/1268305480985612288" target="_blank">10:16 PM - 3 Jun 2020</a>
+    <span class="like">
+      <svg viewbox="0 0 512 512" width="14px" height="16px" aria-hidden="true">
+        <path d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"></path>
+      </svg> 100
+    </span>
+    <span class="retweet">
+      <svg viewbox="0 0 640 512" width="14px" height="16px" aria-hidden="true">
+        <path d="M629.657 343.598L528.971 444.284c-9.373 9.372-24.568 9.372-33.941 0L394.343 343.598c-9.373-9.373-9.373-24.569 0-33.941l10.823-10.823c9.562-9.562 25.133-9.34 34.419.492L480 342.118V160H292.451a24.005 24.005 0 0 1-16.971-7.029l-16-16C244.361 121.851 255.069 96 276.451 96H520c13.255 0 24 10.745 24 24v222.118l40.416-42.792c9.285-9.831 24.856-10.054 34.419-.492l10.823 10.823c9.372 9.372 9.372 24.569-.001 33.941zm-265.138 15.431A23.999 23.999 0 0 0 347.548 352H160V169.881l40.416 42.792c9.286 9.831 24.856 10.054 34.419.491l10.822-10.822c9.373-9.373 9.373-24.569 0-33.941L144.971 67.716c-9.373-9.373-24.569-9.373-33.941 0L10.343 168.402c-9.373 9.373-9.373 24.569 0 33.941l10.822 10.822c9.562 9.562 25.133 9.34 34.419-.491L96 169.881V392c0 13.255 10.745 24 24 24h243.549c21.382 0 32.09-25.851 16.971-40.971l-16.001-16z"></path>
+      </svg> 44
+    </span>
+</div>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>The original comment was taken out of context (I provided the context in my previous comment) and was sensationalized. Ever since the original “Chinese ties” report Zoom worked hard on fixing issues and there is no indication that the technology doesn’t accomplish what it says on the label. It wasn’t true at some point in the past, but it is now.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347/11</link>
+        <pubDate>Thu, 04 Jun 2020 15:40:41 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5347-11</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347.rss">What platform are folks using to run games?</source>
+      </item>
+      <item>
+        <title>What platform are folks using to run games?</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>Can we say E2E Encryption is a guarantee of privacy that Zoom lacked ; and will keep lacking for non-payers ? Does it need to be taken into account to make an informed choice ? Everybody will make the choice for themselves with their local cost/benefit.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347/10</link>
+        <pubDate>Thu, 04 Jun 2020 11:32:44 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5347-10</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347.rss">What platform are folks using to run games?</source>
+      </item>
+      <item>
+        <title>What platform are folks using to run games?</title>
+        <dc:creator><![CDATA[@Frasersimons]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/frasersimons">@Frasersimons</a> wrote:</p>
+          <blockquote>
+              <p>Wow, quite the take. People moving away from a platform because they’d cooperate with authorities is a pretty normal thing. Many are moving away from it now precisely because of the argument Darren has articulated…Vaguely racist? What? Cooperating with law enforcement that tend to target the marginalized and unilaterally decide who is using the platform for “bad” purposes makes them complicit in this agenda. Especially now that “ANTIFA” is a terrorist organization. It’s sound that you’d want encryption on your calls and a lot of people use it as a free user.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347/9</link>
+        <pubDate>Wed, 03 Jun 2020 20:06:47 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5347-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347.rss">What platform are folks using to run games?</source>
+      </item>
+      <item>
+        <title>What platform are folks using to run games?</title>
+        <dc:creator><![CDATA[@dominik]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dominik">@dominik</a> wrote:</p>
+          <blockquote>
+              <p>What cultural issue? I’m sorry but this sounds vaguely racist.</p>
+<p>I’m telling you what the technical realities are and what is the (intended) implementation, regardless of how CEO phrased it. Zoom guarantees not to eavesdrop on you communication. Can this change? Sure, but that possibility exists with every product. Nobody can guarantee you that something won’t happen. And, again, framing trust as a matter of “cultural issue” strikes me as just insensitive.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347/8</link>
+        <pubDate>Wed, 03 Jun 2020 17:34:18 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5347-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347.rss">What platform are folks using to run games?</source>
+      </item>
+      <item>
+        <title>What platform are folks using to run games?</title>
+        <dc:creator><![CDATA[@darren]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/darren">@darren</a> wrote:</p>
+          <blockquote>
+              <p>That tweet is literally just a direct quote from the CEO quoted by a reporter from Bloomberg. To me it reads like an open admission that Zoom will willingly work with FBI and law enforcement especially against those who will not pay for the service for perceived and preconceived “bad purpose[s],” which, naturally, is not something Zoom can guarantee <em>won’t</em> happen even with paid users — why the discrepancy? Technical security aside, this is a cultural issue, which is why I append it to my recommendation <em>not</em> to use Zoom.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347/7</link>
+        <pubDate>Wed, 03 Jun 2020 16:06:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5347-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347.rss">What platform are folks using to run games?</source>
+      </item>
+      <item>
+        <title>What platform are folks using to run games?</title>
+        <dc:creator><![CDATA[@dominik]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dominik">@dominik</a> wrote:</p>
+          <blockquote>
+              <p>This tweet misrepresents what’s going on. All users get end to end encryption by default. Certain features (bridges to other networks for example) make encryption impossible, which is not something Zoom can solve. Enterprise customers can also decide what features they want.</p>
+<p>This extends to the feature that lets people indicate that there’s a disruption going on. If you have a public meeting and someone joins and starts misbehaving (using racial slurs for example), host can flag his behavior. If this is repeated and criminal, there has to be a way for Zoom to provide evidence of the behavior. This requires a mechanism that allows content moderator (Zoom employee) to inspect what’s happening and/or allows for recording this behavior.</p>
+<p>The key takeaways are: there is no active monitoring happening, host has to report an incident using built-in mechanisms for anything to happen (and this isn’t transparent in the background; if moderator joins, he does it visibly). As a host (or enterprise customer) you can decide on another course of action and officials won’t be alerted. It’s your choice.</p>
+<p>Zoom messed up its security features and mislabeled them early on but they had one of the best responses a company could have. They accepted the criticism, asked for help and invested in security expertise buying Keybase wholesale (which upset some people - Keybase had a great product in the security space but all developers were completely diverted to improve Zoom security).</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347/6</link>
+        <pubDate>Wed, 03 Jun 2020 15:56:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5347-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347.rss">What platform are folks using to run games?</source>
+      </item>
+      <item>
+        <title>What platform are folks using to run games?</title>
+        <dc:creator><![CDATA[@darren]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/darren">@darren</a> wrote:</p>
+          <blockquote>
+              <p>I have to add some information to my recommendation against Zoom.</p>
+<aside class="onebox twitterstatus">
+  <header class="source">
+      <a href="https://twitter.com/nicoagrant/status/1268020841054269440?s=21" target="_blank">twitter.com</a>
+  </header>
+  <article class="onebox-body">
+    <img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/2/2ba6300ab5f76d34fcd700020780b7442d1603b4.jpeg" class="thumbnail onebox-avatar" width="400" height="400">
+
+<h4><a href="https://twitter.com/nicoagrant/status/1268020841054269440?s=21" target="_blank">Nico Grant (NicoAGrant)</a></h4>
+
+<div class="tweet"> Zoom’s CEO says he won’t encrypt free calls so Zoom can work more with law enforcement:
+
+“Free users for sure we don’t want to give that because we also want to work together with FBI, with local law enforcement in case some people use Zoom for a bad purpose,” Yuan said. $ZM</div>
+
+<div class="date">
+  <a href="https://twitter.com/nicoagrant/status/1268020841054269440?s=21" target="_blank">3:25 AM - 3 Jun 2020</a>
+    <span class="like">
+      <svg viewbox="0 0 512 512" width="14px" height="16px" aria-hidden="true">
+        <path d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"></path>
+      </svg> 9.4K
+    </span>
+    <span class="retweet">
+      <svg viewbox="0 0 640 512" width="14px" height="16px" aria-hidden="true">
+        <path d="M629.657 343.598L528.971 444.284c-9.373 9.372-24.568 9.372-33.941 0L394.343 343.598c-9.373-9.373-9.373-24.569 0-33.941l10.823-10.823c9.562-9.562 25.133-9.34 34.419.492L480 342.118V160H292.451a24.005 24.005 0 0 1-16.971-7.029l-16-16C244.361 121.851 255.069 96 276.451 96H520c13.255 0 24 10.745 24 24v222.118l40.416-42.792c9.285-9.831 24.856-10.054 34.419-.492l10.823 10.823c9.372 9.372 9.372 24.569-.001 33.941zm-265.138 15.431A23.999 23.999 0 0 0 347.548 352H160V169.881l40.416 42.792c9.286 9.831 24.856 10.054 34.419.491l10.822-10.822c9.373-9.373 9.373-24.569 0-33.941L144.971 67.716c-9.373-9.373-24.569-9.373-33.941 0L10.343 168.402c-9.373 9.373-9.373 24.569 0 33.941l10.822 10.822c9.562 9.562 25.133 9.34 34.419-.491L96 169.881V392c0 13.255 10.745 24 24 24h243.549c21.382 0 32.09-25.851 16.971-40.971l-16.001-16z"></path>
+      </svg> 9.1K
+    </span>
+</div>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347/5</link>
+        <pubDate>Wed, 03 Jun 2020 14:48:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5347-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347.rss">What platform are folks using to run games?</source>
+      </item>
+      <item>
+        <title>What platform are folks using to run games?</title>
+        <dc:creator><![CDATA[@Calvin.Anthropos]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/calvin.anthropos">@Calvin.Anthropos</a> wrote:</p>
+          <blockquote>
+              <p>I think I missed the big conversation about it too. I actually started running online games outside Roll20 or any of the special RPG apps just recently. I wanted something easier, something lighter-weight, and I ended up using Zoom video chat (so we can all see and talk) and then screen-sharing a Photoshop file that I manipulate on the fly as the play mat or dungeon mat. It’s worked surprisingly well. I have layers pre-made but can pretty much add, cut, paste, etc. in real-time in response to the players. It’s been real smooth so far.</p>
+<p>I recommend Zoom as a first-rate, easy video app.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347/4</link>
+        <pubDate>Mon, 01 Jun 2020 23:15:00 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5347-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347.rss">What platform are folks using to run games?</source>
+      </item>
+      <item>
+        <title>What platform are folks using to run games?</title>
+        <dc:creator><![CDATA[@Alun_R]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alun_r">@Alun_R</a> wrote:</p>
+          <blockquote>
+              <p>If you aren’t planning to record or stream your sessions, then I’d recommend StreamYard for its simple interface and, in my experience, reliability.<br>
+As I record/stream my sessions and they often add up to more than 20 hrs per month I’ve invested in Zoom.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347/3</link>
+        <pubDate>Mon, 01 Jun 2020 15:00:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5347-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347.rss">What platform are folks using to run games?</source>
+      </item>
+      <item>
+        <title>What platform are folks using to run games?</title>
+        <dc:creator><![CDATA[@darren]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/darren">@darren</a> wrote:</p>
+          <blockquote>
+              <p>It feels like you just missed the big conversation around that! Here are topics from the forum that should have you covered. Unfortunately, there are a lot of options and none of them particularly stand out.<br>
+<aside class="quote quote-modified" data-post="1" data-topic="4786">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="/user_avatar/forums.gauntlet-rpg.com/edige23/40/429_2.png" class="avatar">
+    <a href="https://forums.gauntlet-rpg.com/t/resources-for-moving-to-online-play/4786">Resources for Moving to Online Play</a> <a class="badge-wrapper  bullet" href="/c/announcements"><span class="badge-category-bg" style="background-color: #ED207B;"></span><span style="" data-drop-close="true" class="badge-category clear-badge" title="Official Gauntlet Announcements">Announcements</span></a>
+  </div>
+  <blockquote>
+    Here are some resources and advice for folks moving to online play. If you have additional suggestions and sources, please comment in the thread 
+1. VIDEO OPTIONS: If you need help with the available video options check out here, we have a post with some of the current conferencing options: <a href="https://forums.gauntlet-rpg.com/t/some-different-conferencing-options-for-online-play/4732" class="inline-onebox">Some different conferencing options for online play</a> It doesn’t cover everything, but it’s a good start. 
+2. ONLINE GAME RESOURCES: If you’re looking for character keepers or play aids for a game, check out: <a href="https://drive.google.com/open?id=11kvNX8LzFPLODGgnbXXGTOJ0bieDCfeF">h…</a>
+  </blockquote>
+</aside>
+<br>
+<aside class="quote quote-modified" data-post="1" data-topic="4816">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="/user_avatar/forums.gauntlet-rpg.com/alun_r/40/1473_2.png" class="avatar">
+    <a href="https://forums.gauntlet-rpg.com/t/moving-your-group-online/4816">Moving your group online</a> <a class="badge-wrapper  bullet" href="/c/gauntlet-community"><span class="badge-category-bg" style="background-color: #92278F;"></span><span style="" data-drop-close="true" class="badge-category clear-badge" title="For general discussion of the Gauntlet community as a whole. (Not for miscellaneous/general discussions nor finding players.)  It is a place to discuss Gauntlet created content (eg. blog, Codex, and podcasts), give shout outs to wonderful members of the community, and the like.">Gauntlet Community</span></a>
+  </div>
+  <blockquote>
+    After the first session online for my f-2-f group (who have never played online before) … 
+I’m assuming a safety tool conversation etc., but my take homes are: 
+
+Offer very simple step-by-step instructions for joining well in advance and ask if they are clear.
+Ensure there’s a shared message group or similar where players can post concerns before or during joining and you can solve issues/reassure.
+Make it clear before, during and after the session that there’s no such thing as a stupid question…
+  </blockquote>
+</aside>
+<br>
+<aside class="quote" data-post="1" data-topic="1479">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="/user_avatar/forums.gauntlet-rpg.com/thiagolrj/40/582_2.png" class="avatar">
+    <a href="https://forums.gauntlet-rpg.com/t/need-suggestions-of-online-ttrpg-digital-tools/1479">Need suggestions of online ttrpg digital tools</a> <a class="badge-wrapper  bullet" href="/c/rpg-chat"><span class="badge-category-bg" style="background-color: #0088CC;"></span><span style="" data-drop-close="true" class="badge-category clear-badge" title="Chat about actual play of, prepping to play, and running of LARPs and RPGs.">RPG Chat</span></a>
+  </div>
+  <blockquote>
+    I was talking with my wife about roll20. I like that platform but I recognize that it is not very intuitive, specially for new players. 
+So I was wondering what other virtual tabletop websites can you suggest to play online?
+  </blockquote>
+</aside>
+</p>
+<p>My personal recommendation is <a href="https://jitsi.org/jitsi-meet/">Jitsi Meet</a> and The Gauntlet’s excellent <a href="https://drive.google.com/drive/folders/11kvNX8LzFPLODGgnbXXGTOJ0bieDCfeF">Play Aids folder</a>.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347/2</link>
+        <pubDate>Sun, 31 May 2020 20:56:47 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5347-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347.rss">What platform are folks using to run games?</source>
+      </item>
+      <item>
+        <title>What platform are folks using to run games?</title>
+        <dc:creator><![CDATA[@Deadhead95]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deadhead95">@Deadhead95</a> wrote:</p>
+          <blockquote>
+              <p>I haven’t run games in a very long time, took a break.</p>
+<p>Thinking about getting back into it, since I have some kickstarters that I backed (seems like forever go) coming in.</p>
+<p>Since Hangouts on Air and Google Plus are gone, what are folks using to run video chat for their games?</p>
+<p>Thanks,</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347/1</link>
+        <pubDate>Sun, 31 May 2020 20:15:36 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5347-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-platform-are-folks-using-to-run-games/5347.rss">What platform are folks using to run games?</source>
+      </item>
+  </channel>
+</rss>

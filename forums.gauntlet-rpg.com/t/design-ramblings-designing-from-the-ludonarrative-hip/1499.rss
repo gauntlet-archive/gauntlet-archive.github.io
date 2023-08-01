@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Design Ramblings: Designing from the Ludonarrative Hip</title>
+    <link>https://forums.gauntlet-rpg.com/t/design-ramblings-designing-from-the-ludonarrative-hip/1499</link>
+    <description>This is in a way a sequel to the to thoughts started on [this thread](https://discourse.funtimers.club/t/design-ramblings-city-of-mist-redux-edition/627) with a different starting point. Instead of hacking something existing, this time I started by deciding what I want the game to be about and which Ludonarrative elements I want present then make only design choices that reinforced that. 
+ 
+I started with the following principles:
+
+###### Ludonarrative Principles
+
+* The three more important things about a character should be:
+  * How a character&amp;rsquo;s identity shapes their myth.
+  * How a myth&amp;rsquo;s nature shapes the character yielding it.
+  * How the actions and changes of the character reflect upon their relationships and communities.
+* Every character wields a myth. It gives them power but does not define them: however, using and aligning with it changes you. It is dangerous but easy to change your myth; changes, however, are there to stay.
+* Myths make things more complicated: they never make one&amp;rsquo;s life easier—only interesting.
+* Powers are not means nor ends; most problems characters face cannot be solved by directly application of mystical or physical force. Powers create opportunities, not solutions.
+* The game rewards civic and social engagement. Most solutions should come from relationship and communities.
+* No bad guys. Only people that are enacting harmful changes upon the world and think they are doing good.
+* People cannot be erased from existence; characters have to learn how to coexist with others, their legacies and the changes they enacted upon the world.
+* Change occurs across worlds: relationships and communities are reflected in the Underworld, Otherworld, Platonic Reams and liminal spaces between.
+
+Ludonarrative Harmonious Design
+
+&amp;ldquo;How a character&amp;rsquo;s identity shapes their myth.&amp;rdquo;
+
+Each character has a core identity that provides their place in the world and major source of wants. PbtA style playbooks are particularly good at keeping those elements point and center; features like keys from Lady Blackbird and FATE actually integrate them into mechanics.
+
+&amp;ldquo;How a myth&amp;rsquo;s nature shapes the character yielding it.&amp;rdquo;
+
+A myth raises a constant mystery, a question that the character is constantly confronted with--and how they deal with it slowly mutates the mythic mystery. Having engagement with this mystery to be heavily rewarded should put it in the center of the action.
+
+&amp;ldquo;How the actions and changes of the character reflect upon their relationships and communities.&amp;rdquo;
+
+Urban Shadows has an advancement system that requires interaction with all communities. Dream Askew is deeply about people and the communities they build, both in the token dynamic and the initial setup. Blades in the Dark has a dynamic social system that changes depending on jobs and group interactions.
+
+&amp;ldquo;Every character wields a myth. It gives them power but does not define them: however, using and aligning with it changes you. It is dangerous but easy to change your myth; changes, however, are there to stay.&amp;rdquo;
+
+Very little designs are like this. The modular system of the City of the Mist is the closest, with changes occurring as powers are used and abused; the 7th Sea 2e advancement system by story beats can teach some valuable lessons.
+
+&amp;ldquo;Myths make things more complicated: they never make one&amp;rsquo;s life easier—only interesting.&amp;rdquo;
+
+The Pbta way to do this would be with harsh 7-9 results with poignant choices. Blades in the Dark gets the same effect with Devil&#39;s Bargains.
+
+&amp;ldquo;Powers are not means nor ends; most problems characters face cannot be solved by directly application of mystical or physical force. Powers create opportunities, not solutions.&amp;rdquo;
+
+How does one uses their power? The mechanics should reward alternative troublesolving; powers should introduce new elements to the story. Moves that introduce rule exceptions and new ways to interact with the rules should be the ideal touchstones for these design choices.
+
+&amp;ldquo;The game rewards civic and social engagement. Most solutions should come from relationship and communities.&amp;rdquo;
+
+A solid mechanic backbone that makes dialogue and negotiation the center of story beats; community building as the most fulfilling approaches. Not many systems have it as a peripheric mechanic, much less as part of a core resolution mechanic. Nevertheless, allies and friends should beat hoarded powers any day.
+
+&amp;ldquo;No bad guys. Only people that are enacting harmful changes upon the world and think they are doing good.&amp;rdquo;
+
+&amp;ldquo;People cannot be erased from existence; characters have to learn how to coexist with others, their legacies and the changes they enacted upon the world.&amp;rdquo;
+
+These two points share the same design space: either a carrot or stick should reward cooperation and reconciliation upon revenge and murder. XP rewards for mercy, Corruption tracks, a expendable resource that must be used to deliver finality through violence; those have been mechanics used on this space before.
+
+&amp;ldquo;Change occurs across worlds: relationships and communities are reflected in the Underworld, Otherworld, Platonic Reams and liminal spaces between.&amp;rdquo;
+
+This is an odd one. Dream Askew and Dream Apart used the GM playbooks to involve other worlds with the mundane community. Girl Underground is all about change of the girl place on the world through the adventure. Blades in the Dark create a different world with the Prison and Wanted levels, which through Heat relate with the normal exploits and the growth of the crew.
+
+I wonder which skeleton framework would fit these ruminations. Forged in the Dark is looking one with quite the pros and not many cons.</description>
+    
+    <lastBuildDate>Thu, 11 Apr 2019 21:57:19 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/design-ramblings-designing-from-the-ludonarrative-hip/1499.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Design Ramblings: Designing from the Ludonarrative Hip</title>
+        <dc:creator><![CDATA[@Ludovico_Alves]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/ludovico_alves">@Ludovico_Alves</a> wrote:</p>
+          <blockquote>
+              <p>Part of the reason why I get decision paralysis when designing a game is I don’t even know where to start. Thankfully, the  Legacy framework gives me a space to think about what I want the game to be about.</p>
+<p>First, the Family equivalent: the <strong>Gens</strong>.</p>
+<p><img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/9/930004ac31fc9855253f57e64ba3e9e7bfbf6b44.png" alt="image" data-base62-sha1="kYqe5AQBLUdHUQ8fLu6LDljhuLy" width="110" height="107"></p>
+<p>Every player controls one, and it is dictates how they interact with each other and the world on the <strong>Zoomed Out</strong> phase of play.</p>
+<p>The character options of the Gens create its <strong>Myth</strong>: the mythic Covenant between People and Gods that they harness, corrupt and are in turn twisted by. Every Age the Myth can change and mutate as the Gens itself ascends, decays or shifts in ideology.</p>
+<p><img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/c/c3c1953e84c3de9657245729d14fddac60920ca0.png" alt="image" data-base62-sha1="rVJR5T5gYR0uXCdKcZLxOEXUQ7K" width="130" height="158"></p>
+<p>The characters for the <strong>Zoomed</strong> In phase sit at the intersection between Gens and its Myth: The <strong>Triumphant</strong> of the faction, a mystically empowered individual that is able to channel the Covenant by playing the role of the Myth’s protagonist. Unfortunately, that power is not without cost—the Gens shapes the Myth and the Myth shapes the Triumphant.</p>
+<p><img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/9/9a4cf9c0568b0ecb9f69d3ef6ef1b0260fa41215.png" alt="image" data-base62-sha1="m10rTnYoOCewMoT8qMujL9dojDD" width="151" height="175"></p>
+<p>During the Zoomed Out phase, players interact with two main theatres beyond the holdings of the Gens: the <strong>Urbe</strong>, the mundane city, always greedy and always hungry; and the <strong>Shadow Senate</strong>, the governing body of the dead, heroes, monsters and demigods that oversees the Covenants between Mortals and the Divine.</p>
+<p><img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/8/87c79b003b6af9a07e41112cec1ab9de286f6b75.png" alt="image" data-base62-sha1="jna6TH0WvN0Ob7YyCAIh3mnR50p" width="334" height="175"></p>
+<p>The Shadow Senate is constantly involved in the intrigues and petty squabbles  of the beings of the <strong>Supernal Realms</strong>—like the Otherworld, Underworld and Platonic Realms—however, that offers them unique opportunities to shape the fate of the Urbe that is open to the Gens but denied to purely mundane factions. As such, the Gens can use their <strong>Moves</strong> and <strong>Surpluses</strong> to directly influence the <strong>Needs</strong> and <strong>Fronts</strong> threatening the Urbe OR they can use their Moves to influence the Shadow Senate and through this body get what they are lacking.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/2/28bf901c489335b68ef4ac0ea3db755f503ce4a9.png" data-download-href="/uploads/short-url/5OtwgP9HnTRYPj69HVnOpRBpVj3.png?dl=1" title="image" rel="nofollow noopener"><img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/2/28bf901c489335b68ef4ac0ea3db755f503ce4a9_2_345x155.png" alt="image" data-base62-sha1="5OtwgP9HnTRYPj69HVnOpRBpVj3" width="345" height="155" srcset="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/2/28bf901c489335b68ef4ac0ea3db755f503ce4a9_2_345x155.png, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/2/28bf901c489335b68ef4ac0ea3db755f503ce4a9_2_517x232.png 1.5x, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/2/28bf901c489335b68ef4ac0ea3db755f503ce4a9_2_690x310.png 2x" data-small-upload="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/2/28bf901c489335b68ef4ac0ea3db755f503ce4a9_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1100×497 106 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>Okay, but this screams potential for Zooming In! That is when <strong>Triumphants</strong> come into the scene, zooming in into dealings with the supernal realms and the fronts.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/3/308a5c09d608edd761d0547c342b5e685bce9c7b.png" data-download-href="/uploads/short-url/6VplQZSQ4xREEE0HnL0QrI5cSyT.png?dl=1" title="image" rel="nofollow noopener"><img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/3/308a5c09d608edd761d0547c342b5e685bce9c7b_2_345x187.png" alt="image" data-base62-sha1="6VplQZSQ4xREEE0HnL0QrI5cSyT" width="345" height="187" srcset="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/3/308a5c09d608edd761d0547c342b5e685bce9c7b_2_345x187.png, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/3/308a5c09d608edd761d0547c342b5e685bce9c7b_2_517x280.png 1.5x, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/3/308a5c09d608edd761d0547c342b5e685bce9c7b_2_690x374.png 2x" data-small-upload="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/3/308a5c09d608edd761d0547c342b5e685bce9c7b_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1096×596 126 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>This keeps going, until something sets the clock for the end of the Age: either a <strong>Front</strong> is not stopped and causes massive changes to the Urbe OR a Gens is successful in achieving a <strong>Wonder</strong>.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/c/c3ac2bac3a87d37133bf6eedfc80c1cb7d6ba7f6.png" data-download-href="/uploads/short-url/rUZYNc6ETfzkktWKX6ihwNU1pIi.png?dl=1" title="image" rel="nofollow noopener"><img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/c/c3ac2bac3a87d37133bf6eedfc80c1cb7d6ba7f6_2_261x250.png" alt="image" data-base62-sha1="rUZYNc6ETfzkktWKX6ihwNU1pIi" width="261" height="250" srcset="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/c/c3ac2bac3a87d37133bf6eedfc80c1cb7d6ba7f6_2_261x250.png, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/c/c3ac2bac3a87d37133bf6eedfc80c1cb7d6ba7f6_2_391x375.png 1.5x, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/c/c3ac2bac3a87d37133bf6eedfc80c1cb7d6ba7f6_2_522x500.png 2x" data-small-upload="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/c/c3ac2bac3a87d37133bf6eedfc80c1cb7d6ba7f6_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1101×1051 185 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/design-ramblings-designing-from-the-ludonarrative-hip/1499/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/design-ramblings-designing-from-the-ludonarrative-hip/1499/4</link>
+        <pubDate>Thu, 11 Apr 2019 21:57:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1499-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/design-ramblings-designing-from-the-ludonarrative-hip/1499.rss">Design Ramblings: Designing from the Ludonarrative Hip</source>
+      </item>
+      <item>
+        <title>Design Ramblings: Designing from the Ludonarrative Hip</title>
+        <dc:creator><![CDATA[@Ludovico_Alves]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/ludovico_alves">@Ludovico_Alves</a> wrote:</p>
+          <blockquote>
+              <p>I decided to go with Legacy DNA for my attempt at this game. I am working on a post going into my base design premise for the game, but I thought it would be fun to share this WIP dice mechanic inspired by the ttrpg Twitter discourse on fudging dice:</p>
+<blockquote>
+<p><strong>Triumph Dice</strong></p>
+</blockquote>
+<blockquote>
+<p>Whenever you tap into your Spark and unleash your mythic potential, you must add a special dice to your roll. This Triump dice works like a normal fudge dice (or d6) expect  <strong>that you may decide to reroll it a number of times equal to your Triumph.</strong>  However, your Triumph has a will of its own and will keep rerolling any “-” result.</p>
+</blockquote>
+<blockquote>
+<p>If any of the following apply:</p>
+</blockquote>
+<blockquote>
+<ul>
+<li>
+<strong>The roll result would be 0 or less</strong>  ifnot for the Triumph Dice.</li>
+<li>The Triumph dice  <strong>rolls itself a number of times above.</strong>
+</li>
+</ul>
+</blockquote>
+<blockquote>
+<p><strong>You have to increase your Triumph by one</strong></p>
+</blockquote>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/design-ramblings-designing-from-the-ludonarrative-hip/1499/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/design-ramblings-designing-from-the-ludonarrative-hip/1499/3</link>
+        <pubDate>Thu, 11 Apr 2019 21:02:32 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1499-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/design-ramblings-designing-from-the-ludonarrative-hip/1499.rss">Design Ramblings: Designing from the Ludonarrative Hip</source>
+      </item>
+      <item>
+        <title>Design Ramblings: Designing from the Ludonarrative Hip</title>
+        <dc:creator><![CDATA[@Ludovico_Alves]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/ludovico_alves">@Ludovico_Alves</a> wrote:</p>
+          <blockquote>
+              <p>Still out of the country but thinking about how to move from the previous ramblings about Ludonarrative into actual, concrete design.</p>
+<p>“How a character’s identity shapes their myth.”</p>
+<p>Each character has a core identity that provides their place in the world and major source of wants. PbtA style playbooks are particularly good at keeping those elements point and center; features like keys from Lady Blackbird and FATE actually integrate them into mechanics.</p>
+<p>“How a myth’s nature shapes the character wielding it.”</p>
+<p>A myth raises a constant mystery, a question that the character is constantly confronted with–and how they deal with it slowly mutates the mythic mystery. Having engagement with this mystery to be heavily rewarded should put it in the center of the action.</p>
+<p>“How the actions and changes of the character reflect upon their relationships and communities.”</p>
+<p>Urban Shadows has an advancement system that requires interaction with all communities. Dream Askew is deeply about people and the communities they build, both in the token dynamic and the initial setup. Blades in the Dark has a dynamic social system that changes depending on jobs and group interactions.</p>
+<p>“Every character wields a myth. It gives them power but does not define them: however, using and aligning with it changes you. It is dangerous but easy to change your myth; changes, however, are there to stay.”</p>
+<p>Very little designs are like this. The modular system of the City of the Mist is the closest, with changes occurring as powers are used and abused; the 7th Sea 2e advancement system by story beats can teach some valuable lessons.</p>
+<p>“Myths make things more complicated: they never make one’s life easier—only interesting.”</p>
+<p>The Pbta way to do this would be with harsh 7-9 results with poignant choices. Blades in the Dark gets the same effect with Devil’s Bargains.</p>
+<p>“Powers are not means nor ends; most problems characters face cannot be solved by directly application of mystical or physical force. Powers create opportunities, not solutions.”</p>
+<p>How does one uses their power? The mechanics should reward alternative troublesolving; powers should introduce new elements to the story. Moves that introduce rule exceptions and new ways to interact with the rules should be the ideal touchstones for these design choices.</p>
+<p>“The game rewards civic and social engagement. Most solutions should come from relationship and communities.”</p>
+<p>A solid mechanic backbone that makes dialogue and negotiation the center of story beats; community building as the most fulfilling approaches. Not many systems have it as a peripheric mechanic, much less as part of a core resolution mechanic. Nevertheless, allies and friends should beat hoarded powers any day.</p>
+<p>“No bad guys. Only people that are enacting harmful changes upon the world and think they are doing good.”</p>
+<p>“People cannot be erased from existence; characters have to learn how to coexist with others, their legacies and the changes they enacted upon the world.”</p>
+<p>These two points share the same design space: either a carrot or stick should reward cooperation and reconciliation upon revenge and murder. XP rewards for mercy, Corruption tracks, a expendable resource that must be used to deliver finality through violence; those have been mechanics used on this space before.</p>
+<p>“Change occurs across worlds: relationships and communities are reflected in the Underworld, Otherworld, Platonic Reams and liminal spaces between.”</p>
+<p>This is an odd one. Dream Askew and Dream Apart used the GM playbooks to involve other worlds with the mundane community. Girl Underground is all about change of the girl place on the world through the adventure. Blades in the Dark create a different world with the Prison and Wanted levels, which through Heat relate with the normal exploits and the growth of the crew</p>
+<h6>Pros and Cons of Setting DNA</h6>
+<p>FATE</p>
+<p>Pros:</p>
+<ul>
+<li>Fractal design around aspects can feed the ouroborus of change and transformation.</li>
+</ul>
+<p>Cons:</p>
+<ul>
+<li>It is hard to get excited about it: not the most exciting play.</li>
+<li>FATE points economy favors slow buildup to “alpha strikes” at the end of sessions.</li>
+<li>The entire economy can be exploited in a manner independent of actual fictional positioning.</li>
+</ul>
+<p>ORTHODOX PBTA</p>
+<p>Pros:</p>
+<ul>
+<li>Integrates genre and theme in GM and player moves.</li>
+<li>7-9 results are amazing.</li>
+<li>Custom moves are super easy to make and test without risk of breaking the game.</li>
+</ul>
+<p>Cons:</p>
+<ul>
+<li>Move bloat and playbook bloat are a common issue.</li>
+<li>I don’t see how to accommodate the myth transformations in a playbook based advancement.</li>
+</ul>
+<p>FORGED IN THE DARK</p>
+<p>Pros:</p>
+<ul>
+<li>It comes all down to Action and Fortune rolls.</li>
+<li>Crew/Character playbooks are great and simple enough to adapt.</li>
+<li>Built-in Trauma/ system that can be used to represent the tool the myth demands.</li>
+<li>Can represent other worlds and communities through existing framework.</li>
+<li>I am pretty sure I can use the Insanity mechanics of Cthulhu Dark and Trophy for something.</li>
+<li>Devil Bargains!</li>
+</ul>
+<p>Cons:</p>
+<ul>
+<li>Action dice are fiddly and easy to break.</li>
+<li>The tier system for relationships may not be the most exciting.</li>
+<li>Community building needs some work.</li>
+</ul>
+<p>GENESYS</p>
+<p>Pros:</p>
+<ul>
+<li>Great integration between mechanics and fiction already built-in on the dice mechanics.</li>
+</ul>
+<p>Cons:</p>
+<ul>
+<li>Work on the system is extremely front-ended and needs strong commitment.</li>
+</ul>
+<p>DREAM ASKEW HACK</p>
+<p>Pros:</p>
+<ul>
+<li>Amazing community building.</li>
+<li>Relationships are on focus with the way tokens fuel the mechanics.</li>
+<li>Great for short games.</li>
+</ul>
+<p>Cons:</p>
+<ul>
+<li>Shines on a very specific, tight framework.</li>
+<li>Fiddly for campaign play.</li>
+</ul>
+<p>WORLD OF DUNGEONS MINIMALIST SYSTEM</p>
+<p>Pros:</p>
+<ul>
+<li>Extremely simple and solid.</li>
+</ul>
+<p>Cons:</p>
+<ul>
+<li>Extremely simple and solid.</li>
+</ul>
+<p>GENERIC IMPERIALISM D20 FANTASY SYSTEM</p>
+<p>Pros:</p>
+<ul>
+<li>No.</li>
+</ul>
+<p>Cons:</p>
+<ul>
+<li>Yes.</li>
+</ul>
+<p>WORLDS OF LEGACY</p>
+<p>Pros:</p>
+<ul>
+<li>Multi generation play.</li>
+<li>Community building is a strong focus.</li>
+<li>Rapsody of Blood and Godlike can teach me a lot about how to involve other worlds and myths.</li>
+<li>You can have a myth sheet that passes across characters (which have their own sheet).</li>
+</ul>
+<p>Cons:</p>
+<ul>
+<li>Characters are more likely to pass the torch than to change significantly.</li>
+</ul>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/design-ramblings-designing-from-the-ludonarrative-hip/1499/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/design-ramblings-designing-from-the-ludonarrative-hip/1499/2</link>
+        <pubDate>Tue, 09 Apr 2019 15:52:36 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1499-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/design-ramblings-designing-from-the-ludonarrative-hip/1499.rss">Design Ramblings: Designing from the Ludonarrative Hip</source>
+      </item>
+      <item>
+        <title>Design Ramblings: Designing from the Ludonarrative Hip</title>
+        <dc:creator><![CDATA[@Ludovico_Alves]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/ludovico_alves">@Ludovico_Alves</a> wrote:</p>
+          <blockquote>
+              <p>This is in a way a sequel to the to thoughts started on <a href="https://forums.gauntlet-rpg.com/t/design-ramblings-city-of-mist-redux-edition/627">this thread</a> with a different starting point. Instead of hacking something existing, this time I started by deciding what I want the game to be about and which Ludonarrative elements I want present then make only design choices that reinforced that.</p>
+<p>I started with the following principles:</p>
+<h6>Ludonarrative Principles</h6>
+<ul>
+<li>The three more important things about a character should be:
+<ul>
+<li>How a character’s identity shapes their myth.</li>
+<li>How a myth’s nature shapes the character yielding it.</li>
+<li>How the actions and changes of the character reflect upon their relationships and communities.</li>
+</ul>
+</li>
+<li>Every character wields a myth. It gives them power but does not define them: however, using and aligning with it changes you. It is dangerous but easy to change your myth; changes, however, are there to stay.</li>
+<li>Myths make things more complicated: they never make one’s life easier—only interesting.</li>
+<li>Powers are not means nor ends; most problems characters face cannot be solved by directly application of mystical or physical force. Powers create opportunities, not solutions.</li>
+<li>The game rewards civic and social engagement. Most solutions should come from relationship and communities.</li>
+<li>No bad guys. Only people that are enacting harmful changes upon the world and think they are doing good.</li>
+<li>People cannot be erased from existence; characters have to learn how to coexist with others, their legacies and the changes they enacted upon the world.</li>
+<li>Change occurs across worlds: relationships and communities are reflected in the Underworld, Otherworld, Platonic Reams and liminal spaces between.</li>
+</ul>
+<p>Ludonarrative Harmonious Design</p>
+<p>“How a character’s identity shapes their myth.”</p>
+<p>Each character has a core identity that provides their place in the world and major source of wants. PbtA style playbooks are particularly good at keeping those elements point and center; features like keys from Lady Blackbird and FATE actually integrate them into mechanics.</p>
+<p>“How a myth’s nature shapes the character yielding it.”</p>
+<p>A myth raises a constant mystery, a question that the character is constantly confronted with–and how they deal with it slowly mutates the mythic mystery. Having engagement with this mystery to be heavily rewarded should put it in the center of the action.</p>
+<p>“How the actions and changes of the character reflect upon their relationships and communities.”</p>
+<p>Urban Shadows has an advancement system that requires interaction with all communities. Dream Askew is deeply about people and the communities they build, both in the token dynamic and the initial setup. Blades in the Dark has a dynamic social system that changes depending on jobs and group interactions.</p>
+<p>“Every character wields a myth. It gives them power but does not define them: however, using and aligning with it changes you. It is dangerous but easy to change your myth; changes, however, are there to stay.”</p>
+<p>Very little designs are like this. The modular system of the City of the Mist is the closest, with changes occurring as powers are used and abused; the 7th Sea 2e advancement system by story beats can teach some valuable lessons.</p>
+<p>“Myths make things more complicated: they never make one’s life easier—only interesting.”</p>
+<p>The Pbta way to do this would be with harsh 7-9 results with poignant choices. Blades in the Dark gets the same effect with Devil’s Bargains.</p>
+<p>“Powers are not means nor ends; most problems characters face cannot be solved by directly application of mystical or physical force. Powers create opportunities, not solutions.”</p>
+<p>How does one uses their power? The mechanics should reward alternative troublesolving; powers should introduce new elements to the story. Moves that introduce rule exceptions and new ways to interact with the rules should be the ideal touchstones for these design choices.</p>
+<p>“The game rewards civic and social engagement. Most solutions should come from relationship and communities.”</p>
+<p>A solid mechanic backbone that makes dialogue and negotiation the center of story beats; community building as the most fulfilling approaches. Not many systems have it as a peripheric mechanic, much less as part of a core resolution mechanic. Nevertheless, allies and friends should beat hoarded powers any day.</p>
+<p>“No bad guys. Only people that are enacting harmful changes upon the world and think they are doing good.”</p>
+<p>“People cannot be erased from existence; characters have to learn how to coexist with others, their legacies and the changes they enacted upon the world.”</p>
+<p>These two points share the same design space: either a carrot or stick should reward cooperation and reconciliation upon revenge and murder. XP rewards for mercy, Corruption tracks, a expendable resource that must be used to deliver finality through violence; those have been mechanics used on this space before.</p>
+<p>“Change occurs across worlds: relationships and communities are reflected in the Underworld, Otherworld, Platonic Reams and liminal spaces between.”</p>
+<p>This is an odd one. Dream Askew and Dream Apart used the GM playbooks to involve other worlds with the mundane community. Girl Underground is all about change of the girl place on the world through the adventure. Blades in the Dark create a different world with the Prison and Wanted levels, which through Heat relate with the normal exploits and the growth of the crew.</p>
+<p>I wonder which skeleton framework would fit these ruminations. Forged in the Dark is looking one with quite the pros and not many cons.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/design-ramblings-designing-from-the-ludonarrative-hip/1499/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/design-ramblings-designing-from-the-ludonarrative-hip/1499/1</link>
+        <pubDate>Sun, 31 Mar 2019 13:43:40 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1499-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/design-ramblings-designing-from-the-ludonarrative-hip/1499.rss">Design Ramblings: Designing from the Ludonarrative Hip</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Working through Spellblades, a GMless game</title>
+    <link>https://forums.gauntlet-rpg.com/t/working-through-spellblades-a-gmless-game/8102</link>
+    <description># Spellblades
+
+### You are…
+
+1. Protectors and bodyguards...;
+2. Members of a secretive order...;
+3. Soldiers in the Holy Armies...;
+4. Moon-and-Stars, exiles...;
+5. Living-weapons against enemies...;
+6. Witches imbued with powers...;
+
+### Of...
+
+1. ...the Sun Child;
+2. ...Revenant Knights;
+3. ...the Blood Rose;
+4. ...the late Moonstar kingdom;
+5. ...the Riverend City-State;
+6. ...long-lost Godlings.
+
+### Your Covenant was tasked with...
+
+1. Uproot the Cult of the White Emperor;
+2. Find the source of the Gamour pouring in;
+3. Locate and destroy the last shards of the Truest Mirror;
+4. Appease the Third and the Fourth;
+5. Protect the integrity of Paradox Vow;
+6. Bury the body of the Imposter Goddess.
+
+### In order to...
+
+1. Cease whatever is turning folk and beasts into shades of themselves;
+2. Avoid the truth about it to come to the public;
+3. Shut the Miraculous Gates before the equinox festival;
+4. Reveal the true nature of the Invisible Tyrant;
+5. Dethrone the false Descendant of the Sun;
+6. Avoid the execution of an innocent.
+
+## Choose a weapon style:
+
+| Style            | Trait            |
+|------------------|-------------|
+| Two-handed blade | powerful    |
+| Arming blade     | swift       |
+| Blade and shield | balanced    |
+| Dual blades      | bold        |
+| Pole blade       | cautious    |
+
+## Choose a spell focus:
+
+| Focus      | Aptitude    |
+|------------|-------------|
+| Needle     | Mending     |
+| Cane       | Rebuking    |
+| Cloak      | Seeming     |
+| Mirror     | Revealing   |
+| Chalice    | Empathizing |
+
+## Define your Skills
+
+Each skill has 3 Skill Slots. Fill as many or as few skill slots as you wish.
+
+| Skill        | Slots   |
+|--------------|---------|
+| **Force**    | ☐ ☐ ☐ |
+| **Finesse**  | ☐ ☐ ☐ |
+| **Sense**    | ☐ ☐ ☐ |
+
+## Conjure the World
+
+Take as many tokens of each kind, adding to 7 tokens total:
+
+**Intrigue**: People, desperately or selfishly trying to get away with their Desires;
+
+**Tragedy**: Events that invariably snowball into betrayal, death, or worse;
+
+**Sorcery**: Nature and its spiritual essences, broken or subdued by the want for power over others.
+
+## Conclude
+
+Choose a name, pronouns, and looks.
+
+# Approaches
+
+## Try or Test Things
+
+When you want to see how something will turn out, describe what you do and which skill you will apply. Choose whether you are using Spell or Blade.
+
+If you use a skill with Spell, roll 1d6 + 1d6 per checked slot. 
+
+If you use s skill with Blade, roll 1d6 + 1d6 per unchecked slot.
+
+If a weapon mastery or a spell mastery applies, add +1d6 to the pool.
+
+Describe how you do it, roll all dice you can, and add the highest 2 dice together.
+
+- 1-6: miss - the Covenant decides whether you get anything at all from what you set out for, and how badly things go from there;
+- 7-9: fumble - turn it into a hit if you pay a cost or lose something relevant, or; you get nothing but the situation won’t get worse either;
+- 10-12: hit - you do the thing, or at least you learn how to go about it the best way.
+
+## Know or Decide Things
+
+Spend a token of the appropriate type and describe it.
+
+Offer a token of the appropriate type and ask your question.
+
+**Intrigue**: A new NPC, schemes, groups or organizations;
+
+**Tragedy:** A disaster, plans and ambitions being advanced, a gathering, an interference;
+
+**Sorcery**: The workings or trappings of magic, omens, bargains;
+
+## Learn or Discover Things
+
+Pledge a token of your choice to lure the Covenant into answering a question of yours.
+
+Once someone claims the token, ask your question, and they must answer.
+
+Both the question and the answer must match the kind of token pledged.
+
+Should the token not be claimed, you may decide to cast it into the pit to Know or Decide Things as you desire, or take it back.
+
+[describe or suggest token outcomes like in learn/discover]
+
+## Feel or Express Things
+
+At any time, any member of the Covenant may choose this action to roleplay their character’s reactions, emotions, and thoughts in response to the other approaches.
+
+The long and short of it is that this is a free-form action without cost that can drive the plot onward, expose characters, or just move the story forward.
+
+Simple actions that don&#39;t present any serious risk or challenge can also be roleplayed in this fashion (nobody needs to risk rolling their dice to cook breakfast, for example).
+
+
+# Ruin and Blasphemy
+
+[Consumption, exhaustion, exploited by the powers you wield because wielding that power makes you beholden to the power structures and they do not seek your well-being]</description>
+    
+    <lastBuildDate>Wed, 01 Jun 2022 01:10:38 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/working-through-spellblades-a-gmless-game/8102.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Working through Spellblades, a GMless game</title>
+        <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/nickwedig">@Nickwedig</a> and <a class="mention" href="/u/dereel">@DeReel</a>, I’ve made some changes to the system regarding the spells and weapons, and one regarding the basic skills.</p>
+<p>I need to write more but in short, the skills were reduced for a less is more approach and the spell tables now have a focus and an aptitude.</p>
+<p>You choose your focus as you choose a mastery for weapons, and when the aptitude applies to the action being performed it adds +1. There’s more to work on but there it is.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-through-spellblades-a-gmless-game/8102/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-through-spellblades-a-gmless-game/8102/8</link>
+        <pubDate>Wed, 01 Jun 2022 01:10:38 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8102-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-through-spellblades-a-gmless-game/8102.rss">Working through Spellblades, a GMless game</source>
+      </item>
+      <item>
+        <title>Working through Spellblades, a GMless game</title>
+        <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+          <blockquote>
+              <p>Absolutely! I really must work on the game roles.</p>
+<p>And I hadn’t considered the magiv/blades preconceptions either. Let me work on those things and I’ll update y’all how they go. I still might turn back to a GMfull game, after all, it wouldn’t ruin it at all.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-through-spellblades-a-gmless-game/8102/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-through-spellblades-a-gmless-game/8102/7</link>
+        <pubDate>Wed, 25 May 2022 18:43:04 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8102-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-through-spellblades-a-gmless-game/8102.rss">Working through Spellblades, a GMless game</source>
+      </item>
+      <item>
+        <title>Working through Spellblades, a GMless game</title>
+        <dc:creator><![CDATA[@Nickwedig]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/nickwedig">@Nickwedig</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="TheGiftOfGabes" data-post="5" data-topic="8102">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/thegiftofgabes/40/5229_2.png" class="avatar"> TheGiftOfGabes:</div>
+<blockquote>
+<p>Here’s where you spotted the pitfal of my pivoting: it wasn’t designed at first as a gmless game.</p>
+</blockquote>
+</aside>
+<p>That was going to be my next comment: it feels like a GM led game without a GM. You may need to consider carefully the role the GM would have played in the game and making sure there are structures in place to do the same job. Otherwise, the game might wind up meandering and wishy-washy without someone to guide it.</p>
+<p>(If it were me, I might make intrigues work something like Lovecraftesque’s mysteries, but there are other methods that could work as well.)</p>
+<p>I think my issue with the swords vs spells is that we as players already understand something about what swords do in the world, and that gives some fictional limitations on how you’d approach problems using it. But magic could theoretically do anything, and players might have different ideas what it can accomplish. The job of the rules is to set some guidelines and expectations of what magic can do in this game, so everyone’s on the same page. I think tying it into the blasphemy/ruin system might help, as it would give some motivation to not use magic all the time, and it might give some thematic guidelines or players to know what sort of magic is appropriate to the game.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-through-spellblades-a-gmless-game/8102/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-through-spellblades-a-gmless-game/8102/6</link>
+        <pubDate>Tue, 24 May 2022 13:19:27 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8102-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-through-spellblades-a-gmless-game/8102.rss">Working through Spellblades, a GMless game</source>
+      </item>
+      <item>
+        <title>Working through Spellblades, a GMless game</title>
+        <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="Nickwedig" data-post="3" data-topic="8102">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/nickwedig/40/650_2.png" class="avatar"> Nickwedig:</div>
+<blockquote>
+<p>I think there are some procedures and bits that are assumed that could be made clear. for instance, on a 7-9, who decides the cost or complication? at what point in the procedure do you decide it (before rolling? after?)?</p>
+</blockquote>
+</aside>
+<aside class="quote no-group" data-username="DeReel" data-post="2" data-topic="8102">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/dereel/40/3021_2.png" class="avatar"> DeReel:</div>
+<blockquote>
+<p>Opening a discussion on a miss is something very specific I am a bit weary of. It’s mostly a matter of taste, and I can’t say what you should like. So, I’ll simply state what I like: I like to have the discussion before the roll as “what could go wrong”. At this point in time, there’s no thought of inflicting actual consequence, everything is mere potentiality and the table enjoys manipulating this (narrative) essence. And then someone designated (say, player on your left) declares the sentence after the miss. I also like the “it’s worse than that” formula in The Between. I think the player rolling the miss could apply “it’s worse than that” to a consequence they freeely pick from the pre-roll conversation, and they still would be carried by the wave of raw narrative potential built before the roll. Clearly, that’s not for everyone, so I’d say, Always Be Testing.</p>
+</blockquote>
+</aside>
+<p>Here’s where you spotted the pitfal of my pivoting: it wasn’t designed at first as a gmless game. So there’s a lot of legacy here that needs to be addressed.</p>
+<aside class="quote no-group" data-username="Nickwedig" data-post="3" data-topic="8102">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/nickwedig/40/650_2.png" class="avatar"> Nickwedig:</div>
+<blockquote>
+<p>I don’t feel like the rules give much overall structure to the story. How do you decide when enough tests have been done for the character to accomplish their large-scale goals? How do you know when to end a story? In a GM led game, that is often left up to the GM to decide, and their role is to make sure the game turns into a meaningful story. I don’t see exactly what here would help make sure that happens.</p>
+</blockquote>
+</aside>
+<p>I have been considering using a narrative procedure inspired by Space Bounty Blues. In short, there are very clear-cut phases for solo and group development. Check it out it’s short and beautiful I am open to other suggestions.</p>
+<aside class="quote no-group" data-username="Nickwedig" data-post="3" data-topic="8102">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/nickwedig/40/650_2.png" class="avatar"> Nickwedig:</div>
+<blockquote>
+<p>How magic works is pretty vague from these rules. I don’t see much reason not to check ever box in every skill, and use magic for everything and always be rolling 4 or 5 dice. (Even a single die makes a big difference in your chances.)</p>
+</blockquote>
+</aside>
+<p>To keep it simple, magic and blade are kinda the same in workings… skills. The magic doesn’t make it explicit, but the flavour of the blade is that your choice of blade mastery influences what “tags” you get as an extra. The magic “are” those tags. You are supposed to choose between blade and spell according to what you think will be a nice forward approach to the narrative.</p>
+<p>And you are right, you could just do that and always roll spell, but I had been thinking about that already and I wanna tie it in with the blasphemy/ruin system. Too much magig awry you get screwed, too much mistakes with blade, you screw your status, either way you might end up dead - or worse.</p>
+<p>I am taking notes from all of the responses for fixes and edits, peeps!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-through-spellblades-a-gmless-game/8102/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-through-spellblades-a-gmless-game/8102/5</link>
+        <pubDate>Mon, 23 May 2022 16:40:52 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8102-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-through-spellblades-a-gmless-game/8102.rss">Working through Spellblades, a GMless game</source>
+      </item>
+      <item>
+        <title>Working through Spellblades, a GMless game</title>
+        <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="DeReel" data-post="2" data-topic="8102">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/dereel/40/3021_2.png" class="avatar"> DeReel:</div>
+<blockquote>
+<p>First, I love the Conjuring the World Prep Move. Roberto Grassi had done something similar years ago but mostly as “an opposition Pool”. Here, it’s an invitation to describe qualities, and it’s tactilly pleasant, much more practical than a bunch of scales or tables with checkboxes.</p>
+</blockquote>
+</aside>
+<p>Oh! Interwesting! I should look into that!</p>
+<aside class="quote no-group" data-username="DeReel" data-post="2" data-topic="8102">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/dereel/40/3021_2.png" class="avatar"> DeReel:</div>
+<blockquote>
+<p>I feel “Locate and destroy” could be more combinable if it was only “Find”. Sure it sounds less classy, but as this is the “we want to play long term” order on the menu, I’d rather we have room for a twist or at least a discussion about what to do with the shards.</p>
+</blockquote>
+</aside>
+<p>An interesting point! Let me sit on that one a bit!</p>
+<aside class="quote no-group" data-username="DeReel" data-post="2" data-topic="8102">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/dereel/40/3021_2.png" class="avatar"> DeReel:</div>
+<blockquote>
+<p>“Third and Fourth” strike me as wuxia terms in a race to the throne. Is that what you had in mind? I like this entry anyway.</p>
+</blockquote>
+</aside>
+<p>That had not occurred to me at all! I was going for, “hmm, this sounds weird and mysterious…” haha</p>
+<aside class="quote no-group quote-modified" data-username="DeReel" data-post="2" data-topic="8102">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/dereel/40/3021_2.png" class="avatar"> DeReel:</div>
+<blockquote>
+<p>Opening a discussion on a miss…</p>
+</blockquote>
+</aside>
+<p>I’ll add this together with the next response <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<aside class="quote no-group quote-modified" data-username="DeReel" data-post="2" data-topic="8102">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/dereel/40/3021_2.png" class="avatar"> DeReel:</div>
+<blockquote>
+<p>There is an unspoken part in the rules that require table harmonization…</p>
+</blockquote>
+</aside>
+<p>There’s some stuff in this paragraph that went over my head, what is the point you are trying to bring here in other words?</p>
+<aside class="quote no-group" data-username="DeReel" data-post="2" data-topic="8102">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/dereel/40/3021_2.png" class="avatar"> DeReel:</div>
+<blockquote>
+<p>eel or Express things doesn’t require a token and I’d be tempted to use it for this kind of revelations.</p>
+</blockquote>
+</aside>
+<ul>
+<li>express/feel is supposed to be no more than a codification of free-form roleplay, at least from intent. that said I must look into it more closely because the tone of the game is definitely less on the cozy side so I am confident I can drive the tone home harder by messing with it a bit.</li>
+</ul>
+<aside class="quote no-group" data-username="DeReel" data-post="2" data-topic="8102">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/dereel/40/3021_2.png" class="avatar"> DeReel:</div>
+<blockquote>
+<p>If it was to advance the plot, Learn or Discover would apply (I don’t see a case were it wouldn’t). I think this should be explicit.</p>
+</blockquote>
+</aside>
+<p>Yes, true!</p>
+<aside class="quote no-group" data-username="DeReel" data-post="2" data-topic="8102">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/dereel/40/3021_2.png" class="avatar"> DeReel:</div>
+<blockquote>
+<p>Another way to explicit this would be to add that Learn and Discover verbs are for “the audience”. You can’t add a revelation because your character thinks something based on something only them knew in the heart of their self.</p>
+</blockquote>
+</aside>
+<p>I like this distinction of “info towards the audience”. Can you just clarify the “You can’t add a revelation because…” part?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-through-spellblades-a-gmless-game/8102/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-through-spellblades-a-gmless-game/8102/4</link>
+        <pubDate>Mon, 23 May 2022 16:33:31 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8102-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-through-spellblades-a-gmless-game/8102.rss">Working through Spellblades, a GMless game</source>
+      </item>
+      <item>
+        <title>Working through Spellblades, a GMless game</title>
+        <dc:creator><![CDATA[@Nickwedig]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/nickwedig">@Nickwedig</a> wrote:</p>
+          <blockquote>
+              <p>I think there are some procedures and bits that are assumed that could be made clear. for instance, on a 7-9, who decides the cost or complication? at what point in the procedure do you decide it (before rolling? after?)?</p>
+<p>I don’t feel like the rules give much overall structure to the story. How do you decide when enough tests have been done for the character to accomplish their large-scale goals? How do you know when to end a story? In a GM led game, that is often left up to the GM to decide, and their role is to make sure the game turns into a meaningful story. I don’t see exactly what here would help make sure that happens.</p>
+<p>How magic works is pretty vague from these rules. I don’t see much reason not to check ever box in every skill, and use magic for everything and always be rolling 4 or 5 dice. (Even a single die makes a big difference in your chances.)</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-through-spellblades-a-gmless-game/8102/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-through-spellblades-a-gmless-game/8102/3</link>
+        <pubDate>Mon, 23 May 2022 14:37:03 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8102-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-through-spellblades-a-gmless-game/8102.rss">Working through Spellblades, a GMless game</source>
+      </item>
+      <item>
+        <title>Working through Spellblades, a GMless game</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>Hi,<br>
+First, I love the Conjuring the World Prep Move. Roberto Grassi had done something similar years ago but mostly as “an opposition Pool”. Here, it’s an invitation to describe qualities, and it’s tactilly pleasant, much more practical than a bunch of scales or tables with checkboxes.</p>
+<p>I feel “Locate and destroy” could be more combinable if it was only “Find”. Sure it sounds less classy, but as this is the “we want to play long term” order on the menu, I’d rather we have room for a twist or at least a discussion about what to do with the shards.</p>
+<p>“Third and Fourth” strike me as wuxia terms in a race to the throne. Is that what you had in mind? I like this entry anyway.</p>
+<p>Opening a discussion on a miss is something very specific I am a bit weary of. It’s mostly a matter of taste, and I can’t say what you should like. So, I’ll simply state what I like: I like to have the discussion before the roll as “what could go wrong”. At this point in time, there’s no thought of inflicting actual consequence, everything is mere potentiality and the table enjoys manipulating this (narrative) essence. And then  someone designated (say, player on your left) declares the sentence after the miss. I also like the “it’s worse than that” formula in The Between. I think the player rolling the miss could apply “it’s worse than that” to a consequence they freeely pick from the pre-roll conversation, and they still would be carried by the wave of raw narrative potential built before the roll. Clearly, that’s not for everyone, so I’d say, Always Be Testing.</p>
+<p>There is an unspoken part in the rules that require table harmonization. Within Intrigue plots, identification is a powerful tool or weapon. But it’s very easy to push on the table: you just drop a name, a clue: “the countess has the same birthmark as you”. Feel or Express things doesn’t require a token and I’d be tempted to use it for this kind of revelations. To me, Feel or Express enables a player to add a breather or enhance the stakes for their character, strictly. If it was to advance the plot, Learn or Discover would apply (I don’t see a case were it wouldn’t). I think this should be explicit. Another way to explicit this would be to add that Learn and Discover verbs are for “the audience”. You can’t add a revelation because your character thinks something based on something only them knew in the heart of their self. Maybe that’s just because of the way I play, but I think there’s like a pixel glitch here, one I’d spot and be tempted to exploit, but also one people can step on unkowingly.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-through-spellblades-a-gmless-game/8102/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-through-spellblades-a-gmless-game/8102/2</link>
+        <pubDate>Sun, 22 May 2022 07:50:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8102-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-through-spellblades-a-gmless-game/8102.rss">Working through Spellblades, a GMless game</source>
+      </item>
+      <item>
+        <title>Working through Spellblades, a GMless game</title>
+        <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+          <blockquote>
+              <h1>Spellblades</h1>
+<h3>You are…</h3>
+<ol>
+<li>Protectors and bodyguards…;</li>
+<li>Members of a secretive order…;</li>
+<li>Soldiers in the Holy Armies…;</li>
+<li>Moon-and-Stars, exiles…;</li>
+<li>Living-weapons against enemies…;</li>
+<li>Witches imbued with powers…;</li>
+</ol>
+<h3>Of…</h3>
+<ol>
+<li>…the Sun Child;</li>
+<li>…Revenant Knights;</li>
+<li>…the Blood Rose;</li>
+<li>…the late Moonstar kingdom;</li>
+<li>…the Riverend City-State;</li>
+<li>…long-lost Godlings.</li>
+</ol>
+<h3>Your Covenant was tasked with…</h3>
+<ol>
+<li>Uproot the Cult of the White Emperor;</li>
+<li>Find the source of the Gamour pouring in;</li>
+<li>Locate and destroy the last shards of the Truest Mirror;</li>
+<li>Appease the Third and the Fourth;</li>
+<li>Protect the integrity of Paradox Vow;</li>
+<li>Bury the body of the Imposter Goddess.</li>
+</ol>
+<h3>In order to…</h3>
+<ol>
+<li>Cease whatever is turning folk and beasts into shades of themselves;</li>
+<li>Avoid the truth about it to come to the public;</li>
+<li>Shut the Miraculous Gates before the equinox festival;</li>
+<li>Reveal the true nature of the Invisible Tyrant;</li>
+<li>Dethrone the false Descendant of the Sun;</li>
+<li>Avoid the execution of an innocent.</li>
+</ol>
+<h2>Choose a weapon style:</h2>
+<div class="md-table">
+<table>
+<thead>
+<tr>
+<th>Style</th>
+<th>Trait</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Two-handed blade</td>
+<td>powerful</td>
+</tr>
+<tr>
+<td>Arming blade</td>
+<td>swift</td>
+</tr>
+<tr>
+<td>Blade and shield</td>
+<td>balanced</td>
+</tr>
+<tr>
+<td>Dual blades</td>
+<td>bold</td>
+</tr>
+<tr>
+<td>Pole blade</td>
+<td>cautious</td>
+</tr>
+</tbody>
+</table>
+</div><h2>Choose a spell focus:</h2>
+<div class="md-table">
+<table>
+<thead>
+<tr>
+<th>Focus</th>
+<th>Aptitude</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Needle</td>
+<td>Mending</td>
+</tr>
+<tr>
+<td>Cane</td>
+<td>Rebuking</td>
+</tr>
+<tr>
+<td>Cloak</td>
+<td>Seeming</td>
+</tr>
+<tr>
+<td>Mirror</td>
+<td>Revealing</td>
+</tr>
+<tr>
+<td>Chalice</td>
+<td>Empathizing</td>
+</tr>
+</tbody>
+</table>
+</div><h2>Define your Skills</h2>
+<p>Each skill has 3 Skill Slots. Fill as many or as few skill slots as you wish.</p>
+<div class="md-table">
+<table>
+<thead>
+<tr>
+<th>Skill</th>
+<th>Slots</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Force</strong></td>
+<td>☐ ☐ ☐</td>
+</tr>
+<tr>
+<td><strong>Finesse</strong></td>
+<td>☐ ☐ ☐</td>
+</tr>
+<tr>
+<td><strong>Sense</strong></td>
+<td>☐ ☐ ☐</td>
+</tr>
+</tbody>
+</table>
+</div><h2>Conjure the World</h2>
+<p>Take as many tokens of each kind, adding to 7 tokens total:</p>
+<p><strong>Intrigue</strong>: People, desperately or selfishly trying to get away with their Desires;</p>
+<p><strong>Tragedy</strong>: Events that invariably snowball into betrayal, death, or worse;</p>
+<p><strong>Sorcery</strong>: Nature and its spiritual essences, broken or subdued by the want for power over others.</p>
+<h2>Conclude</h2>
+<p>Choose a name, pronouns, and looks.</p>
+<h1>Approaches</h1>
+<h2>Try or Test Things</h2>
+<p>When you want to see how something will turn out, describe what you do and which skill you will apply. Choose whether you are using Spell or Blade.</p>
+<p>If you use a skill with Spell, roll 1d6 + 1d6 per checked slot.</p>
+<p>If you use s skill with Blade, roll 1d6 + 1d6 per unchecked slot.</p>
+<p>If a weapon mastery or a spell mastery applies, add +1d6 to the pool.</p>
+<p>Describe how you do it, roll all dice you can, and add the highest 2 dice together.</p>
+<ul>
+<li>1-6: miss - the Covenant decides whether you get anything at all from what you set out for, and how badly things go from there;</li>
+<li>7-9: fumble - turn it into a hit if you pay a cost or lose something relevant, or; you get nothing but the situation won’t get worse either;</li>
+<li>10-12: hit - you do the thing, or at least you learn how to go about it the best way.</li>
+</ul>
+<h2>Know or Decide Things</h2>
+<p>Spend a token of the appropriate type and describe it.</p>
+<p>Offer a token of the appropriate type and ask your question.</p>
+<p><strong>Intrigue</strong>: A new NPC, schemes, groups or organizations;</p>
+<p><strong>Tragedy:</strong> A disaster, plans and ambitions being advanced, a gathering, an interference;</p>
+<p><strong>Sorcery</strong>: The workings or trappings of magic, omens, bargains;</p>
+<h2>Learn or Discover Things</h2>
+<p>Pledge a token of your choice to lure the Covenant into answering a question of yours.</p>
+<p>Once someone claims the token, ask your question, and they must answer.</p>
+<p>Both the question and the answer must match the kind of token pledged.</p>
+<p>Should the token not be claimed, you may decide to cast it into the pit to Know or Decide Things as you desire, or take it back.</p>
+<p>[describe or suggest token outcomes like in learn/discover]</p>
+<h2>Feel or Express Things</h2>
+<p>At any time, any member of the Covenant may choose this action to roleplay their character’s reactions, emotions, and thoughts in response to the other approaches.</p>
+<p>The long and short of it is that this is a free-form action without cost that can drive the plot onward, expose characters, or just move the story forward.</p>
+<p>Simple actions that don’t present any serious risk or challenge can also be roleplayed in this fashion (nobody needs to risk rolling their dice to cook breakfast, for example).</p>
+<h1>Ruin and Blasphemy</h1>
+<p>[Consumption, exhaustion, exploited by the powers you wield because wielding that power makes you beholden to the power structures and they do not seek your well-being]</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/working-through-spellblades-a-gmless-game/8102/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/working-through-spellblades-a-gmless-game/8102/1</link>
+        <pubDate>Sun, 22 May 2022 01:54:34 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8102-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/working-through-spellblades-a-gmless-game/8102.rss">Working through Spellblades, a GMless game</source>
+      </item>
+  </channel>
+</rss>

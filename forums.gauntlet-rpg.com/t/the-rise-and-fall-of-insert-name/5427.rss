@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>The Rise and Fall of [INSERT NAME]</title>
+    <link>https://forums.gauntlet-rpg.com/t/the-rise-and-fall-of-insert-name/5427</link>
+    <description>A few ideas that have been swirling around in my head lately converged into a thing that isn&#39;t quite like any of them and I&#39;m liking it enough that I&#39;d like to toss it out to everyone here for input.
+
+Note that while this version is fully playable it&#39;s also a first draft so some parts are bound to be a bit rough. There are some ideas for further development at the end.
+
+Case in point, I should probably have used &quot;you&quot; a lot more and &quot;your character&quot; a lot less and not given in to my pedantic drive to keep those two separate.
+
+**Short Version**
+This is a solo storytelling game using an ordinary deck of cards. You will be portraying a character pursuing a goal, but during play your priorities are likely to shift. Will your end be hopeful or tragic? Let&#39;s find out!
+
+**Preparations**
+Take an ordinary deck of playing cards. Remove the face cards and Jokers; they will not be used.
+
+Choose a setting for your game, but don&#39;t create a character yet.
+
+Each suit represents a sphere of success or values your character can pursue. The default is listed below, but feel free to change this.
+
+Hearts: Relationships
+Diamonds: Creativity and satisfying work
+Clubs: Security, wealth, and material possessions
+Spades: Reputation and social standing
+
+(The split between primarily internal and external circumstances/drives is intentional but not necessary.)
+
+Shuffle the aces and place them face up in a column. The top ace shows in which sphere your ultimate goal is located, the second ace shows what your intended method is for reaching that goal, and the third ace shows a first stepping stone. The fourth ace shows which sphere you are currently ignoring.
+
+This column is your *hierarchy of values*.
+
+Note that this hierarchy is always an ordering of the cards - if your hierarchy is spades, clubs, hearts, diamonds and you are to move hearts up a step your new hierarchy is spades, hearts, clubs, diamonds. Two aces never share a row.
+
+*Example: You&#39;ve chosen Renaissance Italy as your setting and you&#39;re using the default suit values. Your aces come up diamonds, clubs, spades, hearts. You decide that you are a young ambitious artist whose ultimate goal is to create truly beautiful paintings (diamonds - creativity) but to do this you must find a patron (spades - social standing), and to be considered you will first need to get the money to create pieces you can show to the wealthy (clubs - wealth).*
+
+Shuffle the remaing cards, which should be all cards ranked 2-10, and place them face down to form your draw deck.
+
+Draw the top card of the draw deck and play it in front of you, then draw cards until you get one with a different rank, discarding any that match the rank of the first card. These cards show your initial situation interpreted according to the rules below.
+
+This line of cards (currently consisting of two cards) is your storyline.
+
+**Playing the Game**
+If a card on the storyline is higher than the preceding card, it&#39;s *rising*, and if it&#39;s lower, it&#39;s *falling*. A card of the same rank as the preceding card is *flat*. A rising card shows success or progress towards your goals, a falling card represents a setback or failure, and a flat card prompts a reevaluation of your priorities.
+
+Each turn you will draw two cards from the draw deck and choose one of them to play on the storyline and then interpret the result in the story. You can play this as your character choosing between two outcomes or as external events dictating the outcome, or you can mix and match these as you like.
+
+To interpret a new card you need to know if it is rising, falling, or flat, and you need to know if the preceeding card is rising or falling. Flat cards on the storyline are skipped over when checking if the preceding card is rising or falling. The suits of the cards will give additional details as explained below.
+
+Note that the absolute ranks of the cards don&#39;t matter when deciding if a card is rising, falling, or flat, only if they are higher, lower, or the same rank as the preceding card. However, feel free to let the rank guide your interpretation.
+
+Journaling, whether in short fragments or longer form, is optional but encouraged.
+
+**Interpreting the Cards**
+There are several different cases listed below but interpreting a new card should soon come naturally. (I hope - otherwise I&#39;ll have to cut down on the complexity here, I suppose.)
+
+Note that flat cards are skipped over when determining if the previous card is rising or falling. I.e., if your storyline is 2, 4, 4 and your new card is a 5, your current card is rising (since a 5 ranks higher than a 4) as is the preceding card (the last 4 is ignored and the 4 before it is higher than the 2).
+
+***The new card is flat***
+This causes your character to change their priorities. Show this by moving the ace of the same suit as the flat card to a different position in your hierarchy of values, then describe how your character&#39;s goals have changed and how the previous events have brought about this change.
+
+*Example: The last card on the storyline is a rising seven of spades and you play the seven of clubs. Your hierarchy of values is spades, hearts, clubs, diamonds. You decide to shift clubs up one, representing how your character&#39;s growing reputation causes them to start seeing their new friends as a way to get wealth and material comforts.*
+
+***Both cards are rising***
+Your character goes from success to success!
+
+If the cards are of the same suit, they continue to reap rewards in this sphere. You may move the ace of this suit up or down one step in your hierarchy of values.
+
+If the cards are of different suits, your character uses their success in the sphere represented by the suit of the preceding card to make gains in the sphere represented by the suit of the new card.
+
+*Example: The previous card is a rising heart and your new card is a rising spade. You describe how your character&#39;s recent marriage has improved their social standing.*
+
+***The new card is rising and the previous card is falling***
+If the cards are of the same suit, your character rebounds from their recent setback in this sphere. Whether this is a partial recovery or they reach even higher than before is your choice, or you can let the ranks of the cards guide your decision. You may move the ace of this suit up one step in your hierarchy of values.
+
+If the cards are of different suits, your character is spurred on by their failure in one area to move forward in a different sphere.
+
+*Example: The previous card is a falling club and your new card is a rising heart. You describe how your character&#39;s ties to the other members of their gang grows stronger when they get out of prison.*
+
+***The new card is falling and the previous card is rising***
+If the cards are of the same suit, your character suffers a setback after a recent success in their current pursuits. Whether this is a minor or major setback is up to you. You may move the ace of the same suit up or down one step in the hierarchy.
+
+If the cards are of different suits, your character&#39;s success in the previous sphere costs them in the sphere of the new card.
+
+*Example: The previous card is a rising diamond and the new card is a falling heart. You describe how your novelist character spends all their time writing, neglecting their friends and family.*
+
+***Both cards are falling***
+If the cards are of the same suit, your character&#39;s fall continues. You may shift the ace of this suit up or down one step in the hierarchy to show how they get obsessed with getting back what they have lost or abandon their pursuits for something else.
+
+If the cards are of different suits, your character&#39;s setback in one area leads to further setbacks in another.
+
+*Example: The previous card is a falling heart and the new card is a falling club. You describe how your pirate character&#39;s recent betrayal of their shipmates leads to their capture by the Spanish.*
+
+**Ending the Game**
+Continue playing until you&#39;ve reached a satisfying conclusion. If the draw deck runs out, the last card ends your story; figure out a way to make it interesting. Or reshuffle the discards and keep going; I can&#39;t stop you.
+
+**Further Notes**
+I think the face cards could be used to represent other important characters tied to their respective spheres. A jack could be a rival, a queen a friend, and a king someone influential for example. Maybe just shuffle them into the deck and introduce them as they show up? I&#39;m not sure if it&#39;s necessary, but it could help with creativity perhaps.
+
+Or maybe you have a hierarchy of important characters as well? Like, at the start of the game you draw four of them, when you draw a new one it can replace one of the others, and at certain points you can shift them around? Hm, that could be something.
+
+Likewise, perhaps the jokers could be used as act breaks? Like, insert them roughly one third and two thirds into the deck, and when you draw a joker you describe how the stakes are raised? So then perhaps all the important characters should be introduced in the first act? This feels like an optional rule.
+
+Anyway, let me know what you think!</description>
+    
+    <lastBuildDate>Tue, 30 Jun 2020 08:18:30 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/the-rise-and-fall-of-insert-name/5427.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>The Rise and Fall of [INSERT NAME]</title>
+        <dc:creator><![CDATA[@Anders]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/anders">@Anders</a> wrote:</p>
+          <blockquote>
+              <p>Thanks! I’m very happy with how this turned out. Now I just need to spend some time with a bit of clip art to make better diagrams of how the deck setup works since I think that’s the biggest hurdle right now.</p>
+<p>I haven’t gotten around to playing more of the solo games than Thousand Year Old Vampire (which I can’t recommend enough), but I’m planning on getting back to them. A couple of them are sitting on my hard drive right now.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-rise-and-fall-of-insert-name/5427/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-rise-and-fall-of-insert-name/5427/9</link>
+        <pubDate>Tue, 30 Jun 2020 08:18:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5427-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-rise-and-fall-of-insert-name/5427.rss">The Rise and Fall of [INSERT NAME]</source>
+      </item>
+      <item>
+        <title>The Rise and Fall of [INSERT NAME]</title>
+        <dc:creator><![CDATA[@pizzazzeria]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/pizzazzeria">@pizzazzeria</a> wrote:</p>
+          <blockquote>
+              <p>Thanks for writing up your thoughts here! I haven’t had time to read this fully yet, but I like the concept, and think you found a really memorable name. The higher card / lower card mechanic is simple but builds in a lot of tension and intrigue.</p>
+<p>I enjoyed your other thread about single player games, and looked into some like Thousand Year Old Vampire and Artefact. I’d like to try writing a game like this as well, so this will be good inspiration. I’m also a high school English teacher, so toying with ideas of how I could do something like this with my classes.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-rise-and-fall-of-insert-name/5427/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-rise-and-fall-of-insert-name/5427/8</link>
+        <pubDate>Tue, 30 Jun 2020 04:47:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5427-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-rise-and-fall-of-insert-name/5427.rss">The Rise and Fall of [INSERT NAME]</source>
+      </item>
+      <item>
+        <title>The Rise and Fall of [INSERT NAME]</title>
+        <dc:creator><![CDATA[@Anders]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/anders">@Anders</a> wrote:</p>
+          <blockquote>
+              <p>And now it’s up! I will replace the illustrations with something clearer and more printer friendly at a future date, but these will do for now.</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <a href="https://undeshga.itch.io/rise-or-fall-of-insert-name-here" target="_blank" rel="nofollow noopener">itch.io</a>
+  </header>
+  <article class="onebox-body">
+    <img src="" class="thumbnail" width="" height="">
+
+<h3><a href="https://undeshga.itch.io/rise-or-fall-of-insert-name-here" target="_blank" rel="nofollow noopener">Rise or Fall of [INSERT NAME HERE] by Anders Gabrielsson</a></h3>
+
+<p>A solo storygame with an uncertain end using an ordinary deck of cards</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-rise-and-fall-of-insert-name/5427/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-rise-and-fall-of-insert-name/5427/7</link>
+        <pubDate>Sat, 27 Jun 2020 20:13:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5427-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-rise-and-fall-of-insert-name/5427.rss">The Rise and Fall of [INSERT NAME]</source>
+      </item>
+      <item>
+        <title>The Rise and Fall of [INSERT NAME]</title>
+        <dc:creator><![CDATA[@Anders]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/anders">@Anders</a> wrote:</p>
+          <blockquote>
+              <p>I’m happy enough with how this turned out that I’ll edit it into something useful and put it up on itch. I’ll post a link here when it’s done.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-rise-and-fall-of-insert-name/5427/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-rise-and-fall-of-insert-name/5427/6</link>
+        <pubDate>Sat, 27 Jun 2020 09:58:01 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5427-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-rise-and-fall-of-insert-name/5427.rss">The Rise and Fall of [INSERT NAME]</source>
+      </item>
+      <item>
+        <title>The Rise and Fall of [INSERT NAME]</title>
+        <dc:creator><![CDATA[@Anders]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/anders">@Anders</a> wrote:</p>
+          <blockquote>
+              <p>Let’s end this thing!</p>
+<p>My first cards are the five of diamonds and the four of hearts, both of which would be rising.</p>
+<p>This is the trickiest play I’ve had so far, I think. Jane is supposed to turn this downturn in her public support into a win with regards to protecting the innocent or her own pesonal relationships. The former I don’t have any ideas for, but the latter… perhaps the fact that she needs help can get her closer to some people? Let’s try that.</p>
+<p><em><strong>As fast as she can, Jane gets back into her suit and hits the big, red emergency button she has installed on the wall… then hits it again, when it doesn’t respond the first time.</strong></em></p>
+<p><em><strong>The second time it works as the church above is flooded with noise from hidden loudspeakers, flashing strobe lights, and smoke from smoke machines. Then half a dozen mannequins dressed up in quick-n-dirty versions of her Midnight Owl costume come sweeping down on ziplines.</strong></em></p>
+<p><em><strong>By the time the SWAT team has regrouped and recovered, Jane is long gone with all her important data and what she left behind set on fire.</strong></em></p>
+<p><em><strong>An hour later she knocks on Angela’s window.</strong></em></p>
+<p><em><strong>"I need a place to lay low. Got a spare couch?"</strong></em></p>
+<p>Next I draw the remaing King, Queen, <em>and</em> Jack, along with the ten of diamonds and the five of spades. Clearly the big finale is coming! I’m going with the spade.</p>
+<p><em><strong>A few hours later Angela, Stella, Wilson, and Jane are strategizing.</strong></em></p>
+<p><em><strong>"We still have some pull with the few straight cops left. But they’ll be coming for us next so we’d better act fast."</strong></em></p>
+<p><em><strong>Wilson doesn’t sound hopeful but Angela and Jane both nod.</strong></em></p>
+<p><em><strong>"If we can raid Amphitrite’s penthouse and get the evidence maybe we can get out of this."</strong></em></p>
+<p><em><strong>There’s a knock on the door a moment before a flustered Gomez enters, raising his hands as he faces two raised guns.</strong></em></p>
+<p><em><strong>"Put those down before you hurt yourselves! Haven’t you heard?"</strong></em></p>
+<p><em><strong>Without waiting for an answer he turns on the tv which shows shaky footage of a fight between Golden Owl and another SWAT team.</strong></em></p>
+<p><em><strong>"They took her. Amphitrite’s taken over the whole department! We need to move now!"</strong></em></p>
+<p><em><strong>"I’ll make the calls," Wilson says as the others start to pull their equipment together.</strong></em></p>
+<p>There are four cards left in the deck, so this is the second to last pull: the seven and eight of hearts. I pick the seven and hope for a high card left in the deck for a happy ending!</p>
+<p><em><strong>The plan is a crazy mess, but it sort of works, at least to begin with. Wilson’s friends on the force take out Golden Owl’s guards, allowing her to escape out a back door, grabbing her equipment on the way, where Gomez waits to wisk her away to his apartment, the only safe place the group has left. There they meet up with Angela, Stella, and Jane.</strong></em></p>
+<p><em><strong>The rivals size each other up. Golden Owl is the first to smile.</strong></em></p>
+<p><em><strong>"Thanks, man. You all really saved my ass."</strong></em></p>
+<p><em><strong>Relaxing a little, Jane nods.</strong></em></p>
+<p><em><strong>"We’re going after Amphitrite, head on, all the way to the top. Are you in?"</strong></em></p>
+<p><em><strong>Golden Owl grins.</strong></em></p>
+<p><em><strong>"Hell yeah!"</strong></em></p>
+<p>Okay, last two cards! If I had been counting I’d know what they were, but I haven’t, so let’s see…the six of clubs and… the three of clubs. Ouch! Either is a falling club.</p>
+<p><em><strong>The explosives Angela, Stella, and Gomez set off in the lobby pull in most of the Trident muscle in Amphitrite’s building, leaving her alone in the penthouse with her lieutenant and a handful of guards. When Midnight Owl and Golden Owl sweep in from the air they make quick work of the guards, but while Golden Owl barely holds off the lieutenant Jane can’t even manage that against Amphitrite who turns out to be surprisingly strong, fast, and adept at hand-to-hand fighting.</strong></em></p>
+<p><em><strong>"You pesky girls! You have hindered my plans long enough!"</strong></em></p>
+<p><em><strong>With a furious assault Amphitrite pushes Jane out onto the balcony, crippling her wings in the process. Golden Owl finally knocks out the lieutenant and comes to help her, but Amphitrite sees her coming and sweeps her over the railing, then throws Jane after her.</strong></em></p>
+<p><em><strong>"Fly, you fools!"</strong></em></p>
+<p><em><strong>Amphitrite’s cruel laughter follows them as they fall. We cut to black before they land.</strong></em></p>
+<p>Duhn-duhn-duuuhn!</p>
+<p>Will our intrepid heroine survive? Will she return to defeat Amphitrite and the Trident? Will Darkton ever be free of corruption?</p>
+<p>This playtest has created more questions than answers, except I think this works pretty much as I intended which is a pleasant surprise.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-rise-and-fall-of-insert-name/5427/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-rise-and-fall-of-insert-name/5427/5</link>
+        <pubDate>Wed, 17 Jun 2020 16:50:39 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5427-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-rise-and-fall-of-insert-name/5427.rss">The Rise and Fall of [INSERT NAME]</source>
+      </item>
+      <item>
+        <title>The Rise and Fall of [INSERT NAME]</title>
+        <dc:creator><![CDATA[@Anders]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/anders">@Anders</a> wrote:</p>
+          <blockquote>
+              <p>Alright! Part II of II (or III? we’ll see) of Jane’s fledgling hero career!</p>
+<p>Last time on Midnight Owl…</p>
+<p>Jane is outshone (outshined?) by newcomer gloryhound Golden Owl who scored a hit against the Trident, Darkton’s most powerful crime syndicate.</p>
+<p><em>Game mechanical note: I realized you can get some odd situations if one or more of the last two cards in the deck are face cards, so I’ll change the setup to make sure that doesn’t happen. I’ve made sure that’s not the case in this game.</em></p>
+<p><em>And a potential idea for the future: Have the rank of the card be a prompt to a type of event. It means making a playset requires more than just picking a setting and deciding what the suits represent but it might be worth it? Or maybe they can be kept vague enough that they can be universal? I’ll look into it.</em></p>
+<p>Okay, the last card was the first Joker, signifying the end of the first act and the beginning of the second where the stakes are raised. How? I have no idea; let’s find out!</p>
+<p>My next cards are the Queen of hearts, the seven of clubs, and the two of clubs. Angela will be involved, and Golden Owl’s newfound fame will either make Jane lose heart to where she suffers a setback in her training or spur her on to greater heights. I prefer the latter.</p>
+<p><em><strong>While Jane seethes that someone else beat her to the punch as the first to publicly aspire to Black Owl’s mantle, she recognizes her rival’s ability. She doubles down on her training and Angela is ever helpful, becoming more and more impressed with Jane’s talents.</strong></em></p>
+<p>Next up is the King of hearts, the eight of clubs, and the ten of spades. I’ll go with the eight of clubs to signify Jane finishing her training.</p>
+<p><em><strong>Gomez, Wilson, and Angela have cooked up a final test for Jane: Infiltrating one of the Trident’s warehouses and secure evidence of their ties to a series of sweatshops.</strong></em></p>
+<p><em><strong>Jane sneaks in without being seen, cracks the pitiful security on the office computer, and escapes with the files… but then we zoom out to the screen displaying the fuzzy security footage from across the street. Tapping her fingers while she watches is Amphitrite, the secret head of the Tridents. When one of her lieutentants returns to her office from paying the dirty cop who brought the footage she snaps her fingers and points at him.</strong></em></p>
+<p><em><strong>"Find this girl. Now."</strong></em></p>
+<p>Two clubs in a row allows me to move the Ace of clubs in the hierarchy so I’ll shift that down to the third position, below the diamond and the spade. Jane thinks she’s mostly done with her training and wants to start doing some innocent-protecting!</p>
+<p>My cards now are the five of clubs, the Queen of clubs, and the three of diamonds. Things will go badly and they will involve Angela.</p>
+<p><strong><em>The Tridents have spread the word to look for this young woman dressed as an Owl - no, not the</em> gold <em>one, a</em> black <em>owl - and after a few days one of them gets lucky, spotting Jane as she leaves the abandoned gym where she’s been sparring with Angela. Jane disappears over the rooftops, but the Trident tails Angela to the apartment she shares with her younger sister…</em></strong></p>
+<p><em><strong>The next day Jane gets a call from a frantic Angela.</strong></em></p>
+<p><em><strong>"It’s the Tridents! They’ve taken Stella!"</strong></em></p>
+<p>My next cards are the three of hearts and the two of spades. The falling spade would make Jane lose what little trust and support she has, while the flat heart would increase the importance of relationships to her as the ace of hearts is currently at the bottom of the hierarchy and I would have to move it to a different position. The latter option sounds more interesting so I’m going with the flat three of hearts.</p>
+<p><em><strong>"Don’t worry, Angela. I can get her back. I</strong></em> <strong>will <em>get her back."</em></strong></p>
+<p><em><strong>Jane hangs up and opens the closet where she keeps her costume. Since we last saw it she has added a few pieces of light-weight armor, changed around what she keeps in her utility belt. She puts the costume on quickly but methodically, checking that everything works and is in the right place. She opens the window to the fire escape. The page-wide bottom panel shows her dark silhouette against the starry sky as she leaps, and when we turn the page it’s to a two-page splash image of her soaring through the air far above the city lights below. (Yeah, I decided her costume has wings she can fly with. You can’t be an owl if you can’t fly!)</strong></em></p>
+<p>I’m moving the ace of hearts to the second position, just below the diamond. Protecting the innocent comes first, but she must also watch out for those closest to her. This is both.</p>
+<p>Next up I get the nine of spades and the six of diamonds. I’m getting close to the second Joker so it’s good if I can give Jane a solid win before the third act. I’ll go with the rising diamond.</p>
+<p><em><strong>Jane doesn’t have Golden Owl’s flashy moves and so far she’s avoided getting into direct confrontations with the Tridents, but now it’s personal. She quickly works her way up the chain of command, from lowly street pushers to dealers to soldiers to the local boss, always asking the same question: "Where is the cop’s sister?"</strong></em></p>
+<p><em><strong>Finally she finds the lieutenant we saw pay off the dirty cop who leads her to one of the sweatshops where they’ve been holding Stella. Jane may not have Golden Owl’s flair, but taking out the goons who were watching over the terrified women in the sweatshop is well within her capabilities, and she can free them along with Stella.</strong></em></p>
+<p>Next is the nine of clubs and the four of clubs. Rise or fall, it will be about her skills and capabilities.</p>
+<p>Setting Jane up for a fall as the third act is about to start sounds about right so I’ll pick the nine.</p>
+<p><em><strong>Since the abandoned gym was apparently too easy to find, starts scouting for a better place to train and maybe establish her… she doesn’t want to call it a “lair”, but it’s going to be a lair. After some searching she settles on a decrepit church on the edge of town, setting up a gym in the basement and a surveillance post in the tower.</strong></em></p>
+<p>I draw… the six and eight of spades. Still no Joker! Alright, a falling spade it is. I’ll pick the eight to have more room for things to get worse… because it’s soon the third act; things <em>should</em> get worse.</p>
+<p>***Midnight Owl’s raid on the sweatshop made the local news, but since Jane is a lot less willing to give interviews than Golden Owl and has zero social media presence compared to her rival, she is soon forgotten as the city rallies behind the more flamboyant and media-savvy heroine.</p>
+<p>Jane continues to patrol the streets and push back against the Tridents, but working alone she can only do so much.***</p>
+<p>And there’s the Joker, along with the nine of hearts and the three of spades. I’ll wrap up this post with the turn into the third act.</p>
+<p><em><strong>It’s almost dawn and Jane has just come back to her lair - it feels more and more comfortable calling it that - after a long night of patrolling. She’s just started to change out of her costume when there’s a sudden commotion above.</strong></em></p>
+<p><em><strong>"Midnight Owl! Come out with your hands over your head! We have a warrant for your arrest!"</strong></em></p>
+<p>To be concluded!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-rise-and-fall-of-insert-name/5427/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-rise-and-fall-of-insert-name/5427/4</link>
+        <pubDate>Mon, 15 Jun 2020 18:10:31 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5427-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-rise-and-fall-of-insert-name/5427.rss">The Rise and Fall of [INSERT NAME]</source>
+      </item>
+      <item>
+        <title>The Rise and Fall of [INSERT NAME]</title>
+        <dc:creator><![CDATA[@Anders]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/anders">@Anders</a> wrote:</p>
+          <blockquote>
+              <p>I’m feeling a superhero vibe, so let’s set this session in a Gotham-like city full of crime and corruption and strange costumed villains. My character will be a hero of some kind, but I’m not sure what they’re like yet.</p>
+<p>I’m setting the suits as follows:</p>
+<p>Hearts - Relationships<br>
+Diamonds - Protecting the innocent<br>
+Clubs - Developing equipment and mastering my powers<br>
+Spades - Gaining reputation and support from the city</p>
+<p>And I’ll interpret the face cards as:</p>
+<p>Jack - A rival, perhaps friendly, perhaps not<br>
+Queen - A friend or ally<br>
+King - The main villain I’ll be trying to take down</p>
+<p>I’ve built the deck as per the previous post so let’s see what my hierarchy is. I shuffle the aces and draw them in the following order: diamonds, clubs, spades, hearts. So to begin with my main goal is to protect the innocent, and to do this I will be trying to master my skills and powers, and on my way there I will also need to gain some influence in the city, presumably to be allowed to operate instead of being hunted down by the corrupt police force.</p>
+<p>I’ll also set up the initial cards for the storyline, and in my previous post I forgot to take face cards into account for this. Let’s say that if a face card appears there I have a pre-existing relationship with that character but then I shuffle the card back into that sub-pile so they can appear… which means I should have done that before putting the piles together. Oh well, if there’s a face card in the setup I’ll just stick it in somewhere in the top third.</p>
+<p>Okay, setup: the nine and four of diamonds. The nine doesn’t matter other than to establish the four as falling - when we start out I’ve failed in my job to protect the innocent.</p>
+<p>I’m going to let the setting and situation develop as I go on rather than make more decisions about it right now other than that I feel this character is a young woman who has decided to try to fill the role of the city’s protector ten years after the original not-at-all-Batman-expy Black Owl disappeared.</p>
+<p>So let’s get to playing!</p>
+<p>My first two cards are the two of hearts and the two of diamonds. Whichever I pick I’ll have two falling cards in a row - not a great start for our young heroine! I will pick the two of diamonds and discard the two of hearts.</p>
+<p><em><strong>Having failed multiple times to stop simple muggings and holdups and nearly getting herself captured by some masked goons during a bank robbery, Midnight Owl (working title, real name Jane Kozlowski) realizes she needs to prepare more before she’s ready to face the real villains of the city.</strong></em></p>
+<p>With two falling cards in a row of the same suit I can move that ace to a different position. I’ll move it down one step to below the club - her main goal is now to improve her skills, but protecting the innocent is still a high priority.</p>
+<p>Next two cards: the seven of spades and the five of hearts. Falling to rising means her previous failures inspire her to make new efforts in the new sphere, so I’ll pick the heart.</p>
+<p><em><strong>To aid in her efforts to establish herself as the new protector of Darkton, Midnight Owl seeks out one of the cops who was rumoured to work with Black Owl. He’s retired now but he still has some friends on the force, and while he has his doubts about Midnight Owl’s ability to take over he sees some kind of potential in her that makes him willing to try to find her some contacts.</strong></em></p>
+<p>Next: six of hearts or ten of clubs. So I can either pick a falling heart, signifying a setback in her relationships, or a rising club that shows progress in her training but which sets her up for a setback (since there are no cards higher than tens). The latter seems more interesting so I’ll go with that.</p>
+<p><em><strong>With the aid of Detective Gomez (ret.) and the only two cops he still trusts on the force, one of them his niece Angela, Midnight Owl begins her training in earnest. We get a montage of Gomez teaching her about crime scene investigation and suspect profiling while Angela helps her practice her fighting skills and her partner Wilson shows her some of the known villain hangouts.</strong></em></p>
+<p>New cards: the eight of diamonds, the queen of spades, and the seven of diamonds. The queen of spades is a friend or ally in the spades sphere, and I’m going to pick Angela for this role - she and Jane have formed a special bond, and Angela have become a steadfast ally.</p>
+<p>Then I’ll pick the seven of diamonds which will be falling, so Angela is somehow involved in how Jane’s training causes a failure in protecting the innocent.</p>
+<p><em><strong>During one of their boxing sessions Angela is called out on another bank robbery.</strong></em></p>
+<p><em><strong>"Great! I’ll come with you!"</strong></em></p>
+<p><em><strong>"Sorry Jane, you’re not ready yet. No buts!", Angela calls over her shoulder as she rushes out to get into the patrol car where Wilson is waiting.</strong></em></p>
+<p><em><strong>Seething, Jane changes into her costume but without a vehicle she fails to get to the bank before the robbers escape.</strong></em></p>
+<p>Next: the four of spades, the king of diamonds, the jack of spades, and the ten of hearts. So here we get both the Big Bad, who is somehow involved with Jane’s goal of protecting the innocent, and her rival, who is also looking to build their reputation.</p>
+<p>Starting with the rival, I’ll introduce Jane’s foil: Gold Owl, another young crime fighter, but one who is in it for the fame and glory rather than to protect the people.</p>
+<p>Moving on to the big bad, I’ll do the easy thing and make her the head of the biggest crime syndicate in the city, the Trident. They’re bringing in drugs and guns as well as running protection rackets, all the things Midnight Owl wants to put an end to.</p>
+<p>For the storyline I’ll pick the four of spades, denoting another fall, this time in spades.</p>
+<p><em><strong>Jane arrived too late at the bank robbery, and then she was upstaged when this newcomer Gold Owl got the front page of all the city’s newspapers after stopping one of the Trident’s drug shipments.</strong></em></p>
+<p>Next is… the first joker, meaning we’re going to raise the stakes! But I’ve been at this for a while now and should give my pillow another chance.</p>
+<p>So far I’m very happy with how this is working out, though. We’ll see if that holds up.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-rise-and-fall-of-insert-name/5427/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-rise-and-fall-of-insert-name/5427/3</link>
+        <pubDate>Sun, 14 Jun 2020 23:12:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5427-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-rise-and-fall-of-insert-name/5427.rss">The Rise and Fall of [INSERT NAME]</source>
+      </item>
+      <item>
+        <title>The Rise and Fall of [INSERT NAME]</title>
+        <dc:creator><![CDATA[@Anders]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/anders">@Anders</a> wrote:</p>
+          <blockquote>
+              <p>And since I’m apparently not allowed to sleep yet I’ll do a test run with some of the ideas from the end of the previous post, as follows:</p>
+<p><strong>Divide the draw deck (containing the cards ranked 2 to 10) into three roughly equal piles.</strong></p>
+<p><strong>Divide the face cards into one pile each of jacks, queens, and kings. Draw one of each facedown and put them on top of the first pile, then draw one of each and put them on top of the third pile. Finally shuffle the remaining six face cards together, draw three of them and place them on top of the second pile. Discard the remaining three cards without looking at them.</strong></p>
+<p>Drawing a face card introduces a character or has them influence the action in some important way.</p>
+<p>The first time you draw a jack it introduces a rival focused on the sphere of the corresponding suit, the first time you draw a queen it introduces a friend or ally in the sphere of its suit, and the first time you draw a king it introduces a powerful adversary in the sphere of its suit. As these characters are introduced, name them and give them a short description. Place their cards over the storyline. Replace any face cards drawn with new cards from the deck until you have two cards ranked 2 to 10 to choose between.</p>
+<p>Any subsequently drawn face cards denote the corresponding character influencing the action in some way.</p>
+<p>The way the face cards are distributed in the draw deck means all three characters will be introduced in the first act, at least two of them will influence the action in the second act, and all three will again appear in the third act.</p>
+<p><strong>Shuffle each pile separately.</strong></p>
+<p><strong>Place one joker each on top of the second and third piles.</strong> Drawing a joker denotes a rise in the action or raising of the stakes. After drawing the joker, place it on the storyline (skipping over it later when deciding if a card is rising or falling) and draw a replacement before you choose which card to play.</p>
+<p>Put the second pile on top of the third and the first on top of the second.</p>
+<p>Start playing!</p>
+<p>Okay, I think this is long enough so I’ll put the actual play example in the next post.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-rise-and-fall-of-insert-name/5427/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-rise-and-fall-of-insert-name/5427/2</link>
+        <pubDate>Sun, 14 Jun 2020 22:11:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5427-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-rise-and-fall-of-insert-name/5427.rss">The Rise and Fall of [INSERT NAME]</source>
+      </item>
+      <item>
+        <title>The Rise and Fall of [INSERT NAME]</title>
+        <dc:creator><![CDATA[@Anders]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/anders">@Anders</a> wrote:</p>
+          <blockquote>
+              <p>A few ideas that have been swirling around in my head lately converged into a thing that isn’t quite like any of them and I’m liking it enough that I’d like to toss it out to everyone here for input.</p>
+<p>Note that while this version is fully playable it’s also a first draft so some parts are bound to be a bit rough. There are some ideas for further development at the end.</p>
+<p>Case in point, I should probably have used “you” a lot more and “your character” a lot less and not given in to my pedantic drive to keep those two separate.</p>
+<p><strong>Short Version</strong><br>
+This is a solo storytelling game using an ordinary deck of cards. You will be portraying a character pursuing a goal, but during play your priorities are likely to shift. Will your end be hopeful or tragic? Let’s find out!</p>
+<p><strong>Preparations</strong><br>
+Take an ordinary deck of playing cards. Remove the face cards and Jokers; they will not be used.</p>
+<p>Choose a setting for your game, but don’t create a character yet.</p>
+<p>Each suit represents a sphere of success or values your character can pursue. The default is listed below, but feel free to change this.</p>
+<p>Hearts: Relationships<br>
+Diamonds: Creativity and satisfying work<br>
+Clubs: Security, wealth, and material possessions<br>
+Spades: Reputation and social standing</p>
+<p>(The split between primarily internal and external circumstances/drives is intentional but not necessary.)</p>
+<p>Shuffle the aces and place them face up in a column. The top ace shows in which sphere your ultimate goal is located, the second ace shows what your intended method is for reaching that goal, and the third ace shows a first stepping stone. The fourth ace shows which sphere you are currently ignoring.</p>
+<p>This column is your <em>hierarchy of values</em>.</p>
+<p>Note that this hierarchy is always an ordering of the cards - if your hierarchy is spades, clubs, hearts, diamonds and you are to move hearts up a step your new hierarchy is spades, hearts, clubs, diamonds. Two aces never share a row.</p>
+<p><em>Example: You’ve chosen Renaissance Italy as your setting and you’re using the default suit values. Your aces come up diamonds, clubs, spades, hearts. You decide that you are a young ambitious artist whose ultimate goal is to create truly beautiful paintings (diamonds - creativity) but to do this you must find a patron (spades - social standing), and to be considered you will first need to get the money to create pieces you can show to the wealthy (clubs - wealth).</em></p>
+<p>Shuffle the remaing cards, which should be all cards ranked 2-10, and place them face down to form your draw deck.</p>
+<p>Draw the top card of the draw deck and play it in front of you, then draw cards until you get one with a different rank, discarding any that match the rank of the first card. These cards show your initial situation interpreted according to the rules below.</p>
+<p>This line of cards (currently consisting of two cards) is your storyline.</p>
+<p><strong>Playing the Game</strong><br>
+If a card on the storyline is higher than the preceding card, it’s <em>rising</em>, and if it’s lower, it’s <em>falling</em>. A card of the same rank as the preceding card is <em>flat</em>. A rising card shows success or progress towards your goals, a falling card represents a setback or failure, and a flat card prompts a reevaluation of your priorities.</p>
+<p>Each turn you will draw two cards from the draw deck and choose one of them to play on the storyline and then interpret the result in the story. You can play this as your character choosing between two outcomes or as external events dictating the outcome, or you can mix and match these as you like.</p>
+<p>To interpret a new card you need to know if it is rising, falling, or flat, and you need to know if the preceeding card is rising or falling. Flat cards on the storyline are skipped over when checking if the preceding card is rising or falling. The suits of the cards will give additional details as explained below.</p>
+<p>Note that the absolute ranks of the cards don’t matter when deciding if a card is rising, falling, or flat, only if they are higher, lower, or the same rank as the preceding card. However, feel free to let the rank guide your interpretation.</p>
+<p>Journaling, whether in short fragments or longer form, is optional but encouraged.</p>
+<p><strong>Interpreting the Cards</strong><br>
+There are several different cases listed below but interpreting a new card should soon come naturally. (I hope - otherwise I’ll have to cut down on the complexity here, I suppose.)</p>
+<p>Note that flat cards are skipped over when determining if the previous card is rising or falling. I.e., if your storyline is 2, 4, 4 and your new card is a 5, your current card is rising (since a 5 ranks higher than a 4) as is the preceding card (the last 4 is ignored and the 4 before it is higher than the 2).</p>
+<p><em><strong>The new card is flat</strong></em><br>
+This causes your character to change their priorities. Show this by moving the ace of the same suit as the flat card to a different position in your hierarchy of values, then describe how your character’s goals have changed and how the previous events have brought about this change.</p>
+<p><em>Example: The last card on the storyline is a rising seven of spades and you play the seven of clubs. Your hierarchy of values is spades, hearts, clubs, diamonds. You decide to shift clubs up one, representing how your character’s growing reputation causes them to start seeing their new friends as a way to get wealth and material comforts.</em></p>
+<p><em><strong>Both cards are rising</strong></em><br>
+Your character goes from success to success!</p>
+<p>If the cards are of the same suit, they continue to reap rewards in this sphere. You may move the ace of this suit up or down one step in your hierarchy of values.</p>
+<p>If the cards are of different suits, your character uses their success in the sphere represented by the suit of the preceding card to make gains in the sphere represented by the suit of the new card.</p>
+<p><em>Example: The previous card is a rising heart and your new card is a rising spade. You describe how your character’s recent marriage has improved their social standing.</em></p>
+<p><em><strong>The new card is rising and the previous card is falling</strong></em><br>
+If the cards are of the same suit, your character rebounds from their recent setback in this sphere. Whether this is a partial recovery or they reach even higher than before is your choice, or you can let the ranks of the cards guide your decision. You may move the ace of this suit up one step in your hierarchy of values.</p>
+<p>If the cards are of different suits, your character is spurred on by their failure in one area to move forward in a different sphere.</p>
+<p><em>Example: The previous card is a falling club and your new card is a rising heart. You describe how your character’s ties to the other members of their gang grows stronger when they get out of prison.</em></p>
+<p><em><strong>The new card is falling and the previous card is rising</strong></em><br>
+If the cards are of the same suit, your character suffers a setback after a recent success in their current pursuits. Whether this is a minor or major setback is up to you. You may move the ace of the same suit up or down one step in the hierarchy.</p>
+<p>If the cards are of different suits, your character’s success in the previous sphere costs them in the sphere of the new card.</p>
+<p><em>Example: The previous card is a rising diamond and the new card is a falling heart. You describe how your novelist character spends all their time writing, neglecting their friends and family.</em></p>
+<p><em><strong>Both cards are falling</strong></em><br>
+If the cards are of the same suit, your character’s fall continues. You may shift the ace of this suit up or down one step in the hierarchy to show how they get obsessed with getting back what they have lost or abandon their pursuits for something else.</p>
+<p>If the cards are of different suits, your character’s setback in one area leads to further setbacks in another.</p>
+<p><em>Example: The previous card is a falling heart and the new card is a falling club. You describe how your pirate character’s recent betrayal of their shipmates leads to their capture by the Spanish.</em></p>
+<p><strong>Ending the Game</strong><br>
+Continue playing until you’ve reached a satisfying conclusion. If the draw deck runs out, the last card ends your story; figure out a way to make it interesting. Or reshuffle the discards and keep going; I can’t stop you.</p>
+<p><strong>Further Notes</strong><br>
+I think the face cards could be used to represent other important characters tied to their respective spheres. A jack could be a rival, a queen a friend, and a king someone influential for example. Maybe just shuffle them into the deck and introduce them as they show up? I’m not sure if it’s necessary, but it could help with creativity perhaps.</p>
+<p>Or maybe you have a hierarchy of important characters as well? Like, at the start of the game you draw four of them, when you draw a new one it can replace one of the others, and at certain points you can shift them around? Hm, that could be something.</p>
+<p>Likewise, perhaps the jokers could be used as act breaks? Like, insert them roughly one third and two thirds into the deck, and when you draw a joker you describe how the stakes are raised? So then perhaps all the important characters should be introduced in the first act? This feels like an optional rule.</p>
+<p>Anyway, let me know what you think!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-rise-and-fall-of-insert-name/5427/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-rise-and-fall-of-insert-name/5427/1</link>
+        <pubDate>Sun, 14 Jun 2020 19:29:53 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5427-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-rise-and-fall-of-insert-name/5427.rss">The Rise and Fall of [INSERT NAME]</source>
+      </item>
+  </channel>
+</rss>

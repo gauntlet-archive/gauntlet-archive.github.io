@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Automatic reaction/initiative moves</title>
+    <link>https://forums.gauntlet-rpg.com/t/automatic-reaction-initiative-moves/3475</link>
+    <description>I play a lot of skirmish games and one in particular called &quot;Song of Blades and Heroes&quot; (which was inspired a little I think by a WWII game called crossfire that had a similar way of handling activation),  allows you to take 1, 2 or 3 actions per character model in your warband/party. An action is mostly either a move or attack. 
+
+Each action is 1D6 roll and you want to avoid a 1 because the action will fail.  So the roll is both a dice for activation and the action in one roll. 
+
+If you roll two 1&#39;s on the dice you pass initiative back to the opponent.  This is a neat gamble, in that you could push for 3 actions for your model/character but it increases the odds of passing the turn back to the opponent. To mitigate that risk you can take a single action and a single roll of a 1  is not an issue, so you can play it safe and slowly move into attack rather than pushing it with 2 or 3 actions per model.  I typically leave my gamble of 2 or 3 dice actions toward the end of activation my models.
+
+I was wondering about building something like this risk/ward into an RPG game, so that players could decide to complete a lot of actions the more they try the higher chance of a dungeon creature or other negative impact results from pushing themselves too hard. Or if they are lucky they get to pull off a string of exciting moves.
+
+Is this a potential good idea? The risk/reward approach of stringing together player moves and then using a mechanism to manage that?   It might in a way remove initiative sequence because one of the group might gamble away there activation when they fail the first of a string of 3 moves that results in them stumbling (or some other failure) presenting an opening to the bad stuff/monsters to make their moves.  
+
+Is it worth exploring, has it been done in an RPG before (Edit: SOBH does have an RPG version and tied closely to the skirmish rules) and does it feel interesting enough to explore bolting into an existing game to test?</description>
+    
+    <lastBuildDate>Wed, 02 Oct 2019 21:46:38 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/automatic-reaction-initiative-moves/3475.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Automatic reaction/initiative moves</title>
+        <dc:creator><![CDATA[@Gus.L]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gus.l">@Gus.L</a> wrote:</p>
+          <blockquote>
+              <p>It sounds like a great skirmish wargame mechanic and I think the more a TTRPG has both granular combat actions (specific actions in combat rounds as opposed to a more general ‘attack’ round where a series of actions is assumed) and a tactical combat focus the better it would work.</p>
+<p>It feels a bit complex for simple high risk combat mechanics - too much player calculation not enough swing.  For initiative in the high lethality games I tend to focus on I like both the all or nothing swinginess of simple side based initiative (though for large groups the tendency to scheme and shuffle actions tends to make combat take too long) or the horrible inevitable injuries and mess caused by individual initiative (this mess is all in game - it actually streamlines combat mechanically as it limits scheming).</p>
+<p>I would say that options around initiative (bonuses and penalties to it, equipment or actions that circumvent it or allows reaction attacks) are very powerful mechanics and well worth including in a game with any granularity (and hence emphasis on) in combat tactics.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/automatic-reaction-initiative-moves/3475/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/automatic-reaction-initiative-moves/3475/5</link>
+        <pubDate>Wed, 02 Oct 2019 19:53:40 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3475-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/automatic-reaction-initiative-moves/3475.rss">Automatic reaction/initiative moves</source>
+      </item>
+      <item>
+        <title>Automatic reaction/initiative moves</title>
+        <dc:creator><![CDATA[@StefanAKAmonkeyEcho]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/stefanakamonkeyecho">@StefanAKAmonkeyEcho</a> wrote:</p>
+          <blockquote>
+              <p>Sounds a bit like FitD games where you can push to desperate position (more risk) for greater effect. Players choice so it may be close to what you’re looking for.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/automatic-reaction-initiative-moves/3475/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/automatic-reaction-initiative-moves/3475/4</link>
+        <pubDate>Wed, 02 Oct 2019 18:38:21 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3475-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/automatic-reaction-initiative-moves/3475.rss">Automatic reaction/initiative moves</source>
+      </item>
+      <item>
+        <title>Automatic reaction/initiative moves</title>
+        <dc:creator><![CDATA[@JasonT]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jasont">@JasonT</a> wrote:</p>
+          <blockquote>
+              <p>I’m interested to see it in play! My main concern would just be how long each action likely takes to explain. I have experimented a bit with letting players spend currency to get extra actions (which is risky, since you also need that currency to defend against attacks), and found that it worked okay as long as more complicated actions didn’t take too much longer to explain than other sorts of actions. Otherwise, you end up in a situation where some players spend most of their time sitting and waiting for their comparably brief turns, with no way for the GM to turn the spotlight back to them.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/automatic-reaction-initiative-moves/3475/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/automatic-reaction-initiative-moves/3475/3</link>
+        <pubDate>Wed, 02 Oct 2019 18:11:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3475-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/automatic-reaction-initiative-moves/3475.rss">Automatic reaction/initiative moves</source>
+      </item>
+      <item>
+        <title>Automatic reaction/initiative moves</title>
+        <dc:creator><![CDATA[@Radmad]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/radmad">@Radmad</a> wrote:</p>
+          <blockquote>
+              <p>Sounds very similar to the popcorn initiative model: once a player or baddie has finished their turn, they <em>choose</em> who goes next. Keeps everyone on their toes, let’s you pull off cooperative strategies, but also has built in risk wherein the more sequential player turns that happen in a row, the more sequential reaction you’re going to face from the opposition.</p>
+<p>Very telegraphed risk/reward, but on the other hand allowing players to create random events in which they might be screwing their teammates over (for example I try to roll high to save my friend with a heal but botch and pass advantage to the orc with a sword above their neck) could be an unwanted avenue for feelbads. In a game that has less reliance on character (not player) cooperation like, say, <strong>Fiasco</strong> or a hypothetical game where the characters have a complex web of alliances and rivalries it could make everyone at the table perk up when moves start happening that can pass advantage on.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/automatic-reaction-initiative-moves/3475/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/automatic-reaction-initiative-moves/3475/2</link>
+        <pubDate>Wed, 02 Oct 2019 16:49:31 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3475-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/automatic-reaction-initiative-moves/3475.rss">Automatic reaction/initiative moves</source>
+      </item>
+      <item>
+        <title>Automatic reaction/initiative moves</title>
+        <dc:creator><![CDATA[@Yendor]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/yendor">@Yendor</a> wrote:</p>
+          <blockquote>
+              <p>I play a lot of skirmish games and one in particular called “Song of Blades and Heroes” (which was inspired a little I think by a WWII game called crossfire that had a similar way of handling activation),  allows you to take 1, 2 or 3 actions per character model in your warband/party. An action is mostly either a move or attack.</p>
+<p>Each action is 1D6 roll and you want to avoid a 1 because the action will fail.  So the roll is both a dice for activation and the action in one roll.</p>
+<p>If you roll two 1’s on the dice you pass initiative back to the opponent.  This is a neat gamble, in that you could push for 3 actions for your model/character but it increases the odds of passing the turn back to the opponent. To mitigate that risk you can take a single action and a single roll of a 1  is not an issue, so you can play it safe and slowly move into attack rather than pushing it with 2 or 3 actions per model.  I typically leave my gamble of 2 or 3 dice actions toward the end of activation my models.</p>
+<p>I was wondering about building something like this risk/ward into an RPG game, so that players could decide to complete a lot of actions the more they try the higher chance of a dungeon creature or other negative impact results from pushing themselves too hard. Or if they are lucky they get to pull off a string of exciting moves.</p>
+<p>Is this a potential good idea? The risk/reward approach of stringing together player moves and then using a mechanism to manage that?   It might in a way remove initiative sequence because one of the group might gamble away there activation when they fail the first of a string of 3 moves that results in them stumbling (or some other failure) presenting an opening to the bad stuff/monsters to make their moves.</p>
+<p>Is it worth exploring, has it been done in an RPG before (Edit: SOBH does have an RPG version and tied closely to the skirmish rules) and does it feel interesting enough to explore bolting into an existing game to test?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/automatic-reaction-initiative-moves/3475/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/automatic-reaction-initiative-moves/3475/1</link>
+        <pubDate>Wed, 02 Oct 2019 16:11:37 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3475-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/automatic-reaction-initiative-moves/3475.rss">Automatic reaction/initiative moves</source>
+      </item>
+  </channel>
+</rss>

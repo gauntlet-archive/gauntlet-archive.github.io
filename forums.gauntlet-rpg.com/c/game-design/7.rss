@@ -1,0 +1,1147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Game Design - The Gauntlet Forums</title>
+    <link>https://forums.gauntlet-rpg.com/c/game-design</link>
+    <description>Topics in the &#39;Game Design&#39; category For the discussion of the design(ing) of LARPs and RPGs. (No recruiting please.)</description>
+    
+      <lastBuildDate>Wed, 19 Jul 2023 00:16:47 +0000</lastBuildDate>
+      <atom:link href="https://forums.gauntlet-rpg.com/c/game-design.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>Absolute newbie seeking feedback and advice. Simple d12 based game to be adapted to different settings</title>
+          <dc:creator><![CDATA[@201d]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/201d">@201d</a> wrote:</p>
+            <blockquote>
+              <p>Hi all! I have written a playable prototype for a TTRPG but I’m struggling with having anyone take a look at it. My friends and family aren’t into TTRPGs and any acquaintances who happen to be just don’t have time for an unfinished game.</p>
+<p>The prototype is available to download free on Itch but I’ve made several changes to the text in the last few weeks.</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      
+      <a href="https://teh-201d.itch.io/blaze-of-glory" target="_blank" rel="nofollow noopener">itch.io</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:630/500;"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/4/4bf3cf176c26e03de5d6c6099123cb4fece53dfb.png" class="thumbnail" width="630" height="500"></div>
+
+<h3><a href="https://teh-201d.itch.io/blaze-of-glory" target="_blank" rel="nofollow noopener">Blaze Of Glory by teh_201d</a></h3>
+
+<p>A Simple Cyberpunk TTRPG - powered by CoReS</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>The live manuscript can be seen on <a href="https://docs.google.com/document/d/1MWuKeiL3bs2BgIZ-_rNhhZFRaexBV0DmMEMokNezXhQ/edit?usp=sharing" rel="nofollow noopener">Google Docs</a> if you want to see the latest version. 14,441 words last time I checked.</p>
+<p>Some more about me and my game.</p>
+<ul>
+<li>I’m a dude (he/him) in my 40s who started playing TTRPGs in my 30s.</li>
+<li>I started working on the game out of my frustrations with other game systems.</li>
+<li>It started as a mod for a popular game (bonus points if you can guess which), but I eventually swapped out everything with custom mechanics.</li>
+<li>I’m extremely shy.</li>
+<li>I’m just trying to do what I see in other books, but I don’t know anything about layouts or anything. Seriously, any advice or feedback is welcome!</li>
+<li>The game started out as generic setting-less, then I decided to make it fantasy but hit a creativity wall, then decided to make it Cyberpunk and work on the fantasy version once the mechanics were tested.</li>
+<li>I Still don’t know how much of a setting I want the game to have baked in, and how much should be up to the player. I’ve heard this referred to as the goldilocks zone.</li>
+<li>I feel if my game were more polished and presentable, I could easily find playtesters and collaborators in local communities, in the meantime I’m reaching out to game design enthusiasts on the interwebs.</li>
+<li>The typical response I get when I ask anyone for help is “I’d be glad to, just don’t expect me to read anything.”</li>
+<li>One of the core design philosophies is to have dice mechanics that are easy to read, with math that can be done by counting fingers, and odds that are somewhat reliable.</li>
+<li>I’m not even sure I’m doing this right. Please let me know if I should edit or delete the post.</li>
+<li>I know the forums are going away in a couple days but Discord really stresses me out.</li>
+</ul>
+<p>Just by reading this post you have done more for my game than any of my friends, and I appreciate it.</p>
+            </blockquote>
+            <p>Posts: 10</p>
+            <p>Participants: 4</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/absolute-newbie-seeking-feedback-and-advice-simple-d12-based-game-to-be-adapted-to-different-settings/8732">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/absolute-newbie-seeking-feedback-and-advice-simple-d12-based-game-to-be-adapted-to-different-settings/8732</link>
+          <pubDate>Wed, 19 Jul 2023 00:16:47 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8732</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/absolute-newbie-seeking-feedback-and-advice-simple-d12-based-game-to-be-adapted-to-different-settings/8732.rss">Absolute newbie seeking feedback and advice. Simple d12 based game to be adapted to different settings</source>
+        </item>
+        <item>
+          <title>Harbingers - Wip of my soulslike entry to the Classic Explorer Workshop Jam</title>
+          <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+            <blockquote>
+              <p>For those not aware of the jam, here is the link: <a href="https://itch.io/jam/classic-explorer-workshop" rel="nofollow noopener">https://itch.io/jam/classic-explorer-workshop</a></p>
+<p>I’m calling it Harbingers for now. What you’ll read below is the overarching plan of the game. Some of the mechanics and systems are already drafted and I’ll post them later.</p>
+<p>I would appreciate y’all poking questions at the whole thing, offering advice and suggestions, and in general talking about what you would like in a game like this.</p>
+<hr>
+<h2>premise</h2>
+<p>Grand Heroes save the world and now no one can die.</p>
+<p>People are Undying but their souls Rot over time, until they are Unliving, mindless and obsessed.</p>
+<p>A Gardener has preserved Seeds from the Tree of Life.</p>
+<p>You are Harbingers, tasked by the Gardener to carry the remaining seeds to the place where the Tree of Life rotted, purge its dead Roots, and Sow the Seeds of Life, allowing all Unliving and Undying to finally pass on.</p>
+<p>The world will perish and from its ashes new life may grow.</p>
+<h2>create character</h2>
+<h3>Choose a Title</h3>
+<p>Your title represents your “class”. You pick all benefits associated.</p>
+<p>Examples/tone</p>
+<ul>
+<li>deceiver</li>
+<li>heretic</li>
+<li>thief</li>
+<li>charlatan</li>
+<li>fool</li>
+<li>betrayer</li>
+<li>murderer</li>
+</ul>
+<p>Each allows the following categories of benefits (tbd)</p>
+<ul>
+<li>delving</li>
+<li>journeying</li>
+<li>surviving</li>
+<li>solo skill</li>
+<li>team skill</li>
+<li>bargaining</li>
+</ul>
+<h3>Starting Qualities</h3>
+<p>All start at 10.</p>
+<p>Testing a Quality: roll 1d6. Spend as many d6 from your personal pool as you want.</p>
+<p><span class="hashtag">#todo</span></p>
+<ul>
+<li>[ ] pool: hope, it’s finite but can be replenished</li>
+<li>[ ] pool: start at 1d6 per rank</li>
+</ul>
+<h3>Rank</h3>
+<p>Starting Rank is 1.</p>
+<p>Every pick from the options below has a rank requirement. You can pick and keep as many things as you want as long as their total requirement is equal or below your Rank.</p>
+<p><span class="hashtag">#todo</span></p>
+<ul>
+<li>[ ] how do you increase rank?</li>
+<li>[ ] encounters equal a sum of everyone’s ranks? Average? Highest?</li>
+<li>[ ] is rank individual or for the whole group?</li>
+</ul>
+<h3>Choose a Memento</h3>
+<p>A memento represents another aspect of your past and let’s you choose a single benefit from a second class.</p>
+<p>The first one is free.</p>
+<h3>Equipment &amp; Magic</h3>
+<p>List of items you can pick with a Rank requirement.</p>
+<h2>create haven</h2>
+<p>A settlement with a Bonfire and a few key individuals.</p>
+<p>Procedure for its creation. Draw a map or write a description.</p>
+<p>Some NPCs come here after you find them.</p>
+<h2>Journey</h2>
+<p>When you set out, start drawing a map. Roll on the hew map for next location.</p>
+<p>Describe it according to procedure.</p>
+<p>When you roll doubles, there is a complication there.</p>
+<p>Resolve the encounter, draw the map and move on.</p>
+<h2>Delving</h2>
+<p>When you enter locations 14 and 16, you enter a Delve.</p>
+<p>Choose a Theme and a Domain. Describe what the first impression of the Delve is and name it.</p>
+<p>Roll 2d6 on the Ladder table to define the next site. Use dice of different colours, one lighter and one darker. Keep the lowest result.</p>
+<p>The lighter die moves you towards the top of the table, the darker die moves you towards the bottom.</p>
+<p>If you roll past the top, return to the Bonfire. Decide if it’s the same from before or a new one. If you roll past the bottom, return to the Guardian of the Delve.</p>
+<p>Doubles spell trouble. Remain where you are and resolve it.</p>
+<p>Once you deal with the Guardian of the Delve, keep going until you roll past the top or the bottom.</p>
+<p>Botrom: Connect the exit of the Delve to the next hex on the Journey.</p>
+<p>Top: move straight to Hex 19 and start a Heroic Delve.</p>
+<h2>surviving</h2>
+<p>Blackjack style dice minigame.</p>
+<p>Roll higher than the opponent t without rolling over 12.</p>
+<p>Hitting, standing, and other default blackjack moves reskinned to fit the theme, plus a few moves added.</p>
+<h2>dying</h2>
+<p>When a solo character dies or the whole group dies, return to a previous bonfire.</p>
+<ul>
+<li>[ ] what happens when characters backtrack?</li>
+<li>[ ] what do they lose when they die?</li>
+<li>[ ] what and how will they regain it?</li>
+</ul>
+<h2>Heroic Delve</h2>
+<p>In most aspects, identical to the regular delve, with these differences:</p>
+<ul>
+<li>Hero: a unique boss</li>
+<li>increase the Harbingers rank at the end</li>
+<li>earn Heroic Curse at the end</li>
+</ul>
+<p><span class="hashtag">#todo</span></p>
+<ul>
+<li>[ ] determine further differences and similarities</li>
+</ul>
+<h2>King of Heroes</h2>
+<p>The final Hero.</p>
+<p>Procedures to create the King of Heroes.</p>
+<p>Defeat the King of Heroes and delve into the Rotten Tree.</p>
+<p><span class="hashtag">#todo</span></p>
+<ul>
+<li>[ ] detail the conclusion</li>
+</ul>
+<hr>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/harbingers-wip-of-my-soulslike-entry-to-the-classic-explorer-workshop-jam/8730">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/harbingers-wip-of-my-soulslike-entry-to-the-classic-explorer-workshop-jam/8730</link>
+          <pubDate>Mon, 17 Jul 2023 01:19:30 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8730</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/harbingers-wip-of-my-soulslike-entry-to-the-classic-explorer-workshop-jam/8730.rss">Harbingers - Wip of my soulslike entry to the Classic Explorer Workshop Jam</source>
+        </item>
+        <item>
+          <title>2nd CoinSides Adventure Sparks Game Jam</title>
+          <dc:creator><![CDATA[@ex1st]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/ex1st">@ex1st</a> wrote:</p>
+            <blockquote>
+              <p>Hi, folks! It’s been a while.</p>
+<p>Every year, as part of our new CoinSides model launch, I run a casual game jam on itch. The game jam is to write a 1500-word CoinSides Adventure Sparks. There are prizes and the best entries will be invited to become part of the Sparks Library.</p>
+<p>What is a CoinSides?<br>
+What is an Adventure Spark?<br>
+Can I see the Sparks Library?</p>
+<p>READ ON or <a href="https://itch.io/jam/coinsides-adventure-sparks-jam-2" rel="nofollow noopener">JUMP OVER TO THE JAM</a></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/5/5407d8a2ae9e019e0d87da9307a0894b5fc6637a.jpeg" data-download-href="/uploads/short-url/bZmUULqsiQgaySG1FpEWBPmmqqS.jpeg?dl=1" title="CoinSides Adventure Sparks Title 2023 Movie Poster 2" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/5407d8a2ae9e019e0d87da9307a0894b5fc6637a_2_353x500.jpeg" alt="CoinSides Adventure Sparks Title 2023 Movie Poster 2" data-base62-sha1="bZmUULqsiQgaySG1FpEWBPmmqqS" width="353" height="500" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/5407d8a2ae9e019e0d87da9307a0894b5fc6637a_2_353x500.jpeg, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/5407d8a2ae9e019e0d87da9307a0894b5fc6637a_2_529x750.jpeg 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/5407d8a2ae9e019e0d87da9307a0894b5fc6637a_2_706x1000.jpeg 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/5407d8a2ae9e019e0d87da9307a0894b5fc6637a_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">CoinSides Adventure Sparks Title 2023 Movie Poster 2</span><span class="informations">2462×3482 1.91 MB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>Hi folks and welcome to the second game jam by EX FIRST GAMES. We are here to celebrate the creative community and inclusive space that is TTRPG. Yes! I’m your host, Charlie, and I’m here to inspire you to write something special, something truly yours, and share it with the world. There will be winners, and there will be those who don’t participate. So let’s get started.</p>
+<h2>SPARKS and WHAT THEY ARE</h2>
+<p>CoinSides Adventure Sparks (Sparks for short) are modular, system-agnostic supplements that can easily be incorporated into an existing tabletop roleplaying campaign to add color and depth to the world and story. They can be side quests, events, locations, lore, or anything. However, they must have <strong>a coin as the central theme</strong> and follow the same structure devised by Bart Wynants:</p>
+<p>· BACKGROUND - Information needed to understand the Spark.<br>
+· SETUP - 3 different, original ways to get the Spark started.<br>
+· SCENES - 2 to 4 suggested scenes the GM can easily weave into their campaign.<br>
+· AFTERMATH - A section explaining how things turn out at the Spark’s conclusion.<br>
+· All in 1,500 words, plus or minus 20%, written by you, and suitable for most ages.</p>
+<h2>WINNERS, JUDGES, CRITERIA, and PRIZES</h2>
+<p>All participants are winners. And that is that! Congratulations to you for putting the effort into making something great, completing it, and sharing it. This game jam will have two special winners. One of them will be chosen by YOU, the public, and the other by ME, using the following criteria, all in equal measure:</p>
+<p>· THE COIN - How well does it incorporate a coin thematically and mechanically?<br>
+· THE STORY - How plausible, imaginative, and different is the story?<br>
+· THE WRITER -  How well-written and structured is the content?</p>
+<p>Both winners will receive a CoinSides of their choice. What is a CoinSides? I’m so glad you asked. Please see the last section for more inspiration. For now, here are the CoinSides.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://img.itch.zone/aW1nLzEyMzk1ODA0LmpwZw==/original/NvhUEo.jpg" title="" rel="nofollow noopener"><img src="https://img.itch.zone/aW1nLzEyMzk1ODA0LmpwZw==/original/NvhUEo.jpg" alt width="690" height="230"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename"></span><span class="informations">6000×2000</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<h2>LAST but MOST IMPORTANTLY</h2>
+<p>All participants retain all rights to their entries and can share them for free or for pay. There is no limit to the number of entries you can enter. Entries must be submitted via itch and one copy should be made available for judging.</p>
+<p>After the winners are announced, some of the entries will be considered for inclusion in the CoinSides Adventure Sparks Library. This is a paid opportunity of roughly $100 per Spark, and 100% optional. All of last year’s participants took up the offer.</p>
+<p>It is no small coincidence that this game jam coincides with our 3rd CoinSides Kickstarter. This a great way to promote both the crowdfunding campaign and the jam - at the same time. What is more exciting is that there are already 2000 CoinSides owners out there and many of them would love to get some Sparks. I really hope this becomes an exciting and active jam with a large audience for your work.</p>
+<p>Yep. Everyone is a winner! Get writing.</p>
+<p>· START DATE - 2023.07.07<br>
+· END DATE - 2023.08.08<br>
+· VOTING END DATE - 2023.09.09</p>
+<h2>LINKS and CREDITS</h2>
+<p><a href="https://twitter.com/ex1stgames" rel="nofollow noopener">EX FIRST GAMES</a> is run by Charles Ward <a href="https://twitter.com/ex1stgames" rel="nofollow noopener">@ex1stgames</a></p>
+<p>The previous <a href="https://itch.io/jam/coinsides-adventure-sparks" rel="nofollow noopener">CoinSides Adventure Sparks Jam</a> has a few sample entries.<br>
+But you can find all the Sparks on my itch here <a href="https://ex1st.itch.io/" rel="nofollow noopener">https://ex1st.itch.io/</a>.</p>
+<p>Read more about the <a href="https://www.ex1st.com/games/sparks/" rel="nofollow noopener">CoinSides Adventure Sparks</a> project on my website.<br>
+The Sparks concept was devised by Bart Wynants <a href="https://twitter.com/critographer" rel="nofollow noopener">@critographer</a>.<br>
+Nikola R. Petrov <a href="https://www.nikolarpetrov.com/" rel="nofollow noopener">https://www.nikolarpetrov.com/</a> provided legal help.</p>
+<p>CoinSides was on Kickstarter in <a href="https://www.kickstarter.com/projects/ex1stgames/coinsides-one-coin-many-sides" rel="nofollow noopener">2021</a>, <a href="https://www.kickstarter.com/projects/ex1stgames/cthulhu-coinsides-one-spinning-metal-coin-featuring-9-dice" rel="nofollow noopener">2022</a>, and now in <a href="https://www.kickstarter.com/projects/ex1stgames/cyber-coinsides-10-dice-and-more-on-one-spinning-coin?ref=3rh5g9" rel="nofollow noopener">2023</a>.</p>
+<p>The cover image for this Jam is by Adam Jicha.</p>
+<h2>COINSIDES</h2>
+<p>CoinSides are 2" metal coins that can spin as a top and can be used to roll a random number. Yes, they are dice. But not just any dice. They are all the dice. Each CoinSides is able to forge all the TTRPG dice you love, from a D2 to a D100, into a single luxurious wearable gaming accessory. There are many more features that you can tap into for your entry. Trust me, these are really amazing prizes. Two overfunded Kickstarter campaigns later and only a small percentage of people know what everyone else is missing out on. There are three models to inspire you, each with its own strengths and weaknesses. Please consider these features when writing your entry. See the JAM for more details about each CoinSides</p>
+<h2>THANK YOU</h2>
+<p>I’m always impressed by how well-designed The Gauntlet is and how courteous it’s patrons are. I hope you join the jam. I can’t wait to see what you come up with.</p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/2nd-coinsides-adventure-sparks-game-jam/8700">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/2nd-coinsides-adventure-sparks-game-jam/8700</link>
+          <pubDate>Fri, 09 Jun 2023 00:14:34 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8700</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/2nd-coinsides-adventure-sparks-game-jam/8700.rss">2nd CoinSides Adventure Sparks Game Jam</source>
+        </item>
+        <item>
+          <title>Everything has 1 HP</title>
+          <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+            <blockquote>
+              <p>Just a funny little idea here.</p>
+<p>Everything has 1hp. That guy? 1hp. That rock? 1hp. That eldritch horror from the 5th dimension? 1hp.</p>
+<p>I was thinking about lethality. You can kill any individual with a rock. The hp abstractions is silly, although I recognize what it is useful for.</p>
+<p>So the point is that each thing has its own “vulnerabilities”.</p>
+<p>A rock is only vulnerable to a bigger rock. That guy is only vulnerable to what can get through his armour and his ability to dodge. That eldritch horror? Idk, 6th dimention stuff?</p>
+<p>Anyways, just some silly thoughts.</p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/everything-has-1-hp/8688">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/everything-has-1-hp/8688</link>
+          <pubDate>Fri, 02 Jun 2023 14:57:17 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8688</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/everything-has-1-hp/8688.rss">Everything has 1 HP</source>
+        </item>
+        <item>
+          <title>Brindlewood as a play-by-post ARG?</title>
+          <dc:creator><![CDATA[@Harakeke]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/harakeke">@Harakeke</a> wrote:</p>
+            <blockquote>
+              <p>I’ve been kicking around the idea of using the Brindlewood framework to run a casual-friendly ARG leading up to a big get-together.</p>
+<p>It would start off with asynchronous play-by-post messages over the course of several months, with players corresponding with “on location” NPCs via Discord. The culmination would be an in-person LARP where players meet up in person over the course of an evening to confront the supernatural enemy behind it all.</p>
+<p>My target group would have a mix of gamers and nongamers, so I would want to shift as much of the mechanical elements as possible behind the “GM screen”. (I know this runs counter to the collaborative nature of Brindlewood, but I want everyone to be able to just jump into the story as themselves, without worrying about rules or character sheets.) I’d be selecting the individual clues and distributing them in a more Gumshoe inspired fashion (If you look in an appropriate place, you find a clue - no rolling necessary), but it would be up to players to piece together an explanation.</p>
+<p>I’m thinking that Public Access would probably work best for the tone and setting I have in mind, but dialed back a bit from straight-up horror more towards surreal “Meow Wolf” interdimensional weirdness.</p>
+<p>Has anyone attempted something like this? Does anyone have thoughts or advice?</p>
+<p>Thanks!</p>
+            </blockquote>
+            <p>Posts: 5</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/brindlewood-as-a-play-by-post-arg/8677">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/brindlewood-as-a-play-by-post-arg/8677</link>
+          <pubDate>Mon, 15 May 2023 21:06:57 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8677</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/brindlewood-as-a-play-by-post-arg/8677.rss">Brindlewood as a play-by-post ARG?</source>
+        </item>
+        <item>
+          <title>Tableau Design Diary: Embracing Composable Traits Over Playbooks</title>
+          <dc:creator><![CDATA[@ChristopherA]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/christophera">@ChristopherA</a> wrote:</p>
+            <blockquote>
+              <p>Continuing my <em><strong>Tableau</strong></em> <em>Design Diary</em>  (<a href="https://forums.gauntlet-rpg.com/t/tableau-design-notes-the-power-of-constraints/8659/1">previous post</a>), I’d like to talk about some design choices that set <em><strong>Tableau</strong></em>  apart.</p>
+<p>When D. Vincent Baker introduced <em>Apocalypse World</em>  (2010), I was particularly impressed by his one-page character playbooks. While I’m unsure if he was the first to implement this concept (perhaps Harper’s <em>Lady Blackbird?</em> ), each playbook catered to a different genre niche within his setting. For example, inspired by the <em>Mad Max</em>  films, you need a Driver character not just for their skills, but to embody the personality and stunts of a post-apocalyptic road warrior. These playbooks resulted in a focus on <em>“how you do it”</em>  rather than the <em>“what can you do”</em>  found in traditional class focused character sheets.</p>
+<p>Since then, Apocalypse World has spawned a vast array of <em>PbtA</em>  (Powered by the Apocalypse) games, such as <em>Blades in the Dark</em>  (2015), which in turn birthed its own offshoots under the <em>FitD</em>  (Forged in the Dark) umbrella. The game style has continued to evolve, with titles like Java Cordova’s <em>Brindlewood Bay</em>  (2022) and <em>The Between</em>  (2022) pushing the boundaries further.</p>
+<p>Another noteworthy development inspired by <em>PbtA</em>  was Avery Alder’s <em>Dreams Askew</em>  (2018), which not only adapted character playbooks for her own unique post-apocalyptic vision but also transformed the game into a GM-less experience by creating playbooks for setting elements. This concept inspired the <em>BoB</em>  (Belonging Outside Belonging, if the game is about people on the margins) or <em>NDNM</em>  (No Dice, No Masters) game systems, which have since inspired many innovative games with even more integrated character and story elements. These range from Jay Dragon’s <em>Sleepaway</em>  (2019) with its summer camp movie horror, Riley Rethal’s <em>Galactic</em>  (2020) with <em>Star Wars</em>  &amp; <em>Battlestar Galactica</em>  archetypes and setting playbooks, and most recently, Possum Creek Games’ very successful Kickstarters for even more setting-focused games like <em>Wanderhome</em> (2021) and <em>Yabeza’s Bed &amp; Breakfast</em>  (2023).</p>
+<p>One result of these new designs in both of these major branches is that recent playbooks are becoming even tighter integrated with their settings. In <em>Bridlewood Bay</em> , you are really close to being a fictional character: you are essentially one of a number of stereotypical elderly fiction or TV-show detective, such as Miss Marple or Jim Rockford. In <em>The Between</em> , you can be the stereotype of the bold but ugly American in the Victorian Era. The same is true in most Belonging Outside Belonging designs; for instance, the Pilgrim character playbook in <em>Wanderhome</em>  is tightly integrated with the feeling of that game’s specific genre of light fantasy elements in an anthropomorphic setting.</p>
+<p>While I appreciate these designs, my preference for stories is broader, and I sought a technique that offered greater versatility across genres and themes. Like <em>Apocalypse World</em> , in <strong>Tableau’s</strong>  <em>Twilight Road</em>  playset, I have a Playset Character “Face” card for “The Driver”:</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/6/6ef99a9607f8b59a8e6430251fc7551f1be8328b.jpeg" data-download-href="/uploads/short-url/fPJik2o2Cx3ceSYeThFbXTyiHgf.jpeg?dl=1" title="Tableau - Twilight Road - The Driver - medium, cornered" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/6/6ef99a9607f8b59a8e6430251fc7551f1be8328b.jpeg" alt="Tableau - Twilight Road - The Driver - medium, cornered" data-base62-sha1="fPJik2o2Cx3ceSYeThFbXTyiHgf" width="690" height="483" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/6/6ef99a9607f8b59a8e6430251fc7551f1be8328b_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Tableau - Twilight Road - The Driver - medium, cornered</span><span class="informations">700×490 185 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>My card provides a general role for a Driver applicable to fantasy, sci-fi, or modern-day settings. Thus, players can embody a pony express rider, Han Solo, or be a trucker. But instead of checkboxes, there are separate cards that you can choose from for each “approach”. These cards describe how your character makes decisions. Are you Brash like Han Solo? Fast? Careful? Each card offers a different insight into your decision-making as a Driver that are very different.</p>
+<p>Additionally, you might have a third card, a character “Path,” that represents the delicate balance between your character’s virtues and vices. Are you a Wanderer with no attachments, or are you a Loner grappling with the challenges of forming meaningful relationships?</p>
+<p>I’ve discovered that this “composable” design for character traits offers several advantages over traditional playbooks or character sheets. The back of each card outlines the “Moves” your character can make, enabling you to be Brash in a bar or struggle against being a Loner even when you’re not driving. You can keep the relevant cards at hand and set them aside when not needed, making it easier to make decisions on what Moves your character desires to make.</p>
+<p>There is a drawback with my “composable” design choice: the loss of the evocative and intimate connections between characters and their settings. However, I believe this tradeoff can be worthwhile, as it enables a greater variety of characters and adaptability across multiple playsets.</p>
+<p>I invite you to explore how I approach composability from the full Print-and-Play version of my <strong>Tableau,</strong>  including both <em>Twilight Road</em>  and <em>GateWatch</em>  playsets, which available to <a href="https://www.kickstarter.com/projects/christophera/tableau-twilight-road-and-gate-watch-playsets-quickstarter?ref=b1oye6" rel="nofollow noopener">all Kickstarter backers</a> (even at the lowest $2 tier).</p>
+<p>I’d love to hear your thoughts on my composable character trait approach!</p>
+<p>What is your favorite character playbook? If you were to decompose it into three essences: one a genre trope or skill mastery, one a personality style or stereotype, and one a life path between good and bad, what would those three essences be?</p>
+<p>– Christopher Allen - Dyvers Hands Productions<br>
+<em>“The best stories are the ones we tell together!”</em></p>
+            </blockquote>
+            <p>Posts: 5</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/tableau-design-diary-embracing-composable-traits-over-playbooks/8666">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/tableau-design-diary-embracing-composable-traits-over-playbooks/8666</link>
+          <pubDate>Fri, 14 Apr 2023 05:44:55 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8666</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/tableau-design-diary-embracing-composable-traits-over-playbooks/8666.rss">Tableau Design Diary: Embracing Composable Traits Over Playbooks</source>
+        </item>
+        <item>
+          <title>Tableau Design Notes: The Power of Constraints</title>
+          <dc:creator><![CDATA[@ChristopherA]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/christophera">@ChristopherA</a> wrote:</p>
+            <blockquote>
+              <p><em>(forgive me if you’ve seen this post elsewhere — I really am interested in a conversation with game designers and other creatives on this topic, and just have not found the right venue for for broader discussion.)</em></p>
+<p><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/c/ce4bb7577a5148d89622357bc465bbdad9c9a472.jpeg" alt="bonsai_5524991164_99ffcc6afb_b_large" data-base62-sha1="tqYzXOzeAqZTIqZ0EMMiGZPTX90" width="500" height="375"></p>
+<blockquote>
+<p><em><strong>“The Power of Constraints:</strong>  Embrace limitations and boundaries as a source of inspiration. Appreciating the obstacles helps you see more fully how to overcome or adapt to them. Accepting constraints, they can morph into useful forms that open up new possibilities, spurring creativity.”</em>    [^1]</p>
+</blockquote>
+<p>I’d like to discuss some design choices in my <em><strong>Tableau</strong></em>  game system (just launched last weekend on <a href="https://www.kickstarter.com/projects/christophera/tableau-twilight-road-and-gate-watch-playsets-quickstarter?ref=9eh81p" rel="nofollow noopener">Kickstarter</a>) that set it apart from other storytelling games you may be familiar with.</p>
+<p>One striking difference is the presentation of the entire game’s rules on poker-sized playing cards. This idea was inspired by a periodic challenge I set for myself as a designer, in which I picked a design constraint (usually length &amp; size) to explore my creativity.</p>
+<p>One of my early examples of this is my free <a href="https://github.com/ChristopherA/MonsterSmashGame2001" rel="nofollow noopener"> <em>Monster Smash</em> </a> game that I originally wrote in 1994, where Play-Doh creatures grow fangs, legs, wings, tentacles, poison stings &amp; more, and players compete for the right to smash them. My goal was just to see how simple and elegant I could make a board game. All the rules, table of costs for the “monster parts,” a monster tracking sheet, and even the ruler needed for range attacks, all fit on a single sheet of paper. It was a huge success over the next few years at various Bay Area local game conventions and became so popular that in 2001 I wrote “The Next Page” on the back side of the page, offering some optional rules. Almost 30 years later, the game continues to be a convention favorite. I will walk in early in the morning and smell Play-Doh filling the halls, and hear both adults and kids yelling, “Smash! Smash! Smash!”. A few kids I played the game with in early have shared with me that they are now bringing their own children to conventions to play!</p>
+<p><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/0/0d7f0a1cec7d60a532be0898d93322548e78146b.jpeg" alt="DzzjySEVAAAJWS9" data-base62-sha1="1Voo3sFVYFV9QI9dMqrSe7kOR19" width="520" height="390"><br>
+In 2019, I challenged myself to create a small, elegant RPG game. I discovered an interesting price break at 18 poker-sized cards (probably because that is the size of many sports trading card decks), so I decided to work within that constraint. This led to a successful Kickstarter campaign for my original <a href="https://www.kickstarter.com/projects/christophera/gate-watcha-collaborative-storytelling-game-quickstarter" rel="nofollow noopener"> <em>Gate Watch</em> </a> game. Its rules fit on 6 cards, with the remaining cards dedicated to a random card drama mechanic and storytelling prompts. Since card backs are just wasted space, I put 18 different inspirational images on the backs of the cards.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/7/7e096f4fb8e0dcde84d666509294164d2df2139b.jpeg" data-download-href="/uploads/short-url/hYYngvYtdVfBrvcnMSKqd1GNdxN.jpeg?dl=1" title="004back" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/7/7e096f4fb8e0dcde84d666509294164d2df2139b_2_366x500.jpeg" alt="004back" data-base62-sha1="hYYngvYtdVfBrvcnMSKqd1GNdxN" width="366" height="500" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/7/7e096f4fb8e0dcde84d666509294164d2df2139b_2_366x500.jpeg, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/7/7e096f4fb8e0dcde84d666509294164d2df2139b_2_549x750.jpeg 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/7/7e096f4fb8e0dcde84d666509294164d2df2139b_2_732x1000.jpeg 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/7/7e096f4fb8e0dcde84d666509294164d2df2139b_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">004back</span><span class="informations">825×1125 1.33 MB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div><br>
+Initially, my plan for a 2020 sequel, <em>Twilight Road</em> , was to create another 18-card game. If  <em>Gate Watch</em>  was about living on the borders and edges,  <em>Twilight Road</em>  would be about the roads that pass through them. However, the lockdown halted not only my gameplay but also my playtesting efforts. The constraints of lockdown and revisiting my game designs over and over led me to realize that the two games could be intertwined. After discussions with my colleagues Aaron Reed and Shannon Appelcline, I discovered even more kinds of of story playsets were possible, each with different sets of cards, which could be all interconnected. This idea culminated in the two Tableau playsets offered in this <a href="https://www.kickstarter.com/projects/christophera/tableau-twilight-road-and-gate-watch-playsets-quickstarter?ref=b1oye6" rel="nofollow noopener">Kickstarter</a>, with more to come later this year.</p>
+<p>Another constraint I encountered was the limited space on each card. I found that I could fit a maximum of 350 words on both sides of a card. As a naturally verbose writer, I would repeatedly trim the text of each card down to about 250 words, only to have it expand again during revisions. However, after multiple iterations, the essence of each card emerged. I hope that the final result is as powerful and inspiring for you as it is for me.</p>
+<p>So, how have you used constraints in your creative life? Time limits? Size limits? Did they result in success or frustration? I’m curious to hear about your experiences.</p>
+<p>– Christopher Allen</p>
+<blockquote>
+<p><em>“The best stories are the ones we tell together!”</em></p>
+</blockquote>
+<p>[*1] Quote from <a href="https://groupworksdeck.org/patterns/Power_of_Constraints" rel="nofollow noopener">GroupWorksDeck.org</a> CC-BY</p>
+<ul>
+<li>Image credits: Bonsai  by <a href="https://www.flickr.com/photos/30014417@N04/5524991164/" rel="nofollow noopener">Dyogi</a> , CC-BY;</li>
+<li>Monster Smash Family by [USER=1149]<a class="mention" href="/u/christophera">@ChristopherA</a>[/USER], CC-BY, permission granted by mother to include her children in photo;</li>
+<li>Stone Arch Photo by Max Pixel, CC0.</li>
+</ul>
+            </blockquote>
+            <p>Posts: 10</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/tableau-design-notes-the-power-of-constraints/8659">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/tableau-design-notes-the-power-of-constraints/8659</link>
+          <pubDate>Mon, 03 Apr 2023 22:55:38 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8659</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/tableau-design-notes-the-power-of-constraints/8659.rss">Tableau Design Notes: The Power of Constraints</source>
+        </item>
+        <item>
+          <title>Does anyone have experience with combat/action hacks for Belonging Outside Belonging?</title>
+          <dc:creator><![CDATA[@olivetree]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/olivetree">@olivetree</a> wrote:</p>
+            <blockquote>
+              <p>I’m playing Jess Levine’s excellent <a href="https://jessfromonline.itch.io/going-rogue" rel="nofollow noopener">Going Rogue 2e</a> and really enjoying my first time with a BoB game. The one thing that feels palpably absent is some sort of structure for action sequences. It’s OK hand-waving broader events, but sometimes my group wants to zoom in on, say, a climactic battle, and we tend to flounder in those scenes. So, I’m just wondering if anyone’s come up with or found a system for propelling action that they liked.</p>
+<p>I’m not really looking to switch systems whole-cloth whenever we want to focus on a fight/shootout/chase/escape/etc. I’d rather come up with something that integrates nicely with the rest of the game. One idea would be a new pillar (“Blasters and Bullets”?) with moves like “Underestimate an opponent, gain a token,” “Back someone into a corner, give them a token,” “Cut off an escape route, give a token,” “Use a dirty trick to gain the upper hand, give a token,” “Provoke someone into attacking you, gain a token.”</p>
+<p>I also have a vague idea for using clocks here to help with pacing. Maybe the players have a clock, and the enemies have a clock, and whoever fills their clock first “wins” the scene (whatever that means in context). A stronger enemy might start with a few clock segments filled in. Maybe these clocks exist in the background outside of action scenes, and certain moves can also trigger clock increments or decrements.</p>
+<p>These are just ideas that I’ve brainstorming in the last couple hours, so it’s all untested and I don’t have a great grasp on the metaphors yet, but I think there miiiight be something here.</p>
+            </blockquote>
+            <p>Posts: 6</p>
+            <p>Participants: 4</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/does-anyone-have-experience-with-combat-action-hacks-for-belonging-outside-belonging/8645">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/does-anyone-have-experience-with-combat-action-hacks-for-belonging-outside-belonging/8645</link>
+          <pubDate>Mon, 27 Mar 2023 03:07:00 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8645</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/does-anyone-have-experience-with-combat-action-hacks-for-belonging-outside-belonging/8645.rss">Does anyone have experience with combat/action hacks for Belonging Outside Belonging?</source>
+        </item>
+        <item>
+          <title>Seeking Feedback on a short game [I Am Furious: Pink] about trauma and supernatural vengeance</title>
+          <dc:creator><![CDATA[@Mark]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/mark">@Mark</a> wrote:</p>
+            <blockquote>
+              <p>I’ve been tinkering with this game off and on, and I think except for character sheets it’s pretty close to a final draft, but I could use some feedback if anyone’s interested.</p>
+<p>I’ve been calling it “I Am Furious [Pink]” as a nod to the vintage film “I Am Curious [Yellow]” which has had other namesake parodies over the years.</p>
+<p>You’ll probably find it similar in play style to “Remember Tomorrow”, if that’s something you’re familiar with, though the enemy focus in this is being binary, while the players are not.</p>
+<h1>Anyway, here’s the current full text…</h1>
+<p><em>For over 2,000 years, the goddesses of vengeance lay imprisoned, struggling against a magical slumber even while humanity spread across the globe. Cities grew, technology advanced, and men of power stretched their greedy fingers out over the world, manipulating governments and corporations like marionettes on strings. Then, in a moment of tragedy, the power of a goddess flared inside your brain.</em></p>
+<p><em>They call you Fury now, though that doesn’t begin to cover it. Some hate you. Some fear you. Some will even try to hunt you. This is the story of how you became their monster.</em></p>
+<p><em>I Am Furious (Pink) is a dramatic roleplaying game that takes your human self through the events of one horrible day and then - reborn with the power of a goddess - retraces your path to unleash vengeance or mercy on those who did you wrong.</em></p>
+<p><em>At its most fantastic, a scene in I Am Furious (Pink) may resemble a comic book franchise, as you transform your human self into a bat-winged Fury and lash out at your enemy with a fiery whip. Where more realistic, you might play a scene where you flee from fear-mongering pundits, able to relax only with others like you. You choose the scenes you’re interested in as the game progresses.</em></p>
+<p><em>This is a freeform game primarily for experienced players who enjoy heavily narrative games, often without a GameMaster. The rules assume that players take turns improvising the scenes for other characters, building the setting and playing the Opposition - though you can designate a GM if that’s something your group prefers. You should read through the entire game before playing, but otherwise there’s not really any ‘game prep’. It’s intentionally minimalistic, light on rules and guidance. Know that going in. Also…</em></p>
+<p><strong>Content Warning:</strong> I Am Furious (Pink) may feature oppressive corporations, fascist government forces, crime and injustice, and realistic themes revolving around violence, hate, and personal trauma. As such, it has the potential to be an emotional experience. Be sure you discuss as a group before starting so you know what opponents and subject matter you want to keep on - or off - the table.</p>
+<p><strong>WHAT YOU NEED TO PLAY</strong></p>
+<p>• Three persons to play the Furies and the Opposition forces you’ll encounter. You can add more players but, especially if you’re playing without a GameMaster, three is ideal.</p>
+<p>• Dice. Ideally, each player should have at least one each of d4, d6, d8, d10, d12, and d20. An additional d10 or two would also be helpful. You’ll roll these dice to determine the success of your actions.</p>
+<p>• A coin or similar token with different images on each side. You’ll use this to see how strong the Opposition’s resistance is.</p>
+<p>• Pencils and paper. You can play the game on scrap paper, but it’s easier to use the Fury and Opposition sheets. It’s good to have several of each sheet on hand, or at least quick access to a printer where you can make more as needed. Included in this game is a sample page of pregenerated slips; print, fold, and dump the slips into a bowl to quickly pick random Opposition forces.</p>
+<p><strong>CHOOSE YOUR POSITION</strong></p>
+<p>You work in The City, a near-future urban sprawl where you can introduce whatever allegorical tales and tropes of speculative fiction you’re interested in. Create your own job or choose from these nu-slang ones: Badge (typically corporate security, police, ex-military), Courier (deliveries, ride-hailing, taxi), Drone (menial; cashier, cleaner, stacker, server, etc), Hacker (developer, programmer, etc), Journo (reporter), Star (singer, actor, online celebrity, etc), Suit (office worker), or Thinker (scientist, nurse, doctor, teacher, etc).</p>
+<p><strong>GATHER YOUR GEAR</strong></p>
+<p>You have clothes appropriate for your role, a phone, an I.D. card, a little bit of cash or credit, and a place to stay (like a house, apartment, or a friend’s couch).</p>
+<p>You can also choose or create up to three more common items that you typically have in your possession. Only one of these can be a weapon, though you may gain a second weapon later in the course of play. If you pick a weapon now, make it match your role. For instance, a Badge might have special identification, handcuffs, and a pistol, while a Drone might have a bag of worker’s tools, a lighter, and a box cutter. If nothing springs to mind, leave them blank for now and write them down when you think of them or when the situation becomes relevant to suddenly remembering that you have this item on your person.</p>
+<p><strong>SHAPE YOURSELF</strong></p>
+<p>Pick a character name or nickname that appeals to you. If you later decide that you want to change it, go ahead. Likewise, your appearance and how you present to the world is also completely up to you. Write it down on your character sheet with as much or as little detail as you want.</p>
+<p><strong>BUILD YOUR STATISTICS</strong></p>
+<p>You have six dice, one each of: d4, d6, d8, d10, d12, and d20.</p>
+<p>You also have six attributes:</p>
+<ul>
+<li>Power (musculature and raw physical strength)</li>
+<li>Speed (agility and athletics)</li>
+<li>Drive (resistance, will, tenacity)</li>
+<li>Memoria (knowledge both remembered and buried)</li>
+<li>Labor (how good you are at your job or other skills)</li>
+<li>Manipulation (using sexuality, charm, or logic on others)</li>
+</ul>
+<p>On your character sheet, distribute each die to a different attribute. The higher the die, the better your chance of a triumphant success.</p>
+<p><strong>EXPLORE YOUR PERSONALITY</strong></p>
+<p>In any order, consider the following queries and fill in your background.</p>
+<p>Why do you face prejudice from the status quo? For example, it might be your gender, sex, or race, it might be a medical condition, or it might be something about your life choices or appearance that angers the opposition - even if the reason for that aggravation exists only in their imagination.</p>
+<p>Create or choose from the list three traits that indicate how you think, feel, and behave on a regular basis: Agreeable, Anxious, Confident, Conscientious, Creative, Curious, Dedicated, Depressed, Easygoing, Extrovert, Humble, Idealistic, Impetuous, Introvert, Kind, Lawful, Logical, Neurotic, Reliable, Strategic. Write these in the Traits section of your character sheet.</p>
+<p>Which two things do you care about most? Invent two or pick two of these to focus on: Activism, Crime (with one subtype of: drugs, gangs, guns, etc), Family, Friendships, Job, Money, Power, Religion, Romance, Sex, Tech, Travel. Write these in the Focus section of your character sheet.</p>
+<p>Why did you choose the job you have? Do you enjoy going to work each day or hate it? Why?</p>
+<p><strong>PICK EDGES AND HINDRANCES</strong></p>
+<p>Edges are positive conditions or circumstances, and hindrances are negative. You can gain or lose them during play. Some starting ones are provided here, but you can create your own whenever a scene demands it.</p>
+<p><em>Choose one edge…</em></p>
+<p>Concealed Carry (you have a bonus weapon hidden on your person)</p>
+<p>Prized Possession (one of your items returns to you in the next scene even if lost or stolen)</p>
+<p>Someone Owes You a Favor (you decide when and where this applies)</p>
+<p>You Have Something That Someone Wants (you decide when and where this applies)</p>
+<p><em>…and choose one hindrance.</em></p>
+<p>Easily Distracted (if you fail a check, take -2 to your next roll)</p>
+<p>Egoist (you always take an action to monologue before an attack action)</p>
+<p>You Have a Debt to be Repaid (work with the Opposition to decide this)</p>
+<p>You Have Something That Everyone Wants (work with the Opposition to decide this)</p>
+<p><strong>MODEL THE OPPOSITION</strong></p>
+<p>Your opponents are too binary for their own good; they tend to think and react in the simplest possible terms: beliefs are either right or wrong, answers are yes or no, conflicts are fight or flight, a person is good or evil - and so on.</p>
+<p>Opponents often include archetypes like the: amoral executive, corrupt badge, activist fundamentalist, rapacious gangster, political opportunist, racial purist, predatory celebrity, or religious extremist.</p>
+<p>Like characters, each opponent also has two foci: Career, Crime (and pick one of: drugs, gangs, guns, etc), Family, Friendship, Money, Power, Religion, Romance, Sex, Tech, or Travel.</p>
+<p>When it’s your turn to pick an Opposition, you can create your own based on what’s happened in play so far, or randomly pick one from a bowl of pregenerated slips.</p>
+<p><strong>SETTING THE FIRST SCENE</strong></p>
+<p>All scenes involve at least one player, the Opposition, and rolling the dice. You may collaborate with other players to pick or to run the scene.</p>
+<p>As preparation for the first scene, have each person describe a location in the city (like a home, club, back alley, elevator, office, park, or parking garage) aloud, then choose another player. Ask why their character is in that location, and what focus brings them there. Continue around the table until everyone has done this once. Now you’re ready for the first scene.</p>
+<p>This setup generally looks something like: “[NAME] is in [PLACE] because of their [FOCUS]”. This could be a setup like “Joanna’s in the club looking for her daughter”, “August is in the parking garage to meet an informant”, or “Robin is in an elevator with a manager, on their way up to his office.”</p>
+<p><strong>PLAYING THE OPPOSITION</strong></p>
+<p>When you run a scene, you can take turns in order around the table or just let any player with a scene idea go first. When it’s your turn, pick an Opposition and another player’s character to feature in this scene. You then describe the scenery and NPCs, playing an Opposition whose end goal for each scene is to successfully place or hold a Constraint on the character.</p>
+<p>You can create your own Constraint as appropriate, or choose from: Blinded, Burning, Drowning, Frightened, Grappled, Harmed (see Harm section), Nauseated, Prone, Trapped, Unconscious.</p>
+<p>After you describe how you attempt to constrain the character, that player rolls the dice to see if they can resist or avoid it (possibly with a dice penalty; see Resistance Checks). If they fail, end the scene with their character being constrained. If they succeed, they decide how they want to end the scene. Either way, end the scene shortly after the conclusion of that roll, and move to the next set of players.</p>
+<p>With every scene, you build on the narrative, treating each scene as a new chapter in an ongoing story. Use the scene sheet to keep notes on the locations, Oppositions, and any Constraints that occur; you’ll want to refer back to it after the player ascends into a Fury.</p>
+<p><strong>ROLLING THE DICE</strong></p>
+<p><strong>Basic Checks (Unopposed)</strong></p>
+<p>Whenever you take an action, roll the appropriate attribute die (d4, d6, d8, d10, d12, or d20) plus one 10-sided die (1d10). If you narrate how you apply one of your items in this situation, add a single d4 and roll it as well.</p>
+<p>On some results (a total of 9 or less), the Opposition player imposes a penalty on you. On a triumph (15+), you can ask the Opposition a question and narrate your own conclusion to the scene.</p>
+<ul>
+<li>A result of 6 or less is a bust. You fail to achieve your goal and the Opposition gives you a Constraint. You will almost certainly face an escalated situation, obstacle, or pay a price (not necessarily a monetary one) in your next scene as you try to remove the Constraint.</li>
+<li>A result of 7-9 indicates a struggle. You get some of what you wanted, but you will face a minor obstacle, consequence, or price related to this situation. For instance, the Opposition may remove or suppress one of your Edges, upset your Focus, or find a way to boost themselves (such as reducing any Harm they took).</li>
+<li>A result of 10-14 is a pass. Your attempt barely succeeds with few negative obstacles or consequences, if any. You may choose one: remove an existing Constraint, reduce or inflict a level of Harm, or restore a temporarily suppressed Edge.</li>
+<li>A result of 15+ is a triumph. You both pass and gain a special insight into the situation. Ask the Opposition a question and they’ll answer you honestly, though not necessarily completely. Here are some questions that may provide hard truths:
+<ul>
+<li>How do you really feel?</li>
+<li>Who’s behind this operation? What’s really going on here?</li>
+<li>What can I do that will make you agree to my terms? How can we make a deal?</li>
+<li>Who or what should I be on the lookout for?</li>
+</ul>
+</li>
+</ul>
+<p>If you fail, you’ll have to find another way to resolve the situation. You can’t repeat the exact same attempt to try for different results.</p>
+<p><strong>Resistance Checks (Opposed)</strong></p>
+<p>The Opposition always acts first but, being binary, doesn’t roll dice. Instead, they call one side of a binary token (eg, heads or tails on a coin) and flip it. If they fail, welcome to the resistance - you can make your roll normally. If the Opposition succeeds, resistance might be futile - you must remove the highest die result from your roll.</p>
+<p><strong>Automatic Passes</strong></p>
+<p>You can get an automatic pass on a check by choosing a related Edge and narrating how it helps you achieve that pass – then permanently erasing it from your character sheet. Make sure giving up this advantage is worth it. You can’t use an automatic pass to restore an erased Edge.</p>
+<p>Harm (Dazed &gt; Wounded &gt; Dying &gt; Captive)</p>
+<p>If a successful action means that you suffer or inflict Harm, you or your opponent are Dazed. Getting hurt while you’re Dazed means you’re now Wounded. Get hurt for a third time, you’re Dying. On a fourth hit, you’re both Dying and Captive, and must find a way to escape.</p>
+<p>With a successful check, you can use the narrative to lower your Harm condition (or someone else’s) by one level. (If you’re Captive, you’ve found a way to escape from your incarceration, but you’re still Dying, so you better get that taken care of.)</p>
+<p><strong>ANGER MANAGEMENT</strong></p>
+<p>You start with zero (0) Anger, but each time your character receives a Constraint, you mark one. (You may remove or add more levels here for a shorter or longer game, respectively.)</p>
+<p>0  1  2  3 4 5<br>
+O O O O O O</p>
+<p>When all Anger boxes are filled, you become a Fury - chosen of the goddesses. You receive the Blood Vengeance power and can choose two additional powers from the Fury section of the character sheet. Narrate what happens as the new powers course through you and change your body into an instrument of divine vengeance.</p>
+<p>Once you become a Fury, your Anger is set at its maximum level and does not increase or decrease.</p>
+<p><strong>SHAPING YOUR FURY</strong></p>
+<p>As with your human form, you can choose however you want to appear, though you should still retain a humanoid size and shape. For example, your Fury nature may give you only one or two new traits (such as classical Greek bat or bird wings, canine head, glowing eyes, or snakes for hair), or you might appear fully changed from head to toe (perhaps like an Abrahamic demon with red skin, horns, hooves, and a tail).</p>
+<p>You decide whether your new form is permanent, emerges involuntarily, or if you’re able to transform at will.</p>
+<p><strong>NAMING YOUR FURY</strong></p>
+<p>Choose a new name for your Fury. You might decide to keep both a human name and a Fury name, especially if you can switch between human and Fury at will. Alternatively, you might consider yourself to be pure Fury from now on, choosing a new name and leaving your dead name behind.</p>
+<p>If you want a classical Fury name, Alecto, Lyssa, Megaera, Nemesis, Rhamnusia, and Tisiphone are good examples. Modern names might sound like Angela, Nocturna, Scarlett, or so on. You can even tack on a dramatic phrase “goddess of anger”, “the gatekeeper of Hell”, or “wrath of the night.”</p>
+<p><strong>Powering Your Fury</strong></p>
+<p>Add Blood Vengeance and any two other powers to your Fury.</p>
+<p>Blood Vengeance</p>
+<p>On a triumph result, you may set a curse upon the Opposition - but be wary, lest the Opposition find a way for the curse to immediately rebound upon an innocent victim before the scene is resolved. A curse can be almost anything you can imagine: bad luck (eg, in sports or in investments), eternal suffering (like a mutation or injury that cannot heal), or death (in a specific manner) are classic curses. A well-themed curse also ties into their focus (like a politician who is unable to lie, a racist who sees what he hates in his reflection, or a celebrity who no one can remember).</p>
+<p>Destroyer<br>
+[still working on this one]</p>
+<p>Flaming Sword</p>
+<p>You can conjure a flaming blade from thin air at will; this blade deals two Harm on a successful attack.</p>
+<p>Merciful Grace</p>
+<p>Each time you grant mercy to an opponent (eg, do not kill or curse them), gain a cumulative +1 bonus. This ongoing bonus disappears if you kill or curse an opponent.</p>
+<p>Unbreakable</p>
+<p>If your Harm increases to Captive, your prison is immediately broken and your Harm reduces to Wounded.</p>
+<p><strong>RUNNING SCENES (FOR FURIES)</strong></p>
+<p>When a character ascends and becomes a Fury, they return to the location of each prior scene, but in reverse order, giving the Fury a chance to work their way back through each scene where they were constrained, wreaking vengeance or bestowing mercy on the Opposition.</p>
+<p>When you play the Opposition versus a Fury, and the Fury imposes a Constraint or other problem, consider using the following scripts for typical enemy reactions:</p>
+<p>Armed &gt; Disarmed &gt; Improvise Attack</p>
+<p>Blinded/Burning &gt; Flee Blindly, Scream for Help</p>
+<p>Drowning &gt; Drag the Fury With You</p>
+<p>Frightened &gt; Fight, Flee, Scream for Help</p>
+<p>Grappled/Trapped &gt; Scream for Help, Swear Revenge</p>
+<p>Harmed &gt; Scream for Help, Swear Revenge</p>
+<p>Spared &gt; Flee &gt; Return in a Later Scene or Vanish Forever</p>
+<p>For instance, an Opposition armed with a pistol may become disarmed, in which case they must improvise an attack with a weapon that may be less deadly and more awkward (like a chair).</p>
+<p><strong>ASCENSION</strong></p>
+<p>Your story ends when you have returned to each of the previous scenes and meted out vengeance or mercy to the Opposition. At that time, you can bow out with a flourish or narrate a brief epilogue where you get to close out your story. Then, with your divinity secure, you can keep running scenes and playing the Opposition for any remaining Furies.</p>
+<p>The game ends when at least three Furies have Ascended. You can keep playing if you want to wrap up any remaining stories, or just have the remaining Furies exit to continue their story in your mind, beyond the confines of the gaming table.</p>
+            </blockquote>
+            <p>Posts: 5</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/seeking-feedback-on-a-short-game-i-am-furious-pink-about-trauma-and-supernatural-vengeance/8561">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/seeking-feedback-on-a-short-game-i-am-furious-pink-about-trauma-and-supernatural-vengeance/8561</link>
+          <pubDate>Tue, 17 Jan 2023 20:05:51 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8561</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/seeking-feedback-on-a-short-game-i-am-furious-pink-about-trauma-and-supernatural-vengeance/8561.rss">Seeking Feedback on a short game [I Am Furious: Pink] about trauma and supernatural vengeance</source>
+        </item>
+        <item>
+          <title>Feedback on d100 micro</title>
+          <dc:creator><![CDATA[@joshforisha]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/joshforisha">@joshforisha</a> wrote:</p>
+            <blockquote>
+              <p>Hey folks, I’ve been tinkering with a streamlined d100-based system for the past year, playtesting with a group in a handful of settings, and would love to get more broad feedback before I write some setting materials and more creative tools for it.</p>
+<p>I’ve called the system “d100 micro” but recognize there might be a better name. In any case, I’m planning to always have the core rules available for free, under Creative Commons, and to potentially support publishing of specific settings. I also have plans to improve the rules online and make the site more attractive, so feel free to criticize any and all parts of the existing material.</p>
+<p>Rules: <a href="https://d100micro.com" rel="nofollow noopener">https://d100micro.com</a><br>
+Thanks for checking it out!</p>
+            </blockquote>
+            <p>Posts: 12</p>
+            <p>Participants: 5</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560</link>
+          <pubDate>Tue, 17 Jan 2023 15:03:59 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8560</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560.rss">Feedback on d100 micro</source>
+        </item>
+        <item>
+          <title>Free TTRPG Mechanics - A set of mechanics for playing or creating a role-playing game + crowdsourcong a guide</title>
+          <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+            <blockquote>
+              <p>This is a set of mechanics for playing or creating a role-playing game that is free and open to everyone under the <a href="https://noroadhome.itch.io/acaclicense" rel="nofollow noopener">Anti-Capitalist Attribution Cooperative License</a>.</p>
+<p>I am looking for criticism and praise, as well as a special request.</p>
+<p>I would like to crowdsource guidelines and advice for converting modules and adventures to this system.</p>
+<p>If you would like to help, you can ask questions like: “what if my adventure has [mechanic or stats]” or what do I do in case of [feature?]" Stuff like that. I will do my best to find solutions to those questions.</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      
+      <a href="https://thegiftofdice.itch.io/free-ttrpg-mechanics" target="_blank" rel="nofollow noopener">itch.io</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:630/500;"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/2/25f56df9cdd716af4e3e8556b28090f6deeca14a.png" class="thumbnail" width="630" height="500"></div>
+
+<h3><a href="https://thegiftofdice.itch.io/free-ttrpg-mechanics" target="_blank" rel="nofollow noopener">Free TTRPG Mechanics by TheGiftOfGabes</a></h3>
+
+<p>This is a set of mechanics for playing or creating a d20+d6 role-playing game without corporate attachments.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/free-ttrpg-mechanics-a-set-of-mechanics-for-playing-or-creating-a-role-playing-game-crowdsourcong-a-guide/8557">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/free-ttrpg-mechanics-a-set-of-mechanics-for-playing-or-creating-a-role-playing-game-crowdsourcong-a-guide/8557</link>
+          <pubDate>Sun, 15 Jan 2023 16:12:29 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8557</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/free-ttrpg-mechanics-a-set-of-mechanics-for-playing-or-creating-a-role-playing-game-crowdsourcong-a-guide/8557.rss">Free TTRPG Mechanics - A set of mechanics for playing or creating a role-playing game + crowdsourcong a guide</source>
+        </item>
+        <item>
+          <title>[Celestial Recruit] Looking For Feedback on a New Game</title>
+          <dc:creator><![CDATA[@FlockOfWingedDoors]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/flockofwingeddoors">@FlockOfWingedDoors</a> wrote:</p>
+            <blockquote>
+              <p>Hello friends!<br>
+It has been a little while since I have hung out on the forums. Hope everyone is doing well <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>I recently created my first-ever proper game (well, an alpha version) for the Goes Over Well game jam in November. Very excited to actually have something real on itch! I’m going to be arranging some playtests in January onwards, but I was also looking for general feedback, comments, questions, and suggestions from people reading over the text (or playing it on their own without me!).</p>
+<p>I plan on fleshing this game out going forward!</p>
+<p>If you are interested in taking a look you can download it for free at: <a href="https://flockofwingeddoors.itch.io/celestial-recruit-the-war-for-the-fourth-link" rel="nofollow noopener">https://flockofwingeddoors.itch.io/celestial-recruit-the-war-for-the-fourth-link</a></p>
+<p>Please feel free to reach out! Happy to explain, clarify, and take constructive criticism. I’m sure I have lots to learn about making RPGs and making them well <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/celestial-recruit-looking-for-feedback-on-a-new-game/8519">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/celestial-recruit-looking-for-feedback-on-a-new-game/8519</link>
+          <pubDate>Sat, 10 Dec 2022 15:11:37 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8519</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/celestial-recruit-looking-for-feedback-on-a-new-game/8519.rss">[Celestial Recruit] Looking For Feedback on a New Game</source>
+        </item>
+        <item>
+          <title>[Let&#39;s Go To Magic School] Help with two Playbook moves</title>
+          <dc:creator><![CDATA[@holothuroid]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/holothuroid">@holothuroid</a> wrote:</p>
+            <blockquote>
+              <p>Hello y’all who walk the gauntlet,</p>
+<p>since you were very helpful already, when I presented two basic moves, I’d like to share in your wisdom now, concerning two playbook moves. I’m making a game about kids at a magic school.</p>
+<p>The thing is, after several one shots and one longer campaign, now one took them ever.</p>
+<p>They are also kinda samey.</p>
+<p>Current versions:</p>
+<pre><code>Sucker for Rules (The Studious One)
+ When you admonish someone about the school rules, roll +Virtue. On a hit, they will hesitate in what they are doing and you take +1 forward against them. On a 10+, you may choose to make them suffer.
+
+ Outsider Perspective (The Upstart)
+ When you point out an injustice or absurdity in the school's society, roll +Worldliness. On a 7-9, choose one. On a 10+, you get both: 
+  - They must stop to explain themselves or suffer. 
+  - They mark inspiration, if they heed your call.
+</code></pre>
+<p>Now for the Studious One, I’m thinking:</p>
+<pre><code> Sucker For Rules
+ When you quote the rules, you may give any one person making it so (including yourself) +1 forward.
+</code></pre>
+<p>That’s simple and effective. I found that having at least some bonus moves, isn’t bad. The two I have, have been quite popular. Is the phrasing good? Am I overlooking something?</p>
+<p>For the Outsider Perspective, I’m not so sure. I kinda like the idea of having characters of this playbook comment on the School. It’s basically the Harry Potter playbook. Giving someone Inspiration (XP) is a pretty powerful effect, as it’s the only move in the game that does so.</p>
+<p>Should I just play this up? Turn it into more wide eyed wonder? What do you think.</p>
+<p><a class="mention" href="/u/sabinev5">@SabineV5</a></p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-two-playbook-moves/8514">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-two-playbook-moves/8514</link>
+          <pubDate>Wed, 07 Dec 2022 08:58:25 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8514</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/lets-go-to-magic-school-help-with-two-playbook-moves/8514.rss">[Let&#39;s Go To Magic School] Help with two Playbook moves</source>
+        </item>
+        <item>
+          <title>Feedback on this moving text please</title>
+          <dc:creator><![CDATA[@DeReel]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+            <blockquote>
+              <p>H! After a long pause I went and put down procedures for my Hunter x Hunter game and I believe there are experts in this community that can help me se them clearly without sweating it to much.</p>
+<p>To frame the game intent some, I want to emulate Hunter x Hunter with a stress on Drama and Puzzle solving. The game wants to help players make Challenges both meaningful (drama) and challenging (puzzle solving). I walk in the tracks of <a class="mention" href="/u/dbb">@DBB</a> David Brunell Brutman’s Hogwarts RPG, with much of the mechanical aspect of the system relying on transactions of Conditions. Characters be affected, be moved, make it count !</p>
+<p>Here it is: <a href="https://docs.google.com/document/d/1W9Zie2_nsec7c68EFe2r7BaKqPYLA52OPNZcb-q01bM/edit?usp=share_link">https://docs.google.com/document/d/1W9Zie2_nsec7c68EFe2r7BaKqPYLA52OPNZcb-q01bM/edit?usp=share_link</a></p>
+<p>1- If you have little time for it<br>
+I’m trying a form longer than one page and extruding the game as it comes to me. Please let me know how it suits or fights your personal way of reading: be it the tone, order of presentation, Too Much Information, etc. except for the layout because oviously.<br>
+I plan to present rules in this order : 1 Overall Presentation 2 Example of play, playbooks and a gameplay cheatsheet 3a Procedures for idle scenes, 3b Procedures for Challenges, from introduction to resolution 3b Pocedures for long term play, namely Quests and Advancement 4- Details on how to play in various styles 5- maybe a lexicon or FAQ if it’s needed.</p>
+<p>2- If you have time to skim something coherent from the document, please comment on the procedures themselves, and suggest ways I can deepen them (depth=meaning/complexity) for drama and puzzle solving.</p>
+            </blockquote>
+            <p>Posts: 10</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/feedback-on-this-moving-text-please/8509">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/feedback-on-this-moving-text-please/8509</link>
+          <pubDate>Fri, 02 Dec 2022 07:27:39 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8509</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/feedback-on-this-moving-text-please/8509.rss">Feedback on this moving text please</source>
+        </item>
+        <item>
+          <title>Working on some core moves for fantasypunk</title>
+          <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+            <blockquote>
+              <p><em><a href="https://dice.camp/@thegiftofgabes/109379430717172186" rel="nofollow noopener">Initially published on dice.camp.</a></em></p>
+<p>So here we go, based on <a href="https://valerynorth.itch.io/finding-styles" rel="nofollow noopener">Finding Styles</a>, which in turn is based on <a href="https://kumada1.itch.io/an-abomination" rel="nofollow noopener">An Abomination</a>, I am trying to refine a core set of moves for fantasypunk.</p>
+<h2>The core set of moves, I got is this:</h2>
+<ul>
+<li>roleplay: what your characters says or does before an outcome is in question (before rolling dice);</li>
+<li>consider: ask the fiction whether you should roll if an outcome is in question;</li>
+<li>chance: roll to determine an outcome;</li>
+<li>shape: create or build upon an element within the fiction, it is vetoed by the group;</li>
+<li>lure: invite other players to create or build upon an element of the fiction by asking questions;</li>
+</ul>
+<h2>breaking down each move, starting with roleplay</h2>
+<p>the goal here is to wrap a kind of “what is/how to role play” into a move format:</p>
+<p>“When you express how your character acts, moves, and feels, and no outcome is in question, describe or enact your character’s words and deeds within the established fiction.”</p>
+<p>Basically… nearly everything your character does. This is simple enough and I am tying to remain lean in the word count.</p>
+<p>The tricky ones start next.</p>
+<p>Interrogate is a kind of “check in” when the outcome of an action is in question.</p>
+<p>"When the outcome of your character’s words and deeds is in question, determine with the other Players which of these statements are true:</p>
+<ul>
+<li>I can go about it effortlessly or leisurely;</li>
+<li>I can go about it free from external pressure;</li>
+<li>I can go about it with my strongest trait."</li>
+</ul>
+<p>There are a few ways to go about it.</p>
+<ul>
+<li>all yes: why roll?</li>
+<li>1-2 yes: you roll</li>
+<li>0 yes: could you even try this in the first place?</li>
+</ul>
+<p>There is a bit of a limbo in the 1-2 “yes” space: I could offer the carrot or the stick here, or I could just reduce the number of questions by one there and the whole thing becomes a trinary instead of a quad… instead of four possibilities.</p>
+<p>The outcome of this move either sends the players back to the start of the loop (roleplay) or to roll the dice.</p>
+<p>Here is when we finally see the classic PbtA approach!</p>
+<p>Roll dice, get a big hit, a medium hit, or a miss.</p>
+<h2>As for the last 2 moves…</h2>
+<p>I’ll continue on another post.</p>
+<p>Suffice to say that the 2 last bits got an extra influence from Co-Op Dice Mechanics (link below).</p>
+<p>Check it out it’s pretty interesting!</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      
+      <a href="https://notrueindian.itch.io/co-op-dice-mechanics" target="_blank" rel="nofollow noopener">itch.io</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:630/500;"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/3/39adebd12898cef76c920d5fa2f93d82077599f9.jpeg" class="thumbnail" width="630" height="500"></div>
+
+<h3><a href="https://notrueindian.itch.io/co-op-dice-mechanics" target="_blank" rel="nofollow noopener">Co-Op Dice Mechanics by Thomas Manuel</a></h3>
+
+<p>a one-page cut-and-fold mini-zine with 2 co-op dice mechanics</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>I would like to know how these moves resonate with y’all.</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/working-on-some-core-moves-for-fantasypunk/8501">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/working-on-some-core-moves-for-fantasypunk/8501</link>
+          <pubDate>Wed, 23 Nov 2022 03:50:11 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8501</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/working-on-some-core-moves-for-fantasypunk/8501.rss">Working on some core moves for fantasypunk</source>
+        </item>
+        <item>
+          <title>What to do when you&#39;re sick of your game</title>
+          <dc:creator><![CDATA[@DeReel]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+            <blockquote>
+              <p>The DesignDoc duo are speaking in my headset a very good podcast right now. I can compare it to only one other podcast : kF and Eugenie’s podcast on failure states of a game session.<br>
+It’s strange, it implies less treaded trails, but to me, it is next level in how I can relate to what they say. Most of the promotional strategies are out the window, I can take what they say in earnest. It’s liberating.<br>
+And when you open that door, some fruitful gold nuggets start to fall when you speak. Way to go Hannah and Evan!<br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://pca.st/favicon.ico" class="site-icon" width="64" height="64">
+      <a href="https://pca.st/ew9we628?utm_source=substack&amp;utm_medium=email" target="_blank">Pocket Casts</a>
+  </header>
+  <article class="onebox-body">
+    <img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/f/f0817fb0362a6f9d9ad2009572efc475f4f46662.jpeg" class="thumbnail onebox-avatar" width="400" height="400">
+
+<h3><a href="https://pca.st/ew9we628?utm_source=substack&amp;utm_medium=email" target="_blank">What to do when you're sick of your game - Design Doc</a></h3>
+
+<p>Hannah and Evan discuss how to repair their relationship with a game they've spent a year struggling to complete.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/what-to-do-when-youre-sick-of-your-game/8500">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/what-to-do-when-youre-sick-of-your-game/8500</link>
+          <pubDate>Sun, 20 Nov 2022 11:16:55 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8500</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/what-to-do-when-youre-sick-of-your-game/8500.rss">What to do when you&#39;re sick of your game</source>
+        </item>
+        <item>
+          <title>[Rosewood Abbey] monastic mystery Carved from Brindlewood</title>
+          <dc:creator><![CDATA[@RolistesPod_Kalum]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/rolistespod_kalum">@RolistesPod_Kalum</a> wrote:</p>
+            <blockquote>
+              <p>I’ve released a “playtest” early draft for “Rosewood Abbey”.</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      
+      <a href="https://rolistespod.itch.io/rosewood-abbey-draft" target="_blank" rel="nofollow noopener">itch.io</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:630/500;"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/b/b46d34e162944c36460371065acb42776f622bcc.png" class="thumbnail" width="630" height="500"></div>
+
+<h3><a href="https://rolistespod.itch.io/rosewood-abbey-draft" target="_blank" rel="nofollow noopener">Rosewood Abbey (Playtest Draft) by Kalum from The Rolistes Podcast</a></h3>
+
+<p>A monastic "Carved from Brindlewood" game inspired by The Name of the Rose, Cadfael and other historical mysteries</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>This is an attempt at adapting Brindlewood Bay to play mysteries inspired by “The Name of the Rose” and the 90s British TV show “Cadfael”.</p>
+<p>It’s the first time I share something in such an early draft stage. My previous one, <a href="https://rolistespod.itch.io/paris-gondo" rel="nofollow noopener">Paris Gondo - The Life-Saving Magic of Inventorying</a>, had already been reviewed by a professional editor before I released the text-only version.</p>
+<p>Feel free to comment not only about the game but also to make recommendations about playtesting/evolving a game “publicly”.</p>
+<p>Fun fact: I started working on this after recording an upcoming episode of <a href="https://rolistespod.com/2021/5/30/film-studies-blade-a-movement-towards-the-past-from-a-dissatisfaction-with-the-present-right" rel="nofollow noopener">The RPG Academy Film Studies</a> dedicated to “The Name of the Rose” (to be released next month).  I’ll post it here once released.</p>
+            </blockquote>
+            <p>Posts: 18</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/rosewood-abbey-monastic-mystery-carved-from-brindlewood/8404">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/rosewood-abbey-monastic-mystery-carved-from-brindlewood/8404</link>
+          <pubDate>Mon, 19 Sep 2022 17:22:25 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8404</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/rosewood-abbey-monastic-mystery-carved-from-brindlewood/8404.rss">[Rosewood Abbey] monastic mystery Carved from Brindlewood</source>
+        </item>
+        <item>
+          <title>Brindlewood Bay Mystery Submissions</title>
+          <dc:creator><![CDATA[@Jonahknight]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/jonahknight">@Jonahknight</a> wrote:</p>
+            <blockquote>
+              <p>With permission, we are publishing two collections of “unofficial” Brindlewood Bay mysteries and sweeps week mysteries.</p>
+<p>If you would like to submit a mystery for consideration, all the info is over here.</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <a href="https://actualstorypodcasting.com/submissions" target="_blank" rel="nofollow noopener">Actual Story Podcasting</a>
+  </header>
+  <article class="onebox-body">
+    <img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/4/45c616e6b6b518428d2a43cf88498b51b774b55f_2_500x500.png" class="thumbnail onebox-avatar" width="500" height="500" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/4/45c616e6b6b518428d2a43cf88498b51b774b55f_2_500x500.png, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/4/45c616e6b6b518428d2a43cf88498b51b774b55f_2_750x750.png 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/4/45c616e6b6b518428d2a43cf88498b51b774b55f_2_1000x1000.png 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/4/45c616e6b6b518428d2a43cf88498b51b774b55f_2_10x10.png">
+
+<h3><a href="https://actualstorypodcasting.com/submissions" target="_blank" rel="nofollow noopener">Open Submissions | Actual Story Podcasting</a></h3>
+
+<p>Brindlewood Bay Mystery Submission Opportunity 
+ We are accepting mystery scenario submissions for the tabletop roleplaying game Brindlewood Bay for an upcomin...</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+            </blockquote>
+            <p>Posts: 1</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/brindlewood-bay-mystery-submissions/8330">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/brindlewood-bay-mystery-submissions/8330</link>
+          <pubDate>Mon, 22 Aug 2022 18:29:52 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8330</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/brindlewood-bay-mystery-submissions/8330.rss">Brindlewood Bay Mystery Submissions</source>
+        </item>
+        <item>
+          <title>Feedback for Meta-Game Ideas</title>
+          <dc:creator><![CDATA[@Don]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/don">@Don</a> wrote:</p>
+            <blockquote>
+              <p>Hello everyone! I just released some of the rules I had been working on for a variation of FATE Core based around allowing players and GMs to select “scenarios” to play out which are little mini-quests treated as actions in the game (deal damage to bigger bads, can bring new advantages into the game with mechanical effects, etc.). It really takes the idea of the FATE fractal to new heights, allowing you to treat much more as entities with stats in the game. You can look over the fairly extensive expansion of FATE I have so far here for free - <a href="https://integralmindgames.itch.io/guiding-fate-playtest" rel="nofollow noopener">https://integralmindgames.itch.io/guiding-fate-playtest</a></p>
+<p>I have hit the point in the process where I need to strategize on what to focus on next. To do that, I would appreciate if I could get something of a read on how interested people are in such ideas and gameplay.</p>
+<p>For those interested, below is a brief summary of some of the mechanics.</p>
+<p>Scenarios are basically like combat events in FATE Core, but in this game can be sneaking missions, investigations, combat, chasing, etc.</p>
+<p>There are 4 ways to approach a scenario.</p>
+<p>Direct – Think through the problem in a scenario.<br>
+Skillful – Think around a problem in a scenario.<br>
+Reflexive – Think about how the problem became a problem.<br>
+Social – Think about how forces outside the current scenario can help.</p>
+<p>Choosing an approach determines what type of scenarios you can use for a problem, (Combat, Chase, Social Persuasion, etc.) It also determines what bonuses you might receive to perform such a quest.</p>
+<p>Scenarios are layered upon each other, so on one level of the story there might be Combat breaking out. Such as, two gang factions wandering about the city, trying to knock each other out. When the gangs encounter each other, they can make an attack action, which creates a new sub scenario to play out (one gang might be said to get the jump on a member and create a Chase scenario). The outcome of this sub-scenario can damage the gang faction which loses it.</p>
+<p>With that, what is your reaction? I was hoping your feedback might assist me in thinking about what to prioritize next. For instance, if you said it sounds a little involved, I might focus on sliming down the systems and complexity as best I can, if you thought it seemed a little abstract, I could focus on working the rules into a setting, or if you thought it all sounds interesting, I might work on refining and expanding what I have.</p>
+<p>Please feel free to provide whatever comes to your mind!</p>
+            </blockquote>
+            <p>Posts: 4</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/feedback-for-meta-game-ideas/8314">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/feedback-for-meta-game-ideas/8314</link>
+          <pubDate>Wed, 17 Aug 2022 03:00:28 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8314</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/feedback-for-meta-game-ideas/8314.rss">Feedback for Meta-Game Ideas</source>
+        </item>
+        <item>
+          <title>Luke Gearing gives a challenge to reward driven play</title>
+          <dc:creator><![CDATA[@The_Bearded_Belgian]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/the_bearded_belgian">@The_Bearded_Belgian</a> wrote:</p>
+            <blockquote>
+              <p>In a <a href="https://lukegearing.blot.im/against-incentive" rel="nofollow noopener">blogpost</a>, Luke Gearing challenges the idea that we need rules-incentives or rewards for certain types of play. Since this is a staple of many PbtA type games, I thought I’d share it here and see if there’s some discussion to be had.</p>
+<p>I have been thinking the same type of thing. If you like doing it, isn’t it a reward in itself?</p>
+            </blockquote>
+            <p>Posts: 41</p>
+            <p>Participants: 6</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/luke-gearing-gives-a-challenge-to-reward-driven-play/8237">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/luke-gearing-gives-a-challenge-to-reward-driven-play/8237</link>
+          <pubDate>Thu, 21 Jul 2022 20:11:06 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8237</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/luke-gearing-gives-a-challenge-to-reward-driven-play/8237.rss">Luke Gearing gives a challenge to reward driven play</source>
+        </item>
+        <item>
+          <title>TTRPG Creator Resources Database</title>
+          <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+            <blockquote>
+              <p>A bunch of TTRPG assets for creating your games on a database with a filter to help you find the stuff you are looking for.</p>
+<p>If you’d like to add someting to it that can be used to create ttrpgs, from layout templates to SRDs, slap a link in the comments or fill in the form at the bottom of the database page.</p>
+<p>Enjoy!</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      
+      <a href="https://thegiftofdice.itch.io/ttrpg-creator-resources-database" target="_blank" rel="nofollow noopener">itch.io</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:630/500;"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/a/a51ecf2dfcc7caac95d592e7d9e92b744fa52746.png" class="thumbnail" width="630" height="500"></div>
+
+<h3><a href="https://thegiftofdice.itch.io/ttrpg-creator-resources-database" target="_blank" rel="nofollow noopener">TTRPG Creator Resources Database by TheGiftOfGabes</a></h3>
+
+<p>This is, well, a database of resources for TTRPG creators.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+            </blockquote>
+            <p>Posts: 2</p>
+            <p>Participants: 1</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/ttrpg-creator-resources-database/8206">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/ttrpg-creator-resources-database/8206</link>
+          <pubDate>Mon, 11 Jul 2022 01:18:48 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8206</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/ttrpg-creator-resources-database/8206.rss">TTRPG Creator Resources Database</source>
+        </item>
+        <item>
+          <title>Playtesting struggles: what if you can&#39;t playtest?</title>
+          <dc:creator><![CDATA[@Minakie]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/minakie">@Minakie</a> wrote:</p>
+            <blockquote>
+              <p>To give you some context, I suffer from several mental health problems, including but not limited to anxiety, C-PTSD, and depression.</p>
+<p>Although I have played a few TTRPG sessions over the years, I became known in my local community as the person who shows up (usually in person, now exclusively online) only to watch the session and not to actually play, and even that has become more and more difficult to do lately.<br>
+It is no secret within our community that I have these issues. Not only it’s all over my social media but I often also talk very openly about such issues on our Discord server. And yet, people keep pestering me to do playtesting. No matter how many times I tend to emphasize that I have no interest in GMing my games because I can hardly bring myself to be a player at other people’s tables, people keep insisting that the games <em>must</em> be playtested. Aside from the fact that <em>unsolicited advice</em> can be a trigger for someone with PTSD all on its own, this “problem” has been going on for over a month now, and it seems to have escalated these past few months, as I tried to become more active on both Twitter and Discord.</p>
+<p>My first dodge away from this bullet was to hack existing systems (I’ve currently hacked <a href="http://www.onesevendesign.com/laserfeelings/" rel="nofollow noopener">Lasers &amp; Feelings</a> and [Push](<a href="https://capacle.itch.io/push" rel="nofollow noopener">https://capacle.itch.io/push</a> and am currently trying to hack <a href="https://bladesinthedark.com/basics" rel="nofollow noopener">BitD</a> because I can’t overcome my obsession with this system) and use “they’ve already been playtested by the original game designers” as an excuse. That seemed to work for a bit, but not long. I kept being told that, even if I was hacking an existing system, playtesting was “mandatory”.<br>
+As such, I recently tried a different approach: trying to have <em>other people</em> playtest my games. Once again, not enough: “You’re the author. You must be the one doing the playtest!”</p>
+<p>Regarding <em>who</em> must do the playtesting, I very much disagree with this. For me, part of playtesting is seeing how other people interpret the rules. Will they run the game the way you expected them to or will there be surprises? But that is not what brings me here today.</p>
+<p>What brings me today is this need to playtest everything. I cannot, and <em>will not</em>, playtest my own games. And, the more people try to pressure me into doing it, the more my mental health starts spiraling out of control and I start having thoughts of either “I will never be able to make my own games, I’ll be stuck with hacks forever” or, even worse, “I have no business publishing games. I should just delete all the games from itch and bring down the page.”</p>
+<p>So, what I want to know is: <strong>Is playtesting that much of a big deal?</strong> <strong>Is it such a sin to publish a small indie game</strong> (and we’re talking <em>small here</em>, 2-3 pages per game) <strong>without playtesting it first? And, if it is, must the playtesting absolutely be done by the author?</strong> <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/confused.png?v=9" title=":confused:" class="emoji" alt=":confused:"></p>
+<p>Thank you in advance for your feedback.</p>
+            </blockquote>
+            <p>Posts: 12</p>
+            <p>Participants: 10</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/playtesting-struggles-what-if-you-cant-playtest/8205">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/playtesting-struggles-what-if-you-cant-playtest/8205</link>
+          <pubDate>Sun, 10 Jul 2022 20:02:04 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8205</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/playtesting-struggles-what-if-you-cant-playtest/8205.rss">Playtesting struggles: what if you can&#39;t playtest?</source>
+        </item>
+        <item>
+          <title>Great Organization of Information</title>
+          <dc:creator><![CDATA[@DavidMK]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/davidmk">@DavidMK</a> wrote:</p>
+            <blockquote>
+              <p>I’m looking to restructure the content for one of my games now that I’m doing revisions and have been looking at how other game books organize the information. I realize that there are ways you may change this for the game system. I know that layout, graphic design, index, play a part in this. I’m talking information hierarchy and teaching a game based on how the content was organized by topic and subtopics.</p>
+<p>So I’m curious to hear opinions from community members about which game text has organized its information well for its users?</p>
+            </blockquote>
+            <p>Posts: 5</p>
+            <p>Participants: 3</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/great-organization-of-information/8202">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/great-organization-of-information/8202</link>
+          <pubDate>Sat, 09 Jul 2022 10:44:13 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8202</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/great-organization-of-information/8202.rss">Great Organization of Information</source>
+        </item>
+        <item>
+          <title>I wish I was a lean, mean, Zine machine</title>
+          <dc:creator><![CDATA[@ex1st]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/ex1st">@ex1st</a> wrote:</p>
+            <blockquote>
+              <p>I like making things, and this caught my eye. You have probably seen the annual Zine Quest prompt from Kickstarter, already here <a href="https://www.kickstarter.com/zinequest" rel="nofollow noopener">https://www.kickstarter.com/zinequest</a> It is a call for RPG Zine-like projects.</p>
+<p>Is anyone excited about this here?</p>
+<p>Is here the right place to talk about this?</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/i-wish-i-was-a-lean-mean-zine-machine/8181">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/i-wish-i-was-a-lean-mean-zine-machine/8181</link>
+          <pubDate>Fri, 01 Jul 2022 13:15:45 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8181</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/i-wish-i-was-a-lean-mean-zine-machine/8181.rss">I wish I was a lean, mean, Zine machine</source>
+        </item>
+        <item>
+          <title>Seeking Feedback - ENI RPG</title>
+          <dc:creator><![CDATA[@ex1st]]></dc:creator>
+          <category>Game Design</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/ex1st">@ex1st</a> wrote:</p>
+            <blockquote>
+              <p>Hi folks, I made a thing and I’m struggling to get feedback. It might just be too simple, not worth your time, or plain boring. I’m ok with hearing that but feel a bit lost not getting any feedback.</p>
+<p>ENI is a rules-light, one-page, role-playing game system for new players who just want to jump into any setting. I use ENI with a group of six 8-10-year-olds  every week, as well as with my 8-year-old son on the drive to school. I tried to find the simplest and most meaningful set of rules that went just beyond roll a die and succeed on a 4 or higher.</p>
+<p>In ENI, each player character starts with a name, an adjective, an item, and 6 dice that represent their stamina and health, and will get more dice within the first few sessions. Players choose which one of their ready dice to exert when faced with a challenge. Challenges succeed at 4 or higher, with varying degrees of success.</p>
+<p>Players who get into the story get a one-time +1 that they can add to a die roll. There are loose rules for combat, turn order in combat, resting, and companions. There is also a table for great successes. The story, special abilities, upgrades, gear, loot, etc are left to the player’s and game master’s imagination.</p>
+<p>That’s mostly it! ENI is only a system, it does not have any content written for it yet. Please check it out here: <a href="https://ex1st.itch.io/eni" rel="nofollow noopener">https://ex1st.itch.io/eni</a> I will thank you for your time and effort.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/8/88d987cb4dd0459b80403ebd1e6a4d910b838bb0.jpeg" data-download-href="/uploads/short-url/jwCZymU7l2meFN2NG1RWSZMlNIc.jpeg?dl=1" title="ENI RPG" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/8/88d987cb4dd0459b80403ebd1e6a4d910b838bb0_2_690x494.jpeg" alt="ENI RPG" data-base62-sha1="jwCZymU7l2meFN2NG1RWSZMlNIc" width="690" height="494" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/8/88d987cb4dd0459b80403ebd1e6a4d910b838bb0_2_690x494.jpeg, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/8/88d987cb4dd0459b80403ebd1e6a4d910b838bb0_2_1035x741.jpeg 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/8/88d987cb4dd0459b80403ebd1e6a4d910b838bb0_2_1380x988.jpeg 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/8/88d987cb4dd0459b80403ebd1e6a4d910b838bb0_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">ENI RPG</span><span class="informations">3628×2600 1.46 MB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>Note: I already submitted ENI to a previous One-Page RPG Game Jam, but I have improved it a bit since.</p>
+            </blockquote>
+            <p>Posts: 28</p>
+            <p>Participants: 5</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/seeking-feedback-eni-rpg/8169">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/seeking-feedback-eni-rpg/8169</link>
+          <pubDate>Wed, 22 Jun 2022 11:35:14 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8169</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/seeking-feedback-eni-rpg/8169.rss">Seeking Feedback - ENI RPG</source>
+        </item>
+  </channel>
+</rss>

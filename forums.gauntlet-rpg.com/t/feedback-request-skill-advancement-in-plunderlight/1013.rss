@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Feedback Request: Skill Advancement in Plunderlight</title>
+    <link>https://forums.gauntlet-rpg.com/t/feedback-request-skill-advancement-in-plunderlight/1013</link>
+    <description>Howdy folks. The threads on different methods of advancement and XP, and on information design for character sheets, has me thinking about my advancement system for [Plunderlight](https://bad-quail.itch.io/plunderlight) and how it&#39;s tracked on the sheet. Image and transcription below:
+
+-----------
+
+![Sample|690x440](upload://kYLOOMAwltkg5pbU7ylTTBB4TxV.png) 
+
+&lt;h2&gt;Skills, Relationships, &amp; Reputations&lt;/h2&gt;
+Characters advance their Skill, Relationship, and Reputation values by accruing Progress. In the Character Folio, Progress is tracked using the squares under each Skill, Relationship, and Reputation entry.
+
+&gt; *Image demonstrating marking progress boxes below the main skill entry*
+
+To improve a Skill, Relationship, or Reputation, the character must accrue Progress equal to 6 + the current value. This is tracked on the sheet by filling in the small rectangles above each progress segment.
+
+Progress is primary accrued by taking Downtime Actions as described on page ?? of this booklet.
+
+&lt;h3&gt;Special: Advancing Skills Through Use&lt;/h3&gt;
+Whenever a character uses a Skill during free play or a Delve, not during Downtime, they mark an empty circle on their Skill entry as shown below.
+
+&gt; *Image demonstrating marking empty circles in the main skill entry.*
+
+At the start of the nest Downtime phase, erase these marks and advance that Skill’s Progress by an equal amount, as shown below.
+
+&gt; *Image demonstrating moving marks from the circles in the main skill entry to the progress boxes underneath the main skill entry.*
+
+-----------
+
+So, I&#39;m looking for:
+
+* General constructive feedback on the mechanics of skill progression.
+
+* General feedback on the graphic/information design around it.
+
+Some notes:
+
+* In playtesting I frequently have to remind players to mark their sheet when they use skills. This might be a product of playtesting.
+
+* The skill advancement subsystem is my attempt to refine Burning Wheel style advancement. Or, at least, The Burning Wheel is the major inspiration behind it (with a sprinkle of Blades in the Dark).
+
+Thanks for your time and attention!</description>
+    
+    <lastBuildDate>Sat, 16 Mar 2019 23:41:15 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/feedback-request-skill-advancement-in-plunderlight/1013.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Feedback Request: Skill Advancement in Plunderlight</title>
+        <dc:creator><![CDATA[@Bad_Quail]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/bad_quail">@Bad_Quail</a> wrote:</p>
+          <blockquote>
+              <blockquote>
+<p>I think the idea is that the amount of progress you get on a given job (assuming from context it’s FitD?) is capped at 5 minus your current rating. Is that right?</p>
+</blockquote>
+<p>Plunderlight isn’t FitD, though Blades is a major influence (along with Apocalypse World, Fate, and The Burning Wheel). It’s a 2D10 + Mod system with PbtA-ish levels of scaled success and failure. Most of the actions right now are sort of generate and spend Hold-ish.</p>
+<p>But, yes. The idea is that the amount of progress you can make towards advancing a skill between sessions of downtime is limited by how advanced the skill is. I like using the blank circles in the skill entry to track this. (But maybe there’s a reason I’ve never seen a game really make use of this space).’</p>
+<blockquote>
+<p>The other observation I’d make is that you’re applying a braking factor for high skill twice.</p>
+</blockquote>
+<p>That’s a good point. The current amount of progress necessary to advance a skill is from an earlier draft of the game where advancement primarily happened during downtime, with no real advancement from using skills during the main phase of play. I personally don’t hate the break being there twice, but I’m also trying to pace Plunderlight for long-ish campaigns.</p>
+<blockquote>
+<p>Finally, this might be kind of obvious, but your best advancement strategy is to use skills you’re not very good at. Presumably that’s kind of risky, so you’ll ideally aim to do it in controlled situations, with other characters providing assists and so on. Is that the incentive you want in your game?</p>
+</blockquote>
+<p>There’s a thing that I see happen, and have experienced, in The Burning Wheel where a big part of advancement is developing new skills you didn’t know you needed. It’s a thing that I, personally, really liked and I’m kind of trying to recapture that fire.</p>
+<p>The position part of your question isn’t really relevant in the way you think it is, but angling for situational advantages is a definite part of the system as written!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/feedback-request-skill-advancement-in-plunderlight/1013/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/feedback-request-skill-advancement-in-plunderlight/1013/3</link>
+        <pubDate>Sat, 16 Mar 2019 23:41:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1013-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/feedback-request-skill-advancement-in-plunderlight/1013.rss">Feedback Request: Skill Advancement in Plunderlight</source>
+      </item>
+      <item>
+        <title>Feedback Request: Skill Advancement in Plunderlight</title>
+        <dc:creator><![CDATA[@rabalias]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rabalias">@rabalias</a> wrote:</p>
+          <blockquote>
+              <p>It took me a little while to understand why you have a separate track for marks and progress, and I’m still not 100% sure I’ve got it.</p>
+<p>I think the idea is that the amount of progress you get on a given job (assuming from context it’s FitD?) is capped at 5 minus your current rating. Is that right? If so, I think you could clarify that the pre-shaded circles represent your current skill rating, and maybe explicitly drawing out the implication that the higher your skill, the less XP you can get in a job.</p>
+<p>At any rate, it seems a bit laborious to me to have to fill in one set of circles, then erase them all and fill in the squares, every job. It’s worth thinking about whether the payoff is worth that extra faff factor.</p>
+<p>The other observation I’d make is that you’re applying a braking factor for high skill twice. You have to pay 1 extra progress per level you’ve already reached and also the better you get the less progress you can make per scene. So at skill 1, you get up to 4 progress per job, and only need 7 to progress, so you can do it in two jobs in theory. But at skill 4, you get max 1 progress per job and need 10 to progress, so at least 10 jobs. This will probably lead to a lot of people with mid-level ratings, and very few who make it to the top - but only playtesting will reveal if that’s the actual outcome, since people with low skill levels might not roll their skill all that much.</p>
+<p>Finally, this might be kind of obvious, but your best advancement strategy is to use skills you’re not very good at. Presumably that’s kind of risky, so you’ll ideally aim to do it in controlled situations, with other characters providing assists and so on. Is that the incentive you want in your game?</p>
+<p>These might be ignorant questions, I don’t really know the wider context of your game.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/feedback-request-skill-advancement-in-plunderlight/1013/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/feedback-request-skill-advancement-in-plunderlight/1013/2</link>
+        <pubDate>Sat, 16 Mar 2019 18:19:58 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1013-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/feedback-request-skill-advancement-in-plunderlight/1013.rss">Feedback Request: Skill Advancement in Plunderlight</source>
+      </item>
+      <item>
+        <title>Feedback Request: Skill Advancement in Plunderlight</title>
+        <dc:creator><![CDATA[@Bad_Quail]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/bad_quail">@Bad_Quail</a> wrote:</p>
+          <blockquote>
+              <p>Howdy folks. The threads on different methods of advancement and XP, and on information design for character sheets, has me thinking about my advancement system for <a href="https://bad-quail.itch.io/plunderlight" rel="nofollow noopener">Plunderlight</a> and how it’s tracked on the sheet. Image and transcription below:</p>
+<hr>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/1X/930a18afcc0b900ccbc3ef917152f66411ae36e3.png" data-download-href="/uploads/short-url/kYLOOMAwltkg5pbU7ylTTBB4TxV.png?dl=1" title="Sample" rel="nofollow noopener"><img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/1X/930a18afcc0b900ccbc3ef917152f66411ae36e3_2_690x440.png" alt="Sample" data-base62-sha1="kYLOOMAwltkg5pbU7ylTTBB4TxV" width="690" height="440" srcset="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/1X/930a18afcc0b900ccbc3ef917152f66411ae36e3_2_690x440.png, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/1X/930a18afcc0b900ccbc3ef917152f66411ae36e3.png 1.5x, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/1X/930a18afcc0b900ccbc3ef917152f66411ae36e3.png 2x" data-small-upload="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/1X/930a18afcc0b900ccbc3ef917152f66411ae36e3_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Sample</span><span class="informations">927×592 78 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<h2>Skills, Relationships, &amp; Reputations</h2>
+Characters advance their Skill, Relationship, and Reputation values by accruing Progress. In the Character Folio, Progress is tracked using the squares under each Skill, Relationship, and Reputation entry.
+<blockquote>
+<p><em>Image demonstrating marking progress boxes below the main skill entry</em></p>
+</blockquote>
+<p>To improve a Skill, Relationship, or Reputation, the character must accrue Progress equal to 6 + the current value. This is tracked on the sheet by filling in the small rectangles above each progress segment.</p>
+<p>Progress is primary accrued by taking Downtime Actions as described on page ?? of this booklet.</p>
+<h3>Special: Advancing Skills Through Use</h3>
+Whenever a character uses a Skill during free play or a Delve, not during Downtime, they mark an empty circle on their Skill entry as shown below.
+<blockquote>
+<p><em>Image demonstrating marking empty circles in the main skill entry.</em></p>
+</blockquote>
+<p>At the start of the nest Downtime phase, erase these marks and advance that Skill’s Progress by an equal amount, as shown below.</p>
+<blockquote>
+<p><em>Image demonstrating moving marks from the circles in the main skill entry to the progress boxes underneath the main skill entry.</em></p>
+</blockquote>
+<hr>
+<p>So, I’m looking for:</p>
+<ul>
+<li>
+<p>General constructive feedback on the mechanics of skill progression.</p>
+</li>
+<li>
+<p>General feedback on the graphic/information design around it.</p>
+</li>
+</ul>
+<p>Some notes:</p>
+<ul>
+<li>
+<p>In playtesting I frequently have to remind players to mark their sheet when they use skills. This might be a product of playtesting.</p>
+</li>
+<li>
+<p>The skill advancement subsystem is my attempt to refine Burning Wheel style advancement. Or, at least, The Burning Wheel is the major inspiration behind it (with a sprinkle of Blades in the Dark).</p>
+</li>
+</ul>
+<p>Thanks for your time and attention!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/feedback-request-skill-advancement-in-plunderlight/1013/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/feedback-request-skill-advancement-in-plunderlight/1013/1</link>
+        <pubDate>Sat, 16 Mar 2019 17:26:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1013-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/feedback-request-skill-advancement-in-plunderlight/1013.rss">Feedback Request: Skill Advancement in Plunderlight</source>
+      </item>
+  </channel>
+</rss>

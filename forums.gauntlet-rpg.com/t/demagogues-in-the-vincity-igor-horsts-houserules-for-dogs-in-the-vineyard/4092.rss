@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</title>
+    <link>https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092</link>
+    <description>After some discussion in a [previous DitV thread](https://forums.gauntlet-rpg.com/t/dogs-in-the-vineyard-who-do-you-know-in-town/), Paul_T suggest that I start [a new thread about my &#39;Cold War&#39; game](https://forums.gauntlet-rpg.com/t/dogs-in-the-vineyard-who-do-you-know-in-town/2344/43). So here is that new thread.
+
+Here&#39;s my house rules for &quot;Demagogues in the Vicinity&quot;, my houserules for DitV that I used for the &#39;Cold War&#39; game.
+
+https://docs.google.com/document/d/1h6hY4UbEJqbdMVbQ8EZi9SK5GgU54Ya0pR5v8Ic0_xc/edit?usp=sharing
+
+Note that I included only a brief summation of the sample scenario &#39;1986 Coup&#39; - the full scenario is currently kept under wraps because I plan on running it again for my local group. After I finish running it, I&#39;ll post my full notes for the 1986 Coup. That being said, my brief summation should be enough to explain how I set up the Town properly.
+
+My goal is to produce a generic system that can be used to represent players possessing political leadership (in the same way that the vanilla DitV was about police officers possessing unlimited power in resolving political disputes, to protect domestic peace and tranquility). It essentially reskins a lot of concepts from DitV to be more generic and less supernatural (demons become &#39;Disorder Personifications&#39;, the Town Creation process is purely secular, etc.). I definitely plan on reusing these rules again the future.</description>
+    
+    <lastBuildDate>Sat, 15 Aug 2020 18:08:22 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</title>
+        <dc:creator><![CDATA[@igorhorst]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/igorhorst">@igorhorst</a> wrote:</p>
+          <blockquote>
+              <p>Due to COVID-19, we needed to play games online. However, DitV is a very dice-heavy game, which may make it unsuitable for online play (IMHO). So I began trying to port “Demagogues in the Vicinity” to “Lasers and Feelings” rules. The result is <span class="bbcode-b"><a href="https://docs.google.com/document/d/10PfvnUvlfKxYdflClzmZy8kJzMLmj4BwYx3PMRx0Axs/edit" rel="nofollow noopener">Violence and Persuasion</a></span>. I tested it with a 3-session Star Wars campaign where players were bounty hunters in a balkanized galaxy trying to restore order on a mining colony (and later, a research-oriented space station), and it worked well.</p>
+<p>Most of the stuff in “Demagogues in the Vicinity” has been ported over to “Violence and Persuasion” (including the Town Creation rules), but there’s no Raising and Seeing, Fallout doesn’t exist (though you can still sacrifice your character to cancel a severe consequence), and the Escalation System is simplified greatly (you simply state how many dice you want to roll, with more dice representing a more aggressive stance). I also did some work divorcing “Violence and Persuasion” from 2000’s Dogs by stressing that the setting must be fictional, and that players are free to modify the setting in-play (by ‘playing’ the Curveball Card) whenever necessary to introduce moral dilemmas and cause people to rethink their approaches.</p>
+<p>I have a preference for rules-lite systems (probably due to my first exposure to RPGs being <em>PARANOIA</em>), so I might be using <strong>Violence and Persuasion</strong> from now on. Emphasis on “might” - if COVID-19 ends and in-person games resume, maybe the “Raise and See” mini-game of Demagogues would come back into vogue.</p>
+<p>For that reason (and many more, including the idea that I don’t really want to create a second thread for a game that is really based on a game that already has a thread), I’m keeping updates about <strong>Violence and Persuasion</strong> in this “house rules” thread. If V&amp;P does grow and need to be split out into its own thread, I’ll go ahead and do it.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/23</link>
+        <pubDate>Thu, 13 Aug 2020 12:40:38 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4092-23</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092.rss">Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</source>
+      </item>
+      <item>
+        <title>Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</title>
+        <dc:creator><![CDATA[@igorhorst]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/igorhorst">@igorhorst</a> wrote:</p>
+          <blockquote>
+              <p>Just got some time to compile <a href="https://docs.google.com/document/d/1MkeUKymx5WibQpAE0U0IXpO9jBe9EruOf09u58biCnY/edit?usp=sharing" rel="nofollow noopener">my original notes for the Star Wars playtest</a>, for your viewing.</p>
+<p>Note that the campaign notes assumed the continued existence of the Rebel Alliance following the end of Initiation - so when the Rebel Alliance blew itself up, this kinda led to me doing a lot of improv and making stuff up on the fly, using my original notes as a framework for coming up with an “alternate history” scenario of sorts.</p>
+<p>For example, the “Hand of Kae” stuff was erased outright, and replaced with a subplot about “The Railroad” (a pro-Sith organization) schimsing into two factions - one faction trying to reboot the galaxy by embracing the dark side and a second faction trying to <em>stop</em> the reboot by embracing the light side.</p>
+<p>Still, the major driving conflict between the Militarists and Loyalists remained…mostly intact, though without the assistance of the Rebel Alliance, the Militarists had the advantage (before, the civil war was tilted in favor of the Loyalists).</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/22</link>
+        <pubDate>Thu, 20 Feb 2020 03:00:08 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4092-22</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092.rss">Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</source>
+      </item>
+      <item>
+        <title>Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</title>
+        <dc:creator><![CDATA[@igorhorst]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/igorhorst">@igorhorst</a> wrote:</p>
+          <blockquote>
+              <p>After getting in the Star Wars mood, I decided to look up the Town Creation rules for “Jedi in the Vineyard” and compare them to two other Town Creation rules.</p>
+<div class="md-table">
+<table>
+<thead>
+<tr>
+<th>“Dogs” Town Creation</th>
+<th style="text-align:center">Demagogues’ Town Creation</th>
+<th style="text-align:right"><a href="http://www.indie-rpgs.com/forge/index.php?topic=28410.0" rel="nofollow noopener">Salar’s “Jedi in the Vineyard” Town Creation</a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pride</td>
+<td style="text-align:center">Golden Age</td>
+<td style="text-align:right">Fear</td>
+</tr>
+<tr>
+<td>Injustice</td>
+<td style="text-align:center">Oppression</td>
+<td style="text-align:right">Prejudice</td>
+</tr>
+<tr>
+<td>Sin</td>
+<td style="text-align:center">Violence</td>
+<td style="text-align:right">Anger</td>
+</tr>
+<tr>
+<td>Demonic Attacks</td>
+<td style="text-align:center">Paramilitaries Form</td>
+<td style="text-align:right">Injustice</td>
+</tr>
+<tr>
+<td>False Doctrine</td>
+<td style="text-align:center">Ideological Heresy</td>
+<td style="text-align:right">Hatred</td>
+</tr>
+<tr>
+<td>Corrupt Worship</td>
+<td style="text-align:center">Civilian Recruitment</td>
+<td style="text-align:right">Violence</td>
+</tr>
+<tr>
+<td>False Priesthood</td>
+<td style="text-align:center">Demagoguery</td>
+<td style="text-align:right">Suffering</td>
+</tr>
+<tr>
+<td>Sorcercy</td>
+<td style="text-align:center">Demagoguery</td>
+<td style="text-align:right">The Dark Side</td>
+</tr>
+<tr>
+<td>Hate and Murder</td>
+<td style="text-align:center">Revolution</td>
+<td style="text-align:right">Dark Dominion</td>
+</tr>
+</tbody>
+</table>
+</div><p>All seem to have the same basic template - a small problem slowly escalates due to violence, until eventually it becomes a massive destabilizing event that the players must deal with. Salar has the injustice and violence happen far latter than the other two Town Creation events, and the Dark Side only steps in at the last possible moment (while the ‘bad guys’ come in much earlier in the other two Town Creation rules). This means Salar’s rules focuses on a “slow burn” and highlighting the root causes, while the other two Town Creation rules focus more on the decline itself.</p>
+<p>“Demagogues” has a ‘golden age’ era where things are going well that the other two Town Creation rules lack (though this is because “Demagogues” Town Creation also bakes into it the idea of a cyclical Town, where a Revolution eventually loops back around to Golden Age - the other two Town Creation have no cyclial system, and it assumes that the Town is absolutely perfect until it gets destabilized by Pride/Fear).</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/21</link>
+        <pubDate>Sat, 01 Feb 2020 02:31:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4092-21</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092.rss">Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</source>
+      </item>
+      <item>
+        <title>Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</title>
+        <dc:creator><![CDATA[@igorhorst]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/igorhorst">@igorhorst</a> wrote:</p>
+          <blockquote>
+              <p>Update on DitV playtest:</p>
+<ul>
+<li>After discussion with players, we decide to keep both the original escalation list (Talking/Non-Violent Government Programs/Close-Combat Fighting/Ranged-Combat/Propaganda Warfare) and the new list (Talking/Physical Intimidation/Fighting/Lightsabers/Force Combat). The original escalation list focuses on political conflict while the new escalation list focuses on military confrontation. You switch between the two lists based on what fluff you want to use. During our second session, all combat took place under the new list.</li>
+<li>People were allowed to pick d4 traits as part of their long-term consequence Fallout; I will need to think how to penalize people in the future if they do get d4 traits. Maybe “encouraging” people to use them in dangerous situations?</li>
+<li>Pitting people’s relationships against each other is a great way to cause PvP fighting and argument.</li>
+<li>The best moral dilemmas are the ones the players create (which makes sense - as politicians making decisions, they decide what issues ultimately are important…and what issues <em>aren’t</em>). Players manage to apprehend a Sith Lord…which made the entire table realize that there is no real “guidance” on how to deal with a captured Sith Lord (it’s generally expected that Sith Lords die rather than get themselves captured). Cue players arguing, and sometimes even initiating conflict, over the all-important issue of how exactly to punish a Sith Lord.</li>
+</ul>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/20</link>
+        <pubDate>Fri, 31 Jan 2020 01:34:28 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4092-20</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092.rss">Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</source>
+      </item>
+      <item>
+        <title>Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</title>
+        <dc:creator><![CDATA[@igorhorst]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/igorhorst">@igorhorst</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="18" data-topic="4092">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/paul_t/40/1825_2.png" class="avatar"> Paul_T:</div>
+<blockquote>
+<p>Why do the item packs seem insignificant?</p>
+</blockquote>
+</aside>
+<p>Item packs <em>were</em> significant - a player used one item (contacts with the Genohardan) to actually get info about Misto’s assassination, for instance. They’re only significant in the narrative though, and players expected a similar types of significance in gameplay as well.</p>
+<aside class="quote no-group" data-post="18" data-topic="4092">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/paul_t/40/1825_2.png" class="avatar"> Paul_T:</div>
+<blockquote>
+<p>When I did Jedi in the Vineyard, I used the standard/typical profession of:</p>
+<p>Talking<br>
+Physical<br>
+Fighting<br>
+Murder (usually means energy weapons)</p>
+</blockquote>
+</aside>
+<p>That sounds reasonable. Here’s my final list I plan to present to players:</p>
+<ul>
+<li>Talking with intent to persuade (e.g: debate) (Acuity+Heart, d4)</li>
+<li>Physical Intimidation (Body+Heart, d6)</li>
+<li>Fighting (Body+Will, d8)</li>
+<li>Lightsabers (Acuity+Will, d10)</li>
+<li>Force Combat (Heart+Will, d10)</li>
+</ul>
+<p>Originally, I had “Blasters” in place of Fighting (due to me looking at another “Jedi in the Vineyard” hack), but after seeing your list, I think Fighting would be more sufficient - there’s more ways to fight than <em>just</em> Lightsabers, Force Combat, and Blasters. Having a catch-all term would be sufficient.</p>
+<p>I separated out Murder into Lightsabers and Force Combat because the original rules also had two different ways to inflict d10 fallout (Propaganda Combat and Ranged Combat), so I needed to keep in that same tradition…so I might as well use Jedi-terminology to distinguish between the two ways of inflicting lethal combat.</p>
+<aside class="quote no-group" data-post="18" data-topic="4092">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/paul_t/40/1825_2.png" class="avatar"> Paul_T:</div>
+<blockquote>
+<p>I’ve seen an interesting suggestion to make the final level of escalation “Dark Side” (you draw on the Dark Side to get the d10 fallout), but, despite the poetic beauty of that idea, I don’t think it would actually work all that well in play.</p>
+</blockquote>
+</aside>
+<p>I agree with this. That being said, if Star Wars portrayed the Dark Side in more neutral language, like a tool of sorts (instead of being seen as the “evil” by which Jedi must continually fight against), then it would make sense for it to be the highest level of Fallout. But since the Dark Side isn’t <em>just</em> a tool…well…</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/19</link>
+        <pubDate>Fri, 24 Jan 2020 01:01:06 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4092-19</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092.rss">Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</source>
+      </item>
+      <item>
+        <title>Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>I definitely want to hear more about this.</p>
+<p>Why do the item packs seem insignificant?</p>
+<p>When I did Jedi in the Vineyard, I used the standard/typical profession of:</p>
+<p>Talking<br>
+Physical<br>
+Fighting<br>
+Murder (usually means energy weapons)</p>
+<p>I’ve seen an interesting suggestion to make the final level of escalation “Dark Side” (you draw on the Dark Side to get the d10 fallout), but, despite the poetic beauty of that idea, I don’t think it would actually work all that well in play.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/18</link>
+        <pubDate>Thu, 23 Jan 2020 16:46:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4092-18</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092.rss">Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</source>
+      </item>
+      <item>
+        <title>Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</title>
+        <dc:creator><![CDATA[@igorhorst]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/igorhorst">@igorhorst</a> wrote:</p>
+          <blockquote>
+              <p>Just started <a href="https://forums.gauntlet-rpg.com/t/ditv-jedi-nar-shaddaa-civil-war/4374">an AAR thread</a> for the Jedi campaign. After the 1st session was completed, I got the following feedback:</p>
+<ul>
+<li>It’s weird to have items only have fictional impact and not mechanical impact. Players worked around this by creating Traits and Relationships that are “inspired” by the item packs. I can’t address this issue in this campaign (due to balance reasons), but I’ll definitely address this issue afterwards.</li>
+<li>The escalation system in “Demogagues in the Vinicity” (talking, non-violent government programs, fighting in close combat, fighting in ranged combat, propaganda combat) may have made sense for UK politicians (as UK politicians aren’t expected to carry weapons or conduct military raids), but doesn’t make sense for Jedi - though it could make sense for a mixed party of Jedi/Imperial/Republic politicians.
+<ul>
+<li>It’s very easy to switch out the Escalation System though, so I’ll create a Jedi-specific escalation system and will post it after the next session.</li>
+</ul>
+</li>
+</ul>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/17</link>
+        <pubDate>Wed, 22 Jan 2020 01:53:56 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4092-17</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092.rss">Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</source>
+      </item>
+      <item>
+        <title>Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</title>
+        <dc:creator><![CDATA[@Christo]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/christo">@Christo</a> wrote:</p>
+          <blockquote>
+              <p>Well, if you branch out to playtest online, I’m game!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/16</link>
+        <pubDate>Wed, 25 Dec 2019 18:22:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4092-16</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092.rss">Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</source>
+      </item>
+      <item>
+        <title>Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</title>
+        <dc:creator><![CDATA[@igorhorst]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/igorhorst">@igorhorst</a> wrote:</p>
+          <blockquote>
+              <p>The campaign will take place in-person at a public restaurant, so recording the campaign will probably not be possible. But I will likely write down my notes on what exactly happened (it’ll be good GM reference material), which can be fleshed out into an AP.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/15</link>
+        <pubDate>Wed, 25 Dec 2019 18:13:51 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4092-15</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092.rss">Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</source>
+      </item>
+      <item>
+        <title>Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</title>
+        <dc:creator><![CDATA[@Christo]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/christo">@Christo</a> wrote:</p>
+          <blockquote>
+              <p>You could record it on YouTube and enable automatic captioning. It’s not perfect, but you or I could download the transcript later. Or I could listen to the video.  Don’t want to make more work for you. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/grin.png?v=9" title=":grin:" class="emoji" alt=":grin:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/14</link>
+        <pubDate>Wed, 25 Dec 2019 17:11:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4092-14</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092.rss">Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</source>
+      </item>
+      <item>
+        <title>Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</title>
+        <dc:creator><![CDATA[@igorhorst]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/igorhorst">@igorhorst</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="12" data-topic="4092" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/christo/40/2929_2.png" class="avatar"> Christo:</div>
+<blockquote>
+<p>This sounds fascinating! I don’t suppose you have any APs of this posted?</p>
+</blockquote>
+</aside>
+<p>The campaign hasn’t started yet, so no APs yet. But I might write up APs later on though, once the campaign starts up in January.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/13</link>
+        <pubDate>Wed, 25 Dec 2019 17:05:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4092-13</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092.rss">Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</source>
+      </item>
+      <item>
+        <title>Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</title>
+        <dc:creator><![CDATA[@Christo]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/christo">@Christo</a> wrote:</p>
+          <blockquote>
+              <p>This sounds fascinating! I don’t suppose you have any APs of this posted?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/12</link>
+        <pubDate>Wed, 25 Dec 2019 14:42:13 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4092-12</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092.rss">Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</source>
+      </item>
+      <item>
+        <title>Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>I’ve done some “Jedi in the Vineyard”, with no modifications to the rules, and we had a blast. Mind you, gameplay was definitely “Dogs in the Vineyard with Star Wars gloss”, as opposed to something anyone would recognize as legitimate “Star Wars stories”, but I could see changing that up with appropriately different Town Creation (and maybe some additional rules for space travel/chases - how to apply Fallout in space combat, for example?).</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/11</link>
+        <pubDate>Sun, 22 Dec 2019 06:44:13 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4092-11</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092.rss">Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</source>
+      </item>
+      <item>
+        <title>Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</title>
+        <dc:creator><![CDATA[@igorhorst]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/igorhorst">@igorhorst</a> wrote:</p>
+          <blockquote>
+              <p>I recently wrote up another Town using the “Star Wars” IP (well, based on the Star Wars Legends continuity and a fanfic I wrote up) and plan on running it in a 3-session campaign. This would be a good test of my house rules because DitV had previously been used to run Star Wars games before, with some modifications.</p>
+<p>As a stress test of my generic system, I plan on no such modifications - players just happen to be high-ranking Jedi Masters who have lots of influence and power, while the “Disorder Personification” they’re up against would just be the Sith. Want to embrace the Dark Side? Just set up a Relationship with the Sith…just don’t be surprised if Anti-Disorder NPCs start shooting at you.</p>
+<p>I plan on posting my Star Wars Town when the campaign finishes.</p>
+<p>As a side-note, I have thought about building a new setting based on Star Wars, but still incorporating my interpretations of the source material. You can’t commercialize Star Wars stuff, but you <em>can</em> commercialize stuff in a new setting “inspired” by Star Wars (which might be useful if I do wind up turning these DitV house rules into a commercial endeavor). If I do make a new setting, I will probably release it as CC-BY so that other people could use it for their own commercial purposes.</p>
+<p>EDIT: As another side-note, while I am thinking about commercializing these rules, it’s probably unlikely as I don’t have the free time necessary to do the play-testing and marketing needed to sell these rules. Even if I do commercialize, the old non-commercialized rules would still be available for people to use for free.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/10</link>
+        <pubDate>Sat, 21 Dec 2019 15:45:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4092-10</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092.rss">Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</source>
+      </item>
+      <item>
+        <title>Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</title>
+        <dc:creator><![CDATA[@igorhorst]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/igorhorst">@igorhorst</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="8" data-topic="4092">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/paul_t/40/1825_2.png" class="avatar"> Paul_T:</div>
+<blockquote>
+<p>Or do you always abstract that way and only describe how things affect the overall position or popularity (or similar things) of the people in charge?</p>
+</blockquote>
+</aside>
+<p>Yeah, I just abstract away non-politicians.</p>
+<p>Fallout only impact the people in charge - if a politican take the blow, their reputation or support base gets damaged. That may be due to many reasons - like being unable to explain away an inconvenient scandal, or letting your underlings get harmed. We’ll let the fiction decide.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/9</link>
+        <pubDate>Tue, 17 Dec 2019 22:12:44 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4092-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092.rss">Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</source>
+      </item>
+      <item>
+        <title>Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>Indeed. Sounds about right to me.</p>
+<p>But does all the fallout apply to the “movers and shakers” behind the scenes? That’s an additional challenge here:</p>
+<p>When I play Dogs, someone Taking the Blow is often significant because someone real is now suffering harm and in danger.</p>
+<p>When you have two powerful people in conflict throwing underlings at each other, how do you determine whether the Fallout is affecting those underlings or the people in charge?</p>
+<p>Or do you always abstract that way and only describe how things affect the overall position or popularity (or similar things) of the people in charge?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/8</link>
+        <pubDate>Tue, 17 Dec 2019 18:14:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4092-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092.rss">Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</source>
+      </item>
+      <item>
+        <title>Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</title>
+        <dc:creator><![CDATA[@igorhorst]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/igorhorst">@igorhorst</a> wrote:</p>
+          <blockquote>
+              <p>Ah, there’s a weakness in my rules there.</p>
+<p>It <em>is</em> awkward to deal with Fallout damage in large-scale conflicts, and the only way we handled it is to brush aside the details of <strong>how</strong> a character became Seriously Injured and then later Dead, at best stating (in rather vague terms) that the character’s reputation was smeared during the conflict, and he may be forced to retire or be assassinated (possibly by disgruntled constituents). We focus entirely on the “negotiation clause”, and that helps to distract from the Fallout weirdness.</p>
+<p>The next game I run, I should probably tell players to define (in the fiction) how they became Seriously Injured during the conflict, and see if that gets rid of the awkwardness.</p>
+<p>To help reduce the chance of awkwardness further…I could also treat Fallout as an abstraction of “unpopularity”, Growth as figuring out how to change yourself to recover from your loss of reputation, and “Recovery from Serious Injury” as waiting out the wave of unpopularity and slowly building back your support base. That might help a player generate enough fiction to justify the Serious Injury.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/7</link>
+        <pubDate>Fri, 13 Dec 2019 23:25:41 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4092-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092.rss">Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</source>
+      </item>
+      <item>
+        <title>Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>That sounds pretty workable to me; I’ve always been aware of the great potential for flexibility in application when it comes to DitV combat.</p>
+<p>The only challenge is handling fallout. I see you have a clever negotiation clause worked into being badly injured… can you tell us a bit about how fallout tends to be handled in these “zoomed out” conflicts? How does it differ from typical Dogs play, and does it ever feel awkward?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/6</link>
+        <pubDate>Fri, 13 Dec 2019 20:02:03 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4092-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092.rss">Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</source>
+      </item>
+      <item>
+        <title>Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</title>
+        <dc:creator><![CDATA[@igorhorst]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/igorhorst">@igorhorst</a> wrote:</p>
+          <blockquote>
+              <p>I think I see a lot more large-scale combat as opposed to “traditional” small-scale DitV combat. However, combat in both scenarios feel very similar in play: you’re still pushing dice by Raising and Seeing…the only thing that changes is the fiction that is being used to justify a Raise/See.</p>
+<p>And yes, in large-scale combat, we’re describing events and developments, not specific actions. The dice tells us how successful those events and developments are.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/5</link>
+        <pubDate>Fri, 13 Dec 2019 17:51:23 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4092-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092.rss">Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</source>
+      </item>
+      <item>
+        <title>Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>That is a very clear and detailed document! I am very pleased that you have such a good record of this rather unusual application of the Dogs system, and wonderful examples, too. Fantastic!</p>
+<p>I really like how you adopted the Backgrounds to your setting, too, a nice touch.</p>
+<p>There are many interesting implications to these house rules and this version of the game. I will definitely be thinking on it more!</p>
+<p>How often would you say you see “traditional” Dogs-like conflicts (two people talking or fighting with each other), compared to large-scale conflicts that involve a lot of people and have the players narrating relatively freely (describing events and developments, instead of individual actions, if I understand correctly)? Do they feel very different in play?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/4</link>
+        <pubDate>Wed, 11 Dec 2019 20:37:54 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4092-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092.rss">Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</source>
+      </item>
+      <item>
+        <title>Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</title>
+        <dc:creator><![CDATA[@igorhorst]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/igorhorst">@igorhorst</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="2" data-topic="4092">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/paul_t/40/1825_2.png" class="avatar"> Paul_T:</div>
+<blockquote>
+<p>Reading your arenas of conflict and the kinds of situations which occurred in your game, I am trying to imagine the kinds of fictional situations they represented and what a typical Raise might look like. Do you play out large-scale situations, without the characters being physically present? Or what? Might a Raise be something like “the municipal police send three squad cars to the scene”, for example?</p>
+</blockquote>
+</aside>
+<p>I play out large-scale situations, without players being physically present (if they want to help out, they can assist, without being present as well).</p>
+<p>I can zoom into specific events within the conflict where players are indeed present (for example, the “Director-General of the BBC” interviewing the leader of the Combined Peace Movement directly, without intermediaries) as necessary, for dramatic purposes…and then to zoom back out to the big picture for the rest of the conflict.</p>
+<p>A Raise would be like as you say, “the municipal police send three squad cars to the scene”, though I would like more detail to help tie it to the fiction (“how are those squad cars helping your side or hurting the other side and forcing them to respond?”).</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/3</link>
+        <pubDate>Wed, 11 Dec 2019 18:22:02 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4092-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092.rss">Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</source>
+      </item>
+      <item>
+        <title>Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>This is some serious business! I’m looking forward to digging into it; it’s quite an ambitious and a very interesting application of the Dogs system (kind of like DitV superheroes - <a href="https://www.reddit.com/r/rpg/comments/7q3p83/xmen_in_the_vineyard_whats_at_stake_is_can_you/" rel="nofollow noopener">https://www.reddit.com/r/rpg/comments/7q3p83/xmen_in_the_vineyard_whats_at_stake_is_can_you/</a>), and I have long said that if people spent as much time with a game like this they’d discover as much different ground to explore as the hobby has over the decades with D&amp;D. This a good of proof of concept in that sense!</p>
+<p>Reading your arenas of conflict and the kinds of situations which occurred in your game, I am trying to imagine the kinds of fictional situations they represented and what a typical Raise might look like. Do you play out large-scale situations, without the characters being physically present? Or what? Might a Raise be something like “the municipal police send three squad cars to the scene”, for example?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/2</link>
+        <pubDate>Tue, 10 Dec 2019 21:13:42 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4092-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092.rss">Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</source>
+      </item>
+      <item>
+        <title>Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</title>
+        <dc:creator><![CDATA[@igorhorst]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/igorhorst">@igorhorst</a> wrote:</p>
+          <blockquote>
+              <p>After some discussion in a <a href="https://forums.gauntlet-rpg.com/t/dogs-in-the-vineyard-who-do-you-know-in-town/">previous DitV thread</a>, Paul_T suggest that I start <a href="https://forums.gauntlet-rpg.com/t/dogs-in-the-vineyard-who-do-you-know-in-town/2344/43">a new thread about my ‘Cold War’ game</a>. So here is that new thread.</p>
+<p>Here’s my house rules for “Demagogues in the Vicinity”, my houserules for DitV that I used for the ‘Cold War’ game.</p>
+<aside class="onebox googledocs">
+  <header class="source">
+      <a href="https://docs.google.com/document/d/1h6hY4UbEJqbdMVbQ8EZi9SK5GgU54Ya0pR5v8Ic0_xc/edit?usp=sharing" target="_blank" rel="nofollow noopener">docs.google.com</a>
+  </header>
+  <article class="onebox-body">
+    <a href="https://docs.google.com/document/d/1h6hY4UbEJqbdMVbQ8EZi9SK5GgU54Ya0pR5v8Ic0_xc/edit?usp=sharing" target="_blank" rel="nofollow noopener"><span class="googledocs-onebox-logo g-docs-logo"></span></a>
+
+<h3><a href="https://docs.google.com/document/d/1h6hY4UbEJqbdMVbQ8EZi9SK5GgU54Ya0pR5v8Ic0_xc/edit?usp=sharing" target="_blank" rel="nofollow noopener">Demogauges in the Vinicity</a></h3>
+
+<p>DitV Reference Sheet Acuity: More dice in Acuity means a character who’s perceptive, alert, educated, clever, savvy or well-read. Body: More dice in Body means a character who’s big, healthy, strong, wiry, muscular, tall, graceful, quick, or steady....</p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>Note that I included only a brief summation of the sample scenario ‘1986 Coup’ - the full scenario is currently kept under wraps because I plan on running it again for my local group. After I finish running it, I’ll post my full notes for the 1986 Coup. That being said, my brief summation should be enough to explain how I set up the Town properly.</p>
+<p>My goal is to produce a generic system that can be used to represent players possessing political leadership (in the same way that the vanilla DitV was about police officers possessing unlimited power in resolving political disputes, to protect domestic peace and tranquility). It essentially reskins a lot of concepts from DitV to be more generic and less supernatural (demons become ‘Disorder Personifications’, the Town Creation process is purely secular, etc.). I definitely plan on reusing these rules again the future.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092/1</link>
+        <pubDate>Sun, 01 Dec 2019 21:44:17 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4092-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/demagogues-in-the-vincity-igor-horsts-houserules-for-dogs-in-the-vineyard/4092.rss">Demagogues in the Vincity (Igor Horst&#39;s houserules for &quot;Dogs in the Vineyard&quot;)</source>
+      </item>
+  </channel>
+</rss>

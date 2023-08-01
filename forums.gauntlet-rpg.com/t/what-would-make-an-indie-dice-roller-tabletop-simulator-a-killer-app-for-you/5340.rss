@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</title>
+    <link>https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340</link>
+    <description>(really hope this is the right forum for this...)
+
+I&#39;m going to be spending my weekend (and maybe next weekend too) working on [https://1kfa.com/table](https://www.1kfa.com/table), and while there are definitely some bugs that need fixing, I also want to add some new features.
+
+So my question for you: what feature could this software have that would make *you* want to use it in your next online session? I think the most useful feedback is often the most specific, so feel free to get into the nitty gritty. If you want to see a Blades in the Dark character sheet that has buttons to press for Devil&#39;s Bargain, and it highlights when there are 2+ sixes, and it needs to be ready for your session next Friday, please get that specific.
+
+If you&#39;ve got a Github account, you can drop requests and ideas in the [Issues](https://github.com/sjbrown/togetherness/issues) page, or just post something here.
+
+(Note, if you&#39;re going to post about the Save / Load bugs and the Multiplayer state syncing bugs, I already know about them and those will be my first priorities this weekend)
+
+Thanks so much for any feedback, and heck, thanks just for taking a look!</description>
+    
+    <lastBuildDate>Sun, 17 Oct 2021 13:15:28 +0000</lastBuildDate>
+    <category>RPG Chat</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</title>
+        <dc:creator><![CDATA[@Wilhelm]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/wilhelm">@Wilhelm</a> wrote:</p>
+          <blockquote>
+              <p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/6/65bb9b4b988e01d02ca77173bc50ae8d9dc4ce7f.png" data-download-href="/uploads/short-url/evYawTXnKsnAEkOZgO0UnQDTlWD.png?dl=1" title="Screenshot_2021-10-17_14-20-47" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/6/65bb9b4b988e01d02ca77173bc50ae8d9dc4ce7f_2_620x500.png" alt="Screenshot_2021-10-17_14-20-47" data-base62-sha1="evYawTXnKsnAEkOZgO0UnQDTlWD" width="620" height="500" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/6/65bb9b4b988e01d02ca77173bc50ae8d9dc4ce7f_2_620x500.png, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/6/65bb9b4b988e01d02ca77173bc50ae8d9dc4ce7f_2_930x750.png 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/6/65bb9b4b988e01d02ca77173bc50ae8d9dc4ce7f.png 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/6/65bb9b4b988e01d02ca77173bc50ae8d9dc4ce7f_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Screenshot_2021-10-17_14-20-47</span><span class="informations">1109×894 122 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>We’re getting these strange circles that don’t go away when we use the table in multiplayer mode.</p>
+<p>But our campaign is on session 34 now and in general it works well enough. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/148">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/148</link>
+        <pubDate>Sun, 17 Oct 2021 13:15:28 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5340-148</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340.rss">What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</source>
+      </item>
+      <item>
+        <title>What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</title>
+        <dc:creator><![CDATA[@sjbrown]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/sjbrown">@sjbrown</a> wrote:</p>
+          <blockquote>
+              <p>The current version up at <a href="http://1kfa.com/table" rel="nofollow noopener">1kfa.com/table</a> is the “latest” still.  I’ve been taking a break, but I’d like to implement PouchDB / CouchDB as the next feature</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/147">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/147</link>
+        <pubDate>Wed, 21 Jul 2021 17:24:58 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5340-147</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340.rss">What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</source>
+      </item>
+      <item>
+        <title>What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>Excellent question! I’d like to hear this, too.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/146">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/146</link>
+        <pubDate>Wed, 21 Jul 2021 00:22:52 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5340-146</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340.rss">What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</source>
+      </item>
+      <item>
+        <title>What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</title>
+        <dc:creator><![CDATA[@Deckard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deckard">@Deckard</a> wrote:</p>
+          <blockquote>
+              <p>nice thread necro!  I’m glad you are still working on this!  Do you have a link to the latest and greatest beta version?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/145">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/145</link>
+        <pubDate>Thu, 15 Jul 2021 04:05:58 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5340-145</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340.rss">What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</source>
+      </item>
+      <item>
+        <title>What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</title>
+        <dc:creator><![CDATA[@sjbrown]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/sjbrown">@sjbrown</a> wrote:</p>
+          <blockquote>
+              <p>I’ve now implemented Exploding Dice.  Please have a look!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/144">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/144</link>
+        <pubDate>Mon, 11 Jan 2021 17:03:54 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5340-144</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340.rss">What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</source>
+      </item>
+      <item>
+        <title>What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</title>
+        <dc:creator><![CDATA[@MrGarland]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/mrgarland">@MrGarland</a> wrote:</p>
+          <blockquote>
+              <p>Another follow-up on the use of the Togetherness goodness:</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/b/b5bc88e61319569aa0e8574ea67bfb83a8fdbbef.png" class="site-icon" width="32" height="32">
+      <a href="https://oldscouserroleplaying.com/2020/11/20/my-grogmeetish-2020/" target="_blank" title="12:51PM - 20 November 2020" rel="nofollow noopener">Old Scouser Roleplaying – 20 Nov 20</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:440/204;"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/9/947321b20ddc4f777e98cab937c898cdf926f5fa.jpeg" class="thumbnail" width="440" height="204"></div>
+
+<h3><a href="https://oldscouserroleplaying.com/2020/11/20/my-grogmeetish-2020/" target="_blank" rel="nofollow noopener">My Grogmeetish 2020</a></h3>
+
+<p>Anyone who has attended previous Grogmeets knows what a special event it is and why it is considered by many Grognards to be the RPG event of the year. When this whole Covid thing started, I’…</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/6/69b3fb9b332191f6da3775c12707f571f407afc1.png" data-download-href="/uploads/short-url/f55Kf2b3yXziQiDAei4O5XDkqYx.png?dl=1" title="" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/6/69b3fb9b332191f6da3775c12707f571f407afc1_2_690x339.png" alt data-base62-sha1="f55Kf2b3yXziQiDAei4O5XDkqYx" width="690" height="339" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/6/69b3fb9b332191f6da3775c12707f571f407afc1_2_690x339.png, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/6/69b3fb9b332191f6da3775c12707f571f407afc1.png 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/6/69b3fb9b332191f6da3775c12707f571f407afc1.png 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/6/69b3fb9b332191f6da3775c12707f571f407afc1_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename"></span><span class="informations">960×472 474 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/143">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/143</link>
+        <pubDate>Fri, 20 Nov 2020 18:56:55 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5340-143</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340.rss">What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</source>
+      </item>
+      <item>
+        <title>What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</title>
+        <dc:creator><![CDATA[@MrGarland]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/mrgarland">@MrGarland</a> wrote:</p>
+          <blockquote>
+              <p>The tokens are from Talisman Adventures. They’re Light and Dark Fate.</p>
+<p>Played a game yesterday. I’ll write up some feedback as Multi-player was workable, but very buggy. I realise this bit it Beta/WIP, but I had good feedback from the players on the look and feel as a standalone tool.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/e/e656213016893a0e5e1446a5b54c2ee4b8cf845d.jpeg" data-download-href="/uploads/short-url/wRElHO3kZbh5F7rSvCezy1NTNTf.jpeg?dl=1" title="20201115_140114" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/e/e656213016893a0e5e1446a5b54c2ee4b8cf845d_2_690x287.jpeg" alt="20201115_140114" data-base62-sha1="wRElHO3kZbh5F7rSvCezy1NTNTf" width="690" height="287" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/e/e656213016893a0e5e1446a5b54c2ee4b8cf845d_2_690x287.jpeg, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/e/e656213016893a0e5e1446a5b54c2ee4b8cf845d_2_1035x430.jpeg 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/e/e656213016893a0e5e1446a5b54c2ee4b8cf845d_2_1380x574.jpeg 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/e/e656213016893a0e5e1446a5b54c2ee4b8cf845d_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">20201115_140114</span><span class="informations">1860×776 390 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/142">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/142</link>
+        <pubDate>Sun, 15 Nov 2020 14:03:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5340-142</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340.rss">What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</source>
+      </item>
+      <item>
+        <title>What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</title>
+        <dc:creator><![CDATA[@sjbrown]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/sjbrown">@sjbrown</a> wrote:</p>
+          <blockquote>
+              <p>Cool tokens, where are those from?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/141">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/141</link>
+        <pubDate>Sun, 15 Nov 2020 07:30:26 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5340-141</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340.rss">What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</source>
+      </item>
+      <item>
+        <title>What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</title>
+        <dc:creator><![CDATA[@sjbrown]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/sjbrown">@sjbrown</a> wrote:</p>
+          <blockquote>
+              <p>New update!</p>
+<p>I’ve found that Save/Load bug and used the opportunity to revamp the whole feature.  Now you can also Load a previously-saved state into your currently running state to add a “clone” the whole table.  It might be a handy way to create some pre-generated “templates”.</p>
+<p>I also found a bunch of bugs with the Poker Deck that are now fixed.</p>
+<p>I also made some improvements to the “add another” button. Basically it will add new objects next to the one you currently have selected.</p>
+<p><img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/trumpet.png?v=9" title=":trumpet:" class="emoji only-emoji" alt=":trumpet:"> <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/trumpet.png?v=9" title=":trumpet:" class="emoji only-emoji" alt=":trumpet:"> <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/trumpet.png?v=9" title=":trumpet:" class="emoji only-emoji" alt=":trumpet:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/140">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/140</link>
+        <pubDate>Sun, 15 Nov 2020 07:29:14 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5340-140</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340.rss">What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</source>
+      </item>
+      <item>
+        <title>What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</title>
+        <dc:creator><![CDATA[@Deckard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deckard">@Deckard</a> wrote:</p>
+          <blockquote>
+              <p>One additional awesome bonus is that we can now move the tokens next to the dice roll so initiative is obvious to everyone.  It can also be used for marching order without taking away from Theater of the Mind.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/139">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/139</link>
+        <pubDate>Thu, 12 Nov 2020 19:25:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5340-139</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340.rss">What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</source>
+      </item>
+      <item>
+        <title>What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</title>
+        <dc:creator><![CDATA[@MrGarland]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/mrgarland">@MrGarland</a> wrote:</p>
+          <blockquote>
+              <p>Completely new to this thread, I am really impressed by the progress made and would absolutely use this as a tabletop tool to support a common feel whatever the social media platform used to play the game. It’s really intuitive <a class="mention" href="/u/sjbrown">@sjbrown</a> which is a winner for me!</p>
+<p>In short order, without much experimentation, I have a table with the right dice, tokens for the players and Light and Dark Fate to support a bit of Talisman Adventures.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/8/8c774d6ff84c213de9f6b8692323a59d4a4fe815.jpeg" data-download-href="/uploads/short-url/k2CrUPyOuN2bQHEf9mqIZa3Rp4N.jpeg?dl=1" title="talisman-tabletop-and-dice" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/8/8c774d6ff84c213de9f6b8692323a59d4a4fe815.jpeg" alt="talisman-tabletop-and-dice" data-base62-sha1="k2CrUPyOuN2bQHEf9mqIZa3Rp4N" width="690" height="452" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/8/8c774d6ff84c213de9f6b8692323a59d4a4fe815_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">talisman-tabletop-and-dice</span><span class="informations">998×655 118 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>Love it!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/138">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/138</link>
+        <pubDate>Thu, 12 Nov 2020 17:52:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5340-138</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340.rss">What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</source>
+      </item>
+      <item>
+        <title>What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</title>
+        <dc:creator><![CDATA[@sjbrown]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/sjbrown">@sjbrown</a> wrote:</p>
+          <blockquote>
+              <p>I added a little snippet of code to add a standee.  If you can host the images online, HeroForge can be a great resource.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/b/b110e8341c398dcd40dbfbbcfc5563156235a32f.png" data-download-href="/uploads/short-url/pgoJB3wzx9HwUwhDsM2ARMv2ELd.png?dl=1" title="Screenshot from 2020-10-22 21-57-02" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/b/b110e8341c398dcd40dbfbbcfc5563156235a32f.png" alt="Screenshot from 2020-10-22 21-57-02" data-base62-sha1="pgoJB3wzx9HwUwhDsM2ARMv2ELd" width="341" height="499" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/b/b110e8341c398dcd40dbfbbcfc5563156235a32f_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Screenshot from 2020-10-22 21-57-02</span><span class="informations">363×531 44.2 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/137">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/137</link>
+        <pubDate>Fri, 23 Oct 2020 05:31:32 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5340-137</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340.rss">What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</source>
+      </item>
+      <item>
+        <title>What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</title>
+        <dc:creator><![CDATA[@Deckard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deckard">@Deckard</a> wrote:</p>
+          <blockquote>
+              <p>Great!  Now I just need a player to sign up for my Old West card betting Leadtown playtest at Gamehole Con (usually in Madison, WI but online this year)  <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/grimacing.png?v=9" title=":grimacing:" class="emoji" alt=":grimacing:"><br>
+Your dice roller is likely more popular at the moment.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/136">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/136</link>
+        <pubDate>Wed, 21 Oct 2020 17:36:38 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5340-136</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340.rss">What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</source>
+      </item>
+      <item>
+        <title>What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>Fantastic news and improvements! Exciting stuff.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/135">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/135</link>
+        <pubDate>Wed, 21 Oct 2020 17:13:52 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5340-135</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340.rss">What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</source>
+      </item>
+      <item>
+        <title>What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>Thanks again.<br>
+I don’t need a feature to turn all up. Rolling dice up is just what I wanted and you’ve done it.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/134">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/134</link>
+        <pubDate>Wed, 21 Oct 2020 06:40:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5340-134</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340.rss">What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</source>
+      </item>
+      <item>
+        <title>What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</title>
+        <dc:creator><![CDATA[@sjbrown]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/sjbrown">@sjbrown</a> wrote:</p>
+          <blockquote>
+              <p>Hi Deckard.</p>
+<p>I’ve changed how the tokens work that will do something cool for you, I think.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/b/bb257b00e33cdad2f5615b93d87aad5224eadd5c.png" data-download-href="/uploads/short-url/qHzAukPBh7hTuQl2ixvtDOUUqKg.png?dl=1" title="Screenshot from 2020-10-20 22-44-50" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/b/bb257b00e33cdad2f5615b93d87aad5224eadd5c.png" alt="Screenshot from 2020-10-20 22-44-50" data-base62-sha1="qHzAukPBh7hTuQl2ixvtDOUUqKg" width="416" height="499" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/b/bb257b00e33cdad2f5615b93d87aad5224eadd5c_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Screenshot from 2020-10-20 22-44-50</span><span class="informations">461×554 44.3 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>At the bottom of the Tokens dialog, there’s an example of how to now add a token with a numerical value.  Any tspans that can be interpreted as a number will interact with Dynamic Papers just the same way that dice will.</p>
+<p>As far as using the tool for a convention, absolutely!  I’d love to garner interest, especially if there are other devs that would want to contribute.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/133">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/133</link>
+        <pubDate>Wed, 21 Oct 2020 05:51:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5340-133</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340.rss">What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</source>
+      </item>
+      <item>
+        <title>What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</title>
+        <dc:creator><![CDATA[@sjbrown]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/sjbrown">@sjbrown</a> wrote:</p>
+          <blockquote>
+              <p>Ok, the weird “turn up” behaviour when you move a die back-and-forth between the Dynamic Paper should be fixed now.  The fix is up at table_beta</p>
+<p>Also Am I hearing you correctly that you’d like a feature for when you’ve got the Dynamic Paper selected to “Turn Up All”, which would increment each die inside the Paper by one?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/132">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/132</link>
+        <pubDate>Wed, 21 Oct 2020 04:05:27 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5340-132</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340.rss">What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</source>
+      </item>
+      <item>
+        <title>What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>Thank you for all the time spent. Firefox on Ubuntu 16.04 did this but now mat and dice work on my smartphone Firefox. Either you are fast or my computer is a contrarian.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/131">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/131</link>
+        <pubDate>Wed, 14 Oct 2020 20:00:21 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5340-131</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340.rss">What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</source>
+      </item>
+      <item>
+        <title>What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</title>
+        <dc:creator><![CDATA[@Deckard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deckard">@Deckard</a> wrote:</p>
+          <blockquote>
+              <p>It’s almost there!  If a second set of tokens was available (for a different denomination), this would be workable.  I like how I can find an image from the internet and post it on the chip.  One issue I did find though is that because my game requires a bit of setup, it would be great if I could save it.  No problem that I needed to save the scrip in a text file.  The issue upon reload though was that the card decks would no longer respond to my requests to flip the cards.</p>
+<p>Edit:  If the tokens auto-sum, the multiple tokens becomes only a minor preference.  On another note, would it be possible for me to use this for a few playtests for an online convention in Nov?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/130">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/130</link>
+        <pubDate>Wed, 14 Oct 2020 15:39:41 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5340-130</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340.rss">What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</source>
+      </item>
+      <item>
+        <title>What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</title>
+        <dc:creator><![CDATA[@sjbrown]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/sjbrown">@sjbrown</a> wrote:</p>
+          <blockquote>
+              <p>Oh, also, you make a great point about using the Sum Dynamic Paper for the tokens. I’ve got an idea of how to make that work, so expect to see that soon too</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/129">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/129</link>
+        <pubDate>Wed, 14 Oct 2020 05:30:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5340-129</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340.rss">What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</source>
+      </item>
+      <item>
+        <title>What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</title>
+        <dc:creator><![CDATA[@sjbrown]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/sjbrown">@sjbrown</a> wrote:</p>
+          <blockquote>
+              <p>Thanks so much for this bug report!  When I read it I was like, “how is that even possible?”</p>
+<p>But then, thanks to all the detail you provided I was able to make an educated guess at what might be happening. Investigation revealed the dice are responding to the “turn up” event multiple times! Clearly not the desired behavior!</p>
+<p>The good news is, after thinking about it and puzzling over it for a while, I realized that the fix might be to make the code a whole lot simpler. I might even be able to have a net reduction in code. (In case you’re not familiar, the thing coders love most is deleting code)</p>
+<p>So I’ll try to fix that in the coming days.</p>
+<p>As far as a right click menu, one has been implemented, however it depends on the browser implementing the web standard. I think right now only Firefox implements the right click menu standard. Might be a good excuse to try Firefox!</p>
+<p>Thanks again for the great bug report!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/128">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/128</link>
+        <pubDate>Wed, 14 Oct 2020 05:28:38 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5340-128</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340.rss">What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</source>
+      </item>
+      <item>
+        <title>What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>In the beta I get some strange behaviour by turning up the dice. I wanted to have 4 tokens on a personal mat (dynamic paper) and sum them up. I then understood that the mat wouldn’t sum tokens so I added 4 dice to it, and tried to roll all dice up to 1. On roll up, the first die went “2 4 6 2 …”. So I tried to take the dice out of the mat and back again, and roll them a few times to get rid of this behaviour. On roll up, the first die went “6 5 4 3 2 1”, that is : counting backwards. Then the second die went “6 1” like it should. And the third went “3 3 3 3 3”. I had to get rid of this one. The next one went as expected, but some other did a “1 3 5 1” loop. It’s not a serious problem : it’s only a test, I can find a roundabout and setup a game anyway.<br>
+Also I have to take the dice out of the mat to roll them up. Or rather, when I roll a die up, it falls through the mat.<br>
+Summing up tokens would be simpler for my use.<br>
+Finally, I keep right clicking on the dice : it looks like my finger wants a menu on right click. I am no slave to my finger, but I told it I would pass the message.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/127">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/127</link>
+        <pubDate>Tue, 13 Oct 2020 17:23:14 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5340-127</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340.rss">What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</source>
+      </item>
+      <item>
+        <title>What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</title>
+        <dc:creator><![CDATA[@sjbrown]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/sjbrown">@sjbrown</a> wrote:</p>
+          <blockquote>
+              <p>Hi Deckard, I’ve started some work on Tokens now, it’s on the beta version.  Check out <a href="https://www.1kfa.com/table_beta" rel="nofollow noopener">https://www.1kfa.com/table_beta</a></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/126">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/126</link>
+        <pubDate>Tue, 13 Oct 2020 05:15:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5340-126</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340.rss">What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</source>
+      </item>
+      <item>
+        <title>What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</title>
+        <dc:creator><![CDATA[@sjbrown]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/sjbrown">@sjbrown</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/alun_r">@Alun_R</a>, <a class="mention" href="/u/paul_t">@Paul_T</a></p>
+<p>I’ve been working on the Multiplayer feature.  Please check out the beta site at <a href="https://www.1kfa.com/table_beta/" rel="nofollow noopener">https://www.1kfa.com/table_beta/</a> and let me know if you bump into any bugs.</p>
+<p><a class="mention" href="/u/airk">@Airk</a>, I’ve made the “roll” animation a lot more subtle.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/125">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/125</link>
+        <pubDate>Mon, 12 Oct 2020 04:56:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5340-125</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340.rss">What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</source>
+      </item>
+      <item>
+        <title>What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</title>
+        <dc:creator><![CDATA[@sjbrown]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/sjbrown">@sjbrown</a> wrote:</p>
+          <blockquote>
+              <p>This week I added a Dynamic Paper that works even better for Genesys, it will cancel out Failure/Success and just give the net total, for example</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/124">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340/124</link>
+        <pubDate>Sat, 26 Sep 2020 17:05:55 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5340-124</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/what-would-make-an-indie-dice-roller-tabletop-simulator-a-killer-app-for-you/5340.rss">What would make an indie dice-roller / tabletop simulator a &quot;killer app&quot; for you?</source>
+      </item>
+  </channel>
+</rss>

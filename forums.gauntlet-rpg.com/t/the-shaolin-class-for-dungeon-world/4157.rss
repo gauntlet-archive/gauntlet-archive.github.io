@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>The Shaolin Class for Dungeon World</title>
+    <link>https://forums.gauntlet-rpg.com/t/the-shaolin-class-for-dungeon-world/4157</link>
+    <description>After reviewing The Monk and The Initiate Playbooks, I was not completely happy with the way they handled the martial artist type class for DW. Thus, I created my own. I did borrow heavily from the above classes as well as adding my own twist to things. I would love some feedback as I am new to DW design. (I am leaving out the Bonds and starting equipment.)
+
+**The Shaolin**
+
+**Stats**
+
+Your Maximum HP is 8 + Constitution.
+
+Your base damage is d8.
+
+**Alignment**
+
+Lawful: Help people resolve a dispute peacefully.
+
+Good: Endanger yourself to protect those who cannot fight.
+
+Chaotic: Free someone from Bondage.
+
+Neutral: Defeat an opponent stronger than you.
+
+**Starting Moves**
+
+*Choose a Race and gain the corresponding move:*
+
+**Dwarf:** You take 1d6 less damage from Poison sources. Additionally, you may use WIS instead of CHA when you Parley.
+
+**Elf:** Add +1 whenever you use Wisdom of Shifu.
+
+**Human:** You may spend three days training with a new weapon in order to use it with your Signature Style.
+
+*You start with these Moves:*
+
+**Signature Style:** You have mastered a style of Kung Fu. Styles are Precise and Hand Range. Including a weapon adds its tags to your Style. Styles can be used as a combination of Unarmed Strikes and a Staff, Spear, Sabre or another monk specific weapon. Choose a Style.
+
+**Tiger Style:**
+
+* +1 damage
+* +1 To Defy Danger when you do it by powering through (STR)
+* When you Charge an Enemy, on a successful Hack and Slash you deal your damage +1d6
+
+**Leopard Style:**
+
+* +2 Piercing
+* +1 To Defy Danger when you do it by acting fast (DEX)
+* When you Attack a Surprised Enemy, you may increase your damage by 1d6, or create an advantage: +1 forward to you or an ally acting upon it. You may not expose yourself to the enemy’s attack with this move.
+
+**Crane Style:**
+
+* +1 Armor
+* +1 To Defy Danger when you do it by enduring (CON)
+* Adds Stun tag
+
+**Snake Style:**
+
+* +1 damage
+* +1 To Defy Danger when you do it through mental fortitude (WIS)
+* Adds Forceful tag
+
+**Iron Palm:** Your Unarmed Strikes count as forged weapons. You can safely use unarmed strikes against creatures with dangerous forms. For example, you can hit a creature covered in spikes without taking damage, your hand won’t be damaged from punching an iron golem and striking a fire elemental will not burn you. However, you will be damaged if the dangerous form is strong enough that it would significantly damage Steel weapons that strike it.
+
+**Wisdom of Shifu:** When you think about what your master would do in a situation, you will think of an insight relating to the current situation. The GM may ask you a few questions in return. Roll + WIS. On 10+, the advice is shockingly relevant and detailed. On a 7-9, it’s potentially relevant but vague.
+
+**Advanced Moves:**
+
+*When you gain a level from 2-5, choose from these moves.*
+
+**Flow like Water:** When you move across dangerous or difficult terrain, roll + DEX. *On a 10+, choose 2. *On a 7-9, choose 1.
+
+* You are not harmed or hindered while you move.
+* You move with near superhuman speed and grace
+* You leave no trace of your passage, and nobody notices you.
+
+**Gathering Chi:** When you spend an hour in quiet meditation, lose all of your current Chi and hold 3 Chi. You may spend 1 Chi to gain one of the following effects:
+
+* Deal an additional +1d6 damage
+* Prevent 1d6 damage to yourself
+* Take +1 forward to your next STR, DEX or CON based roll
+
+**Light Step:** When you run across a surface that cannot hold your weight, or a Trapped surface, roll + DEX. On a 10+, you make it across gracefully and without trouble. On a 7-9, you make it across, but expose yourself to danger somehow. The GM will tell you how.
+
+**Skin of Bronze, Bones of Iron:** When you wear no armor and use no shield, you get 2 Armor.
+
+**Stance of Stone:** Your fighting stance makes you very difficult to move or knock down. You ignore the forceful tag on any attacks made on you. Additionally, when you Defy Danger by standing your ground and letting the threat flow past you, take +1.
+
+**Still Mind:** When you attempt to resist a magical effect influencing you, take +1
+
+**Superior Style:**  Choose one additional Signature Style and gain the benefits from that Style.
+
+**Sweep the Leg:** When you train someone in the proper way to fight a specific foe, they take +1 ongoing while facing that foe for one battle.
+
+**Esoteric Training:** Choose one move from another class. Treat your level as one lower for choosing that move. The move may not have a magical source like spells, shapeshifting, etc. Benefits bestowed do not stack with benefits gained from your Signature Style.
+
+*When you gain a level from 6-10, choose from these moves or the level 2-5 moves.*
+
+**Dragon Style:** Required: Superior Style. You gain +1 Armor. You gain +1 Damage. You gain one Benefit from any style you don’t already know.
+
+**Fists of Fire:** Your Unarmed strikes count as being Magical and deal an additional 1d6 Fire damage.
+
+**Focused Mind:** You’re never caught by surprise. When an enemy would get the drop on you, you get to act first instead.
+
+**Forging the Temple Body:** When you have access to a shrine, you may undergo a ritual process of purification and meditation to graft the magical qualities of a weapon directly into your body. This process destroys the magical weapon but gives your Signature Style the magical powers of the destroyed weapon. Benefits of the same type do not stack.
+
+**Instant Master:** When you study someone else using a fighting technique, roll + WIS. On a 10+, hold 3. On a 7-9, hold 1. On a miss, hold 1, but the GM holds 1. You may spend your hold 1-for-1 to use the technique you studied. The GM will tell you what it does. The GM may spend their hold to have a foe use one of your own techniques against you!
+
+**Wax On, Wax Off:** *Replaces: Sweep the Leg* . When you train someone or show them the proper way of fighting, they take +1 ongoing while following your advice, but -1 ongoing when they go against your ways.
+
+**Monkey Moves:** *Required: Gathering Chi.* You may spend 1 Chi for the following effects.
+
+* When you are about to be damaged by a non-magical ranged attack, you may spend 1 Chi to prevent all of the damage.
+* You may spend 1 Chi to gain +1 forward to any Defy Danger roll.
+
+**Sublime Understanding of the Body:** When you attack on a roll of 10+ you may deal your damage and also the target: (Select one)
+
+* Is dizzied and unstable.
+* Feels sick and nauseated.
+* Has one of their limbs locked and made useless.
+
+**Step of the Wind:** You can jump much higher and farther than a normal person and you can climb surfaces swiftly without tools. You only take half damage when falling from great heights.
+
+**Esoteric Mastery:** *Required: Esoteric Training.* Choose one move from another class. Treat your level as one lower for choosing that move. The move may not have a magical source like spells, shapeshifting, etc. Benefits bestowed do not stack with benefits gained from your Signature Style.</description>
+    
+    <lastBuildDate>Tue, 10 Dec 2019 02:29:48 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/the-shaolin-class-for-dungeon-world/4157.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>The Shaolin Class for Dungeon World</title>
+        <dc:creator><![CDATA[@technoskald]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/technoskald">@technoskald</a> wrote:</p>
+          <blockquote>
+              <p>I don’t have a lot to add about the moves, but I’d encourage anyone, especially my fellow Westerners, to take some time to read James Mendez Hodes’ recent article on <a href="https://jamesmendezhodes.com/blog/2019/10/31/asian-representation-and-the-martial-arts">Asian Representation and the Martial Arts</a> (which is largely, though not exclusively, focused on TTRPGs). It’s a bit of a long read, but well worth your time.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-shaolin-class-for-dungeon-world/4157/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-shaolin-class-for-dungeon-world/4157/3</link>
+        <pubDate>Tue, 10 Dec 2019 02:29:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4157-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-shaolin-class-for-dungeon-world/4157.rss">The Shaolin Class for Dungeon World</source>
+      </item>
+      <item>
+        <title>The Shaolin Class for Dungeon World</title>
+        <dc:creator><![CDATA[@BlakeRyan]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/blakeryan">@BlakeRyan</a> wrote:</p>
+          <blockquote>
+              <p>i like it!</p>
+<p>maybe swap the labels for leopard and snake style imo <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-shaolin-class-for-dungeon-world/4157/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-shaolin-class-for-dungeon-world/4157/2</link>
+        <pubDate>Mon, 09 Dec 2019 22:50:21 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4157-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-shaolin-class-for-dungeon-world/4157.rss">The Shaolin Class for Dungeon World</source>
+      </item>
+      <item>
+        <title>The Shaolin Class for Dungeon World</title>
+        <dc:creator><![CDATA[@Belodin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/belodin">@Belodin</a> wrote:</p>
+          <blockquote>
+              <p>After reviewing The Monk and The Initiate Playbooks, I was not completely happy with the way they handled the martial artist type class for DW. Thus, I created my own. I did borrow heavily from the above classes as well as adding my own twist to things. I would love some feedback as I am new to DW design. (I am leaving out the Bonds and starting equipment.)</p>
+<p><strong>The Shaolin</strong></p>
+<p><strong>Stats</strong></p>
+<p>Your Maximum HP is 8 + Constitution.</p>
+<p>Your base damage is d8.</p>
+<p><strong>Alignment</strong></p>
+<p>Lawful: Help people resolve a dispute peacefully.</p>
+<p>Good: Endanger yourself to protect those who cannot fight.</p>
+<p>Chaotic: Free someone from Bondage.</p>
+<p>Neutral: Defeat an opponent stronger than you.</p>
+<p><strong>Starting Moves</strong></p>
+<p><em>Choose a Race and gain the corresponding move:</em></p>
+<p><strong>Dwarf:</strong> You take 1d6 less damage from Poison sources. Additionally, you may use WIS instead of CHA when you Parley.</p>
+<p><strong>Elf:</strong> Add +1 whenever you use Wisdom of Shifu.</p>
+<p><strong>Human:</strong> You may spend three days training with a new weapon in order to use it with your Signature Style.</p>
+<p><em>You start with these Moves:</em></p>
+<p><strong>Signature Style:</strong> You have mastered a style of Kung Fu. Styles are Precise and Hand Range. Including a weapon adds its tags to your Style. Styles can be used as a combination of Unarmed Strikes and a Staff, Spear, Sabre or another monk specific weapon. Choose a Style.</p>
+<p><strong>Tiger Style:</strong></p>
+<ul>
+<li>+1 damage</li>
+<li>+1 To Defy Danger when you do it by powering through (STR)</li>
+<li>When you Charge an Enemy, on a successful Hack and Slash you deal your damage +1d6</li>
+</ul>
+<p><strong>Leopard Style:</strong></p>
+<ul>
+<li>+2 Piercing</li>
+<li>+1 To Defy Danger when you do it by acting fast (DEX)</li>
+<li>When you Attack a Surprised Enemy, you may increase your damage by 1d6, or create an advantage: +1 forward to you or an ally acting upon it. You may not expose yourself to the enemy’s attack with this move.</li>
+</ul>
+<p><strong>Crane Style:</strong></p>
+<ul>
+<li>+1 Armor</li>
+<li>+1 To Defy Danger when you do it by enduring (CON)</li>
+<li>Adds Stun tag</li>
+</ul>
+<p><strong>Snake Style:</strong></p>
+<ul>
+<li>+1 damage</li>
+<li>+1 To Defy Danger when you do it through mental fortitude (WIS)</li>
+<li>Adds Forceful tag</li>
+</ul>
+<p><strong>Iron Palm:</strong> Your Unarmed Strikes count as forged weapons. You can safely use unarmed strikes against creatures with dangerous forms. For example, you can hit a creature covered in spikes without taking damage, your hand won’t be damaged from punching an iron golem and striking a fire elemental will not burn you. However, you will be damaged if the dangerous form is strong enough that it would significantly damage Steel weapons that strike it.</p>
+<p><strong>Wisdom of Shifu:</strong> When you think about what your master would do in a situation, you will think of an insight relating to the current situation. The GM may ask you a few questions in return. Roll + WIS. On 10+, the advice is shockingly relevant and detailed. On a 7-9, it’s potentially relevant but vague.</p>
+<p><strong>Advanced Moves:</strong></p>
+<p><em>When you gain a level from 2-5, choose from these moves.</em></p>
+<p><strong>Flow like Water:</strong> When you move across dangerous or difficult terrain, roll + DEX. *On a 10+, choose 2. *On a 7-9, choose 1.</p>
+<ul>
+<li>You are not harmed or hindered while you move.</li>
+<li>You move with near superhuman speed and grace</li>
+<li>You leave no trace of your passage, and nobody notices you.</li>
+</ul>
+<p><strong>Gathering Chi:</strong> When you spend an hour in quiet meditation, lose all of your current Chi and hold 3 Chi. You may spend 1 Chi to gain one of the following effects:</p>
+<ul>
+<li>Deal an additional +1d6 damage</li>
+<li>Prevent 1d6 damage to yourself</li>
+<li>Take +1 forward to your next STR, DEX or CON based roll</li>
+</ul>
+<p><strong>Light Step:</strong> When you run across a surface that cannot hold your weight, or a Trapped surface, roll + DEX. On a 10+, you make it across gracefully and without trouble. On a 7-9, you make it across, but expose yourself to danger somehow. The GM will tell you how.</p>
+<p><strong>Skin of Bronze, Bones of Iron:</strong> When you wear no armor and use no shield, you get 2 Armor.</p>
+<p><strong>Stance of Stone:</strong> Your fighting stance makes you very difficult to move or knock down. You ignore the forceful tag on any attacks made on you. Additionally, when you Defy Danger by standing your ground and letting the threat flow past you, take +1.</p>
+<p><strong>Still Mind:</strong> When you attempt to resist a magical effect influencing you, take +1</p>
+<p><strong>Superior Style:</strong>  Choose one additional Signature Style and gain the benefits from that Style.</p>
+<p><strong>Sweep the Leg:</strong> When you train someone in the proper way to fight a specific foe, they take +1 ongoing while facing that foe for one battle.</p>
+<p><strong>Esoteric Training:</strong> Choose one move from another class. Treat your level as one lower for choosing that move. The move may not have a magical source like spells, shapeshifting, etc. Benefits bestowed do not stack with benefits gained from your Signature Style.</p>
+<p><em>When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</em></p>
+<p><strong>Dragon Style:</strong> Required: Superior Style. You gain +1 Armor. You gain +1 Damage. You gain one Benefit from any style you don’t already know.</p>
+<p><strong>Fists of Fire:</strong> Your Unarmed strikes count as being Magical and deal an additional 1d6 Fire damage.</p>
+<p><strong>Focused Mind:</strong> You’re never caught by surprise. When an enemy would get the drop on you, you get to act first instead.</p>
+<p><strong>Forging the Temple Body:</strong> When you have access to a shrine, you may undergo a ritual process of purification and meditation to graft the magical qualities of a weapon directly into your body. This process destroys the magical weapon but gives your Signature Style the magical powers of the destroyed weapon. Benefits of the same type do not stack.</p>
+<p><strong>Instant Master:</strong> When you study someone else using a fighting technique, roll + WIS. On a 10+, hold 3. On a 7-9, hold 1. On a miss, hold 1, but the GM holds 1. You may spend your hold 1-for-1 to use the technique you studied. The GM will tell you what it does. The GM may spend their hold to have a foe use one of your own techniques against you!</p>
+<p><strong>Wax On, Wax Off:</strong> <em>Replaces: Sweep the Leg</em> . When you train someone or show them the proper way of fighting, they take +1 ongoing while following your advice, but -1 ongoing when they go against your ways.</p>
+<p><strong>Monkey Moves:</strong> <em>Required: Gathering Chi.</em> You may spend 1 Chi for the following effects.</p>
+<ul>
+<li>When you are about to be damaged by a non-magical ranged attack, you may spend 1 Chi to prevent all of the damage.</li>
+<li>You may spend 1 Chi to gain +1 forward to any Defy Danger roll.</li>
+</ul>
+<p><strong>Sublime Understanding of the Body:</strong> When you attack on a roll of 10+ you may deal your damage and also the target: (Select one)</p>
+<ul>
+<li>Is dizzied and unstable.</li>
+<li>Feels sick and nauseated.</li>
+<li>Has one of their limbs locked and made useless.</li>
+</ul>
+<p><strong>Step of the Wind:</strong> You can jump much higher and farther than a normal person and you can climb surfaces swiftly without tools. You only take half damage when falling from great heights.</p>
+<p><strong>Esoteric Mastery:</strong> <em>Required: Esoteric Training.</em> Choose one move from another class. Treat your level as one lower for choosing that move. The move may not have a magical source like spells, shapeshifting, etc. Benefits bestowed do not stack with benefits gained from your Signature Style.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-shaolin-class-for-dungeon-world/4157/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-shaolin-class-for-dungeon-world/4157/1</link>
+        <pubDate>Mon, 09 Dec 2019 19:14:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4157-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-shaolin-class-for-dungeon-world/4157.rss">The Shaolin Class for Dungeon World</source>
+      </item>
+  </channel>
+</rss>

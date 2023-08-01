@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Randomless Narrative Tools - Myriad and Marauder</title>
+    <link>https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756</link>
+    <description>I&#39;ve been working on systems to enable asynchronous roleplay on and off the table. The ultimate goal is to create an Asynchronous Narrative System where player characters can easily be in different places and times without the need for a gamemaster. 
+
+When playtesting these systems with my group, it was really important to the players to always know what their options were and to be able to plan ahead. 
+
+**Myriad**
+
+Myriad is my attempt to create a diceless oracle system. You can find the itch page for the project [here](https://gwyllgi.itch.io/myriad). It’s free.
+
+It looks like this:
+
+![](https://img.itch.zone/aW1hZ2UvMTI4MDQwNS83NjU3NjMzLnBuZw==/original/24wep0.png)
+![0xby6l|690x388](upload://xfwbsH1LhodO4uTY0SZC6OoMQUp.png) 
+
+Starting on Rest, the player has four options available to them - Focus, Keys, Wild, and News. To reach Trove, the player must conjure Keywords for the scene. 
+
+There is also a hex-flower version:
+
+![MA1Qqh|690x394](upload://a9yueDKw4ZBRDv6BuZ6faiYNyFt.png) 
+
+Why diceless? As a facilitator, I want players to always be aware of the narrative options they have available to them, but I also still want it to be a game and for the players to work for a reward. With this system, players spend the time between turns thinking about what they will do next.
+
+**Marauder**
+
+Marauder borrows terminology and functions from Graph Theory. A Marauder map consists of Vertices, Edges, and Weights. A vertex can be any narrative focus and the map is used to measure relationships between vertices. You can find the itch project [here](https://gwyllgi.itch.io/marauder). It&#39;s free.
+
+It looks like this:
+
+![vxp7q5|690x394](upload://nEOMITkMadQlUlr5a6vODu5ftw8.png) 
+
+Edges connect vertices and weights detail the strength of the relationship between them.
+
+The placement of the vertices on the map doesn’t indicate the physical or actual location of the node as in a traditional map. A town and city on opposite sides of the world could sit next to each other on a Marauder map, with a distance weight of “200 miles”.
+
+**Using the Myriad and Marauder together to play asynchronously.**
+
+Key &amp; Token works well with Myriad and Marauder, although you could use any narrative roleplaying system.
+
+Players use the Myriad to determine what they will create and add to the narrative. A player decides to move to ‘Focus’ on the Myriad and they create the capital city of the world. On the Marauder map, the player places a vertex with the capital city symbol and gives the city a name. From here, players could add leaders, organisations, and structures as connected vertices.
+
+On the next turn, another player decides to do the same. They move to Focus on the Myriad and create a town on the Marauder map. The player adds an Edge to connect the town and city, then adds a distance Weight to indicate that the town and city are 20 miles apart.
+
+As the Marauder map grows, the player characters can use tokens to place their characters in different places and move between them.
+
+**What’s next?**
+
+I’m developing a night and day system. A progress clock might do, but I have considered using a Lemniscate graph for this. The idea here is that a player could move their character token to the capital city on the marauder map, but while they visit the city in the dusk, another player is there at noon.
+
+I’m very interested to hear people’s thoughts on these proposals, especially how these work in play. Thank you for reading this far, I hope you have found it useful.</description>
+    
+    <lastBuildDate>Fri, 18 Feb 2022 17:18:17 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Randomless Narrative Tools - Myriad and Marauder</title>
+        <dc:creator><![CDATA[@davey]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/davey">@davey</a> wrote:</p>
+          <blockquote>
+              <p>I’ve not developed the idea much beyond that kernel. But the idea is that by blocking spaces (like lots of worker-placement board games do) you could put constraints on story and force novel developments.  Let’s see:  if this is a gmFull game w distributed gming then each world element might have its own token or tokens and a little cheat sheet of questions to select from that will drive story. Each hex could have its own differentiated set of questions for that world element. Move a token and the elements you add to the story are guided by the questions corresponding to that hex. I could see how That could get to be a bit much if not sufficiently streamlined.<br>
+The challenge is to build in a motivation to move places that would result in tokens having to take indirect paths to avoid already occupied spaces.  Any ideas there?  The system undergirding and driving the hex system is what most needs building.  That’s the key I think.  What motivates directional movement?  Could be that completing a story arc requires that tokens land on 4 spots distributed in some regular pattern across the board.  Vertices of a square or triangle maybe….  I like the idea of each element having maybe three “workers” to place…. I think…<br>
+This would turn the metagame of negotiating positions on the “world map” into a collaborative strategy undertaking .  I like that but wouldn’t want it to go so far as to distract players from story and role playing…</p>
+<p>If this is lighting up any creative energy in you, I’d be open to collaborating on a project (why not?). That may sound presumptuous or reckless, but I’ll offer it anyway <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/grinning.png?v=9" title=":grinning:" class="emoji" alt=":grinning:">.  I’m pretty sure I recall discussing random rpg things w you a few years ago on storygames .com forums?</p>
+<p>I haven’t actually played around w a hex grid yet. Just brainstorming from 30,000 feet. Could be nuking the whole site from orbit is the best choice😂</p>
+<p>Thanks for getting me thinking more about this!<br>
+Davey</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/40">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/40</link>
+        <pubDate>Fri, 18 Feb 2022 17:18:17 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7756-40</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756.rss">Randomless Narrative Tools - Myriad and Marauder</source>
+      </item>
+      <item>
+        <title>Randomless Narrative Tools - Myriad and Marauder</title>
+        <dc:creator><![CDATA[@Rickard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rickard">@Rickard</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="davey" data-post="37" data-topic="7756">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/davey/40/2107_2.png" class="avatar"> davey:</div>
+<blockquote>
+<p>such that spaces get blocked by tokens put into play (by other player/world aspects) occupying those spaces.</p>
+</blockquote>
+</aside>
+<p>OooOOoh, do you care to elaborate on that idea?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/39">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/39</link>
+        <pubDate>Thu, 17 Feb 2022 12:48:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7756-39</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756.rss">Randomless Narrative Tools - Myriad and Marauder</source>
+      </item>
+      <item>
+        <title>Randomless Narrative Tools - Myriad and Marauder</title>
+        <dc:creator><![CDATA[@Gwyllgi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gwyllgi">@Gwyllgi</a> wrote:</p>
+          <blockquote>
+              <p>This is great, I love the idea of managing a character’s mood through something like Myriad Hex.</p>
+<p>We started a Discord server to discuss these randomless tools, feel free to join us here  <a href="https://discord.gg/Eb66CaQaBA" rel="nofollow noopener">https://discord.gg/Eb66CaQaBA</a>.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/38">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/38</link>
+        <pubDate>Thu, 17 Feb 2022 10:41:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7756-38</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756.rss">Randomless Narrative Tools - Myriad and Marauder</source>
+      </item>
+      <item>
+        <title>Randomless Narrative Tools - Myriad and Marauder</title>
+        <dc:creator><![CDATA[@davey]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/davey">@davey</a> wrote:</p>
+          <blockquote>
+              <p>Oh boy, there’s so much good discussion here.  I’ll have to go back and take some of it in (follow links etc) later when I have more time.<br>
+For now I’ll just express my interest and offer some amorphous quasi ideas:<br>
+I’m interested in using a hex map in a gmLess design w distributed gm agency (like in BoB games and archipelago etc) such that spaces get blocked by tokens put into play (by other player/world aspects) occupying those spaces. Bringing some boardgamey mechanics in to drive structured novelty in GMLess games.  Anyone know of this kind of thing extant in the wilds already?</p>
+<p>Also I like the idea of small hex flowers for tracking stats like mental and physical health or even emotional states on character sheets.  Don’t know if anyone has put hex flowers ro those uses either.</p>
+<p>Thx for all the discussion above.  I’m looking forward to reading up on it!</p>
+<p>Davey.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/37">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/37</link>
+        <pubDate>Thu, 17 Feb 2022 05:24:51 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7756-37</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756.rss">Randomless Narrative Tools - Myriad and Marauder</source>
+      </item>
+      <item>
+        <title>Randomless Narrative Tools - Myriad and Marauder</title>
+        <dc:creator><![CDATA[@Gwyllgi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gwyllgi">@Gwyllgi</a> wrote:</p>
+          <blockquote>
+              <p>Fantastic, I’m looking forward to seeing this in action.</p>
+<p>The Goblin’s Henchman also uses a 2d6 to navigate a dungeon hex-flower.  <a href="https://www.drivethrurpg.com/m/product/314715" rel="nofollow noopener">https://www.drivethrurpg.com/m/product/314715</a></p>
+<p>Using the two different dice takes this to the next level.</p>
+<p>Edit: Thinking about dice, the Myriad itself could be portrayed on a single d10 with custom symbols for a fully random application.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/36">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/36</link>
+        <pubDate>Sun, 30 Jan 2022 06:51:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7756-36</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756.rss">Randomless Narrative Tools - Myriad and Marauder</source>
+      </item>
+      <item>
+        <title>Randomless Narrative Tools - Myriad and Marauder</title>
+        <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+          <blockquote>
+              <p>I think Myriad hex now may solve a question I wasn’t able to.</p>
+<p>I wanted a satisfying procedural dungeon generator and the Delve move I used kinda does the job but it’s not quite there.</p>
+<p>I’ve been thinking about ironsworn delve, and it’s kinda too dense for what I want.</p>
+<p>So Myriad hex + dice kinda does it.</p>
+<p>So, akin to ironsworn delve, dungeons have a theme and a Domain. By combining both you get a quite unique dungeon. Roll 2d6 and keep the highest/lowest. The die A will prompt me to interpret the hex according to the domain and the die b, theme.</p>
+<p>The underlying grid is the same but other factors will expand or even fudge the prompts.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/35">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/35</link>
+        <pubDate>Sun, 30 Jan 2022 04:18:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7756-35</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756.rss">Randomless Narrative Tools - Myriad and Marauder</source>
+      </item>
+      <item>
+        <title>Randomless Narrative Tools - Myriad and Marauder</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="TheGiftOfGabes" data-post="32" data-topic="7756">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/thegiftofgabes/40/5229_2.png" class="avatar"> TheGiftOfGabes:</div>
+<blockquote>
+<p>(also, I can’t french <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/frowning.png?v=9" title=":frowning:" class="emoji" alt=":frowning:"> )</p>
+</blockquote>
+</aside>
+<p>OK, here’s the short form:<br>
+You choose what you care for most: camping or scouting.<br>
+You roll 2D6: the best score is for the thing you care for.<br>
+On 1-2, mark a negative condition ; on a 5-6 mark a positive condition.<br>
+Then the sum of two die tells you where you go on the map (a one way track in this instance).<br>
+Also, where the dice falls tell you the weather or other random stuff you want.<br>
+This had the advantage of giving things to interpret from the roll for both players and GM, enabling players to talk about their journey, buying some time for the GM to prepare the next encounter.</p>
+<p>It’s not terribly on topic, but it’s adjacent on so many points and all along that I thought it’d be dumb not to mention it.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/34">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/34</link>
+        <pubDate>Sat, 29 Jan 2022 16:43:57 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7756-34</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756.rss">Randomless Narrative Tools - Myriad and Marauder</source>
+      </item>
+      <item>
+        <title>Randomless Narrative Tools - Myriad and Marauder</title>
+        <dc:creator><![CDATA[@Gwyllgi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gwyllgi">@Gwyllgi</a> wrote:</p>
+          <blockquote>
+              <p>I’m very interested in Iron Core’s philosophy and I generally enjoy 2d6 as a standard for rolling dice. Goblin’s Henchman discusses using 2d6 with his hex-flower engines to great effect. I really enjoy using different colour dice. You’re right, I’d like to see the hex-flower Myriad extended like this.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/33">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/33</link>
+        <pubDate>Sat, 29 Jan 2022 11:37:37 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7756-33</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756.rss">Randomless Narrative Tools - Myriad and Marauder</source>
+      </item>
+      <item>
+        <title>Randomless Narrative Tools - Myriad and Marauder</title>
+        <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+          <blockquote>
+              <p>Yeah, the first time I got exposed to the concept of exploring a 2d6 was with this tech document:</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      
+      <a href="https://worldchampgameco.itch.io/2d6" target="_blank" rel="nofollow noopener">itch.io</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:630/500;"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/f/f39d578d57d1fa7756b3b26ec07990d5bf745e95.png" class="thumbnail" width="630" height="500"></div>
+
+<h3><a href="https://worldchampgameco.itch.io/2d6" target="_blank" rel="nofollow noopener">2d6 by World Champ Game Co.</a></h3>
+
+<p>how much information can we extract from a single roll</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>I’ve even considered mixing it with the Iron Core somehow.</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      
+      <a href="https://opalbreezegames.itch.io/iron-core" target="_blank" rel="nofollow noopener">itch.io</a>
+  </header>
+  <article class="onebox-body">
+    <img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/f/f922e201dbb1e80062111a3aeeb5dbfa5cae1857.png" class="thumbnail onebox-avatar" width="500" height="500">
+
+<h3><a href="https://opalbreezegames.itch.io/iron-core" target="_blank" rel="nofollow noopener">Iron Core by OpalBreeze Games</a></h3>
+
+<p>Iron Core is a rich dice mechanic for you to build your own games.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>In any case, here’s an ado: you can ignore a bad outcome die by spending a token or gain a token by ignoring the good outcome die.</p>
+<p>(also, I can’t french <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/frowning.png?v=9" title=":frowning:" class="emoji" alt=":frowning:"> )</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/32">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/32</link>
+        <pubDate>Sat, 29 Jan 2022 07:31:36 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7756-32</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756.rss">Randomless Narrative Tools - Myriad and Marauder</source>
+      </item>
+      <item>
+        <title>Randomless Narrative Tools - Myriad and Marauder</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>Hey! This strikes me as  good idea.<br>
+Maybe because I did something similar <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"> with La forêt des songes perdus, breaking down a 2D6 navigation roll into 1D6 camping + 1D6 scouting. Bringing back the Otherkind in PbtA. Talking about milking a roll, the same roll also gives season, weather and time of the next encounter (yeah, it’s a weird weather. That’s because of their machines…). The whole setup looks like M&amp;M, only randomized. See for yourself (in french)<br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      
+      <a href="https://dereel.itch.io/la-fort-des-rves-perdus" target="_blank">itch.io</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:355/500;"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/2/2f25760cafdb407f63009ae1b43606d51275f900_2_355x500.png" class="thumbnail" width="355" height="500" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/2/2f25760cafdb407f63009ae1b43606d51275f900_2_355x500.png, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/2/2f25760cafdb407f63009ae1b43606d51275f900_2_532x750.png 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/2/2f25760cafdb407f63009ae1b43606d51275f900.png 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/2/2f25760cafdb407f63009ae1b43606d51275f900_2_10x10.png"></div>
+
+<h3><a href="https://dereel.itch.io/la-fort-des-rves-perdus" target="_blank">La Forêt des Rêves Perdus by DeReel</a></h3>
+
+<p>errance onirique et forestière</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/31">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/31</link>
+        <pubDate>Sat, 29 Jan 2022 05:59:06 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7756-31</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756.rss">Randomless Narrative Tools - Myriad and Marauder</source>
+      </item>
+      <item>
+        <title>Randomless Narrative Tools - Myriad and Marauder</title>
+        <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+          <blockquote>
+              <p>Here’s a thought that just occurred for Myriad Hex:</p>
+<p>I know that the goal is to allow players to pick where they move to, but what if you had a 2d6 system in place, where you kept the highest/lowest one?</p>
+<p>The twist is that the dice are different colours, so if the highest/lowest is colour A, then you read the key in a certain way, and if it’s B you kinda invert it, Tarot-like with the whole “upside-down” cards thing.</p>
+<p>You get to both add a trend (the player will likely move towards the bottom or top of the map) and theoretically double the possible outcomes of the map.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/30">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/30</link>
+        <pubDate>Sat, 29 Jan 2022 00:32:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7756-30</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756.rss">Randomless Narrative Tools - Myriad and Marauder</source>
+      </item>
+      <item>
+        <title>Randomless Narrative Tools - Myriad and Marauder</title>
+        <dc:creator><![CDATA[@Gwyllgi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gwyllgi">@Gwyllgi</a> wrote:</p>
+          <blockquote>
+              <p>Fantastic. I’ve created a Miro board which is ready to use, but I’m still transferring the system reference document. Could be looking at something next week. I will get in touch.</p>
+<p>If you are interested, this is how the system appears fully assembled <a href="https://miro.com/app/board/uXjVOSfnFcE=/?invite_link_id=193728076191" rel="nofollow noopener">Miro Board</a>. The board itself assumes someone knows and can explain how to play. The working title for the full engine is “Decisive”.</p>
+<p>I have changed the character sheet quite significantly, making use of the statements you suggested. (proper attribution will be provided in the full document). The character card also has space for six traits.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/29">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/29</link>
+        <pubDate>Thu, 27 Jan 2022 17:26:51 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7756-29</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756.rss">Randomless Narrative Tools - Myriad and Marauder</source>
+      </item>
+      <item>
+        <title>Randomless Narrative Tools - Myriad and Marauder</title>
+        <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+          <blockquote>
+              <p>Oh, I’d love that! Send me a DM when you have something figured out!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/28</link>
+        <pubDate>Thu, 27 Jan 2022 14:39:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7756-28</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756.rss">Randomless Narrative Tools - Myriad and Marauder</source>
+      </item>
+      <item>
+        <title>Randomless Narrative Tools - Myriad and Marauder</title>
+        <dc:creator><![CDATA[@Gwyllgi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gwyllgi">@Gwyllgi</a> wrote:</p>
+          <blockquote>
+              <p>Absolutely. Something similar to the Quiet Year would fit with this nicely.</p>
+<p>You’re right, I’ve realised that a collaborative storytelling game without a gamemaster can feel like a group of players each enjoying a solo experience together. I’ve started work on a version 2.0 of the released systems so far, combining them into one document.</p>
+<p>I’d be very interested in playing this with all of you here and to show how the system works in action. Is there a space to discuss this outside of the forum?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/27">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/27</link>
+        <pubDate>Thu, 27 Jan 2022 09:26:54 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7756-27</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756.rss">Randomless Narrative Tools - Myriad and Marauder</source>
+      </item>
+      <item>
+        <title>Randomless Narrative Tools - Myriad and Marauder</title>
+        <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+          <blockquote>
+              <p>You know, I just came up with this thought: I think there could be an incredible worldbuilding game to play before we play the other modules. Something that has prompts and stuff for solo or group play that helps come up with a collaborative setting.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/26</link>
+        <pubDate>Thu, 27 Jan 2022 03:47:17 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7756-26</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756.rss">Randomless Narrative Tools - Myriad and Marauder</source>
+      </item>
+      <item>
+        <title>Randomless Narrative Tools - Myriad and Marauder</title>
+        <dc:creator><![CDATA[@Gwyllgi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gwyllgi">@Gwyllgi</a> wrote:</p>
+          <blockquote>
+              <p>Very happy to present the completed weather system today. Here’s the link: <a href="https://gwyllgi.itch.io/forecast" rel="nofollow noopener">https://gwyllgi.itch.io/forecast</a></p>
+<p>The way this works is simple but really fun. Players have six double-sided cards, each representing a full day’s weather. Either side of the card can be used for the day or night. Once the card and the card face are chosen the players place tokens to determine the weather for the stage of the day they are currently exploring. Once all of the boxes on the card are filled the players discard the card. Choice is preferred, but you can very easily use dice too.</p>
+<p>It looks like this:<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/5/506573141f5593a5b245849fcf7e8794a2b2ac16.png" data-download-href="/uploads/short-url/btdyeOQQOlPBNEvCgTsxbGq9OVE.png?dl=1" title="Rules Page" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/506573141f5593a5b245849fcf7e8794a2b2ac16_2_300x500.png" alt="Rules Page" data-base62-sha1="btdyeOQQOlPBNEvCgTsxbGq9OVE" width="300" height="500" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/506573141f5593a5b245849fcf7e8794a2b2ac16_2_300x500.png, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/506573141f5593a5b245849fcf7e8794a2b2ac16_2_450x750.png 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/506573141f5593a5b245849fcf7e8794a2b2ac16_2_600x1000.png 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/506573141f5593a5b245849fcf7e8794a2b2ac16_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Rules Page</span><span class="informations">900×1500 74.1 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/3/305e1e788ff2de493ccdc2600d61725cd79bf2af.png" data-download-href="/uploads/short-url/6TSzc6Zd0QPGE6HkH5nc7qLcPQX.png?dl=1" title="Rules Page (2)" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/3/305e1e788ff2de493ccdc2600d61725cd79bf2af_2_300x500.png" alt="Rules Page (2)" data-base62-sha1="6TSzc6Zd0QPGE6HkH5nc7qLcPQX" width="300" height="500" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/3/305e1e788ff2de493ccdc2600d61725cd79bf2af_2_300x500.png, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/3/305e1e788ff2de493ccdc2600d61725cd79bf2af_2_450x750.png 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/3/305e1e788ff2de493ccdc2600d61725cd79bf2af_2_600x1000.png 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/3/305e1e788ff2de493ccdc2600d61725cd79bf2af_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Rules Page (2)</span><span class="informations">900×1500 111 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div>  <div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/a/a6ff1710af58b95189dff612aa8a761f966d7a65.png" data-download-href="/uploads/short-url/nPjMRuBrzL63fUYs8rIoGkH0k5L.png?dl=1" title="Day Five" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/a/a6ff1710af58b95189dff612aa8a761f966d7a65_2_300x500.png" alt="Day Five" data-base62-sha1="nPjMRuBrzL63fUYs8rIoGkH0k5L" width="300" height="500" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/a/a6ff1710af58b95189dff612aa8a761f966d7a65_2_300x500.png, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/a/a6ff1710af58b95189dff612aa8a761f966d7a65_2_450x750.png 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/a/a6ff1710af58b95189dff612aa8a761f966d7a65_2_600x1000.png 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/a/a6ff1710af58b95189dff612aa8a761f966d7a65_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Day Five</span><span class="informations">900×1500 66.5 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/9/912b397054443e07ed21086cb339755a269db378.png" data-download-href="/uploads/short-url/kIdQ8O9zKfmkbjVAd0epU6UOINW.png?dl=1" title="Day Six (2)" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/9/912b397054443e07ed21086cb339755a269db378_2_300x500.png" alt="Day Six (2)" data-base62-sha1="kIdQ8O9zKfmkbjVAd0epU6UOINW" width="300" height="500" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/9/912b397054443e07ed21086cb339755a269db378_2_300x500.png, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/9/912b397054443e07ed21086cb339755a269db378_2_450x750.png 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/9/912b397054443e07ed21086cb339755a269db378_2_600x1000.png 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/9/912b397054443e07ed21086cb339755a269db378_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Day Six (2)</span><span class="informations">900×1500 68.7 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>At every step of play, the players are challenged to choose their environment. However, once the clear/sunny day is chosen, the players lose it as an option. At some point, the players must choose The Storm.</p>
+<p>I imagine this template could be applied to lots of other systems.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/25</link>
+        <pubDate>Thu, 20 Jan 2022 15:03:44 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7756-25</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756.rss">Randomless Narrative Tools - Myriad and Marauder</source>
+      </item>
+      <item>
+        <title>Randomless Narrative Tools - Myriad and Marauder</title>
+        <dc:creator><![CDATA[@Gwyllgi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gwyllgi">@Gwyllgi</a> wrote:</p>
+          <blockquote>
+              <p>This is really great to read, thank you for the kind words. I’m happy to discuss these systems in greater detail. I look forward to demonstrating the system in its entirety.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/24</link>
+        <pubDate>Tue, 18 Jan 2022 20:48:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7756-24</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756.rss">Randomless Narrative Tools - Myriad and Marauder</source>
+      </item>
+      <item>
+        <title>Randomless Narrative Tools - Myriad and Marauder</title>
+        <dc:creator><![CDATA[@Gwyllgi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gwyllgi">@Gwyllgi</a> wrote:</p>
+          <blockquote>
+              <p>All of the systems released so far use a version of the Creative Commons International 4.0 licence. Feel free to share, remix and adapt the work in any way you like. I’d appreciate just a link to <a href="http://gwyllgi.itch.io" rel="nofollow noopener">gwyllgi.itch.io</a> so that people can explore similar tools. I really appreciate your interest and I’m looking forward to seeing the results.</p>
+<p>Here’s the full usage text:</p>
+<p>You are free to:</p>
+<p><strong>Share</strong> — copy and redistribute the material in any medium or format</p>
+<p><strong>Adapt</strong> - remix, transform, and build upon the material for any purpose, even commercially.</p>
+<p>Under the following terms:</p>
+<p><strong>Attribution</strong> — You must give appropriate credit. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</p>
+<p><strong>No additional restrictions</strong> — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</p>
+<p>As a side note, I’m very interested in the Anti-Capitalist Attribution Licence. I may start using it in the future.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/23</link>
+        <pubDate>Tue, 18 Jan 2022 19:55:23 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7756-23</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756.rss">Randomless Narrative Tools - Myriad and Marauder</source>
+      </item>
+      <item>
+        <title>Randomless Narrative Tools - Myriad and Marauder</title>
+        <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+          <blockquote>
+              <p>What’s the license and attribution situation? I’d like to experiment with things based on some of these systems?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/22</link>
+        <pubDate>Tue, 18 Jan 2022 19:29:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7756-22</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756.rss">Randomless Narrative Tools - Myriad and Marauder</source>
+      </item>
+      <item>
+        <title>Randomless Narrative Tools - Myriad and Marauder</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>You’ve got mail from Thomas Munier (this is getting silly…) :<br>
+"Your point-crawl system is very interesting because it offers a method of world-building and scripting for the game without GM, where my matrix script is primarily aimed at playing with GM. I really like the consideration of asynchronous play to play scenes where the characters are disconnected. My matrix scenario was originally intended for this, but I then used it mainly for synchronous play, although possibilities of cutting the group remain.</p>
+<p>I envision creating a big game to explore the deep universe of Milesvale, and I conceive it as a conglomeration of mini-games, each game being a kind of 4D scenario with a lot of elasticity and creativity left at the table, and lots of bulleted lists, to play with or without a GM. Certainly, your method will inspire me to do this"</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/21</link>
+        <pubDate>Tue, 18 Jan 2022 19:04:37 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7756-21</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756.rss">Randomless Narrative Tools - Myriad and Marauder</source>
+      </item>
+      <item>
+        <title>Randomless Narrative Tools - Myriad and Marauder</title>
+        <dc:creator><![CDATA[@Gwyllgi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gwyllgi">@Gwyllgi</a> wrote:</p>
+          <blockquote>
+              <p>Great idea. You could approach prepared scenarios in a couple of ways. Most of the world building could be in place and the scenario could begin with a narrative powder keg, like a turbulent political event. I’ll look into this.</p>
+<p>The scenario could state that there are necessary events that need to occur for the scenario to conclude. The players are provided with these prompts and determine how they occur in the narrative.</p>
+<p>For example, the players could explore the followingin any order that feels right:</p>
+<ul>
+<li>An uprising begins in a city, who is involved? What do they want?</li>
+<li>There is an ideological shift across the continent, what is happening?</li>
+<li>A leader rises to lead the people against the establishment, who are they?</li>
+</ul>
+<p>Once the weather system is in place my focus will be to build guides, examples and tutorials for the asynchronous narrative system.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/20</link>
+        <pubDate>Tue, 18 Jan 2022 08:50:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7756-20</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756.rss">Randomless Narrative Tools - Myriad and Marauder</source>
+      </item>
+      <item>
+        <title>Randomless Narrative Tools - Myriad and Marauder</title>
+        <dc:creator><![CDATA[@TheGiftOfGabes]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/thegiftofgabes">@TheGiftOfGabes</a> wrote:</p>
+          <blockquote>
+              <p>You know what else would be great? A kind of ready to play scenario or a supplement showing the game loop using all of these tools.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/19</link>
+        <pubDate>Tue, 18 Jan 2022 03:26:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7756-19</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756.rss">Randomless Narrative Tools - Myriad and Marauder</source>
+      </item>
+      <item>
+        <title>Randomless Narrative Tools - Myriad and Marauder</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>Thank you for giving me the opportunity!<br>
+You can contact Thomas via his blog (Outsider) or Discord channel (Millevaux). I am sure you two exchanging will make sparks.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/18</link>
+        <pubDate>Mon, 17 Jan 2022 21:34:49 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7756-18</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756.rss">Randomless Narrative Tools - Myriad and Marauder</source>
+      </item>
+      <item>
+        <title>Randomless Narrative Tools - Myriad and Marauder</title>
+        <dc:creator><![CDATA[@Gwyllgi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gwyllgi">@Gwyllgi</a> wrote:</p>
+          <blockquote>
+              <p>Please pass on my compliments to Thomas, I really enjoyed reading the article on his matrix scenario method. I’ll link it again here for others to see <a href="https://outsiderart-blog.translate.goog/2019/06/18/le-scenario-en-matrice-une-structure-de-redaction-didactique/?_x_tr_sl=auto&amp;_x_tr_tl=en&amp;_x_tr_hl=en" rel="nofollow noopener">here</a>.</p>
+<p>In the translation I read, Thomas uses the terms Zones, Sticks and Gauges in the same way Marauder makes use of Vertices, Edges and Weights.</p>
+<p>I love the idea of using arrows and dotted lines to differentiate between one-way passages, secret locations and one-use items (like the drug required to induce a prophetic dream needed to pass through a secret tunnel). This is something that I absolutely will make use of with proper credit. This also demonstrates a good reason to use the mathematical term Edge over Line - an Edge can be a line, arrow, dotted passage or any other connector.</p>
+<p>Crucially, Thomas notes the need for secondary vertices/zones in the situation matrix. These are vertices that connect to a major, or primary vertex. For example, in Marauder you would create a Location vertex - a Capital City, then you would add a Person vertex - the city’s Mayor. The Mayor isn’t a location, or a Zone that the players travel to, but is something they can interact with. This is the same as in a dungeon.</p>
+<p>In the 4D Matrix section of the article Thomas discusses the problem of different scenes occurring in the same place at different times. This is something I am actively exploring. I would like to know what his thoughts are on Watchkeep - does it accurately solve the problem of tracking disparate scenes, occurring in different times but in the same location?</p>
+<p>Thank you, DeReel!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/17</link>
+        <pubDate>Mon, 17 Jan 2022 20:37:17 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7756-17</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756.rss">Randomless Narrative Tools - Myriad and Marauder</source>
+      </item>
+      <item>
+        <title>Randomless Narrative Tools - Myriad and Marauder</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>I am sure Thomas Munier would be glad to get a commentary from you. He reads english no problem.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756/16</link>
+        <pubDate>Mon, 17 Jan 2022 19:05:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7756-16</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/randomless-narrative-tools-myriad-and-marauder/7756.rss">Randomless Narrative Tools - Myriad and Marauder</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Inventory System for Homebrew World (a DW drift)</title>
+    <link>https://forums.gauntlet-rpg.com/t/inventory-system-for-homebrew-world-a-dw-drift/1883</link>
+    <description>I&#39;ve been working on and off on [Homebrew World](https://spoutinglore.blogspot.com/2018/07/homebrew-world.html), my pared-down and significantly revised playset for Dungeon World.  I recently did a significant update to the Inventory System, borrowing heavily from Blades in the Dark.  [Full details here](https://spoutinglore.blogspot.com/2019/04/homebrew-world-updates-v14-new-gear.html), but you can get most of the gist from this:
+![image|625x499](upload://2mR2MqtwlRXm3tUawulNXjuE3EK.png) 
+
+Initial reactions from people seeing it are good... the core idea is that you pick your Load; your Load determine how many &quot;slots&quot; (diamonds) of items you get, and you pick items at start of play or during play as you want. So far so good.
+
+The problem that I was worried about, and that became clear on first playtest, is how this interacts with PCs using stuff up, dropping/losing items, adding items that they loot, and swapping gear between them. The &quot;diamonds&quot; from a player&#39;s Load are doing double duty as both an encumbrance limit and as a resource to expend, and when they start moving stuff around, it gets weird.  
+
+E.g. the Fighter (shown above) starts play with a Normal Load (5 []s).  He starts with sword, a leather cuirass, and a shield (4 []s). During play, he produces a rope (his last []), ties it to a pillar, and then the party climbs down the rope, leaving it behind. He crosses off the rope or erases it, because he doesn&#39;t have it anymore.
+
+The Fighter now has 4 []s marked, but has used all 5 []s to start with/produce items. The sheet/rules seem to imply that he can now produce another 1 [] item, because his Load is &quot;up to 5x []&quot; and he only has 4 [] on his sheet.  But that&#39;s not how it should work... he should be able to *pick up* another item that he finds, but he&#39;s already produced that rope he was carrying around and discarded it... he doesn&#39;t have another undefined 1 [] item, because if he did, he would have had 6 []s at one more... more than his Load allows.
+
+Obviously, we could handwave it, but... I don&#39;t want to.  And initial playtest reports have already confirmed that this is a point of confusion/clarification.
+
+I&#39;m pretty committed (for now, at least), in keeping:
+1) The decision of &quot;how much Load are you carrying&quot; at the beginning of play
+2) The ability to define gear both up front and on the fly
+3) Listing the most relevant/interesting gear choices on the sheet itself (as opposed to just using slots and having players write in items on their slots)
+
+So, with that in mind, here are 3 possible UI changes for the sheets (and the moves that go with them).  Interested in which ones y&#39;all think are most intuitive/easiest to use in play (or if you have suggestions for something better, keeping with the 3 commitments above):
+
+**Option A**:  adding empty diamonds next each Load option, and you mark those at the same time start w/produce items in play:
+![image|548x500](upload://aF1ciebgbmYwjk3q6OcuElh7xgm.png) 
+
+**Option B**:  adding empty circles (which are used throughout to denote uses or resources that can be accumulated/spent), with instructions to mark them as items are picked/produced.
+![image|548x500](upload://tyr8s8LWUVUm5vo9PbCTX2ctNwK.png) 
+
+**Option C**:  adding a new icon (combo of circles+diamonds) to specifically denote undefined resources, with instructions to mark them as items are defined.  
+![image|548x500](upload://8fWbLzwECP7gZC5RbZzncOULaT6.png) 
+
+
+Thanks in advance!</description>
+    
+    <lastBuildDate>Sat, 27 Apr 2019 17:56:47 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/inventory-system-for-homebrew-world-a-dw-drift/1883.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Inventory System for Homebrew World (a DW drift)</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <p>Eh… separate conversation convinced me that the choice of Light/Normal/Heavy Load isn’t worth the squeeze.</p>
+<p>So, here’s the revision:<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/c/c43df7294bffd8a930b44be55e76c952186e8377.png" data-download-href="/uploads/short-url/s02lmJrducvhqe38An5f2lYTkYT.png?dl=1" title="image" rel="nofollow noopener"><img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/c/c43df7294bffd8a930b44be55e76c952186e8377.png" alt="image" data-base62-sha1="s02lmJrducvhqe38An5f2lYTkYT" width="627" height="500" data-small-upload="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/c/c43df7294bffd8a930b44be55e76c952186e8377_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">893×711 35.1 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<ol>
+<li>
+<p>Picking a total amount of specific items + undefined items up front (by default, no reason <em>not</em> to pick your max.</p>
+</li>
+<li>
+<p>Tracking “undefined” items in their own space, with same icons as defined items.</p>
+</li>
+<li>
+<p>No need for special rules about how to move quantum items around, or what happens when you add loot.</p>
+</li>
+</ol>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/inventory-system-for-homebrew-world-a-dw-drift/1883/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/inventory-system-for-homebrew-world-a-dw-drift/1883/2</link>
+        <pubDate>Sat, 27 Apr 2019 17:56:47 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1883-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/inventory-system-for-homebrew-world-a-dw-drift/1883.rss">Inventory System for Homebrew World (a DW drift)</source>
+      </item>
+      <item>
+        <title>Inventory System for Homebrew World (a DW drift)</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <p>I’ve been working on and off on <a href="https://spoutinglore.blogspot.com/2018/07/homebrew-world.html" rel="nofollow noopener">Homebrew World</a>, my pared-down and significantly revised playset for Dungeon World.  I recently did a significant update to the Inventory System, borrowing heavily from Blades in the Dark.  <a href="https://spoutinglore.blogspot.com/2019/04/homebrew-world-updates-v14-new-gear.html" rel="nofollow noopener">Full details here</a>, but you can get most of the gist from this:<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/1/1099bfb2b52e26b17c0d2e64a5a287240bc0b86a.png" data-download-href="/uploads/short-url/2mR2MqtwlRXm3tUawulNXjuE3EK.png?dl=1" title="image" rel="nofollow noopener"><img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/1/1099bfb2b52e26b17c0d2e64a5a287240bc0b86a_2_625x499.png" alt="image" data-base62-sha1="2mR2MqtwlRXm3tUawulNXjuE3EK" width="625" height="499" srcset="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/1/1099bfb2b52e26b17c0d2e64a5a287240bc0b86a_2_625x499.png, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/1/1099bfb2b52e26b17c0d2e64a5a287240bc0b86a_2_937x748.png 1.5x, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/1/1099bfb2b52e26b17c0d2e64a5a287240bc0b86a.png 2x" data-small-upload="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/1/1099bfb2b52e26b17c0d2e64a5a287240bc0b86a_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1031×824 99 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>Initial reactions from people seeing it are good… the core idea is that you pick your Load; your Load determine how many “slots” (diamonds) of items you get, and you pick items at start of play or during play as you want. So far so good.</p>
+<p>The problem that I was worried about, and that became clear on first playtest, is how this interacts with PCs using stuff up, dropping/losing items, adding items that they loot, and swapping gear between them. The “diamonds” from a player’s Load are doing double duty as both an encumbrance limit and as a resource to expend, and when they start moving stuff around, it gets weird.</p>
+<p>E.g. the Fighter (shown above) starts play with a Normal Load (5 []s).  He starts with sword, a leather cuirass, and a shield (4 []s). During play, he produces a rope (his last []), ties it to a pillar, and then the party climbs down the rope, leaving it behind. He crosses off the rope or erases it, because he doesn’t have it anymore.</p>
+<p>The Fighter now has 4 []s marked, but has used all 5 []s to start with/produce items. The sheet/rules seem to imply that he can now produce another 1 [] item, because his Load is “up to 5x []” and he only has 4 [] on his sheet.  But that’s not how it should work… he should be able to <em>pick up</em> another item that he finds, but he’s already produced that rope he was carrying around and discarded it… he doesn’t have another undefined 1 [] item, because if he did, he would have had 6 []s at one more… more than his Load allows.</p>
+<p>Obviously, we could handwave it, but… I don’t want to.  And initial playtest reports have already confirmed that this is a point of confusion/clarification.</p>
+<p>I’m pretty committed (for now, at least), in keeping:</p>
+<ol>
+<li>The decision of “how much Load are you carrying” at the beginning of play</li>
+<li>The ability to define gear both up front and on the fly</li>
+<li>Listing the most relevant/interesting gear choices on the sheet itself (as opposed to just using slots and having players write in items on their slots)</li>
+</ol>
+<p>So, with that in mind, here are 3 possible UI changes for the sheets (and the moves that go with them).  Interested in which ones y’all think are most intuitive/easiest to use in play (or if you have suggestions for something better, keeping with the 3 commitments above):</p>
+<p><strong>Option A</strong>:  adding empty diamonds next each Load option, and you mark those at the same time start w/produce items in play:<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/4/4ab8c4d4a2668c61451e89934722d470bcd87db2.png" data-download-href="/uploads/short-url/aF1ciebgbmYwjk3q6OcuElh7xgm.png?dl=1" title="image" rel="nofollow noopener"><img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/4/4ab8c4d4a2668c61451e89934722d470bcd87db2.png" alt="image" data-base62-sha1="aF1ciebgbmYwjk3q6OcuElh7xgm" width="548" height="500" data-small-upload="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/4/4ab8c4d4a2668c61451e89934722d470bcd87db2_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">936×854 56.6 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p><strong>Option B</strong>:  adding empty circles (which are used throughout to denote uses or resources that can be accumulated/spent), with instructions to mark them as items are picked/produced.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/c/cf239cdd57eb2c84710ee14f2f5226690d0d4d8a.png" data-download-href="/uploads/short-url/tyr8s8LWUVUm5vo9PbCTX2ctNwK.png?dl=1" title="image" rel="nofollow noopener"><img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/c/cf239cdd57eb2c84710ee14f2f5226690d0d4d8a.png" alt="image" data-base62-sha1="tyr8s8LWUVUm5vo9PbCTX2ctNwK" width="548" height="500" data-small-upload="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/c/cf239cdd57eb2c84710ee14f2f5226690d0d4d8a_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">936×854 56.5 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p><strong>Option C</strong>:  adding a new icon (combo of circles+diamonds) to specifically denote undefined resources, with instructions to mark them as items are defined.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/3/39dea040c129bec26f669502b37ac77aaaddb8c8.png" data-download-href="/uploads/short-url/8fWbLzwECP7gZC5RbZzncOULaT6.png?dl=1" title="image" rel="nofollow noopener"><img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/3/39dea040c129bec26f669502b37ac77aaaddb8c8.png" alt="image" data-base62-sha1="8fWbLzwECP7gZC5RbZzncOULaT6" width="548" height="500" data-small-upload="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/3/39dea040c129bec26f669502b37ac77aaaddb8c8_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">936×854 58 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>Thanks in advance!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/inventory-system-for-homebrew-world-a-dw-drift/1883/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/inventory-system-for-homebrew-world-a-dw-drift/1883/1</link>
+        <pubDate>Sat, 27 Apr 2019 16:20:18 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1883-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/inventory-system-for-homebrew-world-a-dw-drift/1883.rss">Inventory System for Homebrew World (a DW drift)</source>
+      </item>
+  </channel>
+</rss>

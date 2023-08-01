@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Space Ship Combat for Trophy Gold</title>
+    <link>https://forums.gauntlet-rpg.com/t/space-ship-combat-for-trophy-gold/7926</link>
+    <description>I&#39;m working on a Sci Fi hack of TG and I&#39;m currently designing the ship combat rules. I wanted something pretty light that would still engage all the players. I&#39;d love some feedback and ideas about what I have so far. 
+
+Tech Skills – one per Job (option for more in Char Gen), link to ship combat and systems (as listed below by action type)
+
+**Ship**  – works like a hero, can take six conditions (each with specific downsides)
+
+* Scratches and Dents – no effect
+* Engines take a hit! – (-1D to Pilot Rolls)
+* Targeting System Malfunction (-1D to Attack rolls)
+* Drive System Damaged (-1D to Engineering Rolls)
+* Ship’s Systems Damage (-1D to all Ship Rolls)
+* Dead in the Water (no movement or weapons)
+* Start a clock for atmo loss (or impose another appropriate consequence)
+
+Stock Ships have a single weapon and a single point of armor (use as in normal combat)
+
+* Additional armor, weapons, and Supply boxes can all be added as projects in the Station phase
+* Armor costs 1 Cred to repair in the Station phase
+
+**Each PC can take one action per ship combat turn, Fire a Weapon, Fly the Ship, Repair the ship, Engineering, Comms, or help another crew member.**
+At the beginning of a round of combat each crew decides which actions to take and what order they will occur in. Ship Dice to not carry over from turn to turn - use &#39;em or lose &#39;em.
+
+**Fly the Ship**  – rolls 1 die, (2 w. Pilot) 4-5’s = 1  *Maneuver Die* , 6 = 2 MD
+
+Each MD can do one of the following:
+
+* Bring to Bear – add one die to the combat pool
+* Evasive Maneuvers – roll Xd 4+ prevents a Condition
+* Flee – each 4+ ticks one segment on the Fly Away! Clock. Escape when filled
+
+**Engineering**  – rolls 1 die (2 with Engineering) 4-5 = 1  *Engineering Die* , 6 = 2 ED
+
+ED may be spent to:
+
+* Power to the Guns – add 1 die to combat
+* Overclock the Engine – +1D to Pilot rolls
+* Divert Power to Ship Systems - +1D to Repair Rolls
+
+**Repair**  – rolls1 die (2 w Mechanic) 4-5 = 1  *Repair Die* , 6 = 2 RD
+
+RD may be spent to:
+
+* The right tool - Add +1D to a Risk Roll to Repair a Damage Condition
+* Get that clamped Down! – Make a Repair Roll
+* Ship Supplies can be ticked to add +1D to a repair Roll
+
+**Fire a Weapon**  – make an attack roll against the enemies Endurance
+
+Roll 1D (+1 for Heavy) add 1 Dark D if you’re willing to risk damage
+
+* If the highest 2 dice beat enemies E then either destroyed or crippled, your choice
+* if the enemy isn’t destroyed you can roll any 6’s from the combat roll to reduce the enemy ship’s E
+
+**Comms**  – allows for communication and negotiation, roll an appropriate skill to barter, plead or command</description>
+    
+    <lastBuildDate>Sun, 31 Jul 2022 16:53:04 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/space-ship-combat-for-trophy-gold/7926.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Space Ship Combat for Trophy Gold</title>
+        <dc:creator><![CDATA[@Fenris-77]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/fenris-77">@Fenris-77</a> wrote:</p>
+          <blockquote>
+              <p>The ship rules above have been cleaned up a little and folded into the main rules. <a href="https://drive.google.com/file/d/1a8OOsdXgHS50g7pCJWApsFRCNZqy6fzx/view?usp=sharing" rel="nofollow noopener">https://drive.google.com/file/d/1a8OOsdXgHS50g7pCJWApsFRCNZqy6fzx/view?usp=sharing</a></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/space-ship-combat-for-trophy-gold/7926/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/space-ship-combat-for-trophy-gold/7926/5</link>
+        <pubDate>Sun, 31 Jul 2022 16:53:04 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7926-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/space-ship-combat-for-trophy-gold/7926.rss">Space Ship Combat for Trophy Gold</source>
+      </item>
+      <item>
+        <title>Space Ship Combat for Trophy Gold</title>
+        <dc:creator><![CDATA[@Fenris-77]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/fenris-77">@Fenris-77</a> wrote:</p>
+          <blockquote>
+              <p>Voila, a PDF: <a href="https://drive.google.com/file/d/1jEgaBzaQd5igI-V5XW8JJTPendLeZ6Xk/view?usp=sharing" rel="nofollow noopener">https://drive.google.com/file/d/1jEgaBzaQd5igI-V5XW8JJTPendLeZ6Xk/view?usp=sharing</a></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/space-ship-combat-for-trophy-gold/7926/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/space-ship-combat-for-trophy-gold/7926/4</link>
+        <pubDate>Tue, 08 Mar 2022 23:45:34 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7926-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/space-ship-combat-for-trophy-gold/7926.rss">Space Ship Combat for Trophy Gold</source>
+      </item>
+      <item>
+        <title>Space Ship Combat for Trophy Gold</title>
+        <dc:creator><![CDATA[@Fenris-77]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/fenris-77">@Fenris-77</a> wrote:</p>
+          <blockquote>
+              <p>Well, I’m in the playtest phase of design now, so once I’ve had a chance to stress test it you’ll get exactly that. I need to adjust some other design bits and systems to fit it in properly too.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/space-ship-combat-for-trophy-gold/7926/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/space-ship-combat-for-trophy-gold/7926/3</link>
+        <pubDate>Tue, 08 Mar 2022 18:15:18 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7926-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/space-ship-combat-for-trophy-gold/7926.rss">Space Ship Combat for Trophy Gold</source>
+      </item>
+      <item>
+        <title>Space Ship Combat for Trophy Gold</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>I’m eager to see this on a pdf !</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/space-ship-combat-for-trophy-gold/7926/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/space-ship-combat-for-trophy-gold/7926/2</link>
+        <pubDate>Tue, 08 Mar 2022 18:11:06 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7926-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/space-ship-combat-for-trophy-gold/7926.rss">Space Ship Combat for Trophy Gold</source>
+      </item>
+      <item>
+        <title>Space Ship Combat for Trophy Gold</title>
+        <dc:creator><![CDATA[@Fenris-77]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/fenris-77">@Fenris-77</a> wrote:</p>
+          <blockquote>
+              <p>I’m working on a Sci Fi hack of TG and I’m currently designing the ship combat rules. I wanted something pretty light that would still engage all the players. I’d love some feedback and ideas about what I have so far.</p>
+<p>Tech Skills – one per Job (option for more in Char Gen), link to ship combat and systems (as listed below by action type)</p>
+<p><strong>Ship</strong>  – works like a hero, can take six conditions (each with specific downsides)</p>
+<ul>
+<li>Scratches and Dents – no effect</li>
+<li>Engines take a hit! – (-1D to Pilot Rolls)</li>
+<li>Targeting System Malfunction (-1D to Attack rolls)</li>
+<li>Drive System Damaged (-1D to Engineering Rolls)</li>
+<li>Ship’s Systems Damage (-1D to all Ship Rolls)</li>
+<li>Dead in the Water (no movement or weapons)</li>
+<li>Start a clock for atmo loss (or impose another appropriate consequence)</li>
+</ul>
+<p>Stock Ships have a single weapon and a single point of armor (use as in normal combat)</p>
+<ul>
+<li>Additional armor, weapons, and Supply boxes can all be added as projects in the Station phase</li>
+<li>Armor costs 1 Cred to repair in the Station phase</li>
+</ul>
+<p><strong>Each PC can take one action per ship combat turn, Fire a Weapon, Fly the Ship, Repair the ship, Engineering, Comms, or help another crew member.</strong><br>
+At the beginning of a round of combat each crew decides which actions to take and what order they will occur in. Ship Dice to not carry over from turn to turn - use 'em or lose 'em.</p>
+<p><strong>Fly the Ship</strong>  – rolls 1 die, (2 w. Pilot) 4-5’s = 1  <em>Maneuver Die</em> , 6 = 2 MD</p>
+<p>Each MD can do one of the following:</p>
+<ul>
+<li>Bring to Bear – add one die to the combat pool</li>
+<li>Evasive Maneuvers – roll Xd 4+ prevents a Condition</li>
+<li>Flee – each 4+ ticks one segment on the Fly Away! Clock. Escape when filled</li>
+</ul>
+<p><strong>Engineering</strong>  – rolls 1 die (2 with Engineering) 4-5 = 1  <em>Engineering Die</em> , 6 = 2 ED</p>
+<p>ED may be spent to:</p>
+<ul>
+<li>Power to the Guns – add 1 die to combat</li>
+<li>Overclock the Engine – +1D to Pilot rolls</li>
+<li>Divert Power to Ship Systems - +1D to Repair Rolls</li>
+</ul>
+<p><strong>Repair</strong>  – rolls1 die (2 w Mechanic) 4-5 = 1  <em>Repair Die</em> , 6 = 2 RD</p>
+<p>RD may be spent to:</p>
+<ul>
+<li>The right tool - Add +1D to a Risk Roll to Repair a Damage Condition</li>
+<li>Get that clamped Down! – Make a Repair Roll</li>
+<li>Ship Supplies can be ticked to add +1D to a repair Roll</li>
+</ul>
+<p><strong>Fire a Weapon</strong>  – make an attack roll against the enemies Endurance</p>
+<p>Roll 1D (+1 for Heavy) add 1 Dark D if you’re willing to risk damage</p>
+<ul>
+<li>If the highest 2 dice beat enemies E then either destroyed or crippled, your choice</li>
+<li>if the enemy isn’t destroyed you can roll any 6’s from the combat roll to reduce the enemy ship’s E</li>
+</ul>
+<p><strong>Comms</strong>  – allows for communication and negotiation, roll an appropriate skill to barter, plead or command</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/space-ship-combat-for-trophy-gold/7926/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/space-ship-combat-for-trophy-gold/7926/1</link>
+        <pubDate>Tue, 08 Mar 2022 14:50:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7926-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/space-ship-combat-for-trophy-gold/7926.rss">Space Ship Combat for Trophy Gold</source>
+      </item>
+  </channel>
+</rss>

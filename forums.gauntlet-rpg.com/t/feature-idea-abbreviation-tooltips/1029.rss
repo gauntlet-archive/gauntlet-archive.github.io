@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Feature Idea: Abbreviation tooltips</title>
+    <link>https://forums.gauntlet-rpg.com/t/feature-idea-abbreviation-tooltips/1029</link>
+    <description>With all the abbreviations floating around it might be useful to have support for abbreviation explanation tooltips—especially for new users. Kind of like the list in the Gauntlet Jargon document.
+
+Example: &lt;abbr title=&quot;Dungeon World&quot;&gt;DW&lt;/abbr&gt;
+
+I know this can be done by manually using the `&lt;abbr&gt;` tag but I saw that there&#39;s a relevant [discourse plugin](https://meta.discourse.org/t/add-abbr-tags-to-words-in-posts/88394) which makes it more user-friendly. I&#39;m not sure about the quality of the plugin and how you feel about installing plugins, but I thought I would throw the idea over your way :smile:</description>
+    
+    <lastBuildDate>Fri, 05 Jul 2019 16:03:09 +0000</lastBuildDate>
+    <category>Site Feedback</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/feature-idea-abbreviation-tooltips/1029.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Feature Idea: Abbreviation tooltips</title>
+        <dc:creator><![CDATA[@calris]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/calris">@calris</a> wrote:</p>
+          <blockquote>
+              <p>Thanks for pointing out the <code>&lt;abbr&gt;</code> tag – I had no idea it existed.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/feature-idea-abbreviation-tooltips/1029/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/feature-idea-abbreviation-tooltips/1029/3</link>
+        <pubDate>Fri, 05 Jul 2019 16:03:09 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1029-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/feature-idea-abbreviation-tooltips/1029.rss">Feature Idea: Abbreviation tooltips</source>
+      </item>
+      <item>
+        <title>Feature Idea: Abbreviation tooltips</title>
+        <dc:creator><![CDATA[@Hopeless_Wanderer]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/hopeless_wanderer">@Hopeless_Wanderer</a> wrote:</p>
+          <blockquote>
+              <p>This would be a great new feature. I want this please.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/feature-idea-abbreviation-tooltips/1029/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/feature-idea-abbreviation-tooltips/1029/2</link>
+        <pubDate>Fri, 05 Jul 2019 04:52:17 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1029-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/feature-idea-abbreviation-tooltips/1029.rss">Feature Idea: Abbreviation tooltips</source>
+      </item>
+      <item>
+        <title>Feature Idea: Abbreviation tooltips</title>
+        <dc:creator><![CDATA[@jestr]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jestr">@jestr</a> wrote:</p>
+          <blockquote>
+              <p>With all the abbreviations floating around it might be useful to have support for abbreviation explanation tooltips—especially for new users. Kind of like the list in the Gauntlet Jargon document.</p>
+<p>Example: <abbr title="Dungeon World">DW</abbr></p>
+<p>I know this can be done by manually using the <code>&lt;abbr&gt;</code> tag but I saw that there’s a relevant <a href="https://meta.discourse.org/t/add-abbr-tags-to-words-in-posts/88394" rel="nofollow noopener">discourse plugin</a> which makes it more user-friendly. I’m not sure about the quality of the plugin and how you feel about installing plugins, but I thought I would throw the idea over your way <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/smile.png?v=6" title=":smile:" class="emoji" alt=":smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/feature-idea-abbreviation-tooltips/1029/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/feature-idea-abbreviation-tooltips/1029/1</link>
+        <pubDate>Sat, 16 Mar 2019 20:31:39 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1029-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/feature-idea-abbreviation-tooltips/1029.rss">Feature Idea: Abbreviation tooltips</source>
+      </item>
+  </channel>
+</rss>

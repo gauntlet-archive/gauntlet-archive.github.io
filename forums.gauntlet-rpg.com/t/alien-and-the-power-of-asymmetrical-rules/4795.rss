@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Alien and the Power of Asymmetrical Rules</title>
+    <link>https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795</link>
+    <description>I played the Free League Alien rpg for the first time yesterday and it was a very interesting experience.
+
+(To be clear, there are no spoilers for any of the scenarios in this post.)
+
+I opted to play an android while the other two players played humans, and I think that gave us very different play experiences in a way I haven&#39;t seen in other games that have a similar division before.
+
+To explain why, I need to go into the rules a bit. Alien uses Free League&#39;s standard d6 dice pool system: You roll a number of dice based on your abilites and equipment; any six is a success; one success is usually enough but more is better, especially in combat; and after you roll you can push yourself (once) to re-roll all non-sixes..
+
+The focus in Alien is on the stress and panic mechanisms. You accrue stress through a number of means, the main ones being when you see scary or gruesome things, when you&#39;re attacked by xenomorphs, and when you push yourself. Each point of stress allows you to roll an additional d6 for all your actions, but if you roll a one on any of your stress dice you also panic. When you panic, you roll one d6 and add your stress to get a result from a table - at the low end, nothing happens, but higher up you can freeze, or spread your panic to other nearby characters. You mostly recover stress when you have a little bit of downtime - spending 5-10 minutes to catch your breath and rest allows you to shed one point of stress.
+
+In our game, this worked brilliantly. For most of the game the stress levels were kept under control, but at the desperate finale it shot through the roof when the players desperately pushed their rolls to get extra successes in the hopes of taking down the last few foes.
+
+But the one big thing that made this so interesting is that androids are completely exempt from the stress system, including the ability to push.
+
+It&#39;s difficult to overstate the impact this has on the play experience. For the other two players, their stress levels were the constant focus of their play. Where was it safe to rest? When should they push themselves? When should they use their once-per-session ability to shed a point of stress? Afterwards they spoke positively of the intense pressure the game put on them.
+
+For me, the experience was very different, but still very positve.
+
+Since I didn&#39;t have the choice of pushing myself, once I was at the point of making a roll everything was out of my hands - I would either succeed or not based on the dice, whereas for the other players that was just the setup for tthe hugely important choice of whether they should push or not.
+
+Since I wasn&#39;t under the same kind of pressure or the randomness of the panic rolls, I also became a slightly detached observer of the behavoir of their characters. The mechanisms very strongly induced the sense of being a different kind of creature: I always had full control of my actions where a bad panic roll could often force them to drop something or make them scramble for cover even when that wasn&#39;t to their advantage, and since I was also very durable (though that was partly due to a talent available to both androids and humans) I could often take seemingly cracy risks in order to try to protect them from harm.
+
+The lack of mechanical pressure also did something similar to my position towards them as players. The stress they felt as players over managing the stress and danger to their characters made them more engaged in a way, whereas I think I had a little more distance. Not that I was more objective, but I wasn&#39;t as emotionally engaged - and again, this was a good thing, because it made it easier for me to play to being an android rather than a human.
+
+And that&#39;s the core of my experience here. There was a huge mechanical difference between my character and theirs - not in terms of power, because overall they were probably more effective due to rolling more dice from stress and being able to push - but because one subsystem that was absolutely vital to their direct experience with the game was a much more indirect part for me. Even if the stress and panic rules didn&#39;t affect my character directly, it was very important to me how much stress their characters had in order to assess my course of action. And that difference translated into a very different game experience, but one that meshed very well with what that mechanical difference represented - they were human, and I wasn&#39;t. They would get the shakes, or freeze, or scare each other by showing how scared they were, and I had to navigate around that while not running the same risks, but they could also trust to luck and take chances where my actions were governed by stricter probabilistic calculations.*
+
+The closest parallel I can think of is if you were playing a character in Call of Cthulhu who could never lose sanity or be affected by fear, but who also couldn&#39;t learn anything about the Mythos. You&#39;re immune to one of the biggest dangers of the game but you&#39;re also shut off from an important resource.
+
+Of course, there are plenty of roleplaying games that have different character types engage with different parts of the system, with spells in D&amp;D being a very obvious example, but in my experience they rarely induce an emotional effect of this kind, or at least in a way that meshes this well with the fiction of the game.** Or perhaps my experience is just limited and I&#39;ve missed other games that successfully do this?
+
+Either way, I find this very exciting. I&#39;d like to see more examples so I can triangulate this into my own designs.
+
+* That&#39;s obviously not true in an absolute sense, but the feeling was very different. I could make a very clear risk/reward assessment before deciding what action to take and sometimes discarded a course of action as having too low a probability of success that they could have chanced because they had the option of a re-roll.
+
+** Asymmetrical design is much more common in boardgames but there the emotional engagement is typically not as strong.</description>
+    
+    <lastBuildDate>Mon, 04 May 2020 22:40:47 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Alien and the Power of Asymmetrical Rules</title>
+        <dc:creator><![CDATA[@Marcio_Moreira]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/marcio_moreira">@Marcio_Moreira</a> wrote:</p>
+          <blockquote>
+              <p>Another example of different win conditions:<br>
+<a href="https://momatoes.itch.io/capybara-capers" rel="nofollow noopener">Capybara Capers</a>, for example, is a simple game of animal heist, but to add some chaos the characters have different agendas within the game (including diegetic ones, like betrayal, and stuff like not saying the word “capybara” during the session). Althought the major impact seems to be on the narrative (like in Deckard’s example), the traitor/detective dynamic adds an extra layer to the gameplay and impact the mechanics of trust tokens.<br>
+I don’t know how it would compare to the other examples you guys listed since it’s a more structured experience, though.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/37">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/37</link>
+        <pubDate>Mon, 04 May 2020 22:40:47 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4795-37</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795.rss">Alien and the Power of Asymmetrical Rules</source>
+      </item>
+      <item>
+        <title>Alien and the Power of Asymmetrical Rules</title>
+        <dc:creator><![CDATA[@Anders]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/anders">@Anders</a> wrote:</p>
+          <blockquote>
+              <p>So it’s more a difference in degree than kind? That can still shape the play experience quite strongly.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/36">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/36</link>
+        <pubDate>Sat, 02 May 2020 23:48:25 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4795-36</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795.rss">Alien and the Power of Asymmetrical Rules</source>
+      </item>
+      <item>
+        <title>Alien and the Power of Asymmetrical Rules</title>
+        <dc:creator><![CDATA[@Curufea]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/curufea">@Curufea</a> wrote:</p>
+          <blockquote>
+              <p>Story Points aren’t exclusive - they’re like fate points in FATE which are reduced with stunts.  The more Traits (in this case Special Traits rather than Good or Bad) you have in DWAITAS (Doctor Who) - the less Story Points you have.  The Doctor Who game doesn’t usually have The Doctor in it (at least not when I’ve run it) - often has a Time Lord of some sort, but not all the time.  You can run a Companions only game (but I’d recommed the Companions PbtA game for that) and you could have any mix of aliens of a variety of “power levels” - with more traits than story points or less.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/35">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/35</link>
+        <pubDate>Sat, 02 May 2020 21:31:18 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4795-35</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795.rss">Alien and the Power of Asymmetrical Rules</source>
+      </item>
+      <item>
+        <title>Alien and the Power of Asymmetrical Rules</title>
+        <dc:creator><![CDATA[@Anders]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/anders">@Anders</a> wrote:</p>
+          <blockquote>
+              <p>Ars Magica is an interesting example because of the rotating roles. I haven’t played it but I’ve always wanted, though presently playing a game about locking yourself up in a tower to do research and avoid contact with the external world as much as possible is perhaps a bit too real.</p>
+<p>Doctor Who sounds similar to Buffy which has a similar system, where the Scoobies get more resources than the slayers, vampires, and other supernatural badasses. Or are the story points exclusively for the companions in Doctor Who?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/34">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/34</link>
+        <pubDate>Sat, 02 May 2020 19:18:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4795-34</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795.rss">Alien and the Power of Asymmetrical Rules</source>
+      </item>
+      <item>
+        <title>Alien and the Power of Asymmetrical Rules</title>
+        <dc:creator><![CDATA[@Curufea]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/curufea">@Curufea</a> wrote:</p>
+          <blockquote>
+              <p>I’ve a couple of examples to add -</p>
+<ul>
+<li>Ars Magica - classic traditional game where the Wizard vastly overpowers the grogs that everyone else plays, this is compensated with having rotating wizard players (every player has their own wizard character as well as a grog) and occasional grog-only games.</li>
+<li>Doctor Who: Adventures in Time and Space.  Here there are often characters with quite different levels of power, which is balanced with story points - a game resource that modifies dice rolls and can be thought of as either luck - or that the writer of the plot is on the side of the companions <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:">
+</li>
+</ul>
+<p>Also just like to add, I ran one of the cinematics for Alien and did prompt that having one of the players be the synthetic might be a good idea.  Which it is.  It also helps if you choose characters that have rivalries and buddies with each other for the stress mechanics.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/33">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/33</link>
+        <pubDate>Fri, 01 May 2020 22:06:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4795-33</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795.rss">Alien and the Power of Asymmetrical Rules</source>
+      </item>
+      <item>
+        <title>Alien and the Power of Asymmetrical Rules</title>
+        <dc:creator><![CDATA[@Deckard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deckard">@Deckard</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/dominik">@dominik</a>, aside from the “co-GMing” argument, I agree with you.  Last year I played in a loose convention game of Savage Worlds Sci-fi.  Halfway through the game, the GM gave us cards which secretly changed our roles as players.  Instead of cooperately solving a mystery, several of us were designated as infected by the machine singularity with the main goal of escaping the moon base. This did not make us co-GM’s in the story.  It only changed our motivations.</p>
+<p>That said, it did force the players into having asynchronous goals and different emotional responses towards each other and their actions.  I was one of the infected, so instead of helping the trapped healthy humans, I convinced another player to leave them lest we get infected.  He became suspicious and I became unsupportive of the original team.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/32">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/32</link>
+        <pubDate>Fri, 20 Mar 2020 16:45:53 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4795-32</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795.rss">Alien and the Power of Asymmetrical Rules</source>
+      </item>
+      <item>
+        <title>Alien and the Power of Asymmetrical Rules</title>
+        <dc:creator><![CDATA[@dominik]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dominik">@dominik</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="noah_t" data-post="29" data-topic="4795">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/noah_t/40/3485_2.png" class="avatar"> noah_t:</div>
+<blockquote>
+<p>Are you saying that these different mechanical ‘twists’ get the players into different headspaces. One of a baldly rationalist android who thinks things are ‘just as they are,’ and one of a person with faith who believes the situation can change if you try?</p>
+</blockquote>
+</aside>
+<p>That would be a correct description, yes.</p>
+<p>//edit</p>
+<aside class="quote no-group quote-modified" data-username="DeReel" data-post="28" data-topic="4795">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/dereel/40/3021_2.png" class="avatar"> DeReel:</div>
+<blockquote>
+<p>To conclude, I think the Droid experience in Alien is not <em>fundamentally</em> different from other games with asymmetric rules. But it’s striking because the asymmetry is <em>elegant</em> : a small change induces a deeply different experience.</p>
+</blockquote>
+</aside>
+<p>This is a fair point. PBTA games, from my experience at least, do bring more of the android/human split vibe than the earlier wizard/fighter example did. It also seems fair to point out how minimalist a change in Alien seems to produce a huge change. Like you said, it seems very elegant.</p>
+<p>And like I said previously, I don’t know if you can have this visceral difference in experience without mechanical differences. The only examples w/o systematic differences that come to my mind aren’t nice.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/31">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/31</link>
+        <pubDate>Fri, 20 Mar 2020 15:20:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4795-31</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795.rss">Alien and the Power of Asymmetrical Rules</source>
+      </item>
+      <item>
+        <title>Alien and the Power of Asymmetrical Rules</title>
+        <dc:creator><![CDATA[@Rickard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rickard">@Rickard</a> wrote:</p>
+          <blockquote>
+              <p>Two games that sprung into mind when reading DeReel’s post:</p>
+<p><a href="http://www.story-games.com/forums/discussion/17821/svart-av-kval-vit-av-lust-i-will-answer-any-questions" data-bbcode="true" rel="nofollow noopener">Svart av kval, vit av lust</a> have a hierarchy of how powerful characters are. In this pyramid of power, older vampires will always defeat younger vampires, but releasing the vampire’s inner Beast will beat all kinds of vampires. The Beast’s actions are usually violent. This means, in game, that a younger vampire’s road to success will be drained in blood.</p>
+<p>In my own game <strong>This is Pulp</strong>, where it’s all about challenging the players to describe their actions, all characters have two moves with three side effects: 1) a player character gets hurt, 2) something breaks, 3) the action takes longer than expected. Each specific move got suggestions of how this can be described. However, the Explorer with hirelings have a description that - instead of something breaking - one or more of the Explorer’s hirelings gets killed (she have an infinite amount). This have always  come out as her being cold and bloodthirsty, in comparison to the destruction the other characters left behind them.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/30">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/30</link>
+        <pubDate>Fri, 20 Mar 2020 09:12:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4795-30</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795.rss">Alien and the Power of Asymmetrical Rules</source>
+      </item>
+      <item>
+        <title>Alien and the Power of Asymmetrical Rules</title>
+        <dc:creator><![CDATA[@noah_t]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/noah_t">@noah_t</a> wrote:</p>
+          <blockquote>
+              <p>I <em>think</em> I get the comparison here. Just to confirm: Are you saying that these different mechanical ‘twists’ get the players into different headspaces. One of a baldly rationalist android who thinks things are ‘just as they are,’ and one of a person with faith who believes the situation can change if you try?</p>
+<p>If so, I find that comparison really interesting! I wonder if there are any games that leverage push-your-luck mechanics to explore how possessing belief changes behavior?</p>
+<p>Also, I love the way you’ve put that, <a class="mention" href="/u/radmad">@Radmad</a>! Are there other instances where being denied the ability to interact with a mechanic is an emotionally impactful experience?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/29">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/29</link>
+        <pubDate>Fri, 20 Mar 2020 03:57:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4795-29</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795.rss">Alien and the Power of Asymmetrical Rules</source>
+      </item>
+      <item>
+        <title>Alien and the Power of Asymmetrical Rules</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>This discussion is really fruitful. I second Rickard in his remark. Task and role distribution both can create assymetry and obviously change the players’ experience. Both looking at it from the foundation up, or focusing on the effect (to reproduce it) are valid perspectives. The later approach is dominant in this thread, but doesn’t make the former off topic.<br>
+Since I first played “Cosmic encounter”, I have learned to recognize assymetric rules and roles and enjoy them.<br>
+One could imagine a GMless Technoir hack where protagonists and antagonists exchange (“charge/discharge”) Push dice (narrative role assymetry). In any game, one player can have more “non character” initiative, like that of framing or cutting scenes, or establishing certain setting facts. And this has been made into a character capacity. It certainly feels different to be a Hardholer or a Driver or a Quarantine in AW. Is it coincidence that my examples distribute traditional GM tasks among players ? Maybe it’s my taste showing, maybe the distribution of tasks is behind it. Maybe the task of the droid in Alien is to make them PCs get to the end of the story. (or maybe it’s just a taming the chaos balance mechanism Anders made something of)<br>
+To conclude, I think the Droid experience in Alien is not <em>fundamentally</em> different from other games with assymetric rules. But it’s striking because the assymetry is <em>elegant</em> : a small change induces a deeply different experience.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/28</link>
+        <pubDate>Thu, 19 Mar 2020 21:17:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4795-28</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795.rss">Alien and the Power of Asymmetrical Rules</source>
+      </item>
+      <item>
+        <title>Alien and the Power of Asymmetrical Rules</title>
+        <dc:creator><![CDATA[@Radmad]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/radmad">@Radmad</a> wrote:</p>
+          <blockquote>
+              <p>I think describing it through emotional response is totally valid, that’s pretty much the metric I’m trying to evaluate by. To TLDR my previous post I think this type of design works when being <em>unable to interact</em> with a mechanic is as emotionally powerful as interacting with it.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/27">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/27</link>
+        <pubDate>Thu, 19 Mar 2020 19:31:49 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4795-27</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795.rss">Alien and the Power of Asymmetrical Rules</source>
+      </item>
+      <item>
+        <title>Alien and the Power of Asymmetrical Rules</title>
+        <dc:creator><![CDATA[@dominik]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dominik">@dominik</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="Radmad" data-post="22" data-topic="4795">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/radmad/40/2161_2.png" class="avatar"> Radmad:</div>
+<blockquote>
+<p>As a quick thought experiment, let’s take Dread. In dread you pull blocks from a Jenga tower to achieve things, and if you knock the tower over you die. Harder challenges can require pulls of more than one block, and players can choose to not pull (their character will fail, but at least they won’t die).</p>
+<p>Let’s create a distinct character type; “The Jock”. The Jock character in horror movies is arrogant to a fault. We’ll say whenever they make a pull on the tower, <strong>they must always pull an additional block but cannot choose not to pull.</strong> They now occupy a different emotional state from normal characters. In Dread, everyone is bold when the tower is stable, and cautious when it’s rickety. The Jock can be just as bold, but will accelerate the tower towards an unstable state much faster. Once the tower is unstable, they are now in much more danger than other characters, which can compound if everyone else blames them for making the tower unstable in the first place.</p>
+</blockquote>
+</aside>
+<p>I think that you’re pretty much spot on WRT the description of what happens, but not with the example above. To me the example interaction in Aliens reads like an emotional detachment from a pain point. This would closely mirror your description of detachment from a game mechanic.</p>
+<p>Your example on the other hand shows how you can twist mechanic to intensify certain emotional response but the goal seems to be, at least from my reading, to split certain experiences at the table. It’s probably a loaded example (and it’s not based on Dread, sorry, I can’t think of an example that draws from Dread) but the Aliens example sounds to me like the dissonance between the perception of a religious person and an atheist.</p>
+<p>I’m not making a value judgment here but simply trying to draw a parallel between android being sort of a cold machine assessing the risks and atheists observing the faith of believers. In your system description we could say that atheist doesn’t interact with faith mechanics.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/26</link>
+        <pubDate>Thu, 19 Mar 2020 18:47:12 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4795-26</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795.rss">Alien and the Power of Asymmetrical Rules</source>
+      </item>
+      <item>
+        <title>Alien and the Power of Asymmetrical Rules</title>
+        <dc:creator><![CDATA[@dominik]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dominik">@dominik</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="Rickard" data-post="24" data-topic="4795">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/rickard/40/2924_2.png" class="avatar"> Rickard:</div>
+<blockquote>
+<p>Not to derail the thread, but I would argue that <span class="hashtag">#1</span> and <span class="hashtag">#2</span> are just two types of structures - there is not real difference the the structures “You create an adventure” compared to “Play your character” (just to give an example).</p>
+</blockquote>
+</aside>
+<p>I can’t agree with this generalization. To me there’s an important difference of intent in <span class="hashtag">#1</span> that’s absent in <span class="hashtag">#2</span>. This will be clear, I hope, when I get to your Dread example.</p>
+<aside class="quote no-group">
+<blockquote>
+<p>I think game designers are doing themselves a disfavor if they think they are different</p>
+</blockquote>
+</aside>
+<p>But they are. Every participant in the RPG medium is essentially a creator but the “why” is different and “how” is often different too.</p>
+<aside class="quote no-group">
+<blockquote>
+<p> Lets say that we play <strong>Dread</strong> , but one of the players don’t have to draw, but instead delegate their draw to another player. That would possibly render a similar emotional response to what the example in the OP gave. However, the game master is doing just that - delegating others to draw.</p>
+</blockquote>
+</aside>
+<p>This is where intent comes in. Unless you change Dread into something completely different, Host’s intent is to put forward the framework of the story and to resolve conflicts. Assigning a pull has a specific goal: enable players to uncover some intended story piece. If you were to give these tools to one of the players, they’d still be there to play through the story and push players’ agenda: uncover story piece in a way that increases survivability. So even if we put aside whether I agree with your assertion that assigning pull would render a similar emotional response to the one Anders described, there’s a difference between <span class="hashtag">#1</span> and <span class="hashtag">#2</span>.</p>
+<aside class="quote no-group">
+<blockquote>
+<p>We have probably all played roleplaying game sessions where one of the players were secretly working for the opposing force, may it be a assassins guild, a competitive faction or the bad guy in the end, possibly guiding the players to their doom. That kind of experience, where the player knows everything will work out for its character (sort of), isn’t really a type of mechanic but a structure from your first point, because the player is basically a co-game master, but it potentially gives the same emotional response as the android example.</p>
+</blockquote>
+</aside>
+<p>From my experience if you share this level of insight into the world with GM, you are co-GM, not a player. To me the situation you’re describing mixes two different scenarios. You start with something that I would describe cooperative-competitive game (essentially two games run by a single GMing body in parallel: the good guys and the bad guys - with maybe the bad guy working alone) but then end up with the aforementioned co-GMing (the bad guy knows his end game). And again, I don’t see how your example is in line with what Anders described - the assassin example is about two antagonistic groups of players which wasn’t the case in his Alien example.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/25</link>
+        <pubDate>Thu, 19 Mar 2020 18:32:18 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4795-25</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795.rss">Alien and the Power of Asymmetrical Rules</source>
+      </item>
+      <item>
+        <title>Alien and the Power of Asymmetrical Rules</title>
+        <dc:creator><![CDATA[@Rickard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rickard">@Rickard</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="dominik" data-post="18" data-topic="4795">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/dominik/40/2964_2.png" class="avatar"> dominik:</div>
+<blockquote>
+<p>I’m not sure if this is a correct or complete classification, but I’d say that asymmetry happens on 3 levels:</p>
+<ol>
+<li>Role variation: participants divided into players and GMs[1]</li>
+<li>Mechanical variation within a role: players have access to different mechanics depending on who they portray[2]</li>
+<li>Experience variation within a role: players experience the same adventure differently</li>
+</ol>
+</blockquote>
+</aside>
+<p>Not to derail the thread, but I would argue that <span class="hashtag">#1</span> and <span class="hashtag">#2</span> are just two types of structures - there is not real difference the the structures “You create an adventure” compared to “Play your character” (just to give an example). I think game designers are doing themselves a disfavor if they think they are different, and <span class="hashtag">#3</span> is just an <a href="https://www.gamasutra.com/blogs/SebastienSamson/20171113/309468/Compulsion_Loops__Dopamine_in_Games_and_Gamification.php" data-bbcode="true" rel="nofollow noopener">emotional response</a> for when <span class="hashtag">#1</span> and <span class="hashtag">#2</span> are in progress in a compulsion loop.</p>
+<p>Lets say that we play <strong>Dread</strong>, but one of the players don’t have to draw, but instead delegate their draw to another player. That would possibly render a similar emotional response to what the example in the OP gave. However, the game master is doing just that - delegating others to draw.</p>
+<p>We have probably all played roleplaying game sessions where one of the players were secretly working for the opposing force, may it be a assassins guild, a competitive faction or the bad guy in the end, possibly guiding the players to their doom. That kind of experience, where the player knows everything will work out for its character (sort of), isn’t really a type of mechanic but a structure from your first point, because the player is basically a co-game master, but it potentially gives the same emotional response as the android example.</p>
+<p>If you would only to focus on the mechanical aspect, you will miss this kind of nuance.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/24</link>
+        <pubDate>Thu, 19 Mar 2020 10:18:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4795-24</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795.rss">Alien and the Power of Asymmetrical Rules</source>
+      </item>
+      <item>
+        <title>Alien and the Power of Asymmetrical Rules</title>
+        <dc:creator><![CDATA[@noah_t]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/noah_t">@noah_t</a> wrote:</p>
+          <blockquote>
+              <p>That idea of ‘pain point’ is very illuminating! It unlocked a <em>Trophy Gold</em> idea for me.</p>
+<p>In <em>TG</em>, I think the pain point is the tension between your Ruin &amp; your Burden. Can you stay alive  (keep your Ruin high enough) long enough to get enough gold to meet your Burden (minimum funds required to stay alive in civilization) &amp; advance toward accomplishing your PC’s long-term Drive, knowing that the longer you stay in the Incursion, the more likely you are to run into something that will kill you?</p>
+<p>Here’s a class idea that builds a different tension by only interacting with the Ruin mechanics:</p>
+<blockquote>
+<p><strong>Automaton of Old Kalduhr</strong><br>
+<em>Veteran of an ancient, long-forgotten war between civilizations of the Forest, you have an array of magical tools, but find life in human civilization difficult to navigate. A tragic figure, you are an enigma to your fellow Adventurers &amp; reflect their Drives back to them as in a twisted mirror.</em></p>
+<p><strong>Ancient Analytical Engine:</strong> At creation, only roll for a Background, to reflect the few tricks you’ve managed to pick up in your centuries of travel. You may not use found weapons or armor.</p>
+<p><strong>Not Built for This World:</strong> The Automaton is beholden to no Burden, and pays tribute to no Drive—they are intent on entering the forests, ruins, and other haunted spaces of the world because these are the final remaining places that feel like home. They begin with Ruin at 6.</p>
+<p><strong>Alchemical Adaptations:</strong> When engaging in a Risk Roll, take 1 white die if your Background applies, &amp; 1 dark die if you choose to conjure a useful gadget or tool from your body; you may not strike Devil’s Bargains, &amp; you may not push your luck with additional dark dice. Before combat, you may increase your Ruin by 1 to conjure a weapon; if you know a foe’s weakness, your conjured weapon may reduce its Toughness. During combat you can increase your Ruin by 1 to avoid any amount of Ruin from your Weak Point, by alchemically improvising armor.</p>
+<p><strong>Walking the Old Paths:</strong> The Automaton can walk in peace through places that would make others tremble with dread. During downtime, reducing your Ruin requires you to commune with forests, ruins, and other haunted spaces of the world, and functions like a Hunt Roll.</p>
+<p>Take 1 light die for traveling deep into the wilderness, asking about the environment, &amp; answering questions about what you remember of Old Kalduhr. Take another if there are haunted places in the area (ancient ruins, sacred caverns, etc.) These might be sites for future adventures, or you may walk reflectively through a ruin you fought inside alongside your companions. You may spend 1 token to remove all Conditions, &amp; additional tokens 1-to-1 to reduce Ruin. On a roll of 4-5, the GM may opt (instead of something terrible) to confront you with incontrovertible evidence that the old ways you follow are irremediably corrupted or long dead, or show you ways that mortal Incursions upset the otherwordly ecology of the Forest.</p>
+</blockquote>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/23</link>
+        <pubDate>Thu, 19 Mar 2020 03:41:00 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4795-23</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795.rss">Alien and the Power of Asymmetrical Rules</source>
+      </item>
+      <item>
+        <title>Alien and the Power of Asymmetrical Rules</title>
+        <dc:creator><![CDATA[@Radmad]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/radmad">@Radmad</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="Anders" data-post="21" data-topic="4795">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/anders/40/2990_2.png" class="avatar"> Anders:</div>
+<blockquote>
+<p>I’m partly talking about this because it’s something I’d like to design towards. I’m just not sure how.</p>
+</blockquote>
+</aside>
+<p>Well let’s try and reverse engineer what’s happening</p>
+<p>Based on my understanding of how you described the Alien game, there is a mechanic that is a meter which as it increases provides bonuses and penalties. An aggressive oversimplification would be it is a push-your-luck mechanic.</p>
+<p>We have created two asymmetric “classes” of character by having ones that do and ones that do not interact with the mechanic. We could say you can simulate this effect by taking mechanics from other games and isolating them from specific classes; but this is a very typical thing most RPGs do (DnD Wizards get spells, Warriors do not), so obviously there is something more to this.</p>
+<p>I will refer to a talk by Justin Gary (of the Ascension deckbuilding game) at PAX East in which he described “pain points”. A pain point is the twist you have in a game mechanic that creates the actual emotional response to playing the game. For example, in MtG, you want to cast all your spells, but the pain point is your finite mana resource. You thus have a strong emotional response (high and low) to the amount of lands you draw.</p>
+<p>In Alien, you (presumably) want to succeed at all of your die rolls. As you accrue stress, you get the opportunity to create bigger and bigger outcomes, but the pain point would be the growing potential for panic. As an android, your pain point is instead the fact that you <em>can’t</em> accrue stress. It relieves the pain of potentially causing panic, but gives you the pain of not being able to add more dice to rolls.</p>
+<p>So to return to the DnD example, the reason spellcasting does not create the same emotional response is it’s not a tradeoff of pain points. In DnD you want to hit the enemies until they die, with the pain points being the limit to how many times or how hard you can hit things. The Wizard is limited by how many uses they get, but the Warrior is limited by physical positioning (both limits on how you hit things).</p>
+<p>So how to we replicate this asymmetry? We can use mechanics that provide benefits and drawbacks. Therefore <em>not</em> interacting with those mechanics creates a distinct play style; and if those mechanics create strong emotional responses then the lack of those mechanics can create a separate but just as strong emotional response.</p>
+<p>As a quick thought experiment, let’s take Dread. In dread you pull blocks from a Jenga tower to achieve things, and if you knock the tower over you die. Harder challenges can require pulls of more than one block, and players can choose to not pull (their character will fail, but at least they won’t die).</p>
+<p>Let’s create a distinct character type; “The Jock”. The Jock character in horror movies is arrogant to a fault. We’ll say whenever they make a pull on the tower, <strong>they must always pull an additional block but cannot choose not to pull.</strong> They now occupy a different emotional state from normal characters. In Dread, everyone is bold when the tower is stable, and cautious when it’s rickety. The Jock can be just as bold, but will accelerate the tower towards an unstable state much faster. Once the tower is unstable, they are now in much more danger than other characters, which can compound if everyone else blames them for making the tower unstable in the first place.</p>
+<p>I hope that helps. If you have other ideas please share them!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/22</link>
+        <pubDate>Wed, 18 Mar 2020 22:45:27 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4795-22</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795.rss">Alien and the Power of Asymmetrical Rules</source>
+      </item>
+      <item>
+        <title>Alien and the Power of Asymmetrical Rules</title>
+        <dc:creator><![CDATA[@Anders]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/anders">@Anders</a> wrote:</p>
+          <blockquote>
+              <p>I’m glad to see the examples regardless. (Especially about Goblinville, since that’s a game I’d like to play but probably won’t get to.)</p>
+<p>I’m partly talking about this because it’s something I’d like to design towards. I’m just not sure how.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/21</link>
+        <pubDate>Wed, 18 Mar 2020 21:23:28 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4795-21</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795.rss">Alien and the Power of Asymmetrical Rules</source>
+      </item>
+      <item>
+        <title>Alien and the Power of Asymmetrical Rules</title>
+        <dc:creator><![CDATA[@GuySrinivasan]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/guysrinivasan">@GuySrinivasan</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="Anders" data-post="19" data-topic="4795" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/anders/40/2990_2.png" class="avatar"> Anders:</div>
+<blockquote>
+<p>I feel like they’re not of the same degree.</p>
+</blockquote>
+</aside>
+<p>I’m certain you’re right. None of the possibilities I threw out there would be of the same degree. You’d have to do something more extreme like putting a Torchbearer character in with a party of D&amp;D 4e characters exploring a dungeon. Except in Alien you got that feel without such an enormous rule-set change.</p>
+<p>I recently finished a Goblinville campaign, so that’s what’s fresh.</p>
+<p>To have a goblin doing all the same things as everyone else with very different experience and feel, and maybe tactical priorities… actually there’s a mechanic similar to stress, namely, getting conditions and relieving them during camp. So what would happen if one goblin was a ghost who cannot receive conditions? If they roll a harm die, instead of having to assign a die to harm they must drop the highest result. If they would receive a condition via other means, they instead roll +1d and drop highest on their next roll. This seems like a huge change, but still (I predict) wouldn’t induce a similar level of division.</p>
+<p>Conclusions: none</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/20</link>
+        <pubDate>Wed, 18 Mar 2020 20:56:56 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4795-20</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795.rss">Alien and the Power of Asymmetrical Rules</source>
+      </item>
+      <item>
+        <title>Alien and the Power of Asymmetrical Rules</title>
+        <dc:creator><![CDATA[@Anders]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/anders">@Anders</a> wrote:</p>
+          <blockquote>
+              <p>Yes, I think everyone’s quite aware of the GM/non-GM experience divide, since the GM and non-GM players are typically involved in fundamentally different activities. In the Alien game I played, I and the other players were involved in the same activities - exploring the base and fighting/running from xenomorphs, mainly - but the conditions under which we did that were different enough that it strongly colored our experiences.</p>
+<p>Some of the examples brought up in this thread are of a similar kind, though I feel like they’re not of the same degree. In Alien, the difference between the humans and the androids is very stark. For the humans, the stress and panic systems are fundamental to gameplay and the player experience, while they are completely absent from the direct play experience for the androids. I think this is a bigger difference than most mentioned above, where different character types are more or less invested in a certain mechanism or can utilize it for different ends.</p>
+<p>But perhaps I’m under valuing the effect those differences can have on the gameplay experience.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/19</link>
+        <pubDate>Wed, 18 Mar 2020 18:53:04 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4795-19</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795.rss">Alien and the Power of Asymmetrical Rules</source>
+      </item>
+      <item>
+        <title>Alien and the Power of Asymmetrical Rules</title>
+        <dc:creator><![CDATA[@dominik]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dominik">@dominik</a> wrote:</p>
+          <blockquote>
+              <p>Yeah, I was thinking about the player/GM dichotomy but decided that this is completely different type of asymmetry than what <a class="mention" href="/u/anders">@Anders</a> was describing. I’m not sure if this is a correct or complete classification, but I’d say that asymmetry happens on 3 levels:</p>
+<ol>
+<li>Role variation: participants divided into players and GMs[1]</li>
+<li>Mechanical variation within a role: players have access to different mechanics depending on who they portray[2]</li>
+<li>Experience variation within a role: players experience the same adventure differently</li>
+</ol>
+<p>It’s kinda clunky but I hope you get the idea. What Anders was describing is not that there are different responsibilities by the table of that different rules apply (although they do). It’s that these differences led to a completely different experience by the table. Whether you can have 3. without 2. - I don’t know. But I sort of feel that it’s different. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"></p>
+<p>[1] not all games have this asymmetry and, arguably, it’s wider than that if we take “content creator” (setting author for example) into account<br>
+[2] this is fighter vs mage vs bard vs cook asymmetry</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/18</link>
+        <pubDate>Wed, 18 Mar 2020 15:33:52 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4795-18</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795.rss">Alien and the Power of Asymmetrical Rules</source>
+      </item>
+      <item>
+        <title>Alien and the Power of Asymmetrical Rules</title>
+        <dc:creator><![CDATA[@Rickard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rickard">@Rickard</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="Anders" data-post="1" data-topic="4795">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/anders/40/2990_2.png" class="avatar"> Anders:</div>
+<blockquote>
+<p>Either way, I find this very exciting. I’d like to see more examples so I can triangulate this into my own designs.</p>
+</blockquote>
+</aside>
+<p>Probably too obvious to point out, but a game master is an example of asymmetrical rules, where the role gives a different experience than being a player.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/17</link>
+        <pubDate>Wed, 18 Mar 2020 07:59:12 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4795-17</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795.rss">Alien and the Power of Asymmetrical Rules</source>
+      </item>
+      <item>
+        <title>Alien and the Power of Asymmetrical Rules</title>
+        <dc:creator><![CDATA[@noah_t]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/noah_t">@noah_t</a> wrote:</p>
+          <blockquote>
+              <p>To reply to <a class="mention" href="/u/guysrinivasan">@GuySrinivasan</a>, too, I think both <em>Trophy Gold</em> and <em>Goblinville</em> are so nicely designed for those kinds of small rule tweaks (and probably others mentioned, those are just the two I’ve played).</p>
+<p>Ruin &amp; Burden might be other cool places to push for <em>Trophy Gold</em>. A Charming Rogue class with the “Magpie Brain” ability can raise their Burden by 2 to pull an item worth 1 Gold from their bag. A Scabmettler with Blood Armor can raise their Ruin by 1 to participate in combat, even if they don’t carry a weapon, etc.</p>
+<p>Also <a class="mention" href="/u/anders">@Anders</a> , though I haven’t played it, <em>Red Markets</em> has a character class called the Roach who can burn a point of Humanity (the game’s measure of how you’re holding up in the zombie apocalypse) to get a +1 bonus. In the game’s thematic terms of ‘economic horror,’ they monetize their sanity and spend it like they would a commodity or piece of equipment. It’s such a lovely bit of theme meeting mechanics that I kinda wish every PC had access to it.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/16</link>
+        <pubDate>Wed, 18 Mar 2020 03:01:03 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4795-16</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795.rss">Alien and the Power of Asymmetrical Rules</source>
+      </item>
+      <item>
+        <title>Alien and the Power of Asymmetrical Rules</title>
+        <dc:creator><![CDATA[@JimLikesGames]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jimlikesgames">@JimLikesGames</a> wrote:</p>
+          <blockquote>
+              <p>D&amp;D 4th Edition didn’t fail. It sold very briskly, was in print for 7 years, and sold a giant pile of accessories for WOtC and Paizo.</p>
+<p>4th Edition very consciously followed a lot of the design logic of MMO video games, which some people love! But other people don’t. It was an audacious experiment, and definitely generated controversy, but by any reasonably <em>objective</em> metric, it was quite successful. I certainly sold many hundreds of those books while it was in print and I owned my store(s).</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/15</link>
+        <pubDate>Wed, 18 Mar 2020 02:46:42 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4795-15</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795.rss">Alien and the Power of Asymmetrical Rules</source>
+      </item>
+      <item>
+        <title>Alien and the Power of Asymmetrical Rules</title>
+        <dc:creator><![CDATA[@Deckard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deckard">@Deckard</a> wrote:</p>
+          <blockquote>
+              <p>Following this thought, what if a mercenary character type in Trophy could cut and run without passing a dark die to the group that stays?  Would it break the game? Or, build distrust against this character?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/14</link>
+        <pubDate>Tue, 17 Mar 2020 20:38:42 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4795-14</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795.rss">Alien and the Power of Asymmetrical Rules</source>
+      </item>
+      <item>
+        <title>Alien and the Power of Asymmetrical Rules</title>
+        <dc:creator><![CDATA[@GuySrinivasan]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/guysrinivasan">@GuySrinivasan</a> wrote:</p>
+          <blockquote>
+              <p>That’s a really cool experience. Brainstorming some other places there might be easy space for a similar effect… Dread? What if one person never had to pull, but always had to assign their pull to someone else? What would that even feel like? Primetime Adventures, what if someone could only spend fanmail 1 at a time but someone else had to spend fanmail in chunks of 4? Goblinville, what if one goblin could always add as many Harm dice as they wanted to their own roll rather than “GM decides 0 or 1”? Definitely seems easier when there’s a core mechanic to alter.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795/13</link>
+        <pubDate>Tue, 17 Mar 2020 19:37:36 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4795-13</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/alien-and-the-power-of-asymmetrical-rules/4795.rss">Alien and the Power of Asymmetrical Rules</source>
+      </item>
+  </channel>
+</rss>

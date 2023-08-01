@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Any way to edit original posts?</title>
+    <link>https://forums.gauntlet-rpg.com/t/any-way-to-edit-original-posts/4380</link>
+    <description>Wondering if there&#39;s a way to edit old posts for topics you&#39;ve started. I wanted to add links to the most current version of my game to the OP for my feedback topic and fix the picture which broke.</description>
+    
+    <lastBuildDate>Thu, 23 Jan 2020 06:39:59 +0000</lastBuildDate>
+    <category>Site Feedback</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/any-way-to-edit-original-posts/4380.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Any way to edit original posts?</title>
+        <dc:creator><![CDATA[@dominik]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dominik">@dominik</a> wrote:</p>
+          <blockquote>
+              <p>There’s a configuration available to admins (<code>post edit time limit</code>) governing this that defaults to 2 months. So there are three ways to do what you want: 1) admins changing this value, 2) post marked as wiki (can’t use retroactively unless admin can change the type of an existing post), 3) plugin adding per-user limits.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/any-way-to-edit-original-posts/4380/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/any-way-to-edit-original-posts/4380/2</link>
+        <pubDate>Thu, 23 Jan 2020 06:39:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4380-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/any-way-to-edit-original-posts/4380.rss">Any way to edit original posts?</source>
+      </item>
+      <item>
+        <title>Any way to edit original posts?</title>
+        <dc:creator><![CDATA[@Radmad]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/radmad">@Radmad</a> wrote:</p>
+          <blockquote>
+              <p>Wondering if there’s a way to edit old posts for topics you’ve started. I wanted to add links to the most current version of my game to the OP for my feedback topic and fix the picture which broke.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/any-way-to-edit-original-posts/4380/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/any-way-to-edit-original-posts/4380/1</link>
+        <pubDate>Thu, 23 Jan 2020 03:02:39 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4380-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/any-way-to-edit-original-posts/4380.rss">Any way to edit original posts?</source>
+      </item>
+  </channel>
+</rss>

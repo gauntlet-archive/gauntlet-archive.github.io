@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Layouts for home-printed cards?</title>
+    <link>https://forums.gauntlet-rpg.com/t/layouts-for-home-printed-cards/5736</link>
+    <description>This is a very basic utilitarian question here, but I&#39;m working on a game that uses cards as a core mechanic that I&#39;m planning to sell digitally for people to print out at home and I was wondering whether there are any standard approaches to laying them out to make it as easy for users as possible. Currently I have them on a landscape sheet with three cards to a page ( effectively tarot-sized ) and it seems to work alright, but are there standard ways to do it?</description>
+    
+    <lastBuildDate>Mon, 31 Aug 2020 11:54:56 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/layouts-for-home-printed-cards/5736.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Layouts for home-printed cards?</title>
+        <dc:creator><![CDATA[@Gulix]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gulix">@Gulix</a> wrote:</p>
+          <blockquote>
+              <p>I’ve made some cards-based games and used both the 3x3 and 4x2 template shown above. The 4x2 was only with Fiasco playsets because that was the original format (for the PDF).</p>
+<p>I don’t put space between cards (saving some cuts).</p>
+<p>I try to have pages that fit US Letter and A4 but ultimately the file is A4 (I’m french and that’s what I use).<br>
+I make cards in Magic the Gathering format for the size. This way, it’s easy to find affordable sleeves to put them. The game is more playable and eye-friendly. I go with full transparent sleeves if the face and back of cards are needed. If I only need the face, then I go with opaque back sleeves.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/layouts-for-home-printed-cards/5736/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/layouts-for-home-printed-cards/5736/8</link>
+        <pubDate>Mon, 31 Aug 2020 11:54:56 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5736-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/layouts-for-home-printed-cards/5736.rss">Layouts for home-printed cards?</source>
+      </item>
+      <item>
+        <title>Layouts for home-printed cards?</title>
+        <dc:creator><![CDATA[@CrudelyDrawnSwords]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/crudelydrawnswords">@CrudelyDrawnSwords</a> wrote:</p>
+          <blockquote>
+              <p>This is really helpful, thank you.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/layouts-for-home-printed-cards/5736/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/layouts-for-home-printed-cards/5736/7</link>
+        <pubDate>Thu, 20 Aug 2020 20:30:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5736-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/layouts-for-home-printed-cards/5736.rss">Layouts for home-printed cards?</source>
+      </item>
+      <item>
+        <title>Layouts for home-printed cards?</title>
+        <dc:creator><![CDATA[@sjbrown]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/sjbrown">@sjbrown</a> wrote:</p>
+          <blockquote>
+              <p>For print-and-play, I’ve got a 3x3 layout that works on my printer here:<br>
+<aside class="onebox githubblob">
+  <header class="source">
+      <a href="https://github.com/sjbrown/misc_work/blob/master/genesis/src.svg" target="_blank" rel="nofollow noopener">github.com</a>
+  </header>
+  <article class="onebox-body">
+    <h4><a href="https://github.com/sjbrown/misc_work/blob/master/genesis/src.svg" target="_blank" rel="nofollow noopener">sjbrown/misc_work/blob/master/genesis/src.svg</a></h4>
+<pre><code class="lang-svg">&lt;?xml version="1.0" encoding="UTF-8" standalone="no"?&gt;
+&lt;!-- Created with Inkscape (http://www.inkscape.org/) --&gt;
+
+&lt;svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="src.svg"&gt;
+  &lt;defs
+</code></pre>
+
+  This file has been truncated. <a href="https://github.com/sjbrown/misc_work/blob/master/genesis/src.svg" target="_blank" rel="nofollow noopener">show original</a>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+<p>(you can click on the Download button on GitHub to open it in Inkscape or Corel Draw or whatever vector editing software you have on your computer)</p>
+<p>But for more “standard” sizes, like a poker deck, I’d recommend downloading individual card templates from The Game Crafter.</p>
+<p><a href="https://www.thegamecrafter.com/publish/product/PokerDeck" class="onebox" target="_blank" rel="nofollow noopener">https://www.thegamecrafter.com/publish/product/PokerDeck</a></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/layouts-for-home-printed-cards/5736/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/layouts-for-home-printed-cards/5736/6</link>
+        <pubDate>Thu, 20 Aug 2020 18:53:31 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5736-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/layouts-for-home-printed-cards/5736.rss">Layouts for home-printed cards?</source>
+      </item>
+      <item>
+        <title>Layouts for home-printed cards?</title>
+        <dc:creator><![CDATA[@jtreat3]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jtreat3">@jtreat3</a> wrote:</p>
+          <blockquote>
+              <p>A 3x3 layout with no gaps between poker-sized cards is the standard for PnP (Print and Play).<br>
+I’ve done 3x2 layout with tarot cards as well.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/layouts-for-home-printed-cards/5736/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/layouts-for-home-printed-cards/5736/5</link>
+        <pubDate>Wed, 19 Aug 2020 18:58:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5736-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/layouts-for-home-printed-cards/5736.rss">Layouts for home-printed cards?</source>
+      </item>
+      <item>
+        <title>Layouts for home-printed cards?</title>
+        <dc:creator><![CDATA[@Nickwedig]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/nickwedig">@Nickwedig</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="CrudelyDrawnSwords" data-post="3" data-topic="5736">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/crudelydrawnswords/40/1576_2.png" class="avatar"> CrudelyDrawnSwords:</div>
+<blockquote>
+<p>I don’t disagree about it being non-optimal - not a fan of printing game cards myself in most cases - but also the startup cost difference between a digital product that you can sell online for people to print themselves and making a physical object and then manually posting it to them is several orders of magnitude</p>
+</blockquote>
+</aside>
+<p>In between those options is Print on Demand cards, such as through DriveThruRPG/DrivethruCards. Which is actually pretty easy to get set up and going. And if you will ever make it POD in that sort of way, it’s probably a good idea to look at their templates and guidance on formatting, make the game match that format from the start, rather than reformatting it later on.</p>
+<p>My suggestions for laying out cards would be to resize the PDF so each page of the file is one card. Most PDF programs will let a user print multiple pages on a single sheet of paper. So they can print 3 or 4 or 6 cards on one sheet (depending on card and paper size). Then cut them out from there.</p>
+<p>If you’re printing normal card sized cards at home, the best method is to get some plastic card sleeves from your local Magic the Gathering retailer. Those sleeves will hide imperfections and unevenness in the cards, and help them shuffle properly. (You can just print on any flimsy paper you want and include a spare MtG card for backing if you want.) This doesn’t work so well for Tarot sized cards, though, since card sleeves don’t usually come in that size.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/layouts-for-home-printed-cards/5736/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/layouts-for-home-printed-cards/5736/4</link>
+        <pubDate>Mon, 17 Aug 2020 19:07:39 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5736-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/layouts-for-home-printed-cards/5736.rss">Layouts for home-printed cards?</source>
+      </item>
+      <item>
+        <title>Layouts for home-printed cards?</title>
+        <dc:creator><![CDATA[@CrudelyDrawnSwords]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/crudelydrawnswords">@CrudelyDrawnSwords</a> wrote:</p>
+          <blockquote>
+              <p>Thank you for this, I really appreciate it.</p>
+<p>I don’t disagree about it being non-optimal - not a fan of printing game cards myself in most cases - but also the startup cost difference between a digital product that you can sell online for people to print themselves and making a physical object and then manually posting it to them is several orders of magnitude, so unless we run a major kickstarter campaign we may have to hold off on printing them for the time being!</p>
+<p>Fortunately this game is using the cards in a story-prompt/rule carrying kind of way, so I’m not too worried about the backs and it doesn’t harm the game if people know which card is which, there isn’t really a way to cheat.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/layouts-for-home-printed-cards/5736/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/layouts-for-home-printed-cards/5736/3</link>
+        <pubDate>Sat, 15 Aug 2020 22:14:24 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5736-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/layouts-for-home-printed-cards/5736.rss">Layouts for home-printed cards?</source>
+      </item>
+      <item>
+        <title>Layouts for home-printed cards?</title>
+        <dc:creator><![CDATA[@dominik]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dominik">@dominik</a> wrote:</p>
+          <blockquote>
+              <p>I don’t know if there’s a standard way for it but I know I’m not a fan of “print your cards” solution. It’s hard to get right for various reasons.</p>
+<ol>
+<li>
+<p>Many home printers can’t print from edge to edge and have some hard print margins. If you want to print tarot cards (69.85 x 120.65 mm / 2.75 x 4.75 in) on A4 printer (210 x 297 mm) there has to be a built-in margin on card faces so the illustration isn’t cut off. You’ve got some more space on US letter printers (216 x 279 mm) but 7mm can still be too much to ask from a HP deskjet. It’s much easier for poker size cards (63.5 x 88.9 mm / 2.5 x 3.5 in) and bridge size (57.15 x 88 mm / 2.25 x 3.5 in) as you can always fit 3x3 on a single page.</p>
+</li>
+<li>
+<p>The fact that people use different paper sizes means that it’s best if you prepare PDF for print adjusted for both A4 and US letter sizes. Very few ttrpgs do that and I don’t think I’ve ever seen any card printouts that take this into account (but I haven’t seen everything, obviously).</p>
+</li>
+<li>
+<p>Printed cards have to be cut out by hand and this is my greatest gripe with them. If you play with min-maxers, it’s a sure thing that cut impressions will be exploited to identify cards. This can be mitigated by providing smaller print outs to be glued onto an old pack of cards or a pack of blank cards (it’s under $7 where I live).</p>
+</li>
+<li>
+<p>Cutting cards is hard and there’s no best layout option, IMO. If you have separate border for each card you need 12 instead of 8 cuts per sheet if you make cards share border. But if borders are shared and you’re using scissors instead of guillotine, some cards will have visible lines and some won’t. Cut markers outside of card bodies work only for guillotine too.</p>
+</li>
+</ol>
+<p>But that’s my gripe with printable cards. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"> The fact that are many available for download probably means that I’m in the minority. FWIW I’d strongly advocate against cards printable on both sides of the sheet (i.e. faces + backs) as it’s near impossible to align this on a home printer and makes it even easier to guess cards by their backs.</p>
+<p>I looked through the various PDFs with cards on my disk and it looks like all either have double cut (B) or single cut with double border (A) but none are single cut with shared border ©.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/7/7ec1d2b6ab095e61c30a9d9f6ce982643e69487c.png" data-download-href="/uploads/short-url/i5lqn3sAWXLP4iAQfhguCKm96LG.png?dl=1" title="image"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/7/7ec1d2b6ab095e61c30a9d9f6ce982643e69487c_2_690x147.png" alt="image" data-base62-sha1="i5lqn3sAWXLP4iAQfhguCKm96LG" width="690" height="147" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/7/7ec1d2b6ab095e61c30a9d9f6ce982643e69487c_2_690x147.png, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/7/7ec1d2b6ab095e61c30a9d9f6ce982643e69487c.png 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/7/7ec1d2b6ab095e61c30a9d9f6ce982643e69487c.png 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/7/7ec1d2b6ab095e61c30a9d9f6ce982643e69487c_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">771×165 6.43 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>Also all were either 3x3 or 2x4.</p>
+<p><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/9/963af881db2ea232f549cd6ffd22e46a67099a2b.png" alt="image" data-base62-sha1="lqZXOBk2QYGF65hRO5C2cVd0Y6n" width="629" height="394"></p>
+<p>This wouldn’t be my preferred layout* but that’s what seems to be popular. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"> Hope this long rant is of any help.</p>
+<p>* My preferred layout would be single cut, double border (A) in 2x8 unless the number of cards is a multiple of 3 (then 3x3). But above all I’d like to have card faces smaller than the poker card size that I can glue on top of an old deck of cards.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/layouts-for-home-printed-cards/5736/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/layouts-for-home-printed-cards/5736/2</link>
+        <pubDate>Sat, 15 Aug 2020 15:00:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5736-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/layouts-for-home-printed-cards/5736.rss">Layouts for home-printed cards?</source>
+      </item>
+      <item>
+        <title>Layouts for home-printed cards?</title>
+        <dc:creator><![CDATA[@CrudelyDrawnSwords]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/crudelydrawnswords">@CrudelyDrawnSwords</a> wrote:</p>
+          <blockquote>
+              <p>This is a very basic utilitarian question here, but I’m working on a game that uses cards as a core mechanic that I’m planning to sell digitally for people to print out at home and I was wondering whether there are any standard approaches to laying them out to make it as easy for users as possible. Currently I have them on a landscape sheet with three cards to a page ( effectively tarot-sized ) and it seems to work alright, but are there standard ways to do it?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/layouts-for-home-printed-cards/5736/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/layouts-for-home-printed-cards/5736/1</link>
+        <pubDate>Sat, 15 Aug 2020 12:26:38 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5736-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/layouts-for-home-printed-cards/5736.rss">Layouts for home-printed cards?</source>
+      </item>
+  </channel>
+</rss>

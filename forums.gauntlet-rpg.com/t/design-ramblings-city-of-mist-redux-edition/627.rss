@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Design Ramblings: City of Mist Redux Edition</title>
+    <link>https://forums.gauntlet-rpg.com/t/design-ramblings-city-of-mist-redux-edition/627</link>
+    <description>*Disclaimer: I love *City of Mist*. I have backed both Kickstarters and have two piles of stat and character cards. I will run it any time face-to-face. However, from a hacking and online play perspective, I just cannot make the game work for me.* 
+
+Hello there. Recently, @Luiz  made an excellent streamlined *World of Dungeons* style take on *City of Mist*. I have tried my hand at hacking the system before, but it is not easy; the ideas bounced off around the community as Luiz wrote his version motivated me
+
+I think it might be interesting to go through my progress, as I find it shows how much I learned and my attitudes towards design changed since I joined the Gauntlet community. 
+
+The hack in question is *Fabulae Urbe,* the City not of Mist, but of Myth. There is no Mist, with prodigious individuals that incarnate myths, legends and gods in their being and how they affect their community.
+
+I knew from the get go that I wanted *Fabulae Urbe* to do:
+
+* Have a single resolution move.
+* Have player-facing scene creation.
+* Be centered around community-building and development.
+* Constant conflict between the mortal being and divine spark within.
+
+**Character Creation**
+
+I wanted to keep the duality of every PC and the myth they hold; this is represented by their *Infernal* side (mortal, theluric, material) and their *Celestial* side (platonic, abstract, supernal) aspect. Each PC has four points &quot;Names&quot;, which they must divide among Infernal/Celestial at a 2/2, 3/1 or 1/3 ratio.
+
+*Names* serve an additional function: each Name gives you *two tags*. So, a starting PC would have 4 Names, 8 Tags. Tags were important in both @Luiz hack and the original *City of Mist*; streamlining, I wanted them to be a resource, stress/health track and a constant part of fictional positioning. 
+
+One of the most attractive points of *City of Mist* are the *Mysteries* and *Identities* of each character;  they are supposed to constantly grind against each other and trigger relevant narrative moves for each player, each session... but they do not tend to work as well as in paper and it is pretty rare to get them to happen once, or if at all. Still, that is what I love about it and I want to make it work. Many games promised and tried something similar, but so far, only one game managed to deliver it often, organic and consistently @edige23´s and @Agatha&#39;s *Hearts of Wulin*. 
+
+So, the final points of character creation became their Imbroglios: 
+* pick one mystery they seek an answer related to their myth: their *Triumph*
+* pick a core identity of themselves and their place in the world: their *Momento Mori* 
+
+And... that is a *Fabulae Urbe* PC. Just enough depth to get them into trouble and give them an inner and outer life. I&#39;m happy at this level of complexity. 
+
+**Resolution Mechanics**
+
+I had quite a lot of trouble deciding on a general resolution move that I liked. 
+
+I tried a WoDu style move first, but could not make it work with Tags organically; I tried a Forged in the Dark style move, but it was so complex that it would be better to make the entire thing FitD from the start; I tried a very conservative PbtA move, closer to City of Mist&#39;s own, but @Luiz had already done such a good job like that, why not just use that hack instead? 
+
+I was going frustrating, specially because the goal of having the game be more player-facing was really not there other than Imbroglios. The answer came to me when reading old Codex zines. 
+
+*What if I made the game&#39;s core move a version of @jasoncordova `s Labyrinth Move?* 
+
+This is how this mess came to be: 
+
+&gt; **Descend Into The Underworld**
+&gt; 
+&gt; **When you face the legends of the city**, roll **+Celestial** or **+Infernal**. If tags **help** you, roll with **advantage**; if tags **hinder** you, roll with **disadvantage**. A single player rolls for the whole group; all relevant character and story tags apply.
+&gt; 
+&gt; On a **hit (7+)**, gain **hold 1**.
+&gt; 
+&gt; On a **critical (12+)**, gain **hold 2**.
+&gt; 
+&gt; On a **miss (6-)**, mark a tag or remove yourself from the scene. Mark experience.
+&gt; 
+&gt; On a **7-9**, ask a question and declare what you seek to achieve. The GM will answer you and tell how your course of actions drives you deeper into the Urbe&amp;rsquo;s intrigue.
+&gt; 
+&gt; On a **10+**, you are fortunate in your investigation. You make significant progress on your goal or events in the Urbe play in an helpful way.
+&gt; 
+&gt; Hold from this move is cumulative and tracked for the entire party. **You may spend hold to**:
+&gt; 
+&gt; * Spend 1 to 1 to mark any story or character tag.
+&gt; * Spend 1 to 1 to ask a question from the GM.
+&gt; * Spend 1 to start a scene involving a neutral party.
+&gt; * Spend 2 to start a scene involving an antagonist.
+&gt; * Spend 3 to start a scene involving a major power of the Urbe
+
+It allows one to ask questions, remove obstacles and enemies (by marking their tags) and let the players move around town, using their hold to get access to all manner of characters and events. It might be overambitious, but at least on paper it seems to capture a lot of the recurring encounters and situations of an urban environment. 
+
+**Narrative Moves**
+
+*City of Mists* has a lot of moves. The most important are the narrative moves, which I saw value on keeping. 
+
+The Montage move is perfect to give players a breather or control the pacing of the game. Give players a montage and let them commune with their myth, pay attention to their mortal life or to gain a much needed speed-bump to their narrative control by getting hold. 
+
+&gt; **Montage (Downtime)**
+&gt; 
+&gt; **Whenever your character has some downtime**, choose one:
+&gt; 
+&gt; * Connect with your mortal life. Narrate what happens. Mark experience.
+&gt; * Commune with your divine legend. Narrate what happens. Mark experience.
+&gt; * Prepare for a confrontation. Narrate how you prepare. Recover a marked tag or get hold 3.
+
+Flashback is one of my favorite moves of *City of Mists*; I really love the ability to bring it back, but I think this is **My Darling Most Likely To Be Killed**. Letting players flashback details into a scene by spending hold is nice, but it is the idea of having &quot;nested&quot; scenes as flashback is what gets me excited. However, I can already see so many problems and reasons why players will not use/forget about it... But for now, it is still in the game.  
+
+&gt; **Flashback**
+&gt; 
+&gt; **During a scene, spend 1 hold**. Then, choose between:
+&gt; 
+&gt; * Establish a true fact about the current scene.
+&gt; * Spend additional 1-3 hold and run a scene as a flashback as if you had spend it for Descend Into the Underworld.
+
+Now, Make a Hard Choice. This is the one; this is the move that is supposed to make or break *City of Mist*. This is where the Triumph and Momento Mori have to play out a role, this should be almost as common as Descend Into The Underworld. The final framework I decided on takes as much from the original move design *intentions*, and how both *Blades in the Dark* and *Hearts of Wulin* *deliver* very similar goals.  Thanks for @edige23 for teaching me how Hard Choices are done.  
+
+&gt; **Make a Hard Choice**
+&gt; 
+&gt; **When you come face to face with your imbroglios,** mark experience. Then roll your choice of **+Celestial** or **+Infernal**. 
+&gt; 
+&gt; On a **10+**, you manage to manage to keep yourself together. 
+&gt; 
+&gt; On a **7-9+**, players will suggest a disquieting truth about your Triumph or Memento Mori. If you refuse, leave the scene. If you accept that truth,  lower the stat used and increase the other. If that would lower it below one, you must mark two tags instead. 
+&gt; 
+&gt; On a **6-**, choose one: 	
+&gt; **Lose control of your character.**
+&gt; **Lose something dear to you.**  Lose a tag.
+&gt; **It takes all you got.** Mark all of your tags. 
+
+I have an end of session/advancement move, but what can I say? It is very crude, direction-less and will change a lot.
+
+**Lessons Learned And The Future**
+
+Playtest, I guess? The whole thing depends on how good the move actually is. Until that is tested, any investment on the game is compromised. 
+Other than that, I do not see any interesting additions beyond more obvious like a faction system or some sort of clocks to show the changes in the community/ who are the power-movers; and definitely a lot of examples of Triumph questions and Momento Mori statements.  
+
+[Fabulae Urbe (Gdocs)](https://docs.google.com/document/d/1K3ccjzjTao16nedaY9JPe5ZGFNLb2xb-mG2IFNr_MKo/edit?usp=sharing)
+[Fabulae Urbe (PDF)](https://drive.google.com/file/d/1MugReflBllJ-LJFj_2uv95bRhnasDW1M/view?usp=sharing)</description>
+    
+    <lastBuildDate>Tue, 19 Mar 2019 15:33:38 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/design-ramblings-city-of-mist-redux-edition/627.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Design Ramblings: City of Mist Redux Edition</title>
+        <dc:creator><![CDATA[@Jason_Kottler]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jason_kottler">@Jason_Kottler</a> wrote:</p>
+          <blockquote>
+              <p>Hey, thanks!</p>
+<p>I’m late to the CoM party - got in at KS <span class="hashtag">#2</span> and am kind of waiting for physical books before I undertake a serious dive into the rules. My initial impression was that yes, there are a lot of moving parts, but it looks like the kind of PbtA + Fate marriage that I was hoping for.</p>
+<p>Plus, it’s coming out just as the Mage comics are <strong>finally</strong> finishing - so perfect timing!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/design-ramblings-city-of-mist-redux-edition/627/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/design-ramblings-city-of-mist-redux-edition/627/9</link>
+        <pubDate>Tue, 19 Mar 2019 15:33:38 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-627-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/design-ramblings-city-of-mist-redux-edition/627.rss">Design Ramblings: City of Mist Redux Edition</source>
+      </item>
+      <item>
+        <title>Design Ramblings: City of Mist Redux Edition</title>
+        <dc:creator><![CDATA[@Ludovico_Alves]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/ludovico_alves">@Ludovico_Alves</a> wrote:</p>
+          <blockquote>
+              <p>I tested it a few hours as a duet game and it got pretty development of the character. It works pretty well, but for group play it may need some extra tech.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/design-ramblings-city-of-mist-redux-edition/627/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/design-ramblings-city-of-mist-redux-edition/627/8</link>
+        <pubDate>Tue, 19 Mar 2019 06:43:31 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-627-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/design-ramblings-city-of-mist-redux-edition/627.rss">Design Ramblings: City of Mist Redux Edition</source>
+      </item>
+      <item>
+        <title>Design Ramblings: City of Mist Redux Edition</title>
+        <dc:creator><![CDATA[@Luiz]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/luiz">@Luiz</a> wrote:</p>
+          <blockquote>
+              <p>There ya go <a href="https://docs.google.com/document/d/1BSJcbdOnDhzS7RcHUrbDZRnTozI6OFddWLjpx8Q_-yg/" rel="nofollow noopener">https://docs.google.com/document/d/1BSJcbdOnDhzS7RcHUrbDZRnTozI6OFddWLjpx8Q_-yg/</a></p>
+<p>I’ve been thinking about making a version 2, though. I’m not fully satisfied with ny Downtime move and the tag system, and <a class="mention" href="/u/darren">@darren</a> made a very good point once about how the system ought to organically explore the characters’ Mysteries through the investigations, and I wanted to incorporate that somehow</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/design-ramblings-city-of-mist-redux-edition/627/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/design-ramblings-city-of-mist-redux-edition/627/7</link>
+        <pubDate>Tue, 19 Mar 2019 05:59:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-627-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/design-ramblings-city-of-mist-redux-edition/627.rss">Design Ramblings: City of Mist Redux Edition</source>
+      </item>
+      <item>
+        <title>Design Ramblings: City of Mist Redux Edition</title>
+        <dc:creator><![CDATA[@Jason_Kottler]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jason_kottler">@Jason_Kottler</a> wrote:</p>
+          <blockquote>
+              <p>Any chance you have a link to the version <a class="mention" href="/u/luiz">@Luiz</a> made too?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/design-ramblings-city-of-mist-redux-edition/627/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/design-ramblings-city-of-mist-redux-edition/627/6</link>
+        <pubDate>Mon, 18 Mar 2019 23:37:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-627-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/design-ramblings-city-of-mist-redux-edition/627.rss">Design Ramblings: City of Mist Redux Edition</source>
+      </item>
+      <item>
+        <title>Design Ramblings: City of Mist Redux Edition</title>
+        <dc:creator><![CDATA[@DavidMK]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/davidmk">@DavidMK</a> wrote:</p>
+          <blockquote>
+              <p>When I played in a session of CoM that <a class="mention" href="/u/edige23">@edige23</a> ran I never felt lost because he had me covered, but it did feel like there were a lot of moving pieces. I’d be interested in playing a modified version of CoM.  <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=6" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/design-ramblings-city-of-mist-redux-edition/627/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/design-ramblings-city-of-mist-redux-edition/627/5</link>
+        <pubDate>Thu, 14 Mar 2019 16:02:04 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-627-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/design-ramblings-city-of-mist-redux-edition/627.rss">Design Ramblings: City of Mist Redux Edition</source>
+      </item>
+      <item>
+        <title>Design Ramblings: City of Mist Redux Edition</title>
+        <dc:creator><![CDATA[@edige23]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/edige23">@edige23</a> wrote:</p>
+          <blockquote>
+              <p>I think so. You might ask Will Patterson about that. If you do put something together and you want someone to look over it before you post, I’d be glad to.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/design-ramblings-city-of-mist-redux-edition/627/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/design-ramblings-city-of-mist-redux-edition/627/4</link>
+        <pubDate>Wed, 13 Mar 2019 17:04:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-627-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/design-ramblings-city-of-mist-redux-edition/627.rss">Design Ramblings: City of Mist Redux Edition</source>
+      </item>
+      <item>
+        <title>Design Ramblings: City of Mist Redux Edition</title>
+        <dc:creator><![CDATA[@Ludovico_Alves]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/ludovico_alves">@Ludovico_Alves</a> wrote:</p>
+          <blockquote>
+              <p>Oh… are you sure it would be a good fit for the blog?</p>
+<p>With some playtest it could be a good short series on how the Gauntlet support/shapes/polishes design. I have to get over my anxiety at reading my own writing first, but I guess that angle could work great.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/design-ramblings-city-of-mist-redux-edition/627/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/design-ramblings-city-of-mist-redux-edition/627/3</link>
+        <pubDate>Wed, 13 Mar 2019 16:18:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-627-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/design-ramblings-city-of-mist-redux-edition/627.rss">Design Ramblings: City of Mist Redux Edition</source>
+      </item>
+      <item>
+        <title>Design Ramblings: City of Mist Redux Edition</title>
+        <dc:creator><![CDATA[@edige23]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/edige23">@edige23</a> wrote:</p>
+          <blockquote>
+              <p>Nice-- really interesting ideas here. You should consider writing this up as a post for the Blog, especially if you run a playtest on the Gauntlet. There’s much to like about the ideas of CoM, so any tooling around to make that material useful is great.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/design-ramblings-city-of-mist-redux-edition/627/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/design-ramblings-city-of-mist-redux-edition/627/2</link>
+        <pubDate>Wed, 13 Mar 2019 15:04:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-627-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/design-ramblings-city-of-mist-redux-edition/627.rss">Design Ramblings: City of Mist Redux Edition</source>
+      </item>
+      <item>
+        <title>Design Ramblings: City of Mist Redux Edition</title>
+        <dc:creator><![CDATA[@Ludovico_Alves]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/ludovico_alves">@Ludovico_Alves</a> wrote:</p>
+          <blockquote>
+              <p><em>Disclaimer: I love <em>City of Mist</em>. I have backed both Kickstarters and have two piles of stat and character cards. I will run it any time face-to-face. However, from a hacking and online play perspective, I just cannot make the game work for me.</em></p>
+<p>Hello there. Recently, <a class="mention" href="/u/luiz">@Luiz</a>  made an excellent streamlined <em>World of Dungeons</em> style take on <em>City of Mist</em>. I have tried my hand at hacking the system before, but it is not easy; the ideas bounced off around the community as Luiz wrote his version motivated me</p>
+<p>I think it might be interesting to go through my progress, as I find it shows how much I learned and my attitudes towards design changed since I joined the Gauntlet community.</p>
+<p>The hack in question is <em>Fabulae Urbe,</em> the City not of Mist, but of Myth. There is no Mist, with prodigious individuals that incarnate myths, legends and gods in their being and how they affect their community.</p>
+<p>I knew from the get go that I wanted <em>Fabulae Urbe</em> to do:</p>
+<ul>
+<li>Have a single resolution move.</li>
+<li>Have player-facing scene creation.</li>
+<li>Be centered around community-building and development.</li>
+<li>Constant conflict between the mortal being and divine spark within.</li>
+</ul>
+<p><strong>Character Creation</strong></p>
+<p>I wanted to keep the duality of every PC and the myth they hold; this is represented by their <em>Infernal</em> side (mortal, theluric, material) and their <em>Celestial</em> side (platonic, abstract, supernal) aspect. Each PC has four points “Names”, which they must divide among Infernal/Celestial at a 2/2, 3/1 or 1/3 ratio.</p>
+<p><em>Names</em> serve an additional function: each Name gives you <em>two tags</em>. So, a starting PC would have 4 Names, 8 Tags. Tags were important in both <a class="mention" href="/u/luiz">@Luiz</a> hack and the original <em>City of Mist</em>; streamlining, I wanted them to be a resource, stress/health track and a constant part of fictional positioning.</p>
+<p>One of the most attractive points of <em>City of Mist</em> are the <em>Mysteries</em> and <em>Identities</em> of each character;  they are supposed to constantly grind against each other and trigger relevant narrative moves for each player, each session… but they do not tend to work as well as in paper and it is pretty rare to get them to happen once, or if at all. Still, that is what I love about it and I want to make it work. Many games promised and tried something similar, but so far, only one game managed to deliver it often, organic and consistently @edige23´s and <a class="mention" href="/u/agatha">@Agatha</a>’s <em>Hearts of Wulin</em>.</p>
+<p>So, the final points of character creation became their Imbroglios:</p>
+<ul>
+<li>pick one mystery they seek an answer related to their myth: their <em>Triumph</em>
+</li>
+<li>pick a core identity of themselves and their place in the world: their <em>Momento Mori</em>
+</li>
+</ul>
+<p>And… that is a <em>Fabulae Urbe</em> PC. Just enough depth to get them into trouble and give them an inner and outer life. I’m happy at this level of complexity.</p>
+<p><strong>Resolution Mechanics</strong></p>
+<p>I had quite a lot of trouble deciding on a general resolution move that I liked.</p>
+<p>I tried a WoDu style move first, but could not make it work with Tags organically; I tried a Forged in the Dark style move, but it was so complex that it would be better to make the entire thing FitD from the start; I tried a very conservative PbtA move, closer to City of Mist’s own, but <a class="mention" href="/u/luiz">@Luiz</a> had already done such a good job like that, why not just use that hack instead?</p>
+<p>I was going frustrating, specially because the goal of having the game be more player-facing was really not there other than Imbroglios. The answer came to me when reading old Codex zines.</p>
+<p><em>What if I made the game’s core move a version of <a class="mention" href="/u/jasoncordova">@jasoncordova</a> `s Labyrinth Move?</em></p>
+<p>This is how this mess came to be:</p>
+<blockquote>
+<p><strong>Descend Into The Underworld</strong></p>
+<p><strong>When you face the legends of the city</strong>, roll <strong>+Celestial</strong> or <strong>+Infernal</strong>. If tags <strong>help</strong> you, roll with <strong>advantage</strong>; if tags <strong>hinder</strong> you, roll with <strong>disadvantage</strong>. A single player rolls for the whole group; all relevant character and story tags apply.</p>
+<p>On a <strong>hit (7+)</strong>, gain <strong>hold 1</strong>.</p>
+<p>On a <strong>critical (12+)</strong>, gain <strong>hold 2</strong>.</p>
+<p>On a <strong>miss (6-)</strong>, mark a tag or remove yourself from the scene. Mark experience.</p>
+<p>On a <strong>7-9</strong>, ask a question and declare what you seek to achieve. The GM will answer you and tell how your course of actions drives you deeper into the Urbe’s intrigue.</p>
+<p>On a <strong>10+</strong>, you are fortunate in your investigation. You make significant progress on your goal or events in the Urbe play in an helpful way.</p>
+<p>Hold from this move is cumulative and tracked for the entire party. <strong>You may spend hold to</strong>:</p>
+<ul>
+<li>Spend 1 to 1 to mark any story or character tag.</li>
+<li>Spend 1 to 1 to ask a question from the GM.</li>
+<li>Spend 1 to start a scene involving a neutral party.</li>
+<li>Spend 2 to start a scene involving an antagonist.</li>
+<li>Spend 3 to start a scene involving a major power of the Urbe</li>
+</ul>
+</blockquote>
+<p>It allows one to ask questions, remove obstacles and enemies (by marking their tags) and let the players move around town, using their hold to get access to all manner of characters and events. It might be overambitious, but at least on paper it seems to capture a lot of the recurring encounters and situations of an urban environment.</p>
+<p><strong>Narrative Moves</strong></p>
+<p><em>City of Mists</em> has a lot of moves. The most important are the narrative moves, which I saw value on keeping.</p>
+<p>The Montage move is perfect to give players a breather or control the pacing of the game. Give players a montage and let them commune with their myth, pay attention to their mortal life or to gain a much needed speed-bump to their narrative control by getting hold.</p>
+<blockquote>
+<p><strong>Montage (Downtime)</strong></p>
+<p><strong>Whenever your character has some downtime</strong>, choose one:</p>
+<ul>
+<li>Connect with your mortal life. Narrate what happens. Mark experience.</li>
+<li>Commune with your divine legend. Narrate what happens. Mark experience.</li>
+<li>Prepare for a confrontation. Narrate how you prepare. Recover a marked tag or get hold 3.</li>
+</ul>
+</blockquote>
+<p>Flashback is one of my favorite moves of <em>City of Mists</em>; I really love the ability to bring it back, but I think this is <strong>My Darling Most Likely To Be Killed</strong>. Letting players flashback details into a scene by spending hold is nice, but it is the idea of having “nested” scenes as flashback is what gets me excited. However, I can already see so many problems and reasons why players will not use/forget about it… But for now, it is still in the game.</p>
+<blockquote>
+<p><strong>Flashback</strong></p>
+<p><strong>During a scene, spend 1 hold</strong>. Then, choose between:</p>
+<ul>
+<li>Establish a true fact about the current scene.</li>
+<li>Spend additional 1-3 hold and run a scene as a flashback as if you had spend it for Descend Into the Underworld.</li>
+</ul>
+</blockquote>
+<p>Now, Make a Hard Choice. This is the one; this is the move that is supposed to make or break <em>City of Mist</em>. This is where the Triumph and Momento Mori have to play out a role, this should be almost as common as Descend Into The Underworld. The final framework I decided on takes as much from the original move design <em>intentions</em>, and how both <em>Blades in the Dark</em> and <em>Hearts of Wulin</em> <em>deliver</em> very similar goals.  Thanks for <a class="mention" href="/u/edige23">@edige23</a> for teaching me how Hard Choices are done.</p>
+<blockquote>
+<p><strong>Make a Hard Choice</strong></p>
+<p><strong>When you come face to face with your imbroglios,</strong> mark experience. Then roll your choice of <strong>+Celestial</strong> or <strong>+Infernal</strong>.</p>
+<p>On a <strong>10+</strong>, you manage to manage to keep yourself together.</p>
+<p>On a <strong>7-9+</strong>, players will suggest a disquieting truth about your Triumph or Memento Mori. If you refuse, leave the scene. If you accept that truth,  lower the stat used and increase the other. If that would lower it below one, you must mark two tags instead.</p>
+<p>On a <strong>6-</strong>, choose one: 	<br>
+<strong>Lose control of your character.</strong><br>
+<strong>Lose something dear to you.</strong>  Lose a tag.<br>
+<strong>It takes all you got.</strong> Mark all of your tags.</p>
+</blockquote>
+<p>I have an end of session/advancement move, but what can I say? It is very crude, direction-less and will change a lot.</p>
+<p><strong>Lessons Learned And The Future</strong></p>
+<p>Playtest, I guess? The whole thing depends on how good the move actually is. Until that is tested, any investment on the game is compromised.<br>
+Other than that, I do not see any interesting additions beyond more obvious like a faction system or some sort of clocks to show the changes in the community/ who are the power-movers; and definitely a lot of examples of Triumph questions and Momento Mori statements.</p>
+<p><a href="https://docs.google.com/document/d/1K3ccjzjTao16nedaY9JPe5ZGFNLb2xb-mG2IFNr_MKo/edit?usp=sharing" rel="nofollow noopener">Fabulae Urbe (Gdocs)</a><br>
+<a href="https://drive.google.com/file/d/1MugReflBllJ-LJFj_2uv95bRhnasDW1M/view?usp=sharing" rel="nofollow noopener">Fabulae Urbe (PDF)</a></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/design-ramblings-city-of-mist-redux-edition/627/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/design-ramblings-city-of-mist-redux-edition/627/1</link>
+        <pubDate>Wed, 13 Mar 2019 14:26:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-627-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/design-ramblings-city-of-mist-redux-edition/627.rss">Design Ramblings: City of Mist Redux Edition</source>
+      </item>
+  </channel>
+</rss>

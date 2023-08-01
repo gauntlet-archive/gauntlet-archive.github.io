@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Designing PbtA without Harm or HP</title>
+    <link>https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777</link>
+    <description>I am working on a WoD/PbtA hack that can be played easily by blind or sight impaired players. One of my design goals is to eliminate as much of character sheet/playbook as possible, but especially get rid of checking and adjusting numbers. in a perfect world, the game could be played without help of sighted players and/or screen readers.
+
+The game is still in active development/testing. Currently we are using aspects/traits vs numeric attributes (although this has its own issues) and one core move like in WoD (although there are rules for adding more moves as the game progresses, as moves created during play are easier to remember than those established by the game like classes in DW for example). 
+
+I want the system to support OSR-ish / adventure style play, which means combat that can get deadly. This is where I am stuck and could use some help from the community.
+
+What we have tried so far:
+* **HP** (like in DW) - Keeping track of numbers is less then perfect, especially between encounters players would need to check their HP. For the blind player it means either using a screen reader to keep track of it, or asking a sighted player to do it for them. Far from perfect.
+ * **Harm clocks** (like in standard AW) -  This ends up working like HP, but on a lesser scale.
+* ** [**Paul_T&#39;s descriptive harm moves**](http://www.story-games.com/forums/discussion/17665/apocalypse-world-a-more-descriptive-visceral-approach-to-harm) - this flows well, but goes against the &quot;one core move&quot; mentality and can be pretty limiting.
+
+Currently we are not tracking harm per se, but we do note descriptive wounds (akin to statuses from other games, but we don&#39;t have a set list. Stuff like: bleeding, broken arm, short of breath etc.). If a player&#39;s total of a roll is equal or less to the amount of those wounds, they are incapacitated (so having 3 wounds and rolling 3 or less after modifiers takes the character out of action). This seems easier to remember than a number value, as the &quot;wounds&quot; are referenced during play (because they will have impact on narrative positioning). This works relatively well, but you still need to remember multiple things to know the total, and I can see it getting pretty messy with more than just few wounds. 
+
+So I am looking for a better approach. One that could be explained to more trad players relatively easily, and would not just rely on GM&#39;s fiat (I had some push back against just pure narrative positioning).
+
+Any help is greatly appreciated!</description>
+    
+    <lastBuildDate>Sat, 20 Jun 2020 09:51:12 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Designing PbtA without Harm or HP</title>
+        <dc:creator><![CDATA[@Balesir]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/balesir">@Balesir</a> wrote:</p>
+          <blockquote>
+              <p>Sorry to come late to the party (I only came across this thread while searching for something else, but it engaged my interest!), but could I suggest taking a look at Saga of the Icelanders by Gregor Vuga, published by Red Moose games? It’s a PbtA game that uses a system that seems to fit with what you are (were?) looking for. My guess is that people with sight impairment could play the game pretty much as written, with a bit of working out personal aides memoires (for things like keeping track of bonds with other characters).</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/49">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/49</link>
+        <pubDate>Sat, 20 Jun 2020 09:51:12 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-777-49</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777.rss">Designing PbtA without Harm or HP</source>
+      </item>
+      <item>
+        <title>Designing PbtA without Harm or HP</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>From what I remember, Over the Edge’s traits don’t have anything unusual or terribly different from what we’ve discussed so far, but there’s lots of interesting stuff as far as the setting is concerned!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/48">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/48</link>
+        <pubDate>Mon, 15 Jun 2020 23:02:02 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-777-48</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777.rss">Designing PbtA without Harm or HP</source>
+      </item>
+      <item>
+        <title>Designing PbtA without Harm or HP</title>
+        <dc:creator><![CDATA[@Von_Bednar]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/von_bednar">@Von_Bednar</a> wrote:</p>
+          <blockquote>
+              <p>I guess it’s high time to check Over the Edge. I never got into it, but now I will hunt down 1ed book to see if I can mine it for more ideas <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>Thanks!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/47">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/47</link>
+        <pubDate>Mon, 15 Jun 2020 19:38:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-777-47</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777.rss">Designing PbtA without Harm or HP</source>
+      </item>
+      <item>
+        <title>Designing PbtA without Harm or HP</title>
+        <dc:creator><![CDATA[@chrisshorb]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/chrisshorb">@chrisshorb</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="Von_Bednar" data-post="43" data-topic="777">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/von_bednar/40/549_2.png" class="avatar"> Von_Bednar:</div>
+<blockquote>
+<p>There are no stats or skills. Nothing with numeric value. Characters are described with traits. Those are similar to Fate’s Aspects, Risus Cliches or FU’s descriptors - just short description of some aspect of the character - we kinda follow the <a href="http://rememberdismove.blogspot.com/2015/05/adventure-points.html" rel="nofollow noopener">Adventure Point</a> formula of sound bite followed by short explanation. Characters start with two good traits (kinda like background, and special trait/edge) and can get get another if they also take a flaw.</p>
+</blockquote>
+</aside>
+<p>This part sounds like Over the Edge RPG. I haven’t read all of 3e OtE; but sounds very much like 1st edition - PCs are just a bunch of traits - short sentences that describe some aspect of the character.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/46">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/46</link>
+        <pubDate>Mon, 15 Jun 2020 18:08:44 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-777-46</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777.rss">Designing PbtA without Harm or HP</source>
+      </item>
+      <item>
+        <title>Designing PbtA without Harm or HP</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>Well done! This sounds rather excellent.</p>
+<p>I would imagine that the “secret sauce” in this system is very much in the way you are GMing it, so I hope you can use some clever writing, or good examples, to convey that. I would be very happy to see the resulting product!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/45">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/45</link>
+        <pubDate>Sun, 31 May 2020 06:32:26 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-777-45</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777.rss">Designing PbtA without Harm or HP</source>
+      </item>
+      <item>
+        <title>Designing PbtA without Harm or HP</title>
+        <dc:creator><![CDATA[@Deckard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deckard">@Deckard</a> wrote:</p>
+          <blockquote>
+              <p>Sounds like a worthwhile project and I would appreciate a look at it!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/44">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/44</link>
+        <pubDate>Sun, 31 May 2020 05:20:23 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-777-44</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777.rss">Designing PbtA without Harm or HP</source>
+      </item>
+      <item>
+        <title>Designing PbtA without Harm or HP</title>
+        <dc:creator><![CDATA[@Von_Bednar]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/von_bednar">@Von_Bednar</a> wrote:</p>
+          <blockquote>
+              <p>I know I haven’t been around for a while, but I thought I will post an update on where I ended up with this game. Hopefully a bit of thread necromancy is not against the rules <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/skull.png?v=9" title=":skull:" class="emoji" alt=":skull:"></p>
+<p>So, I moved away from a pure PbtA, and more towards BitD and Trophy (rolling a number of d6s) and taking some inspiration from Fate/Freeform Universal (using traits and not numbers) and stealing bunch from OSR and Andersonian play style. The rules as they are now work for GMing style and my group. What I am most happy about that the game does not really require writing on or checking a character sheet during the game, so it is friendly to blind and sight impaired players.</p>
+<p>Anyway…</p>
+<p>There are no stats or skills. Nothing with numeric value. Characters are described with traits. Those are similar to Fate’s Aspects, Risus Cliches or FU’s descriptors - just short description of some aspect of the character - we kinda follow the <a href="http://rememberdismove.blogspot.com/2015/05/adventure-points.html" rel="nofollow noopener">Adventure Point</a> formula of sound bite followed by short explanation. Characters start with two good traits (kinda like background, and special trait/edge) and can get get another if they also take a flaw.</p>
+<p>Dice are rolled only when things are uncertain AND there are clear risks. You get one die if the task is within the realm of possibility of an average person. Then you get dice for each advantage and disadvantage. Those can come from character traits, environment or fictional positioning. Advantage and disadvantage cancel each other out, so you always roll X dice and checking either for highest or lowest, depending if you ended up with disadvantage or not. We follow Trophy’s spread of 6 being full success, 4-5 mixed, 1-3 fail.</p>
+<p>We use <a class="mention" href="/u/paul_t">@Paul_T</a>’s idea for <a href="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/35">combat/monsters</a>, so you need to “defeat” aspects of an enemy before you can “kill” it. If you roll anything else than 6 on your attack, you usually will get hurt in some way (following PbtA/DW GM’s moves).<br>
+Enemies also have <a href="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/22">threat level</a> (also courtesy of <a class="mention" href="/u/paul_t">@Paul_T</a>), and if you roll equal or below it, GM gets to make a deadly move (as in the post above). Most mundane enemies are threat level 1, huge/magical/deadly beings have higher. Some also get +1 threat for an aspect, so disabling that aspect takes a thread down (to minimum of 1). [when I say roll here, I mean the number you end up with by rolling all your dice]</p>
+<p>Getting hurt gives the player a wound - another trait, more or less temporary, doesn’t have to be a physical wound - mental stuff, being exhausted, etc. are also fine. A wound can (and usually will) give disadvantage on your rolls (following narrative positioning). Wounds can accumulate. If you ever roll equal or below the amount of wounds you have - GM gets to make a deadly move (following the narrative, in those cases I usually use “out of action”). The player can also concede at any time, and just “faint” so they can avoid me making a deadly move, or decide not to roll if they think it’s too risky, and offer a compromise by choosing to avoid part of the danger and suffer the rest.</p>
+<p>The secret sauce is creation of dis/advantages. Having right equipment, better narrative positioning, being prepared or having a clever plan gives players advantages (extra dice!) Those are used to balance disadvantages you might get from environment etc. Thanks to that the game becomes more about planning and clever solutions than rolling. Especially that if you get enough advantages on non combat actions, you just succeed (those I usually handwave).</p>
+<p>So, the game has moved much more into OSR territory. I kinda abandoned the idea of collaboratively adding more rules/moves during the game. I still like the idea, but it doesn’t really come up that much in my games. Maybe I will revisit it in the future.</p>
+<p>Right now I am happy with this system enough to actually release it. Just wanted to share here for those that were following. Feedback and questions more than welcome.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/43">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/43</link>
+        <pubDate>Sun, 31 May 2020 02:47:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-777-43</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777.rss">Designing PbtA without Harm or HP</source>
+      </item>
+      <item>
+        <title>Designing PbtA without Harm or HP</title>
+        <dc:creator><![CDATA[@calris]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/calris">@calris</a> wrote:</p>
+          <blockquote>
+              <p>I’m not sure how far you want to stray from “normal” PbtA games, but one suggestion to support more deadly play without getting too crunchy as far as character sheets and tracking stats is to have your resolution mechanic support more outcomes. For example:</p>
+<blockquote>
+<p>When you do a move in a dangerous situation, roll 2d6:</p>
+<ul>
+<li>12+: unexpected success, success beyond expectation</li>
+<li>10-11: expected success, goals accomplished</li>
+<li>7-9: partial success, success with a complication or new risk</li>
+<li>3-6: failure or success with a dire complication</li>
+<li>2-: incredibly bad result (e.g. pc dead or dying)</li>
+</ul>
+</blockquote>
+<p>The idea with this system would be that players want to minimize the number of rolls needed (since any roll has a 1-in-36 chance of killing them), or maximize the advantages they can bring to bear (since even a +1 makes it impossible to die <em>on that roll</em> unless it already involved lethal stakes). I think you could use these rules to run a game with a very lethal feel and relatively few stats or numbers.</p>
+<p>I just threw this together but the statistics here are:</p>
+<ul>
+<li>2-in-12 chance of success without paying a cost</li>
+<li>5-in-12 chance of partial success but with a complication or cost</li>
+<li>5-in-12 chance to fail (with about 7% of those failures being fatal).</li>
+</ul>
+<p>Even without HP, stats, or counters you could run a pretty successful classic-feeling adventure where players try to use their wits to get past obstacles and use the dice as a last resort. If you want more failure increase the 3-6 range, and if you don’t want +1 bonus eliminating the chance of instant death just raise the 2- range.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/42">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/42</link>
+        <pubDate>Sun, 06 Oct 2019 16:24:40 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-777-42</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777.rss">Designing PbtA without Harm or HP</source>
+      </item>
+      <item>
+        <title>Designing PbtA without Harm or HP</title>
+        <dc:creator><![CDATA[@Deckard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deckard">@Deckard</a> wrote:</p>
+          <blockquote>
+              <p>OSR S&amp;D meets Splat the boardgame?  Lol</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/41">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/41</link>
+        <pubDate>Sat, 05 Oct 2019 23:06:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-777-41</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777.rss">Designing PbtA without Harm or HP</source>
+      </item>
+      <item>
+        <title>Designing PbtA without Harm or HP</title>
+        <dc:creator><![CDATA[@Christo]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/christo">@Christo</a> wrote:</p>
+          <blockquote>
+              <p>I really likethe idea of making abstract concepts like HP tactile.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/40">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/40</link>
+        <pubDate>Sun, 29 Sep 2019 14:49:44 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-777-40</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777.rss">Designing PbtA without Harm or HP</source>
+      </item>
+      <item>
+        <title>Designing PbtA without Harm or HP</title>
+        <dc:creator><![CDATA[@royblumenthal]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/royblumenthal">@royblumenthal</a> wrote:</p>
+          <blockquote>
+              <p>Another way of thinking about designing for people who can’t see is to use tactile things.</p>
+<p>For instance, if you think of a character sheet as a physical artifact with physical properties, you could employ those. So, for example, HIT POINTS or HEALTH could be represented by the left hand edge of the character sheet. A paper-clip can be slid to the top left to signify “full health”. As health decreases, the player would slide the paper clip down. Reaching the bottom left corner represents death or unconsciousness.</p>
+<p>If the character sheets are made out of cardboard, you could cut a notch out to represent each unit of measurement. So, if hit points ranges from 10 (full) to 1 (empty), you’d cut 10 notches into that part of the sheet.</p>
+<p>This system could be used for experience points, loot, attributes. Whatever can be represented by a sliding paperclip.</p>
+<p>Another hack for players who can’t see is to signify different scales by using fewer or more paperclips. For instance, one paper clip might represent hit points. On the other side of the sheet, two paperclips might represent loot.</p>
+<p>Lastly, such a system might also be interesting for players who can see. It adds visual and tactile interest.</p>
+<p>(If I’m recalling correctly, I came across this paperclip idea in IRONSWORN.)</p>
+<p>EDIT:<br>
+Something just occurred to me… stacking paperclips could be used to represent accumulation of things. So, 1 paperclip might mean you only have 1 unit of something. Whereas 5 paperclips might mean you have 5 units. This might apply to things like skill levels, where you don’t need a sliding scale, but just need a reminder of the magnitude involved.</p>
+<p>Along the same lines, you can find giant paperclips, normal paperclips, small paperclips, and shaped paperclips. These can all be assigned to different things or categories.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/39">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/39</link>
+        <pubDate>Sun, 29 Sep 2019 08:47:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-777-39</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777.rss">Designing PbtA without Harm or HP</source>
+      </item>
+      <item>
+        <title>Designing PbtA without Harm or HP</title>
+        <dc:creator><![CDATA[@Von_Bednar]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/von_bednar">@Von_Bednar</a> wrote:</p>
+          <blockquote>
+              <p>Yeah, I wanted to keep some of that blow-by-blow combat. You can still resolve a lot of combat via single scene roll, but I wanted to also have some “showpiece” fights.</p>
+<p>I am currently (albeit slowly) writting the game down. Once it is complete enough to be understood without me explaining bits, I will also post it here <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/38">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/38</link>
+        <pubDate>Thu, 04 Jul 2019 16:43:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-777-38</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777.rss">Designing PbtA without Harm or HP</source>
+      </item>
+      <item>
+        <title>Designing PbtA without Harm or HP</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>Yes, I see!  The wounds accumulate and make things significantly harder.  That’s much more blow-by-blow than I had envisioned, but I can see that working nicely. There is a nice symmetry with the monster features, as well. Do you come back and let us know how it’s working out!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/37">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/37</link>
+        <pubDate>Thu, 04 Jul 2019 16:19:21 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-777-37</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777.rss">Designing PbtA without Harm or HP</source>
+      </item>
+      <item>
+        <title>Designing PbtA without Harm or HP</title>
+        <dc:creator><![CDATA[@Von_Bednar]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/von_bednar">@Von_Bednar</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="35" data-topic="777">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/paul_t/40/1825_2.png" class="avatar"> Paul_T:</div>
+<blockquote>
+<p>However, more dangerous enemies have one or more special features that make them much trickier to handle. To defeat such an enemy, you must find a way to neutralize each special feature.</p>
+</blockquote>
+</aside>
+<p>I love this! I think this is what I was missing. Dude, you rock! <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/metal.png?v=9" title=":metal:" class="emoji" alt=":metal:"><br>
+The list of features for enemies mirrors the traits the player characters have, which makes the love it even more.</p>
+<hr>
+<p>As for the wounds and rolling for defeat. They kinda work in tandem. You don’t have to get a certain amount of wounds or anything before having to roll calamity or defeat. Wounds for me are just a hard move that leaves a lasting concequence (either forever or until healed, rested, etc.). If anything, the changing state of rolling with dis/advantage is what I am leaning on more.</p>
+<p>Recently we have been focusing on different parts of the game (implementing anti-canon into mechanics), so our games were not very combat heavy (although when I’ll introduce the enemy features soon, we will have few more fights), but this is just how wounds work in my mind right now:</p>
+<p>Players can have multiple wounds at the same time. This only means that they are more prone to roll with disadvantage (as they might have a trait or two to cancel out a disadvantage from a wound for the roll, but the more wounds you have the harder it will be to cancel the disadvantage). They also have narrative consequences.</p>
+<p>Super temporary “wounds” like “your shield is trapped in its teeth” are possible, but I would rather handle it just through narrative: “your shield is trapped in its teeth, either loose the shield or your combat roll will be at a disadvantage.” It technically works just like a wound, just a really fleeting one. You wouldn’t write it down like you would a wound.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/36">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/36</link>
+        <pubDate>Thu, 04 Jul 2019 15:48:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-777-36</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777.rss">Designing PbtA without Harm or HP</source>
+      </item>
+      <item>
+        <title>Designing PbtA without Harm or HP</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>Thanks for the detailed replies! It sounds like it’s working for you, but you’re leaning more on the “wound” mechanic than the actual moves. I can’t tell from your write up when you actually decide to go to “rolling for defeat” instead of assigning wounds. Sounds like it’s just a subjective choice, based on your gut and your assessment of the fictional situation. If I’m right, why don’t you feel comfortable doing the same thing for your enemies?</p>
+<p>Do PCs often suffer multiple wounds? Are any of the “wounds” ever temporary things, like fictional positioning? Say, “your shield is trapped in its teeth”?</p>
+<p>The way you flipped around my “threat rating” to make a hit point alternative for your threats should work fine. I’ve done that kind of thing before. (And note that all these techniques work for the total of the die roll as well as comparing each individual die! You can use a 2-12 scale instead of 1-5, and that works, too.)</p>
+<p>However, it also seems close to what you were trying to avoid.</p>
+<p>Here’s an alternative you could try. It comes down to eyeballing it, like you’re doing with PC defeat, but it gives a more disciplined way to do it:</p>
+<ul>
+<li>
+<p>By default, an enemy is defeated when an action that could put it down is carried out successfully. (If there’s a roll required, then this must be successful, of course.)</p>
+</li>
+<li>
+<p>However, more dangerous enemies have one or more special features that make them much trickier to handle. To defeat such an enemy, you must find a way to neutralize each special feature.</p>
+</li>
+</ul>
+<p>For example, the Red Duke is a Legendary Swordsman. You can defeat him, but not in a fair sword fight. Unless you’re a legendary swordsman yourself, you’d have to disarm him, spend a long time studying his moves, or catch him off guard without his weapon, perhaps, before you could have a shot at defeating him. Otherwise, you’re just rolling to avoid having him take YOU out; he’s that dangerous.</p>
+<p>A more dangerous enemy will have more. Perhaps that Chaos Demon you mentioned is cloaked in Hellish Flames, wears Demonforged Plate Mail, and regenerates any damage within moments.</p>
+<p>To defeat it, they’d have to get creative. Maybe lure it into a consecrated space (where it can’t regenerate), douse it with holy water (putting out the flames), and tie it down so they can find a gap in its armor to make the blow which will send it back to Hell.</p>
+<p>Of course, you can accept just about anything that seems like it would have a chance of working, and just make them roll for it. If they can come up with something that seems like it would neutralize all the monster moves/features in one move, then that’s great! Good luck, though.</p>
+<p>In this format, your prep for each monster/enemy is just a list of features or moves. It could feel very organic. If you want to avoid writing things down, grab some tokens for the monster when a fight starts, and discard one each time they figure out how to neutralize a move or feature.</p>
+<p>And it means learning about your enemy is important and useful to the players!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/35">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/35</link>
+        <pubDate>Thu, 04 Jul 2019 15:06:12 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-777-35</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777.rss">Designing PbtA without Harm or HP</source>
+      </item>
+      <item>
+        <title>Designing PbtA without Harm or HP</title>
+        <dc:creator><![CDATA[@Von_Bednar]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/von_bednar">@Von_Bednar</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="32" data-topic="777">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/paul_t/40/1825_2.png" class="avatar"> Paul_T:</div>
+<blockquote>
+<p>What’s the simplified threat take?</p>
+</blockquote>
+</aside>
+<p>So right now I kinda eyeball the severity of the threat/enemy. It works for me really well, but I have a player who comes from very trad approaches and likes to rules lawyer (which is quite helpful in playtesting a system).</p>
+<p>Because of him I am thinking of making the approach more mechanical. I am thinking of giving enemies (maybe other challenges) a threat rating, kinda inspired by OSR hit dice and levels. A simple farmer would have a rating of 0, while a chaos demon would be like 5.</p>
+<p>This is still in limbo, but to defeat someone you would need to roll its threat value or above it on both your dice (so roll 5 or 6 on both your dice to just defeat the Chaos Demon). If you land a hit, but any of your dice are below the threat rating, you just decrease the threat rating by one.</p>
+<p>Also a monster threat value could be a factor if you have an advantage or disadvanage against that enemy (if you have more applicable traits than the threat value - advantage, equal - normal roll, less - disadvantage).</p>
+<p>This is getting close to HP and heavy bookeeping, which I want to avoid. If I can’t find a good way to put in words how to escalate combat with the narrative alone, I might look more into this threat idea. We haven’t tested any of this yet.</p>
+<p>I am curious what you think about <a class="mention" href="/u/paul_t">@Paul_T</a>?</p>
+<aside class="quote no-group" data-post="32" data-topic="777">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/paul_t/40/1825_2.png" class="avatar"> Paul_T:</div>
+<blockquote>
+<p>Tell me more about how it feels in play, and whether you are enjoying the results.</p>
+</blockquote>
+</aside>
+<p>We are enjoying it. As we are using it now (without the threat mechanic) combat does feel really chaotic and deadly. The removal of HP works really well in making the players think twice about picking a fight, and it lets me just focus on the narrative parts of combat, which is cool.</p>
+<p>The players seem to enjoy it as well (even the rules lawyer, I just spend a little more time describing the enemies, so I can declare dis/advantage for the rolls). What I really like is that the Silver Dragon’s Tear system + wounds makes the players approach combat like I imagined it: Make sure you have an advantage, or fight only as a last resot.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/34">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/34</link>
+        <pubDate>Thu, 04 Jul 2019 05:30:23 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-777-34</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777.rss">Designing PbtA without Harm or HP</source>
+      </item>
+      <item>
+        <title>Designing PbtA without Harm or HP</title>
+        <dc:creator><![CDATA[@Von_Bednar]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/von_bednar">@Von_Bednar</a> wrote:</p>
+          <blockquote>
+              <p>Sorry for a long post, will answer your other questions in anothe post:</p>
+<aside class="quote no-group" data-post="32" data-topic="777">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/paul_t/40/1825_2.png" class="avatar"> Paul_T:</div>
+<blockquote>
+<p>How do the wounds work? Can you give an example? Do they interface directly with the Silver Dragon’s Tear calamity and recover moves?</p>
+</blockquote>
+</aside>
+<p>Ok, let me explain the game a bit, so you can see how it all fits.</p>
+<p>So the game I am making/running is a weird fantasy, pretty low on the heroic scale. I wanted the combat to feel chaotic and deadly. To do this we don’t use any initiative or hit points - those create order in combat (also are not super blind friendly, which is another design goal for me). Instead all of it is handled through narrative alone.</p>
+<p>Attacking/going agro on someone is risky(there are edge cases of course), so it calls for a roll. You roll + stat with dis/advantage based on traits. Traits are just a catch-all for any descriptor that is not a stat. They are a part of character that can be permanent (Grown up on the streets of Bergen) or temporary (Armored, Cracked Ribs). So a wound is just a temporary trait.</p>
+<p>Now when you get a complication (7-9) or fail (6-) a roll in combat, you can get a wound. Right now I am kinda handwaving it, just following the narrative. A comlication from a powerful enemy will cause a wound, while a more evenly matched foe might wound you only on a miss. This is like soft and hard moves.</p>
+<p>The wound will now factor into future rolls, the characters will probably roll with disadvantage. This is important for my design goals, because this mini death spiral signals to the players that shit got really serious, and retreat might be a good idea.</p>
+<p>Rolling against calamity and defeat (as in Silver Dragon’s Tear) is for me something like a Super Hard move. If a player failed few times against the enemy (and that is more likely with wounds causing disadvantage on the roll) the narrative escalates to the point where they can be defeated - then I ask them to roll the second move (If your character ever suffers a terrible calamity…) and that will escalate according to the roll (6- roll for defeat).</p>
+<p>We haven’t had a chance to roll on defeat yet. I got a 7-9 on calamity for one player when the group was trying to get pass an angry mob, which resulted in another wound and the other characters grabbed him and run.</p>
+<p><strong>TL/DR:</strong> Wounds are traits that will probably cause the player to roll with disadvantage, causing a mini death spiral. This death spiral makes rolling for Calamity and Defeat more scary.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/33">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/33</link>
+        <pubDate>Thu, 04 Jul 2019 05:00:39 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-777-33</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777.rss">Designing PbtA without Harm or HP</source>
+      </item>
+      <item>
+        <title>Designing PbtA without Harm or HP</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>Please do share! I’m glad these ideas are working for you.</p>
+<p>Tell me more about how it feels in play, and whether you are enjoying the results.</p>
+<p>How do the wounds work? Can you give an example? Do they interface directly with the Silver Dragon’s Tear calamity and recover moves?</p>
+<p>What’s the simplified threat take?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/32">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/32</link>
+        <pubDate>Thu, 04 Jul 2019 04:14:02 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-777-32</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777.rss">Designing PbtA without Harm or HP</source>
+      </item>
+      <item>
+        <title>Designing PbtA without Harm or HP</title>
+        <dc:creator><![CDATA[@Von_Bednar]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/von_bednar">@Von_Bednar</a> wrote:</p>
+          <blockquote>
+              <p>We are using the Silver Dragon’s Tear method right now. The two other moves are not really player facing, just moved into GM’s advice on how to handle death and calamity.</p>
+<p>I also use a “wound” trait for some calamities (traits are a big part of my game). Basically there is a GM’s hard move to cause a wound, which will make player roll with a dissadvantage.</p>
+<p>Actually, wiriting it now, I will rename the wound to calamity, as it can be caused by non combat stuff as well. Anyway…</p>
+<p>Currently I abandoned the “threat” idea, but I am planning on giving a simpler version of it a try for powerful foes. We will see how this will go, I think I might just end up with having a move attached to the foe.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/31">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/31</link>
+        <pubDate>Wed, 03 Jul 2019 23:57:38 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-777-31</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777.rss">Designing PbtA without Harm or HP</source>
+      </item>
+      <item>
+        <title>Designing PbtA without Harm or HP</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>I’m curious if you ever did end up using the Silver Dragon’s Tear method in your game, or not. Let us know!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/30">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/30</link>
+        <pubDate>Sun, 30 Jun 2019 00:23:25 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-777-30</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777.rss">Designing PbtA without Harm or HP</source>
+      </item>
+      <item>
+        <title>Designing PbtA without Harm or HP</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>Groovy! I think it’s much cleaner/smoother, as you say, but somehow it looks/sounds scarier (everyone has this reaction to it, it seems!).</p>
+<p>Personally, I think the way it’s “scary” adds to the charm - nothing wrong with being scared of a terrible death when you’re playing a game like this!</p>
+<p>The threat level concept is cool, too, but sometimes it can lead to weird “non-events”, if a character is hit by something dangerous but it doesn’t “qualify” as a wound, and it’s impossible for someone to be killed unless they’re hit three times. (This could, of course, be a plus or a minus for your group!)</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/29">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/29</link>
+        <pubDate>Fri, 07 Jun 2019 23:48:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-777-29</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777.rss">Designing PbtA without Harm or HP</source>
+      </item>
+      <item>
+        <title>Designing PbtA without Harm or HP</title>
+        <dc:creator><![CDATA[@Von_Bednar]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/von_bednar">@Von_Bednar</a> wrote:</p>
+          <blockquote>
+              <p>I am planning on giving survive a calamity/recover from a calamity a go our next session. After reading the whole Story Games topic and your math behind it, I think I can use it to convince my “GM-bias averse” player to it.</p>
+<p>This would be my preferred approach, as it is cleaner and I can turn it into GM’s advice on how to use the standard move to resolve those two situations.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/28</link>
+        <pubDate>Fri, 07 Jun 2019 23:27:18 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-777-28</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777.rss">Designing PbtA without Harm or HP</source>
+      </item>
+      <item>
+        <title>Designing PbtA without Harm or HP</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>That sounds great! Nicely done.</p>
+<p>I’m glad the threat level idea is working for you.</p>
+<p>I also think the “survive a calamity/recover from a calamity” concept could work pretty well as a GM-facing principle with a single roll system, for what it’s worth. You know, if you decide to experiment with other approaches.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/27">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/27</link>
+        <pubDate>Fri, 07 Jun 2019 23:06:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-777-27</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777.rss">Designing PbtA without Harm or HP</source>
+      </item>
+      <item>
+        <title>Designing PbtA without Harm or HP</title>
+        <dc:creator><![CDATA[@Von_Bednar]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/von_bednar">@Von_Bednar</a> wrote:</p>
+          <blockquote>
+              <p>Just a quick update on my progress after playing with my f2f group.</p>
+<p>My group seemed to enjoy the Threat system. It definitely helped the player who was against a strong GM bias deal with the consequences. I haven’t written it down properly yet, but here it is in a nutshell:</p>
+<p>Characters can be either fine, disadvantaged (wounded), incapacitated or dying.<br>
+I assign a threat rating to things that can cause harm the character on the fly. Things like narrative positioning, being wounded or wearing armor adjusts the threat level for the character. When the narrative the and dice decide, we check the dice values of last roll and compare each die with the threat rating. If it was a “hard move” if any of the dice is equal or less than rating than the character gets wounded. For soft moves both dice have to show values equal or less to count as a wound.</p>
+<p>If a wounded character gets wounded again, they get to choose if they are incapacitated or are still standing but dying. If they are dying, next wound means death.</p>
+<p>It reads very fiddly, but plays smooth. Hopefully I can streamline the text more.</p>
+<p>I know I am probably catering to much to a single player in my group (others are fine with letting being wounded, dying based on a hard move as a result of a roll). I guess it is not bad to have a fail safe…</p>
+<p>Also, <a class="mention" href="/u/paul_t">@Paul_T</a> I finally got to read the whole of <a href="https://www.dropbox.com/s/6gssdwufil7u4ea/The%20Silver%20Dragon%27s%20Tear.pdf" rel="nofollow noopener">The Silver Dragon’s Tear</a> and I am <s>so stealing</s> really inspired by the tragedy/incursion idea. It fits so well with my game!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/26</link>
+        <pubDate>Fri, 07 Jun 2019 19:13:13 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-777-26</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777.rss">Designing PbtA without Harm or HP</source>
+      </item>
+      <item>
+        <title>Designing PbtA without Harm or HP</title>
+        <dc:creator><![CDATA[@Jeph]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeph">@Jeph</a> wrote:</p>
+          <blockquote>
+              <blockquote>
+<p>(e.g., using something shaped like food – or heck, actual cookies or cereal pieces, if you like – to track rations)</p>
+</blockquote>
+<p>I remember playtesting a game with <a class="mention" href="/u/jmstar">@Jmstar</a> years and years ago that did this. (Open Boat? In maybe like 2005?) Characters were castaways on a life raft. Rations were represented by goldfish crackers or something like that. If we decided to eat one of the other castaways, <em>those</em> rations were represented by beef jerky.</p>
+<p>If we at the table absentmindedly snacked on the ration counters, so did the poor castaways, IIRC.</p>
+<p>Lego figures were brought up above… I’m a hobby ceramicist, so my mind immediately went to little clay dummies in a super-similar way. Make a little doll out of play-dough or whatever. Mangle it up as it gets injured!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777/25</link>
+        <pubDate>Wed, 29 May 2019 19:43:01 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-777-25</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/designing-pbta-without-harm-or-hp/777.rss">Designing PbtA without Harm or HP</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>The DNA of PbtA</title>
+    <link>https://forums.gauntlet-rpg.com/t/the-dna-of-pbta/6133</link>
+    <description>Since algorithmic text generation has got to a point where it can do amazing things, I am seriously considering the following not too serious experiment together with a friend (who is more knowledgeable w.r.t. to the details of the generation): We will train a suitable AI with moves and playbooks from various PbtAs. Assuming we can tune the AI appropriately (i.e. avoiding overfitting), the outcome will be not unlike real moves. Here is what we got on the very first attempt which did not include many sources. I am not sure if such a move exists somewhere, sorry if it is a mere verbatim reproduction by the algorithm:
+
+&gt; EVERYONE IS YOUR FRIEND
+&gt; When you&#39;re surrounded by kind faces, roll with Heart. On a hit, you gain +1 forward to befriend someone. On a 7-9, choose one:
+&gt; * Your newfound friend begins writing poetry about you.
+&gt; * Your newfound friend becomes your biggest fan.
+
+Clearly, none of us expects that a real, playable game will result, but this is about understanding the limitations (and having fun in the process). I am convinced that the task is so challenging, that the AI will not succeed in producing something coherent enough to actually play, but if it is funny enough, we might learn something along the way. 
+
+From an ethical perspective, I am not too worried this will lead to an industry of AI written TTPRGs, but I do understand concerns, since for example AI has become very good at portrait generation, which worries artists. This brings me to my first question: Does anyone in this space feel this is unethical? If so, for what reason?
+
+Assuming you feel toying with automatic text generation and PbtAs is OK: Is there something like a DNA of PbtA Moves and Playbooks? Which moves and playbooks do you consider to be central to the whole genre? In other words: What to feed to our AI writer?</description>
+    
+    <lastBuildDate>Sun, 29 Nov 2020 20:16:00 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/the-dna-of-pbta/6133.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>The DNA of PbtA</title>
+        <dc:creator><![CDATA[@AprilMarch]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/aprilmarch">@AprilMarch</a> wrote:</p>
+          <blockquote>
+              <p>There’s a <a href="https://twitter.com/pbta_agenda" rel="nofollow noopener">PbtA twitter bot</a> that does exactly that. Although I’d like to see how something would go without Twitter’s character limit.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-dna-of-pbta/6133/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-dna-of-pbta/6133/6</link>
+        <pubDate>Sun, 29 Nov 2020 20:16:00 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6133-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-dna-of-pbta/6133.rss">The DNA of PbtA</source>
+      </item>
+      <item>
+        <title>The DNA of PbtA</title>
+        <dc:creator><![CDATA[@dontnormally]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dontnormally">@dontnormally</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="kir" data-post="1" data-topic="6133">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/kir/40/3833_2.png" class="avatar"> kir:</div>
+<blockquote>
+<p>This brings me to my first question: Does anyone in this space feel this is unethical? If so, for what reason?</p>
+</blockquote>
+</aside>
+<p>Absolutely not.  AI is here and we all have (some amount of) access to it.</p>
+<aside class="quote no-group" data-username="kir" data-post="1" data-topic="6133">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/kir/40/3833_2.png" class="avatar"> kir:</div>
+<blockquote>
+<p>Assuming you feel toying with automatic text generation and PbtAs is OK: Is there something like a DNA of PbtA Moves and Playbooks? Which moves and playbooks do you consider to be central to the whole genre? In other words: What to feed to our AI writer?</p>
+</blockquote>
+</aside>
+<p>If you join <a href="https://www.patreon.com/lumpley/posts" rel="nofollow noopener">Vincent Baker’s patreon</a> he has a great series on how to make a PbtA game including a breakdown on what makes a Move.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-dna-of-pbta/6133/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-dna-of-pbta/6133/5</link>
+        <pubDate>Fri, 27 Nov 2020 21:09:18 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6133-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-dna-of-pbta/6133.rss">The DNA of PbtA</source>
+      </item>
+      <item>
+        <title>The DNA of PbtA</title>
+        <dc:creator><![CDATA[@dontnormally]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dontnormally">@dontnormally</a> wrote:</p>
+          <blockquote>
+              <p>I am quite excited to see the results.</p>
+<p>You could use AI Dungeon for this.  And now, I may.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-dna-of-pbta/6133/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-dna-of-pbta/6133/4</link>
+        <pubDate>Fri, 27 Nov 2020 21:02:47 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6133-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-dna-of-pbta/6133.rss">The DNA of PbtA</source>
+      </item>
+      <item>
+        <title>The DNA of PbtA</title>
+        <dc:creator><![CDATA[@jolwalton]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jolwalton">@jolwalton</a> wrote:</p>
+          <blockquote>
+              <p>And this RPG Generator written in Twine:<br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      
+      <a href="https://sadpress.itch.io/rpg-generator-alpha" target="_blank" rel="nofollow noopener">itch.io</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:247/204;"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/7/718700efb51760a89fd99dd52d8a88d2341ffaca.png" class="thumbnail" width="247" height="204"></div>
+
+<h3><a href="https://sadpress.itch.io/rpg-generator-alpha" target="_blank" rel="nofollow noopener">RPG Generator by sadpress</a></h3>
+
+<p>Generate ideas for new tabletop RPGs</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-dna-of-pbta/6133/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-dna-of-pbta/6133/3</link>
+        <pubDate>Fri, 27 Nov 2020 17:11:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6133-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-dna-of-pbta/6133.rss">The DNA of PbtA</source>
+      </item>
+      <item>
+        <title>The DNA of PbtA</title>
+        <dc:creator><![CDATA[@Majcher]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/majcher">@Majcher</a> wrote:</p>
+          <blockquote>
+              <p>We also have the Twitter RPG bot, which occasionally produces some fantastic games. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/smiley.png?v=9" title=":smiley:" class="emoji" alt=":smiley:"></p>
+<p><a href="https://twitter.com/laserfeelings" class="onebox" target="_blank" rel="nofollow noopener">https://twitter.com/laserfeelings</a></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-dna-of-pbta/6133/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-dna-of-pbta/6133/2</link>
+        <pubDate>Sun, 22 Nov 2020 19:54:26 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6133-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-dna-of-pbta/6133.rss">The DNA of PbtA</source>
+      </item>
+      <item>
+        <title>The DNA of PbtA</title>
+        <dc:creator><![CDATA[@kir]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/kir">@kir</a> wrote:</p>
+          <blockquote>
+              <p>Since algorithmic text generation has got to a point where it can do amazing things, I am seriously considering the following not too serious experiment together with a friend (who is more knowledgeable w.r.t. to the details of the generation): We will train a suitable AI with moves and playbooks from various PbtAs. Assuming we can tune the AI appropriately (i.e. avoiding overfitting), the outcome will be not unlike real moves. Here is what we got on the very first attempt which did not include many sources. I am not sure if such a move exists somewhere, sorry if it is a mere verbatim reproduction by the algorithm:</p>
+<blockquote>
+<p>EVERYONE IS YOUR FRIEND<br>
+When you’re surrounded by kind faces, roll with Heart. On a hit, you gain +1 forward to befriend someone. On a 7-9, choose one:</p>
+<ul>
+<li>Your newfound friend begins writing poetry about you.</li>
+<li>Your newfound friend becomes your biggest fan.</li>
+</ul>
+</blockquote>
+<p>Clearly, none of us expects that a real, playable game will result, but this is about understanding the limitations (and having fun in the process). I am convinced that the task is so challenging, that the AI will not succeed in producing something coherent enough to actually play, but if it is funny enough, we might learn something along the way.</p>
+<p>From an ethical perspective, I am not too worried this will lead to an industry of AI written TTPRGs, but I do understand concerns, since for example AI has become very good at portrait generation, which worries artists. This brings me to my first question: Does anyone in this space feel this is unethical? If so, for what reason?</p>
+<p>Assuming you feel toying with automatic text generation and PbtAs is OK: Is there something like a DNA of PbtA Moves and Playbooks? Which moves and playbooks do you consider to be central to the whole genre? In other words: What to feed to our AI writer?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-dna-of-pbta/6133/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-dna-of-pbta/6133/1</link>
+        <pubDate>Sun, 22 Nov 2020 10:43:24 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6133-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-dna-of-pbta/6133.rss">The DNA of PbtA</source>
+      </item>
+  </channel>
+</rss>

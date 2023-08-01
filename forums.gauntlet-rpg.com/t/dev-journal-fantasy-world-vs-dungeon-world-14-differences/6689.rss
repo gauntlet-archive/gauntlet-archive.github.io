@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Dev Journal - Fantasy World vs Dungeon World - 14 Differences</title>
+    <link>https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689</link>
+    <description>Since everyone and their mom keeps asking me about this, I started writing a 3 part series of articles about the design of FW and how it differs from that of DW.
+You can read the first installment [HERE on itch.io](https://unplayablegamesrpg.itch.io/fantasy-world/devlog/231353/fantasy-world-vs-dungeon-world-14-differences-part-1). There I start by talking about a few structural differences:
+
+* I go over the actual design template for FW... which is **not** DW, as most people erroneously assume
+
+* I touch on the overall design goal of FW as opposed to what I know (from personal experience, design analysis and pretty clear declarations of Koebel and LaTorra) of DW&#39;s one
+
+* I mention my personal pet peeve of *Technical Writing*, something that involves DW but also maaany other PbtA, including the original AW and AW2
+
+* linked to the previous point, I talk about problem of accessibility I had with both AW and DW, and their approach to writing rules and moves and guidelines, and how FW tries a different approach
+
+.
+Throughout the article I tried to be as objective as I could, and had the text reviewed by a couple of friends that I consider to be great fans and experts on all things DW. I really wanted to avoid inadvertently slandering DW or propping FW up as the &quot;better&quot; choice. Rather, I wanted to genuinely highlight the differences in design goals and methods, many of which came **thanks to** 10+ years of playing AW and DW and many other PbtA games :smiling_face_with_three_hearts:
+.
+What do you think about these initial points?
+Have you stumbled on my same problems?
+Are there other PbtA that address them in an effective way? ...I heard great things about Masks and The Sprawl, actually, but haven&#39;t yet had a chance to play them.
+Let me know :smiley:
+
+- - -
+
+**[UPDATE 20-03-2021]**
+[Part two is out now!](https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/28?u=alessandro_piroddi)
+- - -
+**[UPDATE 24-03-2021]**
+[Vote for the Class that will receive a design analysis!](https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/32?u=alessandro_piroddi)
+- - -
+**[UPDATE 27-03-2021]**
+[Part three is out now!](https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/33?u=alessandro_piroddi)</description>
+    
+    <lastBuildDate>Tue, 06 Apr 2021 11:39:07 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Dev Journal - Fantasy World vs Dungeon World - 14 Differences</title>
+        <dc:creator><![CDATA[@Alessandro_Piroddi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alessandro_piroddi">@Alessandro_Piroddi</a> wrote:</p>
+          <blockquote>
+              <p>I agree. <strong>Trollbabe</strong> has always been, hands down, the best system to closely emulate the original <em>Witcher</em> short stories <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/heart.png?v=9" title=":heart:" class="emoji" alt=":heart:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/41">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/41</link>
+        <pubDate>Tue, 06 Apr 2021 11:39:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6689-41</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689.rss">Dev Journal - Fantasy World vs Dungeon World - 14 Differences</source>
+      </item>
+      <item>
+        <title>Dev Journal - Fantasy World vs Dungeon World - 14 Differences</title>
+        <dc:creator><![CDATA[@Froggy]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/froggy">@Froggy</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="Alessandro_Piroddi" data-post="38" data-topic="6689">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/alessandro_piroddi/40/3732_2.png" class="avatar"> Alessandro_Piroddi:</div>
+<blockquote>
+<p>Sapkowski’s Witcher series</p>
+</blockquote>
+</aside>
+<p>I think this is also a great example of a FW-compatible story – if you take out the short stories, that look like they came straight out of Trollbabe.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/40">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/40</link>
+        <pubDate>Tue, 06 Apr 2021 11:11:12 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6689-40</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689.rss">Dev Journal - Fantasy World vs Dungeon World - 14 Differences</source>
+      </item>
+      <item>
+        <title>Dev Journal - Fantasy World vs Dungeon World - 14 Differences</title>
+        <dc:creator><![CDATA[@Froggy]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/froggy">@Froggy</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="Alessandro_Piroddi" data-post="38" data-topic="6689">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/alessandro_piroddi/40/3732_2.png" class="avatar"> Alessandro_Piroddi:</div>
+<blockquote>
+<p>Like… Star Wars is much more of a fantasy epic in space, than a proper space opera or hard sci-fi kind of story <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/stuck_out_tongue.png?v=9" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></p>
+</blockquote>
+</aside>
+<p>Oh, no. You don’t want me to get into the philosophy of Star Wars <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:">. And the <em>lugoscababib discobiscuits</em>.</p>
+<p>But jokes aside, great answer!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/39">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/39</link>
+        <pubDate>Tue, 06 Apr 2021 09:43:57 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6689-39</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689.rss">Dev Journal - Fantasy World vs Dungeon World - 14 Differences</source>
+      </item>
+      <item>
+        <title>Dev Journal - Fantasy World vs Dungeon World - 14 Differences</title>
+        <dc:creator><![CDATA[@Alessandro_Piroddi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alessandro_piroddi">@Alessandro_Piroddi</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="Froggy" data-post="37" data-topic="6689">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/froggy/40/3762_2.png" class="avatar"> Froggy:</div>
+<blockquote>
+<p>Regarding the human (I think you meant ‘human’, not ‘humane’?) themes</p>
+</blockquote>
+</aside>
+<p>I honestly don’t know which word to use here <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/rofl.png?v=9" title=":rofl:" class="emoji" alt=":rofl:"><br>
+In theory they would be “human themes” as in emotional, personal, relating to the human experience at large.<br>
+Is “humane” so wrong as an alternate word to express this? I guess it is <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/stuck_out_tongue_closed_eyes.png?v=9" title=":stuck_out_tongue_closed_eyes:" class="emoji" alt=":stuck_out_tongue_closed_eyes:"><br>
+But I’m afraid some readers might misunderstand this as an in-fiction thing and ask<br>
+“<em>what about Elve? what about Orks? what if my PC is a sentient eggplant?</em>” <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/sweat_smile.png?v=9" title=":sweat_smile:" class="emoji" alt=":sweat_smile:"></p>
+<aside class="quote no-group" data-username="Froggy" data-post="37" data-topic="6689">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/froggy/40/3762_2.png" class="avatar"> Froggy:</div>
+<blockquote>
+<p>So, I must ask: what <em>are</em> your favourite fantasy stories outside of roleplaying? I think this is still a relevant question.</p>
+</blockquote>
+</aside>
+<p>Tons of different things <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/stuck_out_tongue.png?v=9" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"><br>
+To name just a few…<br>
+Sanderson’s Cosmere stuff: Mistborn, Elantris, Warbreaker…<br>
+Butcher stuff: Dresden Files, Codex Alera, Cinder Spires series…<br>
+Aaronovitch’s Rivers of London series<br>
+Jemisin’s Broken Earth series<br>
+Grossmann’s Magicians series<br>
+Rothfuss’ Kingkiller series<br>
+Moorcock’s Elric saga (what an amazing negative to Tolkien’s writing stile! <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/heart.png?v=9" title=":heart:" class="emoji" alt=":heart:">)<br>
+Cornish’s Monster Blood Tattoo series<br>
+Sapkowski’s Witcher series<br>
+And more…</p>
+<p>And this is just the strictly fantasy and urban fantasy literary material. I won’t go into TV series and movies, or sci-fi and horror stuff.<br>
+But, in those cases too, there are plenty of examples of stories that are fundamentally compatible with the narrative structure and themes presented by Fantasy World’s gameplay, if it wasn’t for a light coat of “genre paint”.<br>
+Like… Star Wars is much more of a fantasy epic in space, than a proper space opera or hard sci-fi kind of story <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/stuck_out_tongue.png?v=9" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></p>
+<p>Obviously not all these novels can be perfectly mapped to FW’s gameplay.<br>
+Some focus too much on a singular protagonist’S POV.<br>
+Other present a POV that is coral but too much divided and independent.<br>
+Some, like LotR for example, presume a philosophical stance that is not compatible with FW’s premises, even though the actual themes can be the same.<br>
+Some showcase extremely unique and specific systems of magic/physics/cosmology that have no direct mechanical counterpart in FW and would require a modicum of hacking to be represented in game.</p>
+<p>These would always be adaptations, never a 100% match between FW gameplay and source material.<br>
+But as long as the declared goal fo the game is to “<em>roleplay something that feels like a fantasy novel</em>” then I believe that FW would generate <strong>less ludonarrative dissonance</strong> than other fantasy games.</p>
+<p>If instead the goal is different, then obviously other games might offer a better fit to the Players’ needs and expectations <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"><br>
+So DW is more crunchy and action-oriented.<br>
+So BitD is even crunchyer and more heist-oriented.<br>
+So SCUP is the closest thing one could get to an aGoT ttrpg clone.<br>
+So Fellowship seems to get a lot of LotR stuff right (so I have heard).<br>
+Etc…</p>
+<aside class="quote no-group" data-username="Froggy" data-post="37" data-topic="6689">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/froggy/40/3762_2.png" class="avatar"> Froggy:</div>
+<blockquote>
+<p>And sorry for putting you in a hard spot <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+</blockquote>
+</aside>
+<p>No problem at all. I just hope my reply makes sense and at least partially answers your questions and doubts <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/38">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/38</link>
+        <pubDate>Mon, 05 Apr 2021 18:51:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6689-38</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689.rss">Dev Journal - Fantasy World vs Dungeon World - 14 Differences</source>
+      </item>
+      <item>
+        <title>Dev Journal - Fantasy World vs Dungeon World - 14 Differences</title>
+        <dc:creator><![CDATA[@Froggy]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/froggy">@Froggy</a> wrote:</p>
+          <blockquote>
+              <p>I mean, that’s fair enough, although I don’t agree with your vision on <em>fantasy</em>, it is yours and honestly put. I would argue back that I’m not a fan of MERP (judgement still suspended regarding <em>The One Ring</em>) nor I think it touches on Tolkien’s themes beyond the surface level any more than FW does. It’s a hard thing to do in the context of an RPG; Tolkien frames free will as still part of Eru’s plan for Arda, and this begs the question of (a) if and where there is any space for player agency and (b) if it’s even appropriate for any participant to embody Eru’s will. The coexistence of divine foreknowledge and free will is already a complicated problem to solve in philosophy – Tolkien seems to, unsurprisingly, follow Augustus and St. Aquinas like the doctrine of his Catholic faith.</p>
+<p>I’ve seen some independent games (<a href="https://tirnathenelannun.eu/" rel="nofollow noopener">Tirnath-en-Êl Annûn</a>) attempt the task of properly presenting this part of the works in a playable manner, but I haven’t been able to try them yet. There would be a longer conversation here to have on how one could write a roleplaying game that respects Tolkien’s metaphysics, on which I have a few ideas, but I don’t want to go off-topic any more than this.</p>
+<p>Regarding the human (I think you meant ‘human’, not ‘humane’?) themes, I think <em>Fantasy World</em> is obviously directed at touching these, however always from the perspective of the Protagonists’ beliefs, issues and doubts. This, you must admit, gives a certain <em>internal</em> framing to the premise, even when the Protagonists’ issues are directed at the outside world. The reason I quote George R. R. Martin so much when talking about Fantasy World is that hearing you talk about the game and fantasy roleplaying is <em>extremely</em> similar to what GRRM says regarding how he thinks about writing fantasy literature, and his criticisms of Tolkien and other authors.</p>
+<p>So, I must ask: what <em>are</em> your favourite fantasy stories outside of roleplaying? I think this is still a relevant question. And sorry for putting you in a hard spot <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/37">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/37</link>
+        <pubDate>Fri, 02 Apr 2021 23:58:17 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6689-37</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689.rss">Dev Journal - Fantasy World vs Dungeon World - 14 Differences</source>
+      </item>
+      <item>
+        <title>Dev Journal - Fantasy World vs Dungeon World - 14 Differences</title>
+        <dc:creator><![CDATA[@Alessandro_Piroddi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alessandro_piroddi">@Alessandro_Piroddi</a> wrote:</p>
+          <blockquote>
+              <p>I knew I should have mentioned a different example! <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/rofl.png?v=9" title=":rofl:" class="emoji" alt=":rofl:"><br>
+But it’s fine, maybe we’ll manage to get an interesting discussion out if it <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/smiley.png?v=9" title=":smiley:" class="emoji" alt=":smiley:"></p>
+<hr>
+<p>I hear you <a class="mention" href="/u/froggy">@Froggy</a>, and you make a fine point.<br>
+But I would ask you to also consider a core point that is relevant when translating anything from one media to a different one: it all depends on what people mean when they say “<em>I want to play something like LotR</em>”.</p>
+<p>You surely have a deep understanding and appreciation for this specific source material, its intricacies and its themes, and in that regard I would say that FW <strong>can</strong> touch on the same themes but, and here I agree completely with you, through <strong>a very different lens</strong>.</p>
+<p>As a person that has read Silmarillion, Hobbit and LotR “just once” and then enjoyed the movies… I feel confident that a willing group could point the finger at such pile of fiction and say “<em>let’s play</em> <em><strong>something like that</strong></em>” and find that FW helps them do that <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"><br>
+But… what does it mean?</p>
+<p>Surely the theological and philosophical elements you mention had a deep influence <strong>on the pages</strong> wrote by Tolkien… but is the average <strong>roleplayer</strong> even aware of those elements?<br>
+Are they so important to play <em><strong>an</strong></em> adventure (not <em><strong>the</strong></em> adventure) in the Middle Earth setting?<br>
+Are they really so present and central in the everyday life or a random Hobbit and their common-folk shenanigans in the Shire?<br>
+Are they essential to <strong>play</strong> a Rohirrim looking for glory / redemption / adventure / kinship / etc ?<br>
+Are they really such a big part of what a random group of roleplayers will narrate and evoke at their table?</p>
+<p>FW was never meant to be the LotR rpg.<br>
+Or the Mistborn rpg.<br>
+Or the aGoT rpg (<a href="https://www.youtube.com/watch?v=PUPtMnzs_xk" rel="nofollow noopener">although old George and I seem to share the same approach to religion</a> <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"> )<br>
+Or any one SpecificFiction rpg.<br>
+And I never claimed it should be.<br>
+I just say that its structure makes it easy for someone willing to play “<em>a LotR kind of story</em>”.<br>
+A story where Players <strong>will</strong> explore, if they so choose, the themes of justice, good, evil, death, progress, technology that you mentioned. And this will happen thanks to the tools and structure that FW establishes. Only, this play will not fall within the specific lens you described, not through the positivistic mythological lense you mention.</p>
+<p>I mean, according to your standard even the original MERP or the more recent TOR are patently inadequate to bring at the table the experience that transpires from the original Tolkenian pages <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/roll_eyes.png?v=9" title=":roll_eyes:" class="emoji" alt=":roll_eyes:"></p>
+<p>But yeah, by all means, say that whatever FW can do with LotR source material is superficial. That’s fine by me <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"><br>
+I never intended to suggest otherwise.</p>
+<aside class="quote no-group" data-username="Froggy" data-post="35" data-topic="6689">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/froggy/40/3762_2.png" class="avatar"> Froggy:</div>
+<blockquote>
+<p>I really think it would benefit the game if you were to put together a list of touchstones and not wishy-wash around the “what type of fantasy” question.</p>
+</blockquote>
+</aside>
+<p>I don’t feel like I’m being wishy-wash in answering <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/confused.png?v=9" title=":confused:" class="emoji" alt=":confused:"><br>
+Maybe the answer is not what you (or Airk, that had a similar qualm) expect it to be?</p>
+<p>As a student of media I don’t see any piece of fiction as unidimensional or monolithic enough that I can sincerely say “<em>yes, this one thing is what makes Mistborn be Mistborn</em>”.<br>
+It’s a sum of things. So when as roleplayers we set out to play <strong>something like</strong> X or Y, what the specific group focuses on can be extremely subjective <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/sweat_smile.png?v=9" title=":sweat_smile:" class="emoji" alt=":sweat_smile:"></p>
+<p>For you a Mistborn-like experience comes from playing a fantasy-heist type of story.<br>
+For me it could be all about toying with a complex magical system that kind of mimics the Metallic Arts.<br>
+For another it could be crucial to explore themes of slavery, oppression and racism, because they are (among others) at the heart of the Mistborn first era trilogy.</p>
+<p>And then in Mistborn too there are concrete gods that meddle heavily in the destiny of the protagonists… Ruin and Preservation first, and then Harmony.<br>
+But are they truly relevant for <strong>other</strong> protagonists of <strong>other</strong> stories? Or just for Vin and her end-of-the-world plot?<br>
+In the vast majority of cases, I would argue that the book protagonists have no notion of these entities, or don’t believe in them, or believe but don’t know … and this fits perfectly FW’s paradigm.</p>
+<p>Again… as players what we do is always to play <strong>something like</strong> the source material. It is always an <strong>adaptation</strong> were we tell <strong>our own</strong> stories.</p>
+<p>FW focuses on telling <strong>stories that touch on humane themes</strong> and that are set within a somewhat <strong>magical</strong> and <strong>dangerous</strong> reality.<br>
+<em>THIS</em> is shared by the vast majority of fantasy literature in existance <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/stuck_out_tongue.png?v=9" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"><br>
+<em>THIS</em> is also specific to FW, as other games focus on sensibly different kinds of stories and play.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/36">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/36</link>
+        <pubDate>Thu, 01 Apr 2021 15:37:53 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6689-36</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689.rss">Dev Journal - Fantasy World vs Dungeon World - 14 Differences</source>
+      </item>
+      <item>
+        <title>Dev Journal - Fantasy World vs Dungeon World - 14 Differences</title>
+        <dc:creator><![CDATA[@Froggy]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/froggy">@Froggy</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="Alessandro_Piroddi" data-post="7" data-topic="6689">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/alessandro_piroddi/40/3732_2.png" class="avatar"> Alessandro_Piroddi:</div>
+<blockquote>
+<p>You could easy have a LotR kind of story</p>
+</blockquote>
+</aside>
+<p>Regarding this, I’ve given you the same feedback privately: I don’t think you really <em>get</em> Tolkien and the transcendental and romantic (as in, <a href="https://en.wikipedia.org/wiki/Romanticism#Literature" rel="nofollow noopener">romantic literature</a>) themes of that type of fantasy literature.</p>
+<p>In my opinion Fantasy World is more suited for something where characters and their personal issues are at the forefront, rather than epic transcendental themes of justice, good, evil, death, progress, technology. If these type of themes are present in FW, they will only be from the point of view of the characters’ beliefs, which will be deeply questioned during play: it will not yield anything close to LotR but on the most surface level and you shouldn’t claim otherwise.</p>
+<p>In fact, you directly state that Gods being silent is a core tenet of Fantasy World, while in Lord of The Rings transcendental powers are constantly at work and perceivable, the villain is a former lieutenant of the equivalent of the Devil, the literal Abrahamic God resurrects one of the main supporting characters halfway through the story, deserving characters are granted passage the outside-of-earth heaven at the end of the story, and the different afterlife of Elves and Men (capitalized, gender-neutral) is a plot point when a Half-Elven woman is offered the choice of which to follow.</p>
+<p>Your game, instead, has an embedded relativistic moral outlook, which will definitely support shades-of-grey types of fantasy with many different viewpoints. The Song of Ice and Fire books (Game of Thrones for you TV watchers, although I don’t like the adaptation) come to mind as a great example of this type of story, but you can definitely give much better examples than I. I think it’s excellent when it comes to this type of fantasy, that you’ve appropriately dubbed “dramatic fantasy”.</p>
+<p>I’m currently using FW to run a campaign in kind of a fantasy-punk world where a cataclysm has destroyed the world, making it extremely dangerous, and a wizard class protects people with magical walls by enclosing them in citadels and ruling them with authoritarian methods. We’re having a lot of fun and the game serves the setting well.</p>
+<p>I feel that I wouldn’t pick Fantasy World to play fantasy with romantic undertones (again, <a href="https://en.wikipedia.org/wiki/Romanticism#Literature" rel="nofollow noopener">romantic literature</a>, not love-related), although I kind of struggle at the moment to find a game system that does this type of literature any justice. And definitely there are much better systems if you’re interested in the “adventuring” part more than in the “dramatic” part.</p>
+<p>I really think it would benefit the game if you were to put together a list of touchstones and not wishy-wash around the “what type of fantasy” question.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/35">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/35</link>
+        <pubDate>Thu, 01 Apr 2021 10:50:47 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6689-35</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689.rss">Dev Journal - Fantasy World vs Dungeon World - 14 Differences</source>
+      </item>
+      <item>
+        <title>Dev Journal - Fantasy World vs Dungeon World - 14 Differences</title>
+        <dc:creator><![CDATA[@Froggy]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/froggy">@Froggy</a> wrote:</p>
+          <blockquote>
+              <p>Hey <a class="mention" href="/u/airk">@Airk</a>, I’m one of the people who helped <a class="mention" href="/u/alessandro_piroddi">@Alessandro_Piroddi</a> review the tone of the text to avoid precisely what you’re saying. I’m a big fan of Dungeon World, and we both agreed that it’s not really helpful to put Fantasy World in an antagonistic light. I think the objective here was to try to explain <em>why</em> Alessandro felt the need to write his game and what goals is it trying to achieve, not necessarily to frame it as a better game – if that wasn’t achieved, it can be a lesson learned for the future.</p>
+<p>However, most of the reaction I’ve seen to the articles has been positive rather than negative, so I think for a large amount of readers it didn’t have the effect you describe.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/34">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/34</link>
+        <pubDate>Thu, 01 Apr 2021 07:19:51 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6689-34</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689.rss">Dev Journal - Fantasy World vs Dungeon World - 14 Differences</source>
+      </item>
+      <item>
+        <title>Dev Journal - Fantasy World vs Dungeon World - 14 Differences</title>
+        <dc:creator><![CDATA[@Alessandro_Piroddi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alessandro_piroddi">@Alessandro_Piroddi</a> wrote:</p>
+          <blockquote>
+              <p>Aaaand it’s complete!<br>
+You can find the third and final part of this overview article <a href="https://unplayablegamesrpg.itch.io/fantasy-world/devlog/236342/fantasy-world-vs-dungeon-world-14-differences-part-3" rel="nofollow noopener">HERE in itch.io</a>.<br>
+It focuses on some sub-systems of the game such as:</p>
+<ul>
+<li>the <strong>Fictional Harm</strong> system</li>
+<li>the approach to <strong>PC-vs-PC</strong> conflicts</li>
+<li>the dynamics and consequences of “<strong>splitting</strong>” the core group of PCs</li>
+<li>the <strong>Dis/Advantage</strong> mechanic and it’s stance on “fictional bonuses”</li>
+</ul>
+<p>I hope this series of articles was interesting and useful for you.<br>
+Next will come a deep dive into some of the main FW Classes <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/33">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/33</link>
+        <pubDate>Sat, 27 Mar 2021 20:28:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6689-33</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689.rss">Dev Journal - Fantasy World vs Dungeon World - 14 Differences</source>
+      </item>
+      <item>
+        <title>Dev Journal - Fantasy World vs Dungeon World - 14 Differences</title>
+        <dc:creator><![CDATA[@Alessandro_Piroddi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alessandro_piroddi">@Alessandro_Piroddi</a> wrote:</p>
+          <blockquote>
+              <p><em><strong>PART 3</strong></em> was published on the newsletter last Monday.<br>
+While you wait for it to also hit the open web, you can decide what will be the content of the new article! <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/smiley.png?v=9" title=":smiley:" class="emoji" alt=":smiley:"><br>
+Popular vote decreed that it will be a deep dive into a specific Class. But which one is still to be decided…</p>
+<p>One way to vote is to join the <a href="https://www.facebook.com/groups/fantasyworldrpg" rel="nofollow noopener">FW Facebook Group</a> and <a href="https://www.facebook.com/groups/fantasyworldrpg/permalink/3833618860058219/?__cft__%5B0%5D=AZUrXmkskeF_OpkHjOuQ5pthMujj9uItnIaRPVv4nfeWcYE1r8owJ99fg9IignTnbNAFAHgbPjphCa2-MlCo-Lixii6phsE0jPS5VwiDBjOGcJDwcfHdbyt_PykrSUrlGadZ1t_hKFVSx2GKUxWCP1jvGXRU_MKfc4rVmwZytu_H41YWrBR06vhoHgPJ0r2HZzM&amp;__tn__=%2CO%2CP-R" rel="nofollow noopener">react to this post</a>. This would be much apreciated and help the FW community grow <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"></p>
+<p>Or just post your preference here… no biggie <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/32">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/32</link>
+        <pubDate>Wed, 24 Mar 2021 09:39:02 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6689-32</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689.rss">Dev Journal - Fantasy World vs Dungeon World - 14 Differences</source>
+      </item>
+      <item>
+        <title>Dev Journal - Fantasy World vs Dungeon World - 14 Differences</title>
+        <dc:creator><![CDATA[@Airk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/airk">@Airk</a> wrote:</p>
+          <blockquote>
+              <p>I’m not really sure what you are getting at with the “number of points” since the title of the essay is " Fantasy World vs Dungeon World - 14 Differences"; If that’s not “Here’s why my game isn’t Dungeon World” I’m not sure what is?</p>
+<p>I’m just advocating for some gentle changes to the game text to make things sound less combative, and help newcomers not assume that it’s “basically Dungeon World”;  The essay doesn’t really concern me half so much, beyond the fact that it exists.</p>
+<p>Best of luck with the project.  I’ll be keeping an eye on it.  I’ve even recommended it once, though I haven’t run into a lot of people for whom it seems like a great fit, but that’s fine, it’s still more people than fit with my own game. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/31">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/31</link>
+        <pubDate>Sun, 21 Mar 2021 00:31:56 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6689-31</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689.rss">Dev Journal - Fantasy World vs Dungeon World - 14 Differences</source>
+      </item>
+      <item>
+        <title>Dev Journal - Fantasy World vs Dungeon World - 14 Differences</title>
+        <dc:creator><![CDATA[@Alessandro_Piroddi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alessandro_piroddi">@Alessandro_Piroddi</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="Airk" data-post="29" data-topic="6689">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/airk/40/2991_2.png" class="avatar"> Airk:</div>
+<blockquote>
+<p>at the end of the day, you seem to be writing an essay to try to fix this</p>
+</blockquote>
+</aside>
+<p>I spent 1 answer out of 14 to mention the fact that “one could think FW is a hack of DW, but it’s actually not”.<br>
+And I do it because people have been asking me “could you summarise what separates FW from DW?”<br>
+It’s as simple as that.<br>
+This whole conversation with you has just been me amiably chatting with you about our different opinions <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"><br>
+You raised your doubts and critiques.<br>
+I offered answers and clarifications.<br>
+A bit of back and forth. It’s supposedly interesting and enriching for both us and anyone else reading.<br>
+Aaand that’s about it I guess <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>I have to warn you though, the second and third part of the article were written together with the first, and sent to the “media guys” all together … so they won’t reflect any of the feedback you offered me until now in matters of tone and style.<br>
+Still, it would be interesting to see what you think about the content <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/30">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/30</link>
+        <pubDate>Sat, 20 Mar 2021 23:29:28 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6689-30</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689.rss">Dev Journal - Fantasy World vs Dungeon World - 14 Differences</source>
+      </item>
+      <item>
+        <title>Dev Journal - Fantasy World vs Dungeon World - 14 Differences</title>
+        <dc:creator><![CDATA[@Airk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/airk">@Airk</a> wrote:</p>
+          <blockquote>
+              <p>All I’m really saying at this point is:</p>
+<ul>
+<li>Try to speak more positively of other games when making comparisons to avoid people perceiving you as talking down to them/belittling their favorites.</li>
+<li>If you don’t want people to think your game is “Basically Dungeon World” use fewer Class moves that share names or functions with Dungeon World class moves. Especially in cases where you really can’t make the that the move is somehow core to the popular perception of the class.  The names should be particularly easy to fix. Because at the end of the day, you seem to be writing an essay to try to fix this, and while that might work for some people, it’s not going to work for random people referred to your game further down the way.</li>
+</ul>
+<p>The purpose of this exercise is not to appease ME.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/29">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/29</link>
+        <pubDate>Sat, 20 Mar 2021 19:10:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6689-29</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689.rss">Dev Journal - Fantasy World vs Dungeon World - 14 Differences</source>
+      </item>
+      <item>
+        <title>Dev Journal - Fantasy World vs Dungeon World - 14 Differences</title>
+        <dc:creator><![CDATA[@Alessandro_Piroddi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alessandro_piroddi">@Alessandro_Piroddi</a> wrote:</p>
+          <blockquote>
+              <p>Part 2 is out for public consumption!<br>
+I’ll post it here, rather than in a separate topic, to avoid clogging the forum <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>You can read the <strong>second</strong> installment <a href="https://unplayablegamesrpg.itch.io/fantasy-world/devlog/233904/fantasy-world-vs-dungeon-world-14-differences-part-2" rel="nofollow noopener">HERE on itch.io </a>. There I touch on the structure and methodology that went into designing the <strong>first session setup</strong>:</p>
+<ul>
+<li>I mention why the procedure sees PC creation as the <strong>last</strong> step of the Setting-Fellowship-Protagonists trinity</li>
+<li>I look into how FW obtains <strong>personalisation</strong> through fiction, more than mechanics</li>
+<li>I introduce a bit how the <strong>Growth</strong> system</li>
+</ul>
+<p>Again, what do you think of these further points?</p>
+<p><img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/smiley.png?v=9" title=":smiley:" class="emoji only-emoji" alt=":smiley:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/28</link>
+        <pubDate>Sat, 20 Mar 2021 18:46:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6689-28</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689.rss">Dev Journal - Fantasy World vs Dungeon World - 14 Differences</source>
+      </item>
+      <item>
+        <title>Dev Journal - Fantasy World vs Dungeon World - 14 Differences</title>
+        <dc:creator><![CDATA[@Alessandro_Piroddi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alessandro_piroddi">@Alessandro_Piroddi</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="Airk" data-post="26" data-topic="6689">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/airk/40/2991_2.png" class="avatar"> Airk:</div>
+<blockquote>
+<p>The thing I keep seeing is so many of the class moves seem very similar?</p>
+</blockquote>
+</aside>
+<p>Many PbtA share similar moves to deal with similar fictional circumstances.<br>
+DW has <strong>Defy Danger</strong>, which is pretty much AW’s <strong>Act Under Fire</strong> but rollable on any stat… so FW Take a Risk is actually much closer to AW than DW.</p>
+<p>DW has <strong>Spout Lore</strong> and FW has <strong>Recall Lore</strong> … they cover the same function, but do so in quite different ways. I mean, I put a lot of work and re-re-rewrites in “fixing” both the <strong>trigger</strong> and the <strong>effect</strong> so that the table usage produced the experience I intended for it.</p>
+<p>What I mean is… it might look the same, but the actual play experience is quite different in any meaningful way. The article, and my OP, was not meant to complain about people mistaking a game for the other.<br>
+Rather, it is an effort (one I was requested specifically) to help people see where and how the two games are different.</p>
+<p>Naming things can be more of a problem than one would initially assume <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/stuck_out_tongue.png?v=9" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"><br>
+On the one hand, some names are just “right” to describe a certain element, and using different terms only hurts usability and communication.<br>
+On the other hand, I actually received clear feedback to <strong>not</strong> use too different names as, in a nutshell, some felt it was “dishonest” … it felt like I was trying to cover up an otherwise obvious connection.<br>
+Again, I don’t know were you manage to see “tons” of names lifted directly from DW… maybe count them? They are just a few, if even that many. Everything else is either changed to be somewhat reminiscent or completely different.</p>
+<p>Anyway, I think it all boils down to this, <a class="mention" href="/u/airk">@Airk</a>.</p>
+<p>To me the similarities are very superficial and limited. They are there, but play a minimal role. So, there is little of DW in FW. Like, if you expect a DW-like experience when coming to a FW session, you will most probably feel disappointed.</p>
+<p>If instead these things are a big deal for you, if they look like “a ton” for you, and you see a lot of DW in FW… I guess it’s fine too. I mean, “importance” and other value judgements can be subjective things depending on how we discuss. I still think your table experience will not meet such an expectation, but otherwise we can happily agree to disagree on that specific point <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"><br>
+Maybe try the game in practice and let me know how it <strong>feels</strong> for you then <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/smiley.png?v=9" title=":smiley:" class="emoji" alt=":smiley:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/27">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/27</link>
+        <pubDate>Sat, 20 Mar 2021 18:31:56 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6689-27</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689.rss">Dev Journal - Fantasy World vs Dungeon World - 14 Differences</source>
+      </item>
+      <item>
+        <title>Dev Journal - Fantasy World vs Dungeon World - 14 Differences</title>
+        <dc:creator><![CDATA[@Airk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/airk">@Airk</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="Alessandro_Piroddi" data-post="24" data-topic="6689">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/alessandro_piroddi/40/3732_2.png" class="avatar"> Alessandro_Piroddi:</div>
+<blockquote>
+<p>Could you offer some examples of the “large” parts you mention?</p>
+</blockquote>
+</aside>
+<p>The thing I keep seeing is so many of the class moves seem very similar? I click on “the Minstrel” and basically the first thing I see is a move with the same name as the signature “Bard” move from Dungeon World? The first move in the “Fighter” Analogue is a variant of the signature “fighter” move in Dungeon World, where you define a custom weapon, even though that seems to have been a pretty unpopular take on the “Fighter”.  But also you just seem to have borrowed large amounts of NAMES from Dungeon World? Last Breath? “Recall Lore” is obviously a “Spout Lore” derivative, etc.  Like yes, you have changed how most of these things work on some level, but you’re also establishing clear parallels.</p>
+<p>I dunno. Maybe I’m reading too shallowly and all these apparent similarities are only ever “skin deep” but if you want it to be clear that your game isn’t Dungeon World, then you probably don’t want to use tons of names from that game?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/26</link>
+        <pubDate>Fri, 19 Mar 2021 19:21:31 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6689-26</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689.rss">Dev Journal - Fantasy World vs Dungeon World - 14 Differences</source>
+      </item>
+      <item>
+        <title>Dev Journal - Fantasy World vs Dungeon World - 14 Differences</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>I’m reading the document further, and finding lots of great stuff in there. The Fellowship creation rules are really quite nice, for instance. Wonderful prompts and colour. (The only thing I thought was a bit weak was the “reputation” portion - just saying you have a “good” or “bad” reputation is, if anything, far worse than what I and my players would come up with without a prompt. I can help brainstorm alternatives, if you’re interested.)</p>
+<p>I am now in the rules mechanics portions, and I must say that I find the way the moves are written and formatted incredibly hard to read. Almost like parsing computer code. (This may be an artifact of the way the website is put together, perhaps, of course.) That’s a bit of a stumbling block!</p>
+<p>I’ll keep reading further, gradually. A lot of thought was put into each step, and that’s clearly apparent.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/25</link>
+        <pubDate>Fri, 19 Mar 2021 17:38:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6689-25</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689.rss">Dev Journal - Fantasy World vs Dungeon World - 14 Differences</source>
+      </item>
+      <item>
+        <title>Dev Journal - Fantasy World vs Dungeon World - 14 Differences</title>
+        <dc:creator><![CDATA[@Alessandro_Piroddi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alessandro_piroddi">@Alessandro_Piroddi</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group quote-modified" data-username="Airk" data-post="23" data-topic="6689">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/airk/40/2991_2.png" class="avatar"> Airk:</div>
+<blockquote>
+<p>large parts of it are clearly…Dungeon World<br>
+[…]<br>
+some parts of it are different</p>
+</blockquote>
+</aside>
+<p>This… baffles me o_O<br>
+Could you offer some examples of the “large” parts you mention?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/24</link>
+        <pubDate>Fri, 19 Mar 2021 16:25:55 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6689-24</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689.rss">Dev Journal - Fantasy World vs Dungeon World - 14 Differences</source>
+      </item>
+      <item>
+        <title>Dev Journal - Fantasy World vs Dungeon World - 14 Differences</title>
+        <dc:creator><![CDATA[@Airk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/airk">@Airk</a> wrote:</p>
+          <blockquote>
+              <p>It does clarify your intentions, but it doesn’t reconcile very well with what you say elsewhere. =/</p>
+<p>I quoted you here: “Little to nothing in common with DW”.  This, to me, is the opposite of “So yeah, there surely is some DW DNA leftover. I never said otherwise.”</p>
+<p>I think this loops back on my original issue.  There’s clearly some kind of crossed wires here, because what you think you are saying when you tell it to me here is not what you seem to be saying when you write it down elsewhere.</p>
+<p>Maybe I’m just being unduly nitpicky here – if folks thing I am, I’ll shut up – but to me, this reads as someone saying “This game is NOT Dungeon World!” and then I go through and read it and large parts of it are clearly…Dungeon World.  Yes, some parts of it are different, and even very clever, but if you told me this was a Dungeon World hack, I would have no trouble believing you.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/23</link>
+        <pubDate>Fri, 19 Mar 2021 13:13:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6689-23</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689.rss">Dev Journal - Fantasy World vs Dungeon World - 14 Differences</source>
+      </item>
+      <item>
+        <title>Dev Journal - Fantasy World vs Dungeon World - 14 Differences</title>
+        <dc:creator><![CDATA[@Alessandro_Piroddi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alessandro_piroddi">@Alessandro_Piroddi</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/airk">@Airk</a><br>
+I can tell you what my design journey was.</p>
+<p>I started by trying to apply my notes and fixes to DW.<br>
+At some point, quite early, I noticed that I was throwing out the window pretty much everything that made DW feel like DW, so I took a deep breath and decided to “rebase”.</p>
+<p>I <strong>literally</strong> copy-pasted AW2 text on a gDoc, and went on the task of reworking it.<br>
+I did this to have a baseline structure for an actual rulebook.<br>
+To have ready-made content for all the wheels I wasn’t going to reinvent, instead of dealing with a gruyère document.<br>
+And because it wasn’t yet clear to me how much I would veer away from AW.</p>
+<p>That said, I needed some fantasy playbooks as a placeholder while I was designing what, to me personally, was the actually important stuff.<br>
+So I copy-pasted the DW classes on it too.</p>
+<p>Eventually I got to the point where the rules were ready to be tested, but now they were largely incompatible with the original DW classes. So I started working on them too.<br>
+This process went through a few stages.</p>
+<ul>
+<li>
+<p>First the DW classes were just the DW classes, with bits modified to be FW compatible.</p>
+</li>
+<li>
+<p>Then I started gutting them: each DW class has about 30 moves, counting both starting and advanced ones, whilst FW has a fixed total of 11.</p>
+</li>
+<li>
+<p>Then I started reworking the moves that were left there, too. I wanted them to rely more on fictional positioning and to prompt more the Players into describing stuff.</p>
+</li>
+<li>
+<p>Then I went to town about two classes with which I had a specific beef with, so to speak <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"><br>
+The Paladin and the Cleric (now Knight and Priest) are pretty much a deconstruction and critique of the sanctimonious a-holes they often are in most other fantasy games.</p>
+</li>
+<li>
+<p>Then I started getting feedback from players and GMs about a problem they were having: they read the class names and expected the same gameplay as with the analogous DW ones… but at the table the experience just did not match the expectations!<br>
+They played different, had a different feeling.<br>
+So that’s when I changed the names. Now people still draw a comparison between FW Warrior and DW Fighter, but they also seem to get that they are different, and this apparently solved the problem in the majority of cases.</p>
+</li>
+</ul>
+<p>So yeah, there surely is some DW DNA leftover. I never said otherwise.<br>
+But first of all, it’s more a matter of some DW bits being injected on top of the AW base.<br>
+Secondly, the relationship with DW was more in the vein of “<strong>I won’t be like you, dad!</strong>” than something like “<strong>thanks for teaching me, dad!</strong>” … which is by no means a negative judgement on DW, only an acknowledgement that the main guidance I got from my years of playing DW (and I played it a lot back in the day <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/heart.png?v=9" title=":heart:" class="emoji" alt=":heart:"> ) was that now that I was doing my own thing I wanted it to be different than DW.</p>
+<p>Without my DW experience, FW would be much different from how it is today. And I am deeply grateful to DW (or rather to Adam and Sage <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/smiley.png?v=9" title=":smiley:" class="emoji" alt=":smiley:"> ) for that.</p>
+<p>But that’s why I stand by my words: in an article offering a quick and broad overview about the similarities/differences between DW and FW <strong>from the perspective of a user</strong>… there is little of DW in FW, and what little is there is mostly cosmetic and superficial.</p>
+<p><strong>From a game design heritage perspective?</strong> (aka: what we are discussing here now)<br>
+Well, then DW has been a great influence on FW’s design, albeit in the “i’m going to be different” kind of way as explained just now.</p>
+<p>. . .</p>
+<p>A word on why I kept the D&amp;D class stereotypes that DW uses too.<br>
+Some suggested me to try and create original archetypes that would map on to fantasy narrative tropes: the chosen one, the ascendant, the brooding one, the unexpected, etc</p>
+<p>I gave it some thought, but in the end decided against it.<br>
+I felt like it would have turned the game into something too specific… like SCUP or Fellowship or The Watch, which are amazing games that are very focused on their specific main reference.<br>
+Like most PbtA games one could ply them to play other things, but that’s not what I wanted for FW. I have a different vision for it.</p>
+<p>D&amp;D classes, and their DW translations, are not about a specific kind of story or a specific character archetype (in narrative terms).<br>
+They are neutral.<br>
+They are jobs.<br>
+Collections of skills that say very little about the kind of story you will play with them, focusing instead on HOW you will interact with whatever story you drop them into.<br>
+This served my purposes better, so I just kept them as a base to hack <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/stuck_out_tongue.png?v=9" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></p>
+<p>…</p>
+<p>I hope this clarifies further my position, meaning and intentions <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/22</link>
+        <pubDate>Fri, 19 Mar 2021 07:57:24 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6689-22</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689.rss">Dev Journal - Fantasy World vs Dungeon World - 14 Differences</source>
+      </item>
+      <item>
+        <title>Dev Journal - Fantasy World vs Dungeon World - 14 Differences</title>
+        <dc:creator><![CDATA[@Alessandro_Piroddi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alessandro_piroddi">@Alessandro_Piroddi</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/paul_t">@Paul_T</a><br>
+About the fictional harm system… what can I say? <strong>Thank you</strong> for such a fine piece of design <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/smiley.png?v=9" title=":smiley:" class="emoji" alt=":smiley:"><br>
+It became a central element for the overall FW structure.</p>
+<p>About the first scene…<br>
+FW uses both <strong>in medias res</strong>, as DW, and <strong>at rest</strong>, as AW.<br>
+It depends on the Fellowship type:</p>
+<ul>
+<li>wandering fellowships use the former</li>
+<li>local fellowships use the latter</li>
+</ul>
+<p>I find the <strong>at rest</strong> approach ideal to really focus the game on the people and places that the PCs are supposed to care about, or use as main backdrop for their activity. Which is why AW does it, I believe.<br>
+<strong>In medias res</strong> instead fits better to a group that is already “in motion”, focusing more on the task at hand (the quest, the job) and less on who/where they do it.</p>
+<p>At least, as a campaign starter. Both kinds of Fellowship can and will evolve in time, either getting to the natural end of their story, or shifting into a different archetype that suits more the direction the PCs are taking <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/21</link>
+        <pubDate>Fri, 19 Mar 2021 06:47:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6689-21</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689.rss">Dev Journal - Fantasy World vs Dungeon World - 14 Differences</source>
+      </item>
+      <item>
+        <title>Dev Journal - Fantasy World vs Dungeon World - 14 Differences</title>
+        <dc:creator><![CDATA[@Airk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/airk">@Airk</a> wrote:</p>
+          <blockquote>
+              <p>I went back to read the rules a bit to see if the tonal issues I had are really inherent in the rules;  They are not – the rules have very little tone to them at all, which makes it easy to carry the tone from the introduction.</p>
+<p>However, in the process of reading the rules, I find it strange and difficult to believe that “FW evolved straight out of the original AW (and AW2) material. It has little to nothing in common with DW” since the game has so, so very many direct mappings straight to Dungeon World;  Whether that is move names, class moves, the way many moves operate, etc, very few of which can be cleanly seen as a direct connection to Apocalypse World. (I don’t think there is any way that you can convince me that the Paladin-analogue having a move that is almost verbatim “I am the Law” from Dungeon World is somehow something that came from AW, for example. This isn’t even a common feature of this archetype.)</p>
+<p>Think you should be giving more credit where it is due here.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/20</link>
+        <pubDate>Fri, 19 Mar 2021 00:42:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6689-20</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689.rss">Dev Journal - Fantasy World vs Dungeon World - 14 Differences</source>
+      </item>
+      <item>
+        <title>Dev Journal - Fantasy World vs Dungeon World - 14 Differences</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>I also really like how you built a simple framework for the “in media res” beginning, with the three choices being offered to the players. Nicely done!</p>
+<p>I do think that a game which presumes a Fellowship (unlike something more individually oriented, like AW) might do better with a clear, GM-led start - a central concept or promise, which should probably be communicated and known before character creation - but this is definitely a big improvement on Dungeon World’s presentation. I’ll have to read further, though, to see whether this is addressed in the Fellowship creation section.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/19</link>
+        <pubDate>Thu, 18 Mar 2021 17:45:23 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6689-19</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689.rss">Dev Journal - Fantasy World vs Dungeon World - 14 Differences</source>
+      </item>
+      <item>
+        <title>Dev Journal - Fantasy World vs Dungeon World - 14 Differences</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>Alessandro,</p>
+<p>Indeed, I am the originator of “descriptive harm”, having written versions of it for Apocalypse World and Dungeon World back in 2012. (Original version here: <a href="http://ihousenews.pbworks.com/w/file/fetch/63408904/Apocalypse%20harm.pdf">http://ihousenews.pbworks.com/w/file/fetch/63408904/Apocalypse%20harm.pdf</a>)</p>
+<p>It struck me that the approach to Harm in AW doesn’t seem to be designed along the same lines as the rest of the game, so I wrote that up as a “proof of concept”. However, the rules worked well, and I know a lot of people used them.</p>
+<p>Since then, I’ve seen a bunch of different designers take the concept and run with it, but one thing I had not seen until your ruleset here is for anyone to take my suggestion to use it for group combat, as well. (I had a list similar to yours, but never made it into a workable system - does the leadership break, or does the group lose morale? I like what you’ve done here, in the “mass combat” portion. Nice to see someone finally implement this!)</p>
+<p>I have written quite a handful of different approaches to this over time, including this simple add-on to AW as written:</p>
+<p><a href="https://lumpley.games/thebarf/index.php?topic=9103.0" class="onebox" target="_blank">https://lumpley.games/thebarf/index.php?topic=9103.0</a></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/18</link>
+        <pubDate>Thu, 18 Mar 2021 16:57:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6689-18</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689.rss">Dev Journal - Fantasy World vs Dungeon World - 14 Differences</source>
+      </item>
+      <item>
+        <title>Dev Journal - Fantasy World vs Dungeon World - 14 Differences</title>
+        <dc:creator><![CDATA[@Alessandro_Piroddi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alessandro_piroddi">@Alessandro_Piroddi</a> wrote:</p>
+          <blockquote>
+              <p>I remember coming up with the Fictional Harm after seeing something similar somewhere but I could not, for the life of me, remember the original source! <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/stuck_out_tongue_closed_eyes.png?v=9" title=":stuck_out_tongue_closed_eyes:" class="emoji" alt=":stuck_out_tongue_closed_eyes:"><br>
+Was it you?<br>
+Was there a discussion of your harm system here or somewhere else online? <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/smiley.png?v=9" title=":smiley:" class="emoji" alt=":smiley:"></p>
+<p>I would like to give credit where it’s due, like the Sway move holding a huge debt of gratitude to its analogous move in Stonetop <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/heart.png?v=9" title=":heart:" class="emoji" alt=":heart:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689/17</link>
+        <pubDate>Thu, 18 Mar 2021 15:09:42 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6689-17</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689.rss">Dev Journal - Fantasy World vs Dungeon World - 14 Differences</source>
+      </item>
+  </channel>
+</rss>

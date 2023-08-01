@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Blog comment integration with Discourse</title>
+    <link>https://forums.gauntlet-rpg.com/t/blog-comment-integration-with-discourse/3327</link>
+    <description>I have set up Discourse integration with the Gauntlet Blog. So now when a blog entry is first visited a topic for the blog comments will be generated in the #gauntlet-community:blog-comments category. This will mean that over time there might be some &quot;old news&quot; posts showing up in your list of New/Unread topics. I apologize for the &quot;spam&quot; - but it is just how it will be for a while.</description>
+    
+    <lastBuildDate>Sat, 28 Sep 2019 22:41:20 +0000</lastBuildDate>
+    <category>Announcements</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/blog-comment-integration-with-discourse/3327.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Blog comment integration with Discourse</title>
+        <dc:creator><![CDATA[@shane]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/shane">@shane</a> wrote:</p>
+          <blockquote>
+              <p>I did a bit of tweaking and on the upside now these entries won’t show up in the Latest or Unread listings, but will show up in New.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/blog-comment-integration-with-discourse/3327/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/blog-comment-integration-with-discourse/3327/3</link>
+        <pubDate>Sat, 28 Sep 2019 22:41:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3327-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/blog-comment-integration-with-discourse/3327.rss">Blog comment integration with Discourse</source>
+      </item>
+      <item>
+        <title>Blog comment integration with Discourse</title>
+        <dc:creator><![CDATA[@Deckard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deckard">@Deckard</a> wrote:</p>
+          <blockquote>
+              <p>I appreciate the heads up.  I am sure others do to.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/blog-comment-integration-with-discourse/3327/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/blog-comment-integration-with-discourse/3327/2</link>
+        <pubDate>Sat, 28 Sep 2019 22:01:14 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3327-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/blog-comment-integration-with-discourse/3327.rss">Blog comment integration with Discourse</source>
+      </item>
+      <item>
+        <title>Blog comment integration with Discourse</title>
+        <dc:creator><![CDATA[@shane]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/shane">@shane</a> wrote:</p>
+          <blockquote>
+              <p>I have set up Discourse integration with the Gauntlet Blog. So now when a blog entry is first visited a topic for the blog comments will be generated in the <a class="hashtag" href="/c/gauntlet-community/blog-comments/12">#<span>gauntlet-community:blog-comments</span></a> category. This will mean that over time there might be some “old news” posts showing up in your list of New/Unread topics. I apologize for the “spam” - but it is just how it will be for a while.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/blog-comment-integration-with-discourse/3327/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/blog-comment-integration-with-discourse/3327/1</link>
+        <pubDate>Sat, 28 Sep 2019 18:17:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3327-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/blog-comment-integration-with-discourse/3327.rss">Blog comment integration with Discourse</source>
+      </item>
+  </channel>
+</rss>

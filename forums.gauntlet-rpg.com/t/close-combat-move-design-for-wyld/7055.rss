@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Close Combat move design for Wyld</title>
+    <link>https://forums.gauntlet-rpg.com/t/close-combat-move-design-for-wyld/7055</link>
+    <description>I&#39;ve been unsatisfied with the close combat move for Wyld for a while, and I ran a quick playtest of it and identified some problems. Here&#39;s the previous move:
+
+---
+
+## Fight in Close Combat (Old)
+
+To fight your enemies up close and personal you will exchange harm, but first roll +Might.
+
+On a 16+ choose 3. On an 11-15 choose 2. On a miss choose 1. If your enemy is a PC they roll as well, if an NPC the GM chooses 1 on a hit, 2 on a miss.
+
+* You attack aggressively, inflict 1 more harm.
+* You defend effectively, suffer 1 less harm.
+* You gain the advantage: take +1 forward, or give +1 forward to an ally
+* You force them where you want them
+* You seize or hold some objective by force
+* You win free and get away
+* You force your way through
+* You protect someone from harm. As long as they remain within reach of you, they have 1-armour against the next blow they take.
+
+If you have a protective weapon such as a shield you may choose to suffer less harm more than once.
+
+If you have a brutal weapon such as most 2-handed weapons, you may choose to inflict severe harm more than once.
+
+If you are using a light weapon, you can choose to roll+Grace instead of +Might.
+
+---
+
+The problems are several, but the main one was that if you&#39;re clearly losing, and your opponent is almost certainly about to finish you off, you can chose a tactical goal and there&#39;s nothing your opponent can do to stop you. This is actually a feature of Seize By Force in AW as well, but is a little less of a problem as if you&#39;re dead most of the options are not relevant (you win free but youre dead?). But this move is trying to do more tactical work. So here&#39;s my revised version.
+
+---
+
+## Fight in Close Combat (New)
+
+To fight your enemies up close and personal you will exchange harm, but first roll +Might. On a 16+ hold 3. On an 11-15 hold 2. On a miss hold 1. If your enemy is a PC they roll as well, if an NPC the GM gets 1 hold on a hit, 2 on a miss.
+
+Each side chooses how to spend their hold secretly, 1-for-1 on the following options:
+
+* Inflict severe harm (+1 harm)
+* Suffer less harm (-1 harm)
+* You gain the advantage: take +2 forward, or give +2 forward to an ally
+* You protect someone or something within your reach from harm, they take -1 harm.
+* You aim to achieve a tactical goal.
+
+Any tactical goal must be chosen from below when the hold is spent. If both sides choose a tactical goal, either may give up their goal in order to counter their opponent’s choice of goal instead.
+
+* You force them where you want them
+* You seize or hold some objective by force
+* You win free and get away
+* You force your way through
+
+If you have a protective weapon such as a shield you may spend hold to suffer less harm more than once.
+
+If you have a brutal weapon such as most 2-handed weapons, you may spend your hold to inflict severe harm more than once.
+
+If you are using a light weapon, you can choose to roll+Grace instead of +Might.
+
+---
+
+It&#39;s a bit of a beast, but it seems to achieve better what I&#39;m aiming for. Is it clear what the intent is though? Any options you think are missing, or ambiguity?</description>
+    
+    <lastBuildDate>Thu, 10 Jun 2021 12:42:47 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/close-combat-move-design-for-wyld/7055.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Close Combat move design for Wyld</title>
+        <dc:creator><![CDATA[@Simon_Hibbs]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/simon_hibbs">@Simon_Hibbs</a> wrote:</p>
+          <blockquote>
+              <p>That’s the main reason yes, the 2D6 curve mean you can’t go beyond +4 modifiers without running out of runway. Looking at Apocalypse World, stats go up to +3 and bonuses from e.g. Help or Interfere go up to +2. Well a +5 modifier makes it impossible to miss.</p>
+<p>I had some game mechanical ideas that would provide additional bonuses, but I may well go back to 2D6 is it turns out the extra headroom isn’t useful.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/close-combat-move-design-for-wyld/7055/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/close-combat-move-design-for-wyld/7055/8</link>
+        <pubDate>Thu, 10 Jun 2021 12:42:47 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7055-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/close-combat-move-design-for-wyld/7055.rss">Close Combat move design for Wyld</source>
+      </item>
+      <item>
+        <title>Close Combat move design for Wyld</title>
+        <dc:creator><![CDATA[@Airk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/airk">@Airk</a> wrote:</p>
+          <blockquote>
+              <p>Can’t speak for Simon, but:</p>
+<ul>
+<li>Flying Circus also does the 2d10 thing</li>
+<li>The obvious reason to use 2d10 is to allow a greater number of mechanical modifiers without changing the probability curve as much.</li>
+</ul>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/close-combat-move-design-for-wyld/7055/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/close-combat-move-design-for-wyld/7055/7</link>
+        <pubDate>Wed, 09 Jun 2021 14:29:31 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7055-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/close-combat-move-design-for-wyld/7055.rss">Close Combat move design for Wyld</source>
+      </item>
+      <item>
+        <title>Close Combat move design for Wyld</title>
+        <dc:creator><![CDATA[@Alun_R]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alun_r">@Alun_R</a> wrote:</p>
+          <blockquote>
+              <p>I’m curious what prompted 2d10 to begin with? The only other example that comes to mind is the PbtA version of Kult where I think it was driven by the potential potency of characters as they advanced.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/close-combat-move-design-for-wyld/7055/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/close-combat-move-design-for-wyld/7055/6</link>
+        <pubDate>Wed, 09 Jun 2021 13:40:17 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7055-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/close-combat-move-design-for-wyld/7055.rss">Close Combat move design for Wyld</source>
+      </item>
+      <item>
+        <title>Close Combat move design for Wyld</title>
+        <dc:creator><![CDATA[@Simon_Hibbs]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/simon_hibbs">@Simon_Hibbs</a> wrote:</p>
+          <blockquote>
+              <p>I’ve jut been mulling over +4/+2 but yes I think +3/+2 should do it. I’ve edited above. I think this may well need tweaking in playtest.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/close-combat-move-design-for-wyld/7055/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/close-combat-move-design-for-wyld/7055/5</link>
+        <pubDate>Fri, 04 Jun 2021 14:56:00 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7055-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/close-combat-move-design-for-wyld/7055.rss">Close Combat move design for Wyld</source>
+      </item>
+      <item>
+        <title>Close Combat move design for Wyld</title>
+        <dc:creator><![CDATA[@Airk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/airk">@Airk</a> wrote:</p>
+          <blockquote>
+              <p>I feel like Aid and Support isn’t properly scaled either, upon consideration – most 2d6-based PbtA games will give you +2 for an aid-and-support, so this should probably be +3/+2 rather than +2/+1?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/close-combat-move-design-for-wyld/7055/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/close-combat-move-design-for-wyld/7055/4</link>
+        <pubDate>Fri, 04 Jun 2021 14:52:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7055-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/close-combat-move-design-for-wyld/7055.rss">Close Combat move design for Wyld</source>
+      </item>
+      <item>
+        <title>Close Combat move design for Wyld</title>
+        <dc:creator><![CDATA[@Simon_Hibbs]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/simon_hibbs">@Simon_Hibbs</a> wrote:</p>
+          <blockquote>
+              <p>That’s a good point, it should be +2. I’ll edit the post. I’m still on the fence about going with 2D10 to be honest. My plan is to play test for a while with that and see how it goes as I think it will require some tweaking to modifiers, but I’ve always got the option to go back to 2D6.</p>
+<p>So there is no protect someone move at the moment, it’s just an option you can take in Close Combat, or you can Aid/Support someone in combat. However there is a problem here, the best you can get in And or Support is +2, but if you can grant that just as one option in Close Combat that seems too powerful.</p>
+<hr>
+<h2>Aid or Support</h2>
+<p>When you assist another character making a move, roll+Grace.</p>
+<p>On a 16+, your assistance grants them +3 to their roll.</p>
+<p>On an 11-15, your aid grants them +2 to their roll, or you may grant them +3 if you expose yourself to risk or peril in doing so.</p>
+<hr>
+<p>- Updated, thanks Arik.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/close-combat-move-design-for-wyld/7055/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/close-combat-move-design-for-wyld/7055/3</link>
+        <pubDate>Fri, 04 Jun 2021 14:28:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7055-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/close-combat-move-design-for-wyld/7055.rss">Close Combat move design for Wyld</source>
+      </item>
+      <item>
+        <title>Close Combat move design for Wyld</title>
+        <dc:creator><![CDATA[@Airk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/airk">@Airk</a> wrote:</p>
+          <blockquote>
+              <p>This is a little bit of a nitpick, but do you find that players EVER pick the “+1 forward” option? Even in standard PbtA, I feel like this option is really weak and only chosen if the players basically have an “extra” pick that they don’t care about.  In your game with the 2-20 scale, +1 forward feels REALLY underpowered compared to other stuff and should probably be at least +2 just to maintain parity with how strong it is in a 2d6 game.</p>
+<p>Also, how does the “protect someone, they take -1 harm” option work?  Does this move do double duty as the “defend” move?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/close-combat-move-design-for-wyld/7055/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/close-combat-move-design-for-wyld/7055/2</link>
+        <pubDate>Fri, 04 Jun 2021 14:18:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7055-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/close-combat-move-design-for-wyld/7055.rss">Close Combat move design for Wyld</source>
+      </item>
+      <item>
+        <title>Close Combat move design for Wyld</title>
+        <dc:creator><![CDATA[@Simon_Hibbs]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/simon_hibbs">@Simon_Hibbs</a> wrote:</p>
+          <blockquote>
+              <p>I’ve been unsatisfied with the close combat move for Wyld for a while, and I ran a quick playtest of it and identified some problems. Here’s the previous move:</p>
+<hr>
+<h2>Fight in Close Combat (Old)</h2>
+<p>To fight your enemies up close and personal you will exchange harm, but first roll +Might.</p>
+<p>On a 16+ choose 3. On an 11-15 choose 2. On a miss choose 1. If your enemy is a PC they roll as well, if an NPC the GM chooses 1 on a hit, 2 on a miss.</p>
+<ul>
+<li>You attack aggressively, inflict 1 more harm.</li>
+<li>You defend effectively, suffer 1 less harm.</li>
+<li>You gain the advantage: take +1 forward, or give +1 forward to an ally</li>
+<li>You force them where you want them</li>
+<li>You seize or hold some objective by force</li>
+<li>You win free and get away</li>
+<li>You force your way through</li>
+<li>You protect someone from harm. As long as they remain within reach of you, they have 1-armour against the next blow they take.</li>
+</ul>
+<p>If you have a protective weapon such as a shield you may choose to suffer less harm more than once.</p>
+<p>If you have a brutal weapon such as most 2-handed weapons, you may choose to inflict severe harm more than once.</p>
+<p>If you are using a light weapon, you can choose to roll+Grace instead of +Might.</p>
+<hr>
+<p>The problems are several, but the main one was that if you’re clearly losing, and your opponent is almost certainly about to finish you off, you can chose a tactical goal and there’s nothing your opponent can do to stop you. This is actually a feature of Seize By Force in AW as well, but is a little less of a problem as if you’re dead most of the options are not relevant (you win free but youre dead?). But this move is trying to do more tactical work. So here’s my revised version.</p>
+<hr>
+<h2>Fight in Close Combat (New)</h2>
+<p>To fight your enemies up close and personal you will exchange harm, but first roll +Might. On a 16+ hold 3. On an 11-15 hold 2. On a miss hold 1. If your enemy is a PC they roll as well, if an NPC the GM gets 1 hold on a hit, 2 on a miss.</p>
+<p>Each side chooses how to spend their hold secretly, 1-for-1 on the following options:</p>
+<ul>
+<li>Inflict severe harm (+1 harm)</li>
+<li>Suffer less harm (-1 harm)</li>
+<li>You gain the advantage: take +2 forward, or give +2 forward to an ally</li>
+<li>You protect someone or something within your reach from harm, they take -1 harm.</li>
+<li>You aim to achieve a tactical goal.</li>
+</ul>
+<p>Any tactical goal must be chosen from below when the hold is spent. If both sides choose a tactical goal, either may give up their goal in order to counter their opponent’s choice of goal instead.</p>
+<ul>
+<li>You force them where you want them</li>
+<li>You seize or hold some objective by force</li>
+<li>You win free and get away</li>
+<li>You force your way through</li>
+</ul>
+<p>If you have a protective weapon such as a shield you may spend hold to suffer less harm more than once.</p>
+<p>If you have a brutal weapon such as most 2-handed weapons, you may spend your hold to inflict severe harm more than once.</p>
+<p>If you are using a light weapon, you can choose to roll+Grace instead of +Might.</p>
+<hr>
+<p>It’s a bit of a beast, but it seems to achieve better what I’m aiming for. Is it clear what the intent is though? Any options you think are missing, or ambiguity?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/close-combat-move-design-for-wyld/7055/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/close-combat-move-design-for-wyld/7055/1</link>
+        <pubDate>Fri, 04 Jun 2021 11:26:40 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7055-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/close-combat-move-design-for-wyld/7055.rss">Close Combat move design for Wyld</source>
+      </item>
+  </channel>
+</rss>

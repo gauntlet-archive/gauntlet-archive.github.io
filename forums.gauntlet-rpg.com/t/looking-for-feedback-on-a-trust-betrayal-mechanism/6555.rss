@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Looking for feedback on a Trust/Betrayal mechanism</title>
+    <link>https://forums.gauntlet-rpg.com/t/looking-for-feedback-on-a-trust-betrayal-mechanism/6555</link>
+    <description>A little background. I’m working on a FitD game that’s sort of Atomic Blonde meets Chernobyl. It’s like 70s/80s Berlin but there was a nuclear accident decades ago and all cities are now encased in enormous concrete domes to protect from radiation. The totalitarian government is falling and all sorts of factions are rising up to overthrow them.
+
+With a bunch of spies and revolutionaries not everyone’s agendas are going to be aligned. So I came up with a trust and conflict mechanism that I think works well. The idea is you have to cooperate to survive and to do that you need to trust each other. However you also want to pursue your own agenda or even sabotage someone else’s agenda. I’m interested in that tension between trust and betrayal. Much of this was adapted from The Mountain Witch and Smallville rpgs. Please give any feedback you have.
+
+**Trust**
+When generating your character you get a number of Trust points equal to the number of party members. You may divide them up among any number of the other characters. You can not start with more than 2 Trust in another character.
+
+You can increase or decrease your Trust in other characters during Downtime. As a Downtime activity you can give +1 Trust to one or more other characters. You can only take this action once per Downtime. You can also decrease your Trust in a character by any amount for no cost. Other characters can also do this by placing or removing their Trust in you.
+
+You may spend Trust points but only on the character that put their Trust in you. You must be with that character and able to explain how you are using their trust to help or hurt them. Listed below are the ways you can spend Trust points.
+
+* Give +1D on their roll (once per roll)
+* Allow them to resist a consequence without having to roll
+* Give -1D on their roll for each Trust you spend
+* Add or subtract dice in a Conflict (see below)
+
+**Conflict**
+A Conflict happens when two characters are at odds and can not agree how to resolve it. The character that instigated the Conflict is the Attacker and the other character is the Defender. The Attacker describes what they are trying to do and rolls dice as usual. The highest number rolled is the Target Number. The Defender then describes how they fight back and rolls their own dice. Characters do not have to use the same Attribute when rolling.
+
+If the roll is &gt; or = to the Target Number, then that becomes the new Target Number and the other player must roll to beat it.
+
+If the roll is &lt; the Target Number, the character takes Stress equal to the Stakes. The Stakes start at 1 and increase by 1 each time someone takes stress.
+
+Each player must continue rolling back and forth until one of them Gives In or can no longer take Stress. When this happens they allow their opponent to narrate the scene and the Conflict ends. A player can only Give In immediately after they have taken Stress, otherwise they must continue rolling.
+
+During a Conflict, players may spend Trust their opponent has previously given them. For each Trust they spend, they may give themselves +1D or their opponent -1D on a roll. Your opponent may also do the same with any Trust you have given them. Other players may also spend Trust they have from either character in the Conflict to do the same. However, they may only spend one Trust per roll.</description>
+    
+    <lastBuildDate>Thu, 18 Feb 2021 22:20:10 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/looking-for-feedback-on-a-trust-betrayal-mechanism/6555.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Looking for feedback on a Trust/Betrayal mechanism</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>I meant consequences : you rule doesn’t leave an option to accept consequences, which is sometimes a valid outcome (dramatically or strategically).<br>
+I’m OK with your point though : you keep the drama without nboundaries.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/looking-for-feedback-on-a-trust-betrayal-mechanism/6555/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/looking-for-feedback-on-a-trust-betrayal-mechanism/6555/6</link>
+        <pubDate>Thu, 18 Feb 2021 22:20:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6555-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/looking-for-feedback-on-a-trust-betrayal-mechanism/6555.rss">Looking for feedback on a Trust/Betrayal mechanism</source>
+      </item>
+      <item>
+        <title>Looking for feedback on a Trust/Betrayal mechanism</title>
+        <dc:creator><![CDATA[@bigbucky]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/bigbucky">@bigbucky</a> wrote:</p>
+          <blockquote>
+              <p>Thanks I’ll have to check it out.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/looking-for-feedback-on-a-trust-betrayal-mechanism/6555/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/looking-for-feedback-on-a-trust-betrayal-mechanism/6555/5</link>
+        <pubDate>Thu, 18 Feb 2021 21:54:24 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6555-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/looking-for-feedback-on-a-trust-betrayal-mechanism/6555.rss">Looking for feedback on a Trust/Betrayal mechanism</source>
+      </item>
+      <item>
+        <title>Looking for feedback on a Trust/Betrayal mechanism</title>
+        <dc:creator><![CDATA[@bigbucky]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/bigbucky">@bigbucky</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="DeReel" data-post="2" data-topic="6555">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/dereel/40/3021_2.png" class="avatar"> DeReel:</div>
+<blockquote>
+<p>re-open the rule to fiction</p>
+</blockquote>
+</aside>
+<p>Do you mean using the regular positioning and consequences rules? The main reason is I didn’t want people giving each other harm. PvP is always a bit touchy so I wanted to keep things less traumatic. Having it as a separate mechanic gives it some emotional distance. But you’re right that any conflict can be resolved using the regular rules.</p>
+<p>I do think the attrition part is important though. In an argument you always have to assess if you’re going to give in or keep arguing. The longer it goes the higher the stress. You aren’t really inflicting harm on the other person. The winner gets to narrate the scene so I think it does tie into the larger fiction. I think I just need to play test a bit to see what it’s like.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/looking-for-feedback-on-a-trust-betrayal-mechanism/6555/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/looking-for-feedback-on-a-trust-betrayal-mechanism/6555/4</link>
+        <pubDate>Thu, 18 Feb 2021 21:53:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6555-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/looking-for-feedback-on-a-trust-betrayal-mechanism/6555.rss">Looking for feedback on a Trust/Betrayal mechanism</source>
+      </item>
+      <item>
+        <title>Looking for feedback on a Trust/Betrayal mechanism</title>
+        <dc:creator><![CDATA[@Alun_R]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alun_r">@Alun_R</a> wrote:</p>
+          <blockquote>
+              <p>Cold City had an interesting Trust mechanic, as I remember.<br>
+<a href="https://www.drivethrurpg.com/m/product/20677" class="onebox" target="_blank">https://www.drivethrurpg.com/m/product/20677</a></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/looking-for-feedback-on-a-trust-betrayal-mechanism/6555/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/looking-for-feedback-on-a-trust-betrayal-mechanism/6555/3</link>
+        <pubDate>Thu, 18 Feb 2021 12:00:42 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6555-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/looking-for-feedback-on-a-trust-betrayal-mechanism/6555.rss">Looking for feedback on a Trust/Betrayal mechanism</source>
+      </item>
+      <item>
+        <title>Looking for feedback on a Trust/Betrayal mechanism</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>Hello,<br>
+The mechanic will work, and the rules are clear. You can even relax them a little :<br>
+You have a typical abstract mechanic, good for theme and character exploration. Requiring co-presence only takes from this.<br>
+I think you misuse Stress : BitD rules are clear on what it’s for. You are correct to think of Stress as a strong limit for the mathematical model, but forgot to re-open the rule to fiction. A Conflict is about Goals Outcomes and (bad) Consequences, not attrition and giving in - even if these are on the horizon. The rule should reflect that.<br>
+Let players choice be : what if they don’t want to spend Trust ? What if they want to invest all in their ally’s Conflict ? What is the risk ? The worst I see is exploiting Trust with a spearhead PC leading a Collective action. Why is that bad ? worst than the Collective ganging up some other way ?</p>
+<p>Also consider :<br>
+One opposed roll is probably faster to read than two nb of successes vs target nb. But it’s probably consistent with the other rolls in the game.<br>
+PvP is something that touches the whole game : you can’t just bolt it some place. But you probably took care of that.</p>
+<p>Note that I am an enthusiast without any game published : don’t change your idea on my brain juice alone !</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/looking-for-feedback-on-a-trust-betrayal-mechanism/6555/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/looking-for-feedback-on-a-trust-betrayal-mechanism/6555/2</link>
+        <pubDate>Thu, 18 Feb 2021 07:17:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6555-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/looking-for-feedback-on-a-trust-betrayal-mechanism/6555.rss">Looking for feedback on a Trust/Betrayal mechanism</source>
+      </item>
+      <item>
+        <title>Looking for feedback on a Trust/Betrayal mechanism</title>
+        <dc:creator><![CDATA[@bigbucky]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/bigbucky">@bigbucky</a> wrote:</p>
+          <blockquote>
+              <p>A little background. I’m working on a FitD game that’s sort of Atomic Blonde meets Chernobyl. It’s like 70s/80s Berlin but there was a nuclear accident decades ago and all cities are now encased in enormous concrete domes to protect from radiation. The totalitarian government is falling and all sorts of factions are rising up to overthrow them.</p>
+<p>With a bunch of spies and revolutionaries not everyone’s agendas are going to be aligned. So I came up with a trust and conflict mechanism that I think works well. The idea is you have to cooperate to survive and to do that you need to trust each other. However you also want to pursue your own agenda or even sabotage someone else’s agenda. I’m interested in that tension between trust and betrayal. Much of this was adapted from The Mountain Witch and Smallville rpgs. Please give any feedback you have.</p>
+<p><strong>Trust</strong><br>
+When generating your character you get a number of Trust points equal to the number of party members. You may divide them up among any number of the other characters. You can not start with more than 2 Trust in another character.</p>
+<p>You can increase or decrease your Trust in other characters during Downtime. As a Downtime activity you can give +1 Trust to one or more other characters. You can only take this action once per Downtime. You can also decrease your Trust in a character by any amount for no cost. Other characters can also do this by placing or removing their Trust in you.</p>
+<p>You may spend Trust points but only on the character that put their Trust in you. You must be with that character and able to explain how you are using their trust to help or hurt them. Listed below are the ways you can spend Trust points.</p>
+<ul>
+<li>Give +1D on their roll (once per roll)</li>
+<li>Allow them to resist a consequence without having to roll</li>
+<li>Give -1D on their roll for each Trust you spend</li>
+<li>Add or subtract dice in a Conflict (see below)</li>
+</ul>
+<p><strong>Conflict</strong><br>
+A Conflict happens when two characters are at odds and can not agree how to resolve it. The character that instigated the Conflict is the Attacker and the other character is the Defender. The Attacker describes what they are trying to do and rolls dice as usual. The highest number rolled is the Target Number. The Defender then describes how they fight back and rolls their own dice. Characters do not have to use the same Attribute when rolling.</p>
+<p>If the roll is &gt; or = to the Target Number, then that becomes the new Target Number and the other player must roll to beat it.</p>
+<p>If the roll is &lt; the Target Number, the character takes Stress equal to the Stakes. The Stakes start at 1 and increase by 1 each time someone takes stress.</p>
+<p>Each player must continue rolling back and forth until one of them Gives In or can no longer take Stress. When this happens they allow their opponent to narrate the scene and the Conflict ends. A player can only Give In immediately after they have taken Stress, otherwise they must continue rolling.</p>
+<p>During a Conflict, players may spend Trust their opponent has previously given them. For each Trust they spend, they may give themselves +1D or their opponent -1D on a roll. Your opponent may also do the same with any Trust you have given them. Other players may also spend Trust they have from either character in the Conflict to do the same. However, they may only spend one Trust per roll.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/looking-for-feedback-on-a-trust-betrayal-mechanism/6555/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/looking-for-feedback-on-a-trust-betrayal-mechanism/6555/1</link>
+        <pubDate>Thu, 18 Feb 2021 01:17:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-6555-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/looking-for-feedback-on-a-trust-betrayal-mechanism/6555.rss">Looking for feedback on a Trust/Betrayal mechanism</source>
+      </item>
+  </channel>
+</rss>

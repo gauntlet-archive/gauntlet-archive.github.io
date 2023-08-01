@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>A dice roller inside google sheets (Available and in testing)</title>
+    <link>https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910</link>
+    <description>Hi! I&#39;m Anya! I&#39;ve played for a few months in a few games with The Gauntlet and I just put online a free dice roller compatible with Google Sheets and the character keepers. It&#39;s called **Yonder Dice Roller for Sheets**
+
+![image|553x499](upload://ic0jzjHPrQPeO46PGxjGxa1gMMI.jpeg)
+
+Basically [install an add-on](https://workspace.google.com/marketplace/app/yonder_dice_roller_for_sheets/52635364892) that activates a sidebar in sheets and from there you can roll.
+
+Right now it supports PbtA and FitD games. For PbtA this means you click a stat and it will roll 2d6, you can select advantage, disadvantage and other modifiers as required. For FitD it&#39;s similar but it will roll a d6 for each point in the stat.
+
+The nice thing is that you are probably already using a character keeper, so this also adds a `_rolls` sheet to write down everyone&#39;s rolls. Here&#39;s some screenshots for the Thirsty Sword Lesbians keeper
+
+### 0. Once installed go to the Extensions &gt; Yonder Dice Roller menu &gt; PbtA
+![Extensions menu](upload://1tf3Tva14jamn7uOupDhNj5AbC5.jpeg) 
+
+### 1. This will open the Yonder sidebar
+Write your character name. Select the range with your stats in the sheet, and click `Get stats from range`
+![pbta00|690x442, 75%](upload://o28W0tbp6LHwBd9T9C0T2IR68BM.jpeg)
+
+### 2. And get your stats in the sidebar
+![pbta01|689x455, 75%](upload://fJc2a7ZPjapkkg9BadTlsOd8TPN.jpeg)
+
+### 3. Once you click on one of the stats the roll will appear both in the sidebar and in the `_rolls` sheet 
+![pbta02|690x445, 75%](upload://eg14zNtuAisBWoq6gWOlHoaxHag.jpeg)
+
+
+And that&#39;s about it! With the coming Gauntlet Con coming I hope you could find it useful. Get it here!! https://workspace.google.com/marketplace/app/yonder_dice_roller_for_sheets/52635364892
+
+The rest of this post is some other examples
+
+## Other games
+
+### FitD
+
+Here I&#39;m using the Blades in the Dark keeper, I made a small amendment to the stats, in Column AS I added this formula `=COUNTA(AK3:AN3)` that counts the number of checks in the boxes. Yonder only works with numbers
+
+![bitd00|413x500, 75%](upload://c68yebD33Ay9zdBCRIETOuYniDM.jpeg) 
+
+Forged in the Dark games tend to have a lot more rolls, so it will automatically show them in rows of four. Note that I checked `Stat names in first column` to indicate that my stats are in a column instead of in a row
+
+![bitd01|398x499, 75%](upload://nBHUreBFki53U1lZDUdYf8hsGxS.png) 
+
+Once again when you roll you will see the result, you can choose `Push yourself` or `Devil&#39;s Bargain` to add those dice to the pool. Here I checked Push yourself so it&#39;s a three roll
+
+![bitd02|690x433, 75%](upload://vPpyMKr3kAXia7zuE4YeUryX20F.jpeg) 
+
+And if I were to click on a stat with `0` like `Command` it will roll two dice and keep the lowest
+
+![bitd03|690x444, 75%](upload://fAABniNpKvS8moneMjNaulrG3DX.png) 
+
+You can see the numbers in dice figures, I&#39;m using the Dicier Font by [Speak the Sky](https://speakthesky.itch.io/typeface-dicier)
+
+### PbtA + Extra bonuses
+
+This is the keeper for Flying Circus (the game uses 2d10 instead of 2d6 but I made this keeper, it&#39;s pretty and wanted to show off)
+
+![fc00|690x446, 75%](upload://sTLblJy5jAdOx82aVvl8a2hZy1f.jpeg) 
+
+For The Studend playbook Flying Circus has additional skills, that you can add to your roll. Here I&#39;m showing Engineering and Economics.
+
+![image|553x499, 75%](upload://ic0jzjHPrQPeO46PGxjGxa1gMMI.jpeg) 
+
+And a roll with Disadvantage and adding Engineering.
+
+![fc02|551x500, 75%](upload://76nv7f7PwEpHMBI5J2YMF2UrW0o.jpeg) 
+
+## Contact &amp; Future
+
+As I said it&#39;s available! So you can test if you&#39;d like, and let me know if it works for you or if you&#39;d like to see something else added.
+
+In the close future I plan to add full support for flying circus, which is what I am testing in my personal games. And at some point polyhedral dice to make it as system agnostic as possible.
+
+Hope you like it!
+
+Again, you can get it right now for free here https://workspace.google.com/marketplace/app/yonder_dice_roller_for_sheets/52635364892
+
+And find me here https://anya.reyescon.de/</description>
+    
+    <lastBuildDate>Wed, 29 Mar 2023 23:15:29 +0000</lastBuildDate>
+    <category>RPG Chat</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>A dice roller inside google sheets (Available and in testing)</title>
+        <dc:creator><![CDATA[@mmcloughlin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/mmcloughlin">@mmcloughlin</a> wrote:</p>
+          <blockquote>
+              <p>I would absolutely love to help in any way that I can. I’m no coder, but I’ve managed to make a (barely) function dice roller in my homebrew WFRP character sheet, so hopefully that gives me some insight <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/skull.png?v=9" title=":skull:" class="emoji" alt=":skull:"> Thanks heaps for taking this on. No rush at all!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/35">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/35</link>
+        <pubDate>Wed, 29 Mar 2023 23:15:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7910-35</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910.rss">A dice roller inside google sheets (Available and in testing)</source>
+      </item>
+      <item>
+        <title>A dice roller inside google sheets (Available and in testing)</title>
+        <dc:creator><![CDATA[@darkade]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/darkade">@darkade</a> wrote:</p>
+          <blockquote>
+              <p>I think I’ll have some time to do a rough sketch this weekend. Could I hit you up with some screenshots? I don’t think functionality will come super soon, but I’m looking forward to new features after a couple of months</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/34">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/34</link>
+        <pubDate>Wed, 29 Mar 2023 21:23:41 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7910-34</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910.rss">A dice roller inside google sheets (Available and in testing)</source>
+      </item>
+      <item>
+        <title>A dice roller inside google sheets (Available and in testing)</title>
+        <dc:creator><![CDATA[@mmcloughlin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/mmcloughlin">@mmcloughlin</a> wrote:</p>
+          <blockquote>
+              <p>4E would be amazing, and would transfer pretty easily to 2E as well (and as a skill-based d100 roll under system, would be easy to port to Call of Cthulhu as well).</p>
+<p>Your skill level is the target number, you need to roll under that number to succeed, and the number of tens under or over your skill level is your success level (i.e. skill level of 35, you roll an 18 = 2 SL; skill level 35 and you roll an 83 = -3 SL). Target numbers are modified by the GM based on difficulty from +60 (Very Easy) to -30 (Very Hard). I’ve played with quite a few people who use advantage die instead of target number modification for difficulty (less calculation).</p>
+<p>Cthulhu is a similar system, roll under to succeed, Hard Success on =&lt;1/2 of your skill level, Extreme Success on =&lt;1/5 of your skill level.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/33">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/33</link>
+        <pubDate>Tue, 21 Mar 2023 20:46:23 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7910-33</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910.rss">A dice roller inside google sheets (Available and in testing)</source>
+      </item>
+      <item>
+        <title>A dice roller inside google sheets (Available and in testing)</title>
+        <dc:creator><![CDATA[@darkade]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/darkade">@darkade</a> wrote:</p>
+          <blockquote>
+              <p>I haven’t played any version of warhammer fantasy, so I’m not sure where to start. What edition would you like to have integrated? Maybe I can look into it</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/32">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/32</link>
+        <pubDate>Tue, 21 Mar 2023 15:26:23 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7910-32</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910.rss">A dice roller inside google sheets (Available and in testing)</source>
+      </item>
+      <item>
+        <title>A dice roller inside google sheets (Available and in testing)</title>
+        <dc:creator><![CDATA[@mmcloughlin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/mmcloughlin">@mmcloughlin</a> wrote:</p>
+          <blockquote>
+              <p>Any chance this could get Warhammer Fantasy Roleplay integration? It looks amazing and I’d love to use it in my games.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/31">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/31</link>
+        <pubDate>Tue, 21 Mar 2023 08:13:55 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7910-31</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910.rss">A dice roller inside google sheets (Available and in testing)</source>
+      </item>
+      <item>
+        <title>A dice roller inside google sheets (Available and in testing)</title>
+        <dc:creator><![CDATA[@darkade]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/darkade">@darkade</a> wrote:</p>
+          <blockquote>
+              <p>For the record with the latest patch if you get the stats from the sheet it should strip out any text symbols and leave you with just a number :3</p>
+<p>Glad it works for you!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/30">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/30</link>
+        <pubDate>Mon, 20 Jun 2022 16:39:26 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7910-30</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910.rss">A dice roller inside google sheets (Available and in testing)</source>
+      </item>
+      <item>
+        <title>A dice roller inside google sheets (Available and in testing)</title>
+        <dc:creator><![CDATA[@Alun_R]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alun_r">@Alun_R</a> wrote:</p>
+          <blockquote>
+              <p>You were right - I’d set up the keeper to allow ‘+3’ to appear by making it ‘text’. Now I’ve gone back to defining the stats as ‘number’ it’s working fine.<br>
+Thanks.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/29">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/29</link>
+        <pubDate>Mon, 20 Jun 2022 16:16:39 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7910-29</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910.rss">A dice roller inside google sheets (Available and in testing)</source>
+      </item>
+      <item>
+        <title>A dice roller inside google sheets (Available and in testing)</title>
+        <dc:creator><![CDATA[@darkade]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/darkade">@darkade</a> wrote:</p>
+          <blockquote>
+              <p>I know exactly what’s going on, but I don’t know why it’s happening. The sidebar results, are the dice icons are showing properly?</p>
+<p>The thing that’s happening is: see how 4+4=8 that’s a number, but the code is taking the <code>0</code> as text. So when adding numbers and text it will render as <code>80</code> I’m not sure where the other zero is coming from, but I know where the bug most likely is</p>
+<pre><code class="lang-auto">(4+4) + Deep(0)
+</code></pre>
+<p>Thanks for your report! I’ll check it today</p>
+<p>In the meantime could you send me some screenshots of the sidebar for the same rolls? Thanks!</p>
+<p><strong>UPDATE 1</strong></p>
+<p>So, what I think is happening <a class="mention" href="/u/alun_r">@Alun_R</a> is that you are getting your stats from the sheet, and that’s working as intended. But both your <code>0</code> in Deep and <code>+1</code> for that particular roll of Canny are text. Meaning the value in the value for the <code>+1</code> in the roller looks like this and it’s harder to recognize for the <code>0</code> but that zero is text not a number.</p>
+<p><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/a/a946f5a956ae12394e491465fe76695dc91634f0.png" alt="image" data-base62-sha1="o9uIOmL2y3A6WVT4OR1xrqwZK4E" width="303" height="231"></p>
+<p>Probably those cells in the spreadsheet have these actual content <code>'+1</code> so that it’s displayed as <code>+1</code> and <code>'0</code> for some reason</p>
+<p>You can fix it by replacing the <code>+1</code> with a single <code>1</code> in the roller text box, click and write it down. Same for the <code>0</code></p>
+<p>However i think this might be a common problem. So I’ll also work on a patch that forces those texts extracted from the spreadsheet into numbers</p>
+<p><strong>UPDATE 2</strong></p>
+<p>I pushed the fix. What you can do is</p>
+<ul>
+<li>go to Settings, (top right corner cog)</li>
+<li>select <code>sheet</code>
+</li>
+<li>grab your range and import stats from sheet</li>
+<li>close Settings (top right corner cog)</li>
+</ul>
+<p>Then the numbers that are imported should be numbers <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/+1.png?v=9" title=":+1:" class="emoji" alt=":+1:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/28</link>
+        <pubDate>Tue, 07 Jun 2022 13:51:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7910-28</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910.rss">A dice roller inside google sheets (Available and in testing)</source>
+      </item>
+      <item>
+        <title>A dice roller inside google sheets (Available and in testing)</title>
+        <dc:creator><![CDATA[@Alun_R]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alun_r">@Alun_R</a> wrote:</p>
+          <blockquote>
+              <p>I’m probably doing something stupid, but I’ve just been trying out Yonder and get the following:<br>
+<img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/a/a703aafee1cc2ae679d10fce649042f2d2a520f2.png" alt="Capture" data-base62-sha1="nPtAXsXb1GEocOt08wTJOOu3DV0" width="246" height="463"></p>
+<p>It looks like it’s treating a Stat with value 0 in a PbtA set up differently than the non-zero stats; multiplying the 2d6 by 100 rather than just adding the Stat.</p>
+<p>… and I’ve just noticed it seems to be doing something odd with double 6, too</p>
+<p>Thoughts?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/27">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/27</link>
+        <pubDate>Tue, 07 Jun 2022 11:51:02 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7910-27</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910.rss">A dice roller inside google sheets (Available and in testing)</source>
+      </item>
+      <item>
+        <title>A dice roller inside google sheets (Available and in testing)</title>
+        <dc:creator><![CDATA[@darkade]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/darkade">@darkade</a> wrote:</p>
+          <blockquote>
+              <h1>Version 1.2.1: Now with Troika &amp; D20 Support</h1>
+<p>This version introduces new games, and the now called “Game setup screen”</p>
+<p><strong>Get Yonder <a href="https://bit.ly/3MfBnLK" rel="nofollow noopener">here</a> for free!</strong></p>
+<h2>d20-like games</h2>
+<p>Support for d20-like games. I tested this mainly with Mörk Borg, but it should be compatible with games that use some kind of <code>d20 + stat + modifier</code> roll. Up to and including 5e, though more complex games would need more fiddling.</p>
+<p><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/e/e15e0cc0b8976a65b808a874f33e17d66066387c.png" alt="YonderMarketplace 03 d20" data-base62-sha1="w9GVLgIDy35vy3Aq1SDnzKYrY4I" width="640" height="400"></p>
+<h2>Troika! support</h2>
+<p>I’ve been running troika extensively with Yonder. I suggest setting up your Advanced Skill Rank as the stat, and your Skill as an extra bonus. But I’ve added support for Testing your Luck, which is reduced by one each time you roll. I really like how it’s been working for my game and I hope it works for you.</p>
+<p><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/b/b9a6b3aa1ffcd5f9bb94cf1d82bce5d1eacbebfe.png" alt="YonderMarketplace 04 Troika" data-base62-sha1="qulujO3AFDZS0ftLog4WwvKBVhA" width="640" height="400"></p>
+<h2>More ways to setup your stats</h2>
+<p>Importing from the sheet is still supported, but now you can write your own stats, or edit them. This is particularly helpful if the stats you imported have really long names, for example. And it can help with weirder character keepers where all rollable stats are not next to each other.</p>
+<p><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/5/56ea5fd881492c4b8106f15b5981aa29983e665b.png" alt="YonderMarketplace 07 Stats" data-base62-sha1="coTcQON91a7vPtFM7Ganhjv6tbt" width="640" height="400"></p>
+<h2>Game Template Setup</h2>
+<p>For the same reasons I also added a new screen to the menu item: <code>Game Template Setup</code> here you can write down names and default values for stats and bonuses, which makes it much easier for players to use; now when they first open yonder in the document, and haven’t setup their numbers before they will be asked if they’d like to use the template.</p>
+<p><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/9/91f45b87a1b9e6b7ece195ebbb0cdab503f4bd4b.png" alt="YonderMarketplace 08 Template" data-base62-sha1="kPaLxGdvlNj7l2yP9YwjKqC6qwP" width="640" height="400"></p>
+<h2>Other changes</h2>
+<ul>
+<li>Standarized rollers in the backend. This should make it easier to support new games and systems</li>
+<li>PbtA games now display their rolled dice as dice instead of numbers</li>
+<li>Better rolls logging to the sheet</li>
+<li>Updated Marketplace listing with new screenshots</li>
+</ul>
+<p>I hope you enjoy the new version of Yonder! Let me know if you’ve tried it please!</p>
+<p>As a final note. If you’ve installed Yonder and don’t see it in your Extensions menu go to <code>Extensions &gt; Add-ons &gt; Manage Add-ons &gt; And enable Yonder in this document.</code></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/6/6040eaa15c19ced88c9cc03158387d9772f33898.png" data-download-href="/uploads/short-url/dJuV39DSyEhzVWSGVQlW4OFdSo8.png?dl=1" title="Screen Shot 2022-05-13 at 14.27.08" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/6/6040eaa15c19ced88c9cc03158387d9772f33898_2_345x106.png" alt="Screen Shot 2022-05-13 at 14.27.08" data-base62-sha1="dJuV39DSyEhzVWSGVQlW4OFdSo8" width="345" height="106" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/6/6040eaa15c19ced88c9cc03158387d9772f33898_2_345x106.png, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/6/6040eaa15c19ced88c9cc03158387d9772f33898_2_517x159.png 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/6/6040eaa15c19ced88c9cc03158387d9772f33898_2_690x212.png 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/6/6040eaa15c19ced88c9cc03158387d9772f33898_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Screen Shot 2022-05-13 at 14.27.08</span><span class="informations">1222×376 35.9 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/d/d7737ff4fba770d36ac1171cc6b3d36d9c47772e.png" data-download-href="/uploads/short-url/uJY71TenLjmQjuN0fyTslSZ5oQe.png?dl=1" title="Screen Shot 2022-05-13 at 14.27.16" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/d/d7737ff4fba770d36ac1171cc6b3d36d9c47772e_2_341x250.png" alt="Screen Shot 2022-05-13 at 14.27.16" data-base62-sha1="uJY71TenLjmQjuN0fyTslSZ5oQe" width="341" height="250" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/d/d7737ff4fba770d36ac1171cc6b3d36d9c47772e_2_341x250.png, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/d/d7737ff4fba770d36ac1171cc6b3d36d9c47772e_2_511x375.png 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/d/d7737ff4fba770d36ac1171cc6b3d36d9c47772e_2_682x500.png 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/d/d7737ff4fba770d36ac1171cc6b3d36d9c47772e_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Screen Shot 2022-05-13 at 14.27.16</span><span class="informations">946×692 71 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/26</link>
+        <pubDate>Fri, 13 May 2022 19:29:03 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7910-26</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910.rss">A dice roller inside google sheets (Available and in testing)</source>
+      </item>
+      <item>
+        <title>A dice roller inside google sheets (Available and in testing)</title>
+        <dc:creator><![CDATA[@Anders]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/anders">@Anders</a> wrote:</p>
+          <blockquote>
+              <p>Sounds great! I’m glad you’re putting in the time and effort to do this.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/25</link>
+        <pubDate>Sat, 30 Apr 2022 05:59:39 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7910-25</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910.rss">A dice roller inside google sheets (Available and in testing)</source>
+      </item>
+      <item>
+        <title>A dice roller inside google sheets (Available and in testing)</title>
+        <dc:creator><![CDATA[@darkade]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/darkade">@darkade</a> wrote:</p>
+          <blockquote>
+              <p>I’m now working in support for Troika and d20 like games as well as a Game Master Template Configuration</p>
+<h2>Troika</h2>
+<p>Will support both roll under and roll versus rolls. And will inform you if something is a Fumble or a Mighty Blow in the case of versus rolls.</p>
+<p>Skill will be supported as an Extra Bonus, like in the PbtA and FitD rollers. This is to maximize compatibility between rollers.</p>
+<p>Getting ahead of myself both <code>Clickable Skills</code> and <code>Extra Bonuses</code> will be configurable as Templates, this means that if there’s a Template that someone prepared ahead the player will only have to fill in their values.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/d/df16bfcaa23d5173d0a0150dbd012a80e9bbfe50.png" data-download-href="/uploads/short-url/vPxdnAVnA0ygpCgNG8Oy8DVIACY.png?dl=1" title="image" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/d/df16bfcaa23d5173d0a0150dbd012a80e9bbfe50_2_474x375.png" alt="image" data-base62-sha1="vPxdnAVnA0ygpCgNG8Oy8DVIACY" width="474" height="375" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/d/df16bfcaa23d5173d0a0150dbd012a80e9bbfe50_2_474x375.png, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/d/df16bfcaa23d5173d0a0150dbd012a80e9bbfe50_2_711x562.png 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/d/df16bfcaa23d5173d0a0150dbd012a80e9bbfe50_2_948x750.png 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/d/df16bfcaa23d5173d0a0150dbd012a80e9bbfe50_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1738×1374 340 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div><br>
+<div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/5/5fd2b2140a1e7480f83f146181e496f836f86709.png" data-download-href="/uploads/short-url/dFGLVj5GzTsUvIYyVU8BSFsfzm1.png?dl=1" title="image" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/5fd2b2140a1e7480f83f146181e496f836f86709_2_495x375.png" alt="image" data-base62-sha1="dFGLVj5GzTsUvIYyVU8BSFsfzm1" width="495" height="375" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/5fd2b2140a1e7480f83f146181e496f836f86709_2_495x375.png, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/5fd2b2140a1e7480f83f146181e496f836f86709_2_742x562.png 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/5fd2b2140a1e7480f83f146181e496f836f86709_2_990x750.png 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/5fd2b2140a1e7480f83f146181e496f836f86709_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1726×1306 364 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div><br>
+<div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/b/b9c592831f861514802cdc812acf04fe04b29061.png" data-download-href="/uploads/short-url/qvpCYXBntMi1ykLFcXne7QQ9wjf.png?dl=1" title="image" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/b/b9c592831f861514802cdc812acf04fe04b29061_2_432x375.png" alt="image" data-base62-sha1="qvpCYXBntMi1ykLFcXne7QQ9wjf" width="432" height="375" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/b/b9c592831f861514802cdc812acf04fe04b29061_2_432x375.png, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/b/b9c592831f861514802cdc812acf04fe04b29061_2_648x562.png 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/b/b9c592831f861514802cdc812acf04fe04b29061_2_864x750.png 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/b/b9c592831f861514802cdc812acf04fe04b29061_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1638×1418 391 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<h2>d20-like games (check style)</h2>
+<p>Most of the things required for d20 have already been implemented as part of one of the other rollers in one way or another. I’ll playtest using Mörk Borg. This means that when you click on an ability/stat you will get a <code>d20+stat</code> as a result; I call this “check style”</p>
+<p>The roller <strong>will not</strong> calculate modifiers, since different games calculate them in different ways, so the number you configure in the roller is the modifier, not the score.</p>
+<p>During development I’ll consider if I add support for some kind of roll under in a separate roller, which would extend support for other kind of d20 OSR games, like OSE. <s>the troika roller will probably put me a bit ahead to implement this but I’ll have to see</s></p>
+<h2>Game Master Template Configuration</h2>
+<p>This is the big one. I’ll add a screen that allows someone to configure a quick template within the roller, in the fashion that <a class="mention" href="/u/anders">@Anders</a> and <a class="mention" href="/u/richrogers">@RichRogers</a> had suggested previously.</p>
+<p>This will be very simple, as the roller is, you’ll get to list <code>Clickable Skills,</code> the ones that appear on top of the roller, and a list of <code>Extra Bonuses</code>. Once configured when a player opens a roller those lists will be already filled and they will only have to provide their values.</p>
+<hr>
+<p>All of these changes should be implemented in the next two weeks or so</p>
+<hr>
+<p>I am doing this project for fun, and because these are the games I regularly run but I really think that it’s usable for most people, so if you haven’t tried it, try it! At the very least it will be one less tab open <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/stuck_out_tongue.png?v=9" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></p>
+<p><strong>You can get Yonder: Dice Roller for sheets, <a href="https://workspace.google.com/marketplace/app/yonder_dice_roller_for_sheets/52635364892" rel="nofollow noopener">here</a></strong></p>
+<p>-A</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/24</link>
+        <pubDate>Fri, 29 Apr 2022 23:22:24 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7910-24</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910.rss">A dice roller inside google sheets (Available and in testing)</source>
+      </item>
+      <item>
+        <title>A dice roller inside google sheets (Available and in testing)</title>
+        <dc:creator><![CDATA[@Anders]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/anders">@Anders</a> wrote:</p>
+          <blockquote>
+              <p>Awesome!</p>
+<p>I’m usually not fond of animations since they tend to distract me, but this one is unobtrusive enough that I don’t think that’s an issue. And I do think it makes it more clear that the R is something you can click.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/23</link>
+        <pubDate>Tue, 15 Mar 2022 07:22:41 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7910-23</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910.rss">A dice roller inside google sheets (Available and in testing)</source>
+      </item>
+      <item>
+        <title>A dice roller inside google sheets (Available and in testing)</title>
+        <dc:creator><![CDATA[@darkade]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/darkade">@darkade</a> wrote:</p>
+          <blockquote>
+              <p>I published some changes, one is breaking if you are testing please read on!</p>
+<ol>
+<li>
+<strong>Breaking:</strong> Changed the way Yonder saves your stats. If you have a problem where any roller shows blank, or won’t go past the <em>Update Stats</em> grey screen please:</li>
+</ol>
+<blockquote>
+<p>Go to <code>Extensions &gt; Yonder &gt; Clear saved character data</code> then close the sidebar and open it again</p>
+<p>You will need to update your stats again, and setup a character name. Sorry</p>
+</blockquote>
+<p>You won’t see any meaningful difference in functionality but It will allow me to develop a <code>Game Master Panel</code> at some point as suggested by <a class="mention" href="/u/anders">@Anders</a> and <a class="mention" href="/u/richrogers">@RichRogers</a></p>
+<ol start="2">
+<li>
+<code>Sorting dice</code> for improvised rolls. When you roll an improvised roll there will be a clickable text that sorts the dice. This solves <a class="mention" href="/u/anders">@Anders</a> suggestion, but keeps it optional as per <a class="mention" href="/u/paul_t">@Paul_T</a> comment</li>
+</ol>
+<p><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/d/d5eefc3d3a8e13e7149fffbc46eed286f60be1d5.png" alt="image" data-base62-sha1="uwxIWoEZLTK8Z9MHe2VnLqOe9gx" width="294" height="120"></p>
+<p><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/7/706caeff83370b65aae37f10d5efc158fdae7649.png" alt="image" data-base62-sha1="g2ykthV1cl5ask1HmzDlMWfbYiB" width="282" height="106"></p>
+<p>Dice are still grouped by faces, tho, so from left to right are the d12s sorted and then the d100s. Let me know what you thing of this</p>
+<p><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/3/30acc995a5c17fc3d2aceb35a234383622e09876.png" alt="image" data-base62-sha1="6WB744KTWnjeQQWSOX0X0N535Eq" width="305" height="138"></p>
+<ol start="3">
+<li>Added <code>Extra Bonuses</code> to the FitD roller, they add more dice to be rolled as shown in the following screenshot</li>
+</ol>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/5/5cd5c81c914456101c1c1122f09711ef0934f2af.png" data-download-href="/uploads/short-url/dffX38Y5MBhOqeE589SsLBfeQGj.png?dl=1" title="image" rel="nofollow noopener"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/5cd5c81c914456101c1c1122f09711ef0934f2af_2_207x375.png" alt="image" data-base62-sha1="dffX38Y5MBhOqeE589SsLBfeQGj" width="207" height="375" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/5cd5c81c914456101c1c1122f09711ef0934f2af_2_207x375.png, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/5cd5c81c914456101c1c1122f09711ef0934f2af_2_310x562.png 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/5cd5c81c914456101c1c1122f09711ef0934f2af_2_414x750.png 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/5/5cd5c81c914456101c1c1122f09711ef0934f2af_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">588×1064 74.6 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<ol start="4">
+<li>I added a small animation to the Improvised Roll button to make it more appealing[?] and clearer that you can click on it</li>
+</ol>
+<p><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/f/fde107a61f5de402270aef2c01725ac5b1c841fd.gif" alt="salida" data-base62-sha1="AdUVj47ZYteu9XM8qw9sIwbKH4p" width="166" height="166"></p>
+<p><strong>Bugfixes</strong></p>
+<ul>
+<li>
+<p>Yonder was saving the same stats for all the documents you were using it, now it saves stats per document. This is related to the first change listed above</p>
+</li>
+<li>
+<p>There was a bug where after you added an extra bonus you wouldn’t be able to delete it</p>
+</li>
+</ul>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/22</link>
+        <pubDate>Tue, 15 Mar 2022 02:48:17 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7910-22</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910.rss">A dice roller inside google sheets (Available and in testing)</source>
+      </item>
+      <item>
+        <title>A dice roller inside google sheets (Available and in testing)</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>A note about “sorting dice”:</p>
+<p>If you include that option (which can be very handy!), make sure that it is optional.</p>
+<p>Otherwise you won’t be able to use this for any game where dice are considered separately.</p>
+<p>For example, a game like Swords Without Master, where you roll two dice and it matters whether the first one is the low die or the high die.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/21</link>
+        <pubDate>Sun, 13 Mar 2022 17:54:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7910-21</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910.rss">A dice roller inside google sheets (Available and in testing)</source>
+      </item>
+      <item>
+        <title>A dice roller inside google sheets (Available and in testing)</title>
+        <dc:creator><![CDATA[@Anders]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/anders">@Anders</a> wrote:</p>
+          <blockquote>
+              <p>Happy to help!</p>
+<p>I do think reading the stats directly from the sheet will be the best solution most of the time, but I think it could be useful to have the option of doing it some other way for when it doesn’t work that well.</p>
+<p>For example, a more complex game like Legacy: Life Among the Ruins has several sets of stats that it usually doesn’t make sense to group together, and the dice roller could actually help with keeping things more readily accessible there.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/20</link>
+        <pubDate>Sat, 12 Mar 2022 18:28:39 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7910-20</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910.rss">A dice roller inside google sheets (Available and in testing)</source>
+      </item>
+      <item>
+        <title>A dice roller inside google sheets (Available and in testing)</title>
+        <dc:creator><![CDATA[@darkade]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/darkade">@darkade</a> wrote:</p>
+          <blockquote>
+              <p>Nah I don’t think you are confused, I’m really sorry if I came across that way. It’s more that developing is my dayjob, and I find it better not to say what I think until I tease out everything from users, because otherwise they tend to answer “what I want to hear” instead of what they are actually looking for</p>
+<p>Editing the stats, in a similar way to <code>extra bonuses</code> for PbtA should be possible. It was actually the first way I implemented it, but I wanted to tie it closer to the sheet. Given this feedback I think there might be an in-between way that I’m not yet seeing, but it’s very worthy to explore</p>
+<p>Your feedback is very appreciated and I think adding these changes would improve Yonder a lot, thanks!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/19</link>
+        <pubDate>Sat, 12 Mar 2022 18:10:54 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7910-19</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910.rss">A dice roller inside google sheets (Available and in testing)</source>
+      </item>
+      <item>
+        <title>A dice roller inside google sheets (Available and in testing)</title>
+        <dc:creator><![CDATA[@Anders]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/anders">@Anders</a> wrote:</p>
+          <blockquote>
+              <p>I don’t think installing the add-on is as big of a deal, since it’s something you only need to do once.</p>
+<p>Maybe if you could edit the stat lineup (names and number of stats) from inside the sidebar that would make things easier? I dunno, that’s just a stray thought.</p>
+<p>Either way, having this available is sure to improve the gaming experience of many people. Thanks for making it, and thanks for taking the time to listen to my confused complaints. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/18</link>
+        <pubDate>Sat, 12 Mar 2022 18:08:32 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7910-18</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910.rss">A dice roller inside google sheets (Available and in testing)</source>
+      </item>
+      <item>
+        <title>A dice roller inside google sheets (Available and in testing)</title>
+        <dc:creator><![CDATA[@darkade]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/darkade">@darkade</a> wrote:</p>
+          <blockquote>
+              <p>Yup, pretty similar to what I understood.</p>
+<p>Ok, the problem is divided in two parts:</p>
+<ol>
+<li>
+<p>Installing the add-on, AKA, make it so that it’s accessible to everyone using the roller. This unfortunately is not possible, because of the nature of permissions and add-ons. Everyone needs to install it, but once installed it is installed. I really hope it could work some other way, like installing it to the document instead of per-user, but alas</p>
+</li>
+<li>
+<p>A game master section should be possible and it is what came to my mind first reading your comment. The only major hurdle I’m seeing is that you would need to provide every player’s access email (at least for the time being) so that they are able to see what you’ve pre-filled. “Claming” pre-gen characters would be far trickier given the limitations of sheets</p>
+</li>
+</ol>
+<p>I’ll think about this one to see if there’s a workaround to “claim”, but I totally see your point.</p>
+<p>I will deploy <code>sorted dice</code> and other <code>extra bonuses</code> for FitD during the week :3</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/17</link>
+        <pubDate>Sat, 12 Mar 2022 17:44:04 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7910-17</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910.rss">A dice roller inside google sheets (Available and in testing)</source>
+      </item>
+      <item>
+        <title>A dice roller inside google sheets (Available and in testing)</title>
+        <dc:creator><![CDATA[@Anders]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/anders">@Anders</a> wrote:</p>
+          <blockquote>
+              <p>Sorting the dice would make that even easier. Like I said, it works fine now for FitD as you’re not rolling fistfuls of dice.</p>
+<p>What I mean is that as the GM, I’d like to be able to set up the diceroller sidebar for each player character, partly because not all players who use a character keeper are necessarily proficient enough or comfortable enough with Google Sheets to do so by themselves, and partly just to save time.</p>
+<p>Also, not all sheet designs work naturally with the dice roller, like if stats you may need to roll are spread out more, or if a FitD sheet has the abilities used for resistance rolls inbetween the groups of actions but you don’t want it that way in the roller. That’s easily solved by having a part of the keeper where the stats are copied to, but that again makes it tricky for the player to handle this on their own.</p>
+<p>Does that make more sense?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/16</link>
+        <pubDate>Sat, 12 Mar 2022 17:14:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7910-16</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910.rss">A dice roller inside google sheets (Available and in testing)</source>
+      </item>
+      <item>
+        <title>A dice roller inside google sheets (Available and in testing)</title>
+        <dc:creator><![CDATA[@darkade]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/darkade">@darkade</a> wrote:</p>
+          <blockquote>
+              <p>Could you expand a bit? Yes, the add-on is tied per user right now, but I’m not clear on what would be "expected behavior " I do have an idea, but I’m not sure if it’s what <em>I am understanding</em> or <em>what you mean</em> and I wouldn’t want to bias you <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/stuck_out_tongue.png?v=9" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></p>
+<p>On the other hand</p>
+<aside class="quote no-group" data-username="Anders" data-post="13" data-topic="7910">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/anders/40/2990_2.png" class="avatar"> Anders:</div>
+<blockquote>
+<p>Cool! Yes, the improvised rolls work. Would it be possible to have them be FitD style rolls (pick highest) in the FitD version of the roller?</p>
+</blockquote>
+</aside>
+<p>It’s possible but my intention with the polyhedrics is to keep it as “agnostic” as possible, but a thing that could solve it would be to sort the dice so that the highest is always to the left and you can see it a glance instead of looking for it</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/15</link>
+        <pubDate>Sat, 12 Mar 2022 16:49:00 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7910-15</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910.rss">A dice roller inside google sheets (Available and in testing)</source>
+      </item>
+      <item>
+        <title>A dice roller inside google sheets (Available and in testing)</title>
+        <dc:creator><![CDATA[@RichRogers]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/richrogers">@RichRogers</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="Anders" data-post="13" data-topic="7910">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/anders/40/2990_2.png" class="avatar"> Anders:</div>
+<blockquote>
+<p>Another question: It seems like the roller is tied to the user, which makes it tricky for me as the, uh, keeper of the character keeper to set everything up for the players. Is this correct, or am I missing something again?</p>
+</blockquote>
+</aside>
+<p>Yes, I noticed that, too. When I make a Character Keeper, I can’t really “set this up” for folks to make it easier for newbies to use.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/14</link>
+        <pubDate>Sat, 12 Mar 2022 13:26:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7910-14</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910.rss">A dice roller inside google sheets (Available and in testing)</source>
+      </item>
+      <item>
+        <title>A dice roller inside google sheets (Available and in testing)</title>
+        <dc:creator><![CDATA[@Anders]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/anders">@Anders</a> wrote:</p>
+          <blockquote>
+              <p>Cool! Yes, the improvised rolls work. Would it be possible to have them be FitD style rolls (pick highest) in the FitD version of the roller?</p>
+<p>That’s a very minor thing since it’s easy enough to pick out the highest, but just for consistency.</p>
+<p>Another question: It seems like the roller is tied to the user, which makes it tricky for me as the, uh, keeper of the character keeper to set everything up for the players. Is this correct, or am I missing something again? <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/smiley.png?v=9" title=":smiley:" class="emoji" alt=":smiley:"></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/13</link>
+        <pubDate>Sat, 12 Mar 2022 09:41:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7910-13</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910.rss">A dice roller inside google sheets (Available and in testing)</source>
+      </item>
+      <item>
+        <title>A dice roller inside google sheets (Available and in testing)</title>
+        <dc:creator><![CDATA[@darkade]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/darkade">@darkade</a> wrote:</p>
+          <blockquote>
+              <p>Thank you <a class="mention" href="/u/deodatus">@Deodatus</a> If you are able to test do let me know your feedback!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/12</link>
+        <pubDate>Sat, 12 Mar 2022 03:25:34 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7910-12</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910.rss">A dice roller inside google sheets (Available and in testing)</source>
+      </item>
+      <item>
+        <title>A dice roller inside google sheets (Available and in testing)</title>
+        <dc:creator><![CDATA[@darkade]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/darkade">@darkade</a> wrote:</p>
+          <blockquote>
+              <p>Thanks, <a class="mention" href="/u/richrogers">@RichRogers</a>!! Let me know if there’s something you see missing and I’ll see if I can fit it into Yonder!</p>
+<p>If you find something that plain doesn’t work or you think should be different, please let me know.</p>
+<p>Just yesterday I added more dedicated support for Flying Circus with the OK of Erika Chappell. So I’m actively developing, it is what I am using for my own games after all</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910/11</link>
+        <pubDate>Sat, 12 Mar 2022 03:23:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-7910-11</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/a-dice-roller-inside-google-sheets-available-and-in-testing/7910.rss">A dice roller inside google sheets (Available and in testing)</source>
+      </item>
+  </channel>
+</rss>

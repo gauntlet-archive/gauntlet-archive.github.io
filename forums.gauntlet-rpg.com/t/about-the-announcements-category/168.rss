@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>About the Announcements category</title>
+    <link>https://forums.gauntlet-rpg.com/t/about-the-announcements-category/168</link>
+    <description>Official Gauntlet Announcements</description>
+    
+    <lastBuildDate>Sat, 16 Feb 2019 18:07:11 +0000</lastBuildDate>
+    <category>Announcements</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/about-the-announcements-category/168.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>About the Announcements category</title>
+        <dc:creator><![CDATA[@shane]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/shane">@shane</a> wrote:</p>
+          <blockquote>
+              <p>Official Gauntlet Announcements</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/about-the-announcements-category/168/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/about-the-announcements-category/168/1</link>
+        <pubDate>Sat, 16 Feb 2019 18:06:17 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-168-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/about-the-announcements-category/168.rss">About the Announcements category</source>
+      </item>
+  </channel>
+</rss>

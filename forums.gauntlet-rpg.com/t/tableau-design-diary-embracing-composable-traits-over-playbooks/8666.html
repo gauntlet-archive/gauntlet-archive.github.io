@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  
+<!-- Mirrored from forums.gauntlet-rpg.com/t/tableau-design-diary-embracing-composable-traits-over-playbooks/8666 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 01 Aug 2023 00:01:18 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8">
+    <title>Tableau Design Diary: Embracing Composable Traits Over Playbooks - Game Design - The Gauntlet Forums</title>
+    <meta name="description" content="Continuing my Tableau Design Diary  (previous post), I’d like to talk about some design choices that set Tableau  apart. 
+When D. Vincent Baker introduced Apocalypse World  (2010), I was particularly impressed by his one&amp;hellip;">
+    <meta name="generator" content="Discourse 2.4.0.beta10 - https://github.com/discourse/discourse version 7c30986b5efe231d4b22ad3e657fc83ec452e89c">
+<link rel="icon" type="image/png" href="https://gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f2859febedbe43114f6e22a494620bdc35bf8786_2_32x32.png">
+<link rel="apple-touch-icon" type="image/png" href="https://gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f2859febedbe43114f6e22a494620bdc35bf8786_2_180x180.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover">
+<link rel="canonical" href="8666.html" />
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://forums.gauntlet-rpg.com","potentialAction":{"@type":"SearchAction","target":"https://forums.gauntlet-rpg.com/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link rel="search" type="application/opensearchdescription+xml" href="../../opensearch.xml" title="The Gauntlet Forums Search">
+
+      <link href="../../stylesheets/desktop_55f06712376291d809ecf79aecaf07fd06a8c979.css_%3b%20filename_%3dUTF-8%27%27desktop_55f06712376291d809ecf79aecaf07fd06a8c9791a85.css?__ws=forums.gauntlet-rpg.com" media="all" rel="stylesheet" data-target="desktop" data-theme-id="2"/>
+      <link href="../../stylesheets/desktop_theme_2_2d4c228818bc7664ec196065afb575563959f7b9.css_%3b%20filename_%3dUTF-8%27%27desktop_theme_2_2d4c228818bc7664ec196065afb575563959f7b91a85.css?__ws=forums.gauntlet-rpg.com" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="2"/>
+    
+    
+        <link rel="alternate" type="application/rss+xml" title="RSS feed of &#39;Tableau Design Diary: Embracing Composable Traits Over Playbooks&#39;" href="8666.rss" />
+    <meta property="og:site_name" content="The Gauntlet Forums" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="https://gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/6/6ef99a9607f8b59a8e6430251fc7551f1be8328b.jpeg" />
+<meta property="og:image" content="https://gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/6/6ef99a9607f8b59a8e6430251fc7551f1be8328b.jpeg" />
+<meta property="og:url" content="https://forums.gauntlet-rpg.com/t/tableau-design-diary-embracing-composable-traits-over-playbooks/8666" />
+<meta name="twitter:url" content="https://forums.gauntlet-rpg.com/t/tableau-design-diary-embracing-composable-traits-over-playbooks/8666" />
+<meta property="og:title" content="Tableau Design Diary: Embracing Composable Traits Over Playbooks" />
+<meta name="twitter:title" content="Tableau Design Diary: Embracing Composable Traits Over Playbooks" />
+<meta property="og:description" content="Continuing my Tableau Design Diary  (previous post), I’d like to talk about some design choices that set Tableau  apart.  When D. Vincent Baker introduced Apocalypse World  (2010), I was particularly impressed by his one-page character playbooks. While I’m unsure if he was the first to implement this concept (perhaps Harper’s Lady Blackbird? ), each playbook catered to a different genre niche within his setting. For example, inspired by the Mad Max  films, you need a Driver character not just fo..." />
+<meta name="twitter:description" content="Continuing my Tableau Design Diary  (previous post), I’d like to talk about some design choices that set Tableau  apart.  When D. Vincent Baker introduced Apocalypse World  (2010), I was particularly impressed by his one-page character playbooks. While I’m unsure if he was the first to implement this concept (perhaps Harper’s Lady Blackbird? ), each playbook catered to a different genre niche within his setting. For example, inspired by the Mad Max  films, you need a Driver character not just fo..." />
+<meta name="twitter:label1" value="Reading time" />
+<meta name="twitter:data1" value="2 mins 🕑" />
+<meta name="twitter:label2" value="Likes" />
+<meta name="twitter:data2" value="5 ❤" />
+<meta property="article:published_time" content="2023-04-14T05:44:55+00:00" />
+<meta property="og:ignore_canonical" content="true" />
+
+
+
+    
+  </head>
+  <body class="crawler">
+    
+    <header>
+      <a href="../../index.html">
+          <img src="https://gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/1X/90fcb9d8a54a6098ad0291236cecc89a0dda0bed.png" alt="The Gauntlet Forums" id="site-logo" style="max-width: 150px;">
+      </a>
+    </header>
+    <div id="main-outlet" class="wrap">
+        <h1 class="crawler-topic-title">
+    <a href="8666.html">Tableau Design Diary: Embracing Composable Traits Over Playbooks</a>
+  </h1>
+
+  <div id="breadcrumbs" itemscope itemtype="http://schema.org/BreadcrumbList">
+      <div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a href="../../c/game-design.html" class="badge-wrapper bullet" itemprop="item">
+          <span class="badge-category-bg"></span>
+          <span class="category-title" itemprop="name">Game Design</span>
+        </a>
+        <meta itemprop="position" content="1" />
+      </div>
+  </div>
+
+
+  
+
+
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/ChristopherA'><span itemprop='name'>ChristopherA</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2023-04-14T05:44:55Z' class='post-time'>
+                April 14, 2023,  5:44am
+              </time>
+          <span itemprop='position'>#1</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Continuing my <em><strong>Tableau</strong></em> <em>Design Diary</em>  (<a href="../tableau-design-notes-the-power-of-constraints/8659/1.html">previous post</a>), I’d like to talk about some design choices that set <em><strong>Tableau</strong></em>  apart.</p>
+<p>When D. Vincent Baker introduced <em>Apocalypse World</em>  (2010), I was particularly impressed by his one-page character playbooks. While I’m unsure if he was the first to implement this concept (perhaps Harper’s <em>Lady Blackbird?</em> ), each playbook catered to a different genre niche within his setting. For example, inspired by the <em>Mad Max</em>  films, you need a Driver character not just for their skills, but to embody the personality and stunts of a post-apocalyptic road warrior. These playbooks resulted in a focus on <em>“how you do it”</em>  rather than the <em>“what can you do”</em>  found in traditional class focused character sheets.</p>
+<p>Since then, Apocalypse World has spawned a vast array of <em>PbtA</em>  (Powered by the Apocalypse) games, such as <em>Blades in the Dark</em>  (2015), which in turn birthed its own offshoots under the <em>FitD</em>  (Forged in the Dark) umbrella. The game style has continued to evolve, with titles like Java Cordova’s <em>Brindlewood Bay</em>  (2022) and <em>The Between</em>  (2022) pushing the boundaries further.</p>
+<p>Another noteworthy development inspired by <em>PbtA</em>  was Avery Alder’s <em>Dreams Askew</em>  (2018), which not only adapted character playbooks for her own unique post-apocalyptic vision but also transformed the game into a GM-less experience by creating playbooks for setting elements. This concept inspired the <em>BoB</em>  (Belonging Outside Belonging, if the game is about people on the margins) or <em>NDNM</em>  (No Dice, No Masters) game systems, which have since inspired many innovative games with even more integrated character and story elements. These range from Jay Dragon’s <em>Sleepaway</em>  (2019) with its summer camp movie horror, Riley Rethal’s <em>Galactic</em>  (2020) with <em>Star Wars</em>  &amp; <em>Battlestar Galactica</em>  archetypes and setting playbooks, and most recently, Possum Creek Games’ very successful Kickstarters for even more setting-focused games like <em>Wanderhome</em> (2021) and <em>Yabeza’s Bed &amp; Breakfast</em>  (2023).</p>
+<p>One result of these new designs in both of these major branches is that recent playbooks are becoming even tighter integrated with their settings. In <em>Bridlewood Bay</em> , you are really close to being a fictional character: you are essentially one of a number of stereotypical elderly fiction or TV-show detective, such as Miss Marple or Jim Rockford. In <em>The Between</em> , you can be the stereotype of the bold but ugly American in the Victorian Era. The same is true in most Belonging Outside Belonging designs; for instance, the Pilgrim character playbook in <em>Wanderhome</em>  is tightly integrated with the feeling of that game’s specific genre of light fantasy elements in an anthropomorphic setting.</p>
+<p>While I appreciate these designs, my preference for stories is broader, and I sought a technique that offered greater versatility across genres and themes. Like <em>Apocalypse World</em> , in <strong>Tableau’s</strong>  <em>Twilight Road</em>  playset, I have a Playset Character “Face” card for “The Driver”:</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="http://gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/6/6ef99a9607f8b59a8e6430251fc7551f1be8328b.jpeg" data-download-href="/uploads/short-url/fPJik2o2Cx3ceSYeThFbXTyiHgf.jpeg?dl=1" title="Tableau - Twilight Road - The Driver - medium, cornered" rel="nofollow noopener"><img src="http://gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/6/6ef99a9607f8b59a8e6430251fc7551f1be8328b.jpeg" alt="Tableau - Twilight Road - The Driver - medium, cornered" data-base62-sha1="fPJik2o2Cx3ceSYeThFbXTyiHgf" width="690" height="483" data-small-upload="http://gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/6/6ef99a9607f8b59a8e6430251fc7551f1be8328b_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Tableau - Twilight Road - The Driver - medium, cornered</span><span class="informations">700×490 185 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+<p>My card provides a general role for a Driver applicable to fantasy, sci-fi, or modern-day settings. Thus, players can embody a pony express rider, Han Solo, or be a trucker. But instead of checkboxes, there are separate cards that you can choose from for each “approach”. These cards describe how your character makes decisions. Are you Brash like Han Solo? Fast? Careful? Each card offers a different insight into your decision-making as a Driver that are very different.</p>
+<p>Additionally, you might have a third card, a character “Path,” that represents the delicate balance between your character’s virtues and vices. Are you a Wanderer with no attachments, or are you a Loner grappling with the challenges of forming meaningful relationships?</p>
+<p>I’ve discovered that this “composable” design for character traits offers several advantages over traditional playbooks or character sheets. The back of each card outlines the “Moves” your character can make, enabling you to be Brash in a bar or struggle against being a Loner even when you’re not driving. You can keep the relevant cards at hand and set them aside when not needed, making it easier to make decisions on what Moves your character desires to make.</p>
+<p>There is a drawback with my “composable” design choice: the loss of the evocative and intimate connections between characters and their settings. However, I believe this tradeoff can be worthwhile, as it enables a greater variety of characters and adaptability across multiple playsets.</p>
+<p>I invite you to explore how I approach composability from the full Print-and-Play version of my <strong>Tableau,</strong>  including both <em>Twilight Road</em>  and <em>GateWatch</em>  playsets, which available to <a href="https://www.kickstarter.com/projects/christophera/tableau-twilight-road-and-gate-watch-playsets-quickstarter?ref=b1oye6" rel="nofollow noopener">all Kickstarter backers</a> (even at the lowest $2 tier).</p>
+<p>I’d love to hear your thoughts on my composable character trait approach!</p>
+<p>What is your favorite character playbook? If you were to decompose it into three essences: one a genre trope or skill mastery, one a personality style or stereotype, and one a life path between good and bad, what would those three essences be?</p>
+<p>– Christopher Allen - Dyvers Hands Productions<br>
+<em>“The best stories are the ones we tell together!”</em></p>
+        </div>
+
+        <meta itemprop='headline' content='Tableau Design Diary: Embracing Composable Traits Over Playbooks'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="4" />
+           <span class='post-likes'>4 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+            <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+            </div>
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/CliffACR'><span itemprop='name'>CliffACR</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2023-04-21T19:18:54Z' class='post-time'>
+                April 21, 2023,  7:18pm
+              </time>
+          <span itemprop='position'>#2</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Is there a late / backer kit option? I’m very interested in studying the design.</p>
+        </div>
+
+        <meta itemprop='headline' content='Tableau Design Diary: Embracing Composable Traits Over Playbooks'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/ChristopherA'><span itemprop='name'>ChristopherA</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2023-04-22T07:06:27Z' class='post-time'>
+                April 22, 2023,  7:06am
+              </time>
+          <span itemprop='position'>#3</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Currently I hope to have this Kickstarter all fulfilled by end of June and make it more broadly available in July.</p>
+<p>See <a href="https://www.dyvershands.com/news/Tableau-Kickstarter-Success/" rel="nofollow noopener">https://www.dyvershands.com/news/Tableau-Kickstarter-Success/</a></p>
+<p>Make sure you sign up for announcements at <a href="https://dyvershands.page.link/85EH" rel="nofollow noopener">https://dyvershands.page.link/85EH</a></p>
+<p>The only other option is that I’m considering is keeping the $50 “advanced playtester” tier to be more generally open. They get early access to playsets for playtesting (you still have to pay DriveThruCards if you wanted printed poker cards though).</p>
+<p>— Christopher Allen</p>
+        </div>
+
+        <meta itemprop='headline' content='Tableau Design Diary: Embracing Composable Traits Over Playbooks'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="1" />
+           <span class='post-likes'>1 Like</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+            <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+            </div>
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/ChristopherA'><span itemprop='name'>ChristopherA</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2023-04-24T06:38:51Z' class='post-time'>
+                April 24, 2023,  6:38am
+              </time>
+          <span itemprop='position'>#4</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <aside class="quote no-group" data-username="ChristopherA" data-post="3" data-topic="8666">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="../../user_avatar/forums.gauntlet-rpg.com/christophera/40/4608_2.png" class="avatar"> ChristopherA:</div>
+<blockquote>
+<p>The only other option is that I’m considering is keeping the $50 “advanced playtester” tier to be more generally open. They get early access to playsets for playtesting (you still have to pay DriveThruCards if you wanted printed poker cards though).</p>
+</blockquote>
+</aside>
+<p><a class="mention" href="https://forums.gauntlet-rpg.com/u/cliffacr">@CliffACR</a>,</p>
+<p>If you are interested in this option, it is now open at <a href="https://www.dyvershands.com/AdvancedPlaytester" rel="nofollow noopener">https://www.DyversHands.com/AdvancedPlaytester</a> — basically with it you get codes for all the playtest versions of current games (Improv Playset plus the 2 funded in last week’s Kickstarter (and going final early this summer), plus some early playtests of new playsets, like <em><strong>Lovecraft Country:</strong></em> <strong>‘A Study in Madness’</strong>.</p>
+        </div>
+
+        <meta itemprop='headline' content='Tableau Design Diary: Embracing Composable Traits Over Playbooks'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+            <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+            </div>
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/CliffACR'><span itemprop='name'>CliffACR</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2023-04-25T21:40:53Z' class='post-time'>
+                April 25, 2023,  9:40pm
+              </time>
+          <span itemprop='position'>#5</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Thanks! Appreciate the options and I am signed up for  announcements.</p>
+        </div>
+
+        <meta itemprop='headline' content='Tableau Design Diary: Embracing Composable Traits Over Playbooks'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+
+
+
+
+
+
+    </div>
+    <footer class="container wrap">
+      <nav class='crawler-nav' itemscope itemtype='http://schema.org/SiteNavigationElement'>
+        <ul>
+        <li itemprop="name"><a href='../../index.html' itemprop="url">Home </a></li>
+        <li itemprop="name"><a href='../../categories.html' itemprop="url">Categories </a></li>
+        <li itemprop="name"><a href='../../guidelines.html' itemprop="url">FAQ/Guidelines </a></li>
+        <li itemprop="name"><a href='../../tos.html' itemprop="url">Terms of Service </a></li>
+        <li itemprop="name"><a href='../../privacy.html' itemprop="url">Privacy Policy </a></li>
+        </ul>
+      </nav>
+      <p class='powered-by-link'>Powered by <a href="https://www.discourse.org/">Discourse</a>, best viewed with JavaScript enabled</p>
+    </footer>
+    
+    
+  </body>
+  
+
+<!-- Mirrored from forums.gauntlet-rpg.com/t/tableau-design-diary-embracing-composable-traits-over-playbooks/8666 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 01 Aug 2023 00:01:21 GMT -->
+</html>

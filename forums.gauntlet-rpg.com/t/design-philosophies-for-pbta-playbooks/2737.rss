@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Design Philosophies for PbtA Playbooks</title>
+    <link>https://forums.gauntlet-rpg.com/t/design-philosophies-for-pbta-playbooks/2737</link>
+    <description>Right off the bat, let&#39;s preface this with: 
+* There&#39;s no single correct way to design a game.
+* There are a lot of components that go into making a design *work*.
+
+That said, [this twitter thread by Avery Alder](https://twitter.com/lackingceremony/status/1148330116239413248) got me thinking about what elements go into making a good playbook in a PbtA system. To summarize Avery&#39;s thread:
+
+# Playbooks as Engines
+
+## PbtA is an Economy
+
+Every PbtA system has its own internal economy that consists of the interplay of a number of resources, usually including:
+* +1 forward
+* taking or dealing harm
+* experience
+* fictional positioning
+* +/- Hx
+* gaining and spending hold
+
+Some systems add new resources (conditions in Monsterhearts) or modify existing ones (Hx -&gt; strings in Monsterhearts).
+Gameplay in PbtA is the collaborative process of gaining resources and then trading those resources for the resources you want.
+Each loop of `generate resource -&gt; convert resource to a new resource -&gt; spend resource ` can be referred to as an *engine* within the game system. 
+
+## Playbooks
+
+A good playbook should either layer onto an existing engine or add a new engine.
+
+### Layering onto an Existing Engine
+
+Some playbooks should take an existing engine in the game and expand on it. An excellent example is the Ghost in Monsterhearts. It takes an existing engine (*Shut Someone Down* -&gt; conditions -&gt; +1 forward) and expands it, giving the Ghost new ways of generating conditions, as well as new ways to spend conditions for effect.
+
+### Creating a New Engine*
+
+Other playbooks add an entirely new engine to the game. In Monsterhearts, an example of this is the Witch. They generate sympathetic tokens that they can spend to cast hexes.
+*Technically, this isn&#39;t a* new *engine, since sympathetic tokens can be spent as strings, but it does effectively create a standalone engine that can operate separately from the game&#39;s other engines.*
+
+-----------------
+
+Obviously, you only have to look at Monsterhearts to see that this design philosophy can be used to great effect for creating a responsive, well-balance system. On the other hand, clearly not every PbtA game (or even every good PbtA game) follow that design principle. So, I wanted to discuss **what other design principles are used, or can be used, in designing PbtA playbooks**. To start with, I&#39;ll lay out what I see as the core principle of all playbooks, *playbooks as thematic signaling*.
+
+# Playbooks as Thematic Signaling
+
+Picking a playbook is a three-way agreement between the player, the MC, and the system. It&#39;s the player saying, *I think this part of the game is interesting and I want to explore it in detail*. It&#39;s the MC saying, *I recognize that you&#39;re interested in this part of the game and I will help guide play in that direction*. It&#39;s the system saying, *I recognize that you&#39;re interested in this part of the game: here are the tools to explore it more effectively.*
+
+As an example, in Apocalypse World, if I choose the Hardholder playbook, I&#39;m saying, *I think that running a fortified compound is interesting and I want play to involve the complications that arise from doing that.* In turn, I&#39;m trusting the MC to say, *Okay, I recognize that you&#39;re interested in running a hardhold and I&#39;ll make sure help center play in and around your base.* And finally, the system say, *you want to be a hardholder? Great, here&#39;s your base and here are all it&#39;s resources and problems.*
+
+A common way of transitioning players from systems like D&amp;D to PbtA is by saying, &quot;you pick a playbook, which is like your character class.&quot; It&#39;s a helpful comparison, but I think the thing that makes PbtA playbooks come alive more than D&amp;D classes is that in D&amp;D, picking Fighter just means that you want to be good at fighting. But in Dungeon World, picking fighter means that you want to *focus play around solving problems through strength or through combat.*
+
+-------------------------
+
+Anyway, what other design philosophies can be used when designing playbooks, and what are some examples of systems that use them?</description>
+    
+    <lastBuildDate>Fri, 02 Aug 2019 03:57:01 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/design-philosophies-for-pbta-playbooks/2737.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Design Philosophies for PbtA Playbooks</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>Great post, Michael!</p>
+<p>I think there’s a lot to think about there, even when it’s in subtle ways. I thought about this when I redesigned the <em>Quarantine</em> as a “fish out of water” kind of character; a person who didn’t belong in the post-apocalypse.</p>
+<p><a href="http://apocalypse-world.com/forums/index.php?topic=9114" class="onebox" target="_blank" rel="nofollow noopener">http://apocalypse-world.com/forums/index.php?topic=9114</a></p>
+<p>My playbook includes a move which has the Quarantine’s player judge the other characters’ moral integrity, which naturally brings in certain themes and conversations which might otherwise not have been present, and positions the Quarantine as someone with very different values and perspectives.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/design-philosophies-for-pbta-playbooks/2737/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/design-philosophies-for-pbta-playbooks/2737/10</link>
+        <pubDate>Fri, 02 Aug 2019 03:57:01 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2737-10</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/design-philosophies-for-pbta-playbooks/2737.rss">Design Philosophies for PbtA Playbooks</source>
+      </item>
+      <item>
+        <title>Design Philosophies for PbtA Playbooks</title>
+        <dc:creator><![CDATA[@Michael_Prescott]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/michael_prescott">@Michael_Prescott</a> wrote:</p>
+          <blockquote>
+              <p>I like this.</p>
+<p>I also think it’s really worth considering ‘fictional positioning’ as a complex set of fuzzy resources, with economies tying them together, rather than as a singular resource. I don’t think you necessarily implied that, but I think it’s really worth exploring this to avoid playbooks feeling overly mechanistic, little currency exchanges.</p>
+<p>For example, Monsterhearts move like <strong>Shut Someone Down</strong> and <strong>Make Someone Feel Beautiful</strong> are engaging with ‘soft’ economies like inclusion, acceptance, status, as well as self-acceptance. The (1e) Chosen’s sex move is related to these–it deals in Strings, but it also deals in disgust with others and self-loathing, forms of rejection.  The Ghost’s recovery from darkest self does too, since it requires someone to acknowledge and accept them.</p>
+<p>There are other soft economies, such as how much is known about each others’ characters (e.g. the Ghost’s sex move that lets them ask a question, the Mortal’s xp move for being nosy).</p>
+<p>I feel like these kinds of economies are all the more useful for being subtler and more fictionally based (as opposed to, "I’ve used my move so I give you a benny, and then you use the benny for your own move).</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/design-philosophies-for-pbta-playbooks/2737/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/design-philosophies-for-pbta-playbooks/2737/9</link>
+        <pubDate>Thu, 01 Aug 2019 20:34:01 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2737-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/design-philosophies-for-pbta-playbooks/2737.rss">Design Philosophies for PbtA Playbooks</source>
+      </item>
+      <item>
+        <title>Design Philosophies for PbtA Playbooks</title>
+        <dc:creator><![CDATA[@Jmstar]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jmstar">@Jmstar</a> wrote:</p>
+          <blockquote>
+              <p>I don’t have a lot to contribute right now but <a href="http://analoggamestudies.org/2014/12/visual-design-as-metaphor-the-evolution-of-a-character-sheet/" rel="nofollow noopener">I wrote an article about designing character sheets</a> that seems relevant.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/design-philosophies-for-pbta-playbooks/2737/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/design-philosophies-for-pbta-playbooks/2737/8</link>
+        <pubDate>Mon, 29 Jul 2019 03:09:14 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2737-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/design-philosophies-for-pbta-playbooks/2737.rss">Design Philosophies for PbtA Playbooks</source>
+      </item>
+      <item>
+        <title>Design Philosophies for PbtA Playbooks</title>
+        <dc:creator><![CDATA[@Christo]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/christo">@Christo</a> wrote:</p>
+          <blockquote>
+              <p>Great post!</p>
+<p>Definitely playbooks contribute to worldbuilding in session zero. I’ll use Urban Shadows as an example. If you play a Vamp then you are going to get the question: what do vampires feed off of? Blood? Emotions? Are they hurt by sunlight?</p>
+<p>Which playbooks the GM allows in play also constrains the game and may define the world by what is being left out but will definitely define themes. For instance, what would a DW game look like without the Fighter playbook? Will this drive players to find more non-violent solutions?</p>
+<p>Some playbooks work well only in campaign play (The long-term scemes of Dragons and Immortals), so those are ones that can be problematic in a oneshot. If a player in a campaign courses these playbooks, you know they are looking to get into intrigues and manipulation.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/design-philosophies-for-pbta-playbooks/2737/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/design-philosophies-for-pbta-playbooks/2737/7</link>
+        <pubDate>Sun, 28 Jul 2019 20:43:37 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2737-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/design-philosophies-for-pbta-playbooks/2737.rss">Design Philosophies for PbtA Playbooks</source>
+      </item>
+      <item>
+        <title>Design Philosophies for PbtA Playbooks</title>
+        <dc:creator><![CDATA[@Curubethion]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/curubethion">@Curubethion</a> wrote:</p>
+          <blockquote>
+              <p>Yeah, although in a sense, every playbook can and should worldbuild, because at their core, they’re pieces of a world or dynamic. Even something as innocuous as the Fighter in Dungeon World worldbuilds! That “signature weapon” move brings with it a huge amount of potential things to define in the world, like when my player decided their signature weapon was found on a paladin’s body. So it doesn’t have to be big things like the way the Hardholder explores specific aspects of the world, it can be little things like the source of a character’s power, organizations they’re associated with thanks to the playbook, etc.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/design-philosophies-for-pbta-playbooks/2737/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/design-philosophies-for-pbta-playbooks/2737/6</link>
+        <pubDate>Sun, 28 Jul 2019 15:47:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2737-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/design-philosophies-for-pbta-playbooks/2737.rss">Design Philosophies for PbtA Playbooks</source>
+      </item>
+      <item>
+        <title>Design Philosophies for PbtA Playbooks</title>
+        <dc:creator><![CDATA[@dexter]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dexter">@dexter</a> wrote:</p>
+          <blockquote>
+              <p>Good point! I actually though about adding “playbooks that add new themes” as a separate section.</p>
+<p>I find those types of playbooks interesting because I think they’re harder to design, given the amount of stuff you typically need to put into the playbook to make it work.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/design-philosophies-for-pbta-playbooks/2737/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/design-philosophies-for-pbta-playbooks/2737/5</link>
+        <pubDate>Sun, 28 Jul 2019 04:51:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2737-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/design-philosophies-for-pbta-playbooks/2737.rss">Design Philosophies for PbtA Playbooks</source>
+      </item>
+      <item>
+        <title>Design Philosophies for PbtA Playbooks</title>
+        <dc:creator><![CDATA[@Curubethion]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/curubethion">@Curubethion</a> wrote:</p>
+          <blockquote>
+              <p>There’s a bit of overlap here with Playbooks As Worldbuilding. Many games use playbooks that add to a specific place in the world, like the examples you mention, and the playbooks that players don’t pick generally mean that those aspects of the world are ignored or minimized. This is especially apparent in something like Urban Shadows or Monsterhearts, where each playbook has some amount of mythology baked in.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/design-philosophies-for-pbta-playbooks/2737/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/design-philosophies-for-pbta-playbooks/2737/4</link>
+        <pubDate>Sun, 28 Jul 2019 02:31:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2737-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/design-philosophies-for-pbta-playbooks/2737.rss">Design Philosophies for PbtA Playbooks</source>
+      </item>
+      <item>
+        <title>Design Philosophies for PbtA Playbooks</title>
+        <dc:creator><![CDATA[@dexter]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dexter">@dexter</a> wrote:</p>
+          <blockquote>
+              <p>That’s true, DW is actually probably a bad example because it tends to do this less than other PbtA/FitD systems.</p>
+<p>I’m not a huge Blades fan, but the XP reward system is very good.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/design-philosophies-for-pbta-playbooks/2737/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/design-philosophies-for-pbta-playbooks/2737/3</link>
+        <pubDate>Sat, 27 Jul 2019 23:08:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2737-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/design-philosophies-for-pbta-playbooks/2737.rss">Design Philosophies for PbtA Playbooks</source>
+      </item>
+      <item>
+        <title>Design Philosophies for PbtA Playbooks</title>
+        <dc:creator><![CDATA[@bigbucky]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/bigbucky">@bigbucky</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="1" data-topic="2737">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/dexter/40/2208_2.png" class="avatar"> dexter:</div>
+<blockquote>
+<p>But in Dungeon World, picking fighter means that you want to <em>focus play around solving problems through strength or through combat.</em></p>
+</blockquote>
+</aside>
+<p>I wish DW did this like Blades in the Dark where you explicitly get xp based on whether you solved a problem using your playbook’s theme. For example “addressing a challenge with violence or coercion” for the Cutter.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/design-philosophies-for-pbta-playbooks/2737/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/design-philosophies-for-pbta-playbooks/2737/2</link>
+        <pubDate>Sat, 27 Jul 2019 20:45:52 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2737-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/design-philosophies-for-pbta-playbooks/2737.rss">Design Philosophies for PbtA Playbooks</source>
+      </item>
+      <item>
+        <title>Design Philosophies for PbtA Playbooks</title>
+        <dc:creator><![CDATA[@dexter]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dexter">@dexter</a> wrote:</p>
+          <blockquote>
+              <p>Right off the bat, let’s preface this with:</p>
+<ul>
+<li>There’s no single correct way to design a game.</li>
+<li>There are a lot of components that go into making a design <em>work</em>.</li>
+</ul>
+<p>That said, <a href="https://twitter.com/lackingceremony/status/1148330116239413248" rel="nofollow noopener">this twitter thread by Avery Alder</a> got me thinking about what elements go into making a good playbook in a PbtA system. To summarize Avery’s thread:</p>
+<h1>Playbooks as Engines</h1>
+<h2>PbtA is an Economy</h2>
+<p>Every PbtA system has its own internal economy that consists of the interplay of a number of resources, usually including:</p>
+<ul>
+<li>+1 forward</li>
+<li>taking or dealing harm</li>
+<li>experience</li>
+<li>fictional positioning</li>
+<li>+/- Hx</li>
+<li>gaining and spending hold</li>
+</ul>
+<p>Some systems add new resources (conditions in Monsterhearts) or modify existing ones (Hx -&gt; strings in Monsterhearts).<br>
+Gameplay in PbtA is the collaborative process of gaining resources and then trading those resources for the resources you want.<br>
+Each loop of <code>generate resource -&gt; convert resource to a new resource -&gt; spend resource</code> can be referred to as an <em>engine</em> within the game system.</p>
+<h2>Playbooks</h2>
+<p>A good playbook should either layer onto an existing engine or add a new engine.</p>
+<h3>Layering onto an Existing Engine</h3>
+<p>Some playbooks should take an existing engine in the game and expand on it. An excellent example is the Ghost in Monsterhearts. It takes an existing engine (<em>Shut Someone Down</em> -&gt; conditions -&gt; +1 forward) and expands it, giving the Ghost new ways of generating conditions, as well as new ways to spend conditions for effect.</p>
+<h3>Creating a New Engine*</h3>
+<p>Other playbooks add an entirely new engine to the game. In Monsterhearts, an example of this is the Witch. They generate sympathetic tokens that they can spend to cast hexes.<br>
+<em>Technically, this isn’t a</em> new <em>engine, since sympathetic tokens can be spent as strings, but it does effectively create a standalone engine that can operate separately from the game’s other engines.</em></p>
+<hr>
+<p>Obviously, you only have to look at Monsterhearts to see that this design philosophy can be used to great effect for creating a responsive, well-balance system. On the other hand, clearly not every PbtA game (or even every good PbtA game) follow that design principle. So, I wanted to discuss <strong>what other design principles are used, or can be used, in designing PbtA playbooks</strong>. To start with, I’ll lay out what I see as the core principle of all playbooks, <em>playbooks as thematic signaling</em>.</p>
+<h1>Playbooks as Thematic Signaling</h1>
+<p>Picking a playbook is a three-way agreement between the player, the MC, and the system. It’s the player saying, <em>I think this part of the game is interesting and I want to explore it in detail</em>. It’s the MC saying, <em>I recognize that you’re interested in this part of the game and I will help guide play in that direction</em>. It’s the system saying, <em>I recognize that you’re interested in this part of the game: here are the tools to explore it more effectively.</em></p>
+<p>As an example, in Apocalypse World, if I choose the Hardholder playbook, I’m saying, <em>I think that running a fortified compound is interesting and I want play to involve the complications that arise from doing that.</em> In turn, I’m trusting the MC to say, <em>Okay, I recognize that you’re interested in running a hardhold and I’ll make sure help center play in and around your base.</em> And finally, the system say, <em>you want to be a hardholder? Great, here’s your base and here are all it’s resources and problems.</em></p>
+<p>A common way of transitioning players from systems like D&amp;D to PbtA is by saying, “you pick a playbook, which is like your character class.” It’s a helpful comparison, but I think the thing that makes PbtA playbooks come alive more than D&amp;D classes is that in D&amp;D, picking Fighter just means that you want to be good at fighting. But in Dungeon World, picking fighter means that you want to <em>focus play around solving problems through strength or through combat.</em></p>
+<hr>
+<p>Anyway, what other design philosophies can be used when designing playbooks, and what are some examples of systems that use them?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/design-philosophies-for-pbta-playbooks/2737/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/design-philosophies-for-pbta-playbooks/2737/1</link>
+        <pubDate>Sat, 27 Jul 2019 19:56:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2737-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/design-philosophies-for-pbta-playbooks/2737.rss">Design Philosophies for PbtA Playbooks</source>
+      </item>
+  </channel>
+</rss>

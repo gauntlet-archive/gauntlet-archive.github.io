@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Games using narrative components as the framework for play?</title>
+    <link>https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154</link>
+    <description>I&#39;ve started sketching out a vague idea for a game that takes some of the ideas in games I&#39;ve been playing and reading ( various PbtA and FitD games ) and ties them in even more to narrative structure. It&#39;s somewhere between a vague concept and a plan, and I&#39;m trying to figure out whether it&#39;s worth persisting with. At core I&#39;m thinking about having playbooks that tie into narrative tropes as markers for progression, and a game that plays out through a structure of scenes where the players take part in framing the scene - defining their character&#39;s goals, possibly having the option to roll moves that allow them to adjust the opening or give themselves some advantage during it - and then the scene is played out or narrated with any in-action moves rolled as they come up until the character goals have been met or some complication or failure provides a fitting closure.
+
+It feels like it might fit together into a fun game but I&#39;m very conscious that there are very few original ideas so I&#39;m interested to know whether there are existing games working along these lines? I&#39;m definitely inspired by some of the Lame Mage games and Fiasco which play out in a very scene-based way, so I&#39;m wondering what games there are with more of a dice rolling/GM-led approach that follow this kind of strategy. I can think of Swords Without Master, but that&#39;s about it from my -very limited- experience.
+
+Any suggestions?</description>
+    
+    <lastBuildDate>Fri, 04 Oct 2019 23:44:30 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Games using narrative components as the framework for play?</title>
+        <dc:creator><![CDATA[@CrudelyDrawnSwords]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/crudelydrawnswords">@CrudelyDrawnSwords</a> wrote:</p>
+          <blockquote>
+              <p>A small update on where I’ve got to:</p>
+<p>Characters have:</p>
+<ul>
+<li>A background ( I want players to know where their character comes from, gives you a simple origin story and a single move from it )</li>
+<li>A complication ( an enemy, a rival, a forbidden love, a curse, an obsession )</li>
+<li>A set of basic stats ( thinking of Heart, Mind, Strength, Speed and Will ) in a +2 to -1 range.</li>
+<li>Some kind of stress or harm track, not got around to thinking about this yet…</li>
+<li>An Arc, which provides:</li>
+<li>A positive and negative pole, summarised as “Amanda is [positive] but [negative]”. ( I think this is a borrow from Hillfolk )</li>
+</ul>
+<p>The Arc is effectively a cross between a playbook and a quest with defined stages demarcated by landmark events, which can be triggered after a certain amount of XP has been earned. At each stage you get to pick a relevant move and you have a new set of XP triggers, one based on your positive pole one on your negative pole.</p>
+<p>Play takes place in clearly demarcated scenes, with a set-up phase during which players declare their aims, followed by the scene playing out IC. At the start of the scene each player taking part rolls “Open the scene” - on a hit they will gain XP from their positive pole trigger in this scene, on a miss their negative pole trigger, on an intermediate success they must hit both triggers to gain XP.</p>
+<p>So an example arc I have vaguely sketched out is “The Chancer”, a charm-based fast-talking opportunist type of character. Their poles choices might be:</p>
+<p>Poles</p>
+<p>Positive:</p>
+<ul>
+<li>Friendly</li>
+<li>Sociable</li>
+<li>Inventive</li>
+<li>Smart</li>
+<li>Charming</li>
+</ul>
+<p>Negative</p>
+<ul>
+<li>Untrustworthy</li>
+<li>Dishonest</li>
+<li>Corrupt</li>
+<li>Devious</li>
+<li>Manipulative</li>
+<li>Amoral</li>
+</ul>
+<p>The arc might look like this:</p>
+<blockquote>
+<p><strong>The Chancer</strong></p>
+<p>Your arc begins when you do something that reveals your negative pole to the audience ( if not the other characters ).</p>
+<p>During this phase:<br>
+When your positive pole solves a problem for the group, mark XP at the end of the scene.<br>
+When your negative pole causes a problem for the group, mark XP at the end of the scene.</p>
+<p>When you have 5 XP and you come through for the group in a way that goes beyond what anyone expected you enter the rising phase in your arc, reset XP.</p>
+<p>During this phase:<br>
+When your negative pole solves a problem for the group, mark XP at the end of the scene<br>
+When your positive pole causes a problem for the group, mark XP at the end of the scene</p>
+<p>When you have 10 XP and you betray a friend or ally with disastrous consequences for them, to your own personal benefit, you enter the falling phase in your arc, reset XP.</p>
+<p>During this phase:<br>
+When either pole solves a problem for the group, mark XP at the end of the scene</p>
+<p>When you have 10 XP, the group needs you and you come through for them in spite of the risk of doing so and the advantage of abandoning them, you enter the close of your arc, you are free to choose where you go next.</p>
+<p>or</p>
+<p>When you have 10 XP, the group is counting on you and you let them down either for personal gain or out of cowardice, you are no longer the Chancer, you have become someone else.</p>
+</blockquote>
+<p>Obviously this is a vague first-shot, the numbers are all wrong because I literally just this moment realised the relationship between pole, scene-opening roll and XP-triggers, but I think there is something interesting here.</p>
+<p>I can see people worrying about the arc being something of a railroad, and that’s not inaccurate, but having a wide selection of arcs and having the rails sufficiently loosely prescribed that they describe opportunities that this type of character is likely to be looking for anyway means that even as a very agency-oriented player and GM I feel like I could have a lot of fun with this format of play.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/31">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/31</link>
+        <pubDate>Fri, 04 Oct 2019 23:32:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3154-31</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154.rss">Games using narrative components as the framework for play?</source>
+      </item>
+      <item>
+        <title>Games using narrative components as the framework for play?</title>
+        <dc:creator><![CDATA[@Airk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/airk">@Airk</a> wrote:</p>
+          <blockquote>
+              <p>Good luck! I read it and left with the feeling that the game was super simple and I still don’t know what like 7000 of the pages were for. x.x</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/30">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/30</link>
+        <pubDate>Thu, 26 Sep 2019 14:51:34 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3154-30</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154.rss">Games using narrative components as the framework for play?</source>
+      </item>
+      <item>
+        <title>Games using narrative components as the framework for play?</title>
+        <dc:creator><![CDATA[@jco]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jco">@jco</a> wrote:</p>
+          <blockquote>
+              <p>As we say in China – 加油！It’s worth it. If you wanna chat about it more, feel free to ping me. <a href="http://RPG.net" rel="nofollow noopener">RPG.net</a> also has some good conversation about the game (I believe the game designer, Dr. Moran, posts there). For me, a flip switched at some point and everything clicked. It really is worth it. It’s a beautiful game design, and I really really want a sort of…I want a game like Chuubo’s written by someone other than Dr. Moran. She is a brilliant game designer, but I would love for this to become a genre, and not just “weird games written by one person.”</p>
+<p>You can read the core rules, but things really clicked for me after reading the Techno Players Guide, and then the play examples (I think it’s on DriveThruRpg as “going home” or something like that). The Techno Player’s guide, oddly enough, at the beginning explains the rules very, very concisely…one wonders why the PHB didn’t do that…the PHB can be very meandering, interspersing rules with lore with personal philosophy. The Techno Player’s Guide presents everything much more tersely. And of course, the actual plays let you see how things shake out, and they’re pretty interesting in their own right.</p>
+<p>It’s a really special system. I really really want more games that approach narrative in that way. Love it or hate it, please share what you think here!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/29">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/29</link>
+        <pubDate>Thu, 26 Sep 2019 05:51:25 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3154-29</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154.rss">Games using narrative components as the framework for play?</source>
+      </item>
+      <item>
+        <title>Games using narrative components as the framework for play?</title>
+        <dc:creator><![CDATA[@CrudelyDrawnSwords]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/crudelydrawnswords">@CrudelyDrawnSwords</a> wrote:</p>
+          <blockquote>
+              <p>These are good suggestions, thank you - I currently have approximately 8000 pages of Chuubo ahead of me, but I’ll be referring back here when I’m done with it.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/28</link>
+        <pubDate>Wed, 25 Sep 2019 21:23:20 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3154-28</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154.rss">Games using narrative components as the framework for play?</source>
+      </item>
+      <item>
+        <title>Games using narrative components as the framework for play?</title>
+        <dc:creator><![CDATA[@Adam]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/adam">@Adam</a> wrote:</p>
+          <blockquote>
+              <p><em>Misspent Youth</em> is a youthful cyberpunk game that follows a narrative arc and builds the tension levels of the arc into the resolution system.</p>
+<p><em>Annalise</em> is a slowly creeping horror game that uses a super-clever callback mechanism to make everyday things creepy, and it has rules that change as the story arc reaches different points.</p>
+<p><em>carry. a game about war.</em> is a Vietnam drama game that frames combat scenes differently than personal (“squad”) scenes. It builds in character-changes through a dice pool replenishment mechanic and uses NPC soldiers as a sort of diminishing pool that hearkens the start of the End Game and Epilogue.</p>
+<p>Nathan Paoletta wrote both <em>Annalise</em> and <em>carry</em> and you could do worse than to play and study his games to see how he attacks narrative structure in his games.</p>
+<p>You already mentioned <em>Fiasco</em>, which focuses the narrative arc through the Tilt and the Epilogue.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/27">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/27</link>
+        <pubDate>Wed, 25 Sep 2019 14:31:49 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3154-27</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154.rss">Games using narrative components as the framework for play?</source>
+      </item>
+      <item>
+        <title>Games using narrative components as the framework for play?</title>
+        <dc:creator><![CDATA[@CrudelyDrawnSwords]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/crudelydrawnswords">@CrudelyDrawnSwords</a> wrote:</p>
+          <blockquote>
+              <p>That sounds like fun, but also on a slightly different axis to what I’m aiming for, which is epic modern fantasy in a Malazan/Five Gods/Cosmere/Divine Cities kind of space. Not exactly new ground for tabletop but there’s always that niggling thought that one could maybe do it a little better…</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/26</link>
+        <pubDate>Sun, 22 Sep 2019 21:31:23 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3154-26</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154.rss">Games using narrative components as the framework for play?</source>
+      </item>
+      <item>
+        <title>Games using narrative components as the framework for play?</title>
+        <dc:creator><![CDATA[@Airk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/airk">@Airk</a> wrote:</p>
+          <blockquote>
+              <p>It’s inspired by the more optimistic sorts of JRPGs, so if speeches about the power of friendship aren’t your thing, it may not be appropriate.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/25</link>
+        <pubDate>Sat, 21 Sep 2019 00:31:26 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3154-25</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154.rss">Games using narrative components as the framework for play?</source>
+      </item>
+      <item>
+        <title>Games using narrative components as the framework for play?</title>
+        <dc:creator><![CDATA[@CrudelyDrawnSwords]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/crudelydrawnswords">@CrudelyDrawnSwords</a> wrote:</p>
+          <blockquote>
+              <p>What kind of atmophere/style are you aiming to hit with it?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/24</link>
+        <pubDate>Fri, 20 Sep 2019 23:01:08 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3154-24</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154.rss">Games using narrative components as the framework for play?</source>
+      </item>
+      <item>
+        <title>Games using narrative components as the framework for play?</title>
+        <dc:creator><![CDATA[@Airk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/airk">@Airk</a> wrote:</p>
+          <blockquote>
+              <p>Not to be That Guy Who Wants You To Look At His Game, but I am working on a hopeful-fantasy PbtA game.  It’s definitely free of D&amp;D trappings, but it probably doesn’t hew real close to AW either, so it’s probably not what you’re looking for.</p>
+<p>It’s also in the “I’m pretty sure this is usable, but it needs tons of improvement” stage, so who knows where it’ll end up if it does end up.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/23</link>
+        <pubDate>Fri, 20 Sep 2019 22:08:08 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3154-23</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154.rss">Games using narrative components as the framework for play?</source>
+      </item>
+      <item>
+        <title>Games using narrative components as the framework for play?</title>
+        <dc:creator><![CDATA[@CrudelyDrawnSwords]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/crudelydrawnswords">@CrudelyDrawnSwords</a> wrote:</p>
+          <blockquote>
+              <p>My starting point was, as someone running a fairly long Dungeon World podcast, the feeling that there might be room for a fantasy PbtA game that leaned more towards AW and lost some of the sillier D&amp;D trappings. Unfortunately my brain doesn’t really have a stop button, so as soon as I started thinking more about a game that would encourage the kind of storytelling I enjoy being part of I end up having gone miles from any of my starting points and, conveniently, discovering a lot of super-interesting games on this thread.</p>
+<p>I am definitely taking some ideas from Burning Wheel which I have read but not yet played ( largely because of the long-running podcast and the ridiculous amount of editing time that involves ) and there’s some really fun stuff in the Dramasystem but having read a little more of the terminology I now know that I’m a more interested in procedural storytelling - effectively PvE rather than PvP as the focus of the narrative. I am definitely interested in something geared to epic adventures and grand campaigns because if you’re going to make things hard for yourself you should do it to an advanced level.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/22</link>
+        <pubDate>Fri, 20 Sep 2019 20:55:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3154-22</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154.rss">Games using narrative components as the framework for play?</source>
+      </item>
+      <item>
+        <title>Games using narrative components as the framework for play?</title>
+        <dc:creator><![CDATA[@CrudelyDrawnSwords]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/crudelydrawnswords">@CrudelyDrawnSwords</a> wrote:</p>
+          <blockquote>
+              <p>You did not misinterpret, that sounds super-interesting.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/21</link>
+        <pubDate>Fri, 20 Sep 2019 20:40:27 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3154-21</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154.rss">Games using narrative components as the framework for play?</source>
+      </item>
+      <item>
+        <title>Games using narrative components as the framework for play?</title>
+        <dc:creator><![CDATA[@gene_a]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gene_a">@gene_a</a> wrote:</p>
+          <blockquote>
+              <p>I’ve played <em>Great American Novel</em> a few times and I’m also in the Kickstarter video, along with <a class="mention" href="/u/kurt_potts">@Kurt_Potts</a>. It’s a very interesting approach; all of the playbook moves are meta moves.</p>
+<p><em>Swords Without Master</em> is actually closer to your original ask, as it also concerns itself entirely with narrative elements and is tied directly to die rolls to frame/resolve scenes in their entirety.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/20</link>
+        <pubDate>Fri, 20 Sep 2019 20:16:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3154-20</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154.rss">Games using narrative components as the framework for play?</source>
+      </item>
+      <item>
+        <title>Games using narrative components as the framework for play?</title>
+        <dc:creator><![CDATA[@Deckard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deckard">@Deckard</a> wrote:</p>
+          <blockquote>
+              <p>I missed the kickstarter but I am obsessed with what I know about this game!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/19</link>
+        <pubDate>Fri, 20 Sep 2019 14:18:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3154-19</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154.rss">Games using narrative components as the framework for play?</source>
+      </item>
+      <item>
+        <title>Games using narrative components as the framework for play?</title>
+        <dc:creator><![CDATA[@Deckard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deckard">@Deckard</a> wrote:</p>
+          <blockquote>
+              <p>So does Zombie World and Uncanny Echoes.  This is definitely my favorite new thing!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/18</link>
+        <pubDate>Fri, 20 Sep 2019 14:15:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3154-18</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154.rss">Games using narrative components as the framework for play?</source>
+      </item>
+      <item>
+        <title>Games using narrative components as the framework for play?</title>
+        <dc:creator><![CDATA[@Radmad]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/radmad">@Radmad</a> wrote:</p>
+          <blockquote>
+              <p>It sounds like a combination of divergent evolution of PbTa and Burning Wheel completely divested of its DnD inspirations.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/17</link>
+        <pubDate>Fri, 20 Sep 2019 10:47:49 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3154-17</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154.rss">Games using narrative components as the framework for play?</source>
+      </item>
+      <item>
+        <title>Games using narrative components as the framework for play?</title>
+        <dc:creator><![CDATA[@jco]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jco">@jco</a> wrote:</p>
+          <blockquote>
+              <p>Assuming I didn’t misunderstood what you’re going for (apologies if I did!), I think it’s really worth your time to check out <a href="https://www.drivethrurpg.com/product/134196/Chuubos-Marvelous-WishGranting-Engine" rel="nofollow noopener">Chuubo’s Marvelous Wish Granting Engine</a>. It’s written in a style that some people love, the author is brilliant but has a very very distinct way of writing rules books…but still, it’s a pretty unique system. It’s a real inversion of most RPG systems…instead of focusing on simulationist, character-based mechanics, it focuses on narrative tools as action. Your actions are basically about expressing what you think is interesting to the narrative, and players get experience for telling the story they want to tell (roughly speaking). It can be sort of hard to wrap your head around at first but the thing that cracked it for me was realizing that it was all about making the actions you declare literally be storytelling, sort of…declaring the sort of storytelling you want, constrained by available actions. It’s really interesting! But it can be really hard to get people interested in playing because it is so far from what people generally expect from an RPG, especially if they’re just used to D&amp;D style games with generally “adversarial” DM/character dynamic.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/16</link>
+        <pubDate>Fri, 20 Sep 2019 05:18:23 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3154-16</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154.rss">Games using narrative components as the framework for play?</source>
+      </item>
+      <item>
+        <title>Games using narrative components as the framework for play?</title>
+        <dc:creator><![CDATA[@CrudelyDrawnSwords]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/crudelydrawnswords">@CrudelyDrawnSwords</a> wrote:</p>
+          <blockquote>
+              <p>Also Hillfolk put me onto <a href="https://gameplaywright.net/books/hamlets-hit-points/" rel="nofollow noopener">Hamlets Hit Points</a> which is pretty great!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/15</link>
+        <pubDate>Thu, 19 Sep 2019 12:48:21 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3154-15</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154.rss">Games using narrative components as the framework for play?</source>
+      </item>
+      <item>
+        <title>Games using narrative components as the framework for play?</title>
+        <dc:creator><![CDATA[@gene_a]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gene_a">@gene_a</a> wrote:</p>
+          <blockquote>
+              <p>Christopher Grey’s <em>Great American Novel</em> is essentially this, in PBTA (mostly) form. Just had a successful kickstarter.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/14</link>
+        <pubDate>Tue, 17 Sep 2019 20:59:58 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3154-14</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154.rss">Games using narrative components as the framework for play?</source>
+      </item>
+      <item>
+        <title>Games using narrative components as the framework for play?</title>
+        <dc:creator><![CDATA[@CrudelyDrawnSwords]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/crudelydrawnswords">@CrudelyDrawnSwords</a> wrote:</p>
+          <blockquote>
+              <p>Having now read Hillfolk that is very much along the lines I am thinking of, but different enough to be worth continuing to experiment, I think.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/13</link>
+        <pubDate>Tue, 17 Sep 2019 20:51:55 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3154-13</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154.rss">Games using narrative components as the framework for play?</source>
+      </item>
+      <item>
+        <title>Games using narrative components as the framework for play?</title>
+        <dc:creator><![CDATA[@Deckard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deckard">@Deckard</a> wrote:</p>
+          <blockquote>
+              <p>This is how you would do a PbtA OSR game!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/12</link>
+        <pubDate>Mon, 16 Sep 2019 21:58:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3154-12</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154.rss">Games using narrative components as the framework for play?</source>
+      </item>
+      <item>
+        <title>Games using narrative components as the framework for play?</title>
+        <dc:creator><![CDATA[@CrudelyDrawnSwords]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/crudelydrawnswords">@CrudelyDrawnSwords</a> wrote:</p>
+          <blockquote>
+              <p>I’ve been meaning to get Hillfolk for a while, I guess this is a solid excuse!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/11</link>
+        <pubDate>Mon, 16 Sep 2019 20:29:56 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3154-11</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154.rss">Games using narrative components as the framework for play?</source>
+      </item>
+      <item>
+        <title>Games using narrative components as the framework for play?</title>
+        <dc:creator><![CDATA[@empowermint]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/empowermint">@empowermint</a> wrote:</p>
+          <blockquote>
+              <p>This sounds like a really interesting project.</p>
+<p><a href="https://site.pelgranepress.com/index.php/hillfolk/" rel="nofollow noopener"><em>Hillfolk DramaSystem</em></a> turns several aspects of narrative theory into mechanics.</p>
+<p>There’s also <em><a href="http://www.dog-eared-designs.com" rel="nofollow noopener">Primetime Adventures</a></em>, which is a television drama emulator which (sort-of) alternatives between the players acting like they’re a writers room and scene-style roleplaying.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/10</link>
+        <pubDate>Mon, 16 Sep 2019 08:59:53 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3154-10</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154.rss">Games using narrative components as the framework for play?</source>
+      </item>
+      <item>
+        <title>Games using narrative components as the framework for play?</title>
+        <dc:creator><![CDATA[@CrudelyDrawnSwords]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/crudelydrawnswords">@CrudelyDrawnSwords</a> wrote:</p>
+          <blockquote>
+              <p>I had never heard of that before, I’ll look into it directly, thank you.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/9</link>
+        <pubDate>Sun, 15 Sep 2019 21:33:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3154-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154.rss">Games using narrative components as the framework for play?</source>
+      </item>
+      <item>
+        <title>Games using narrative components as the framework for play?</title>
+        <dc:creator><![CDATA[@CrudelyDrawnSwords]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/crudelydrawnswords">@CrudelyDrawnSwords</a> wrote:</p>
+          <blockquote>
+              <p>One idea I am toying with is having players roll when framing a scene ( I can see this making sense using a Veil style “roll what you are feeling” principle ) and that roll giving them the “currency” they can spend during the scene so that in-scene moves have a price for a mixed success and a price for a full success ( maybe 2 and 4, for example ) and then the game rewards ending the scene having spent them all. I think that’s the kind of thing that will take a bunch of playtesting to validate whether it works and is fun or just confuses the heck out of everyone or creates situations where people end up doing nonsensical things to spend their hold. The balance of having a limited resource and needing to spend it seems like it might be fun and make for interesting plays, as might going into a scene knowing you can’t pull the move you originally planned.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/8</link>
+        <pubDate>Sun, 15 Sep 2019 21:31:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3154-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154.rss">Games using narrative components as the framework for play?</source>
+      </item>
+      <item>
+        <title>Games using narrative components as the framework for play?</title>
+        <dc:creator><![CDATA[@seanFsmith]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/seanfsmith">@seanFsmith</a> wrote:</p>
+          <blockquote>
+              <p>Rowan, Rook and Decard’s <strong>HEART</strong> has its character advancement tied to narrative beats that players foreground and push towards.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154/7</link>
+        <pubDate>Sun, 15 Sep 2019 21:24:17 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3154-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/games-using-narrative-components-as-the-framework-for-play/3154.rss">Games using narrative components as the framework for play?</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>The Hack Hack (alpha build)</title>
+    <link>https://forums.gauntlet-rpg.com/t/the-hack-hack-alpha-build/2902</link>
+    <description>Hardboiled fantasy gaming, by way of *Macchiatto Monsters* and *Trophy*
+
+---
+
+#### Basics
+
+- Standard six stats, 2D10K1 in order
+
+- RUIN tracks from 1 (standard stress) to 6 (narratively fatal), a la **Cthulhu Dark**
+
+- Start with LUCK resource at D8 and two other resources of your choice at D6 (such as &quot;damned persistent&quot; or &quot;flirt for the crowd&quot;); when rolled these decay on 1-3
+
+- when outcome is in doubt, roll D12: =&lt;STAT succeeds; =&lt;RUIN complicates; &gt;STAT failure (which also triggers **RUIN ROLL**)
+
+- players may instead opt to roll a resource dice =&lt;STAT rather than D12 (these decay to next lower dice type on 1-3)
+
+- **RUIN ROLL** roll D6: &gt;RUIN, increase RUIN by 1; at six, PC taken out of action
+
+- when a resource decays, lower RUIN by 1 (minimum one) 
+
+#### Antagonists
+
+- Foes described by HD#. They&#39;ve a resource dice equal to twice their HD (min D4, max D12).
+
+- Successful actions against foes triggers their resource dice to be rolled (decays on 1-3). If PC rolls =&lt; foe HD, this roll also counts as a RUIN ROLL. Foes whose resource dice decay fully are at PC mercy.
+
+- Unopposed enemy action causes automatic RUIN ROLL.
+
+#### Cases
+
+- PCs offered cases, with actionable outcome (Y/N) and reward of resource at D8 (either physical (&quot;blunderbuss D8&quot;) or societal (&quot;favour of Sondheim D8&quot;)</description>
+    
+    <lastBuildDate>Sun, 18 Aug 2019 21:30:55 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/the-hack-hack-alpha-build/2902.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>The Hack Hack (alpha build)</title>
+        <dc:creator><![CDATA[@seanFsmith]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/seanfsmith">@seanFsmith</a> wrote:</p>
+          <blockquote>
+              <p>Hardboiled fantasy gaming, by way of <em>Macchiatto Monsters</em> and <em>Trophy</em></p>
+<hr>
+<h4>Basics</h4>
+<ul>
+<li>
+<p>Standard six stats, 2D10K1 in order</p>
+</li>
+<li>
+<p>RUIN tracks from 1 (standard stress) to 6 (narratively fatal), a la <strong>Cthulhu Dark</strong></p>
+</li>
+<li>
+<p>Start with LUCK resource at D8 and two other resources of your choice at D6 (such as “damned persistent” or “flirt for the crowd”); when rolled these decay on 1-3</p>
+</li>
+<li>
+<p>when outcome is in doubt, roll D12: =&lt;STAT succeeds; =&lt;RUIN complicates; &gt;STAT failure (which also triggers <strong>RUIN ROLL</strong>)</p>
+</li>
+<li>
+<p>players may instead opt to roll a resource dice =&lt;STAT rather than D12 (these decay to next lower dice type on 1-3)</p>
+</li>
+<li>
+<p><strong>RUIN ROLL</strong> roll D6: &gt;RUIN, increase RUIN by 1; at six, PC taken out of action</p>
+</li>
+<li>
+<p>when a resource decays, lower RUIN by 1 (minimum one)</p>
+</li>
+</ul>
+<h4>Antagonists</h4>
+<ul>
+<li>
+<p>Foes described by HD#. They’ve a resource dice equal to twice their HD (min D4, max D12).</p>
+</li>
+<li>
+<p>Successful actions against foes triggers their resource dice to be rolled (decays on 1-3). If PC rolls =&lt; foe HD, this roll also counts as a RUIN ROLL. Foes whose resource dice decay fully are at PC mercy.</p>
+</li>
+<li>
+<p>Unopposed enemy action causes automatic RUIN ROLL.</p>
+</li>
+</ul>
+<h4>Cases</h4>
+<ul>
+<li>PCs offered cases, with actionable outcome (Y/N) and reward of resource at D8 (either physical (“blunderbuss D8”) or societal (“favour of Sondheim D8”)</li>
+</ul>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/the-hack-hack-alpha-build/2902/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/the-hack-hack-alpha-build/2902/1</link>
+        <pubDate>Sun, 18 Aug 2019 21:30:55 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2902-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/the-hack-hack-alpha-build/2902.rss">The Hack Hack (alpha build)</source>
+      </item>
+  </channel>
+</rss>

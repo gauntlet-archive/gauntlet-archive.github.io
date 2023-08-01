@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>How to be more proactive as a player</title>
+    <link>https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157</link>
+    <description>Tonight my game group and I began what is, we hope, the first of several sessions of The Sprawl. We’re returning to the system after a two year absence, and we hit several obstacles regarding the Legwork Phase that felt like the byproduct of analysis paralysis. This has got me thinking about facilitating and encouraging proactive gameplay at the table and I thought I’d see if any of you might have some tips you use when it comes to helping get players more comfortable with the decision making process in games where a cohesive plan needs to be established. 
+
+Some of my group tends to really have difficulty being proactive about taking the initiative with their character’s actions, and I sometimes feel the urge/responsibility to spoon feed and handhold as a result, which I don’t find particularly enjoyable.
+
+In the specific case of The Sprawl, I feel like I did my due diligence. After a descriptive intro and a scene laying out The Meeting, I broke it down into its most basic parts, and explained the steps they needed to take during Legwork, but when it came to Identifying Contacts and benefitting from those relationships in a way that would let them formulate a plan, there were more than a couple of moments where they were at a complete loss. I don’t feel that it’s a lack of understanding of the setting or tropes of the genre, so that’s not the issue. I also don’t think it was a struggle to understand the moves. Despite this system’s best efforts to simplify Legwork Phase of a mission based game structure, it still took my group over 2 hours before they were anywhere close to ready to run this mission, and with a game that many claim to run one shots with, I just don’t know how we’d ever be able to accomplish that at this rate.</description>
+    
+    <lastBuildDate>Mon, 16 Sep 2019 23:15:55 +0000</lastBuildDate>
+    <category>RPG Chat</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>How to be more proactive as a player</title>
+        <dc:creator><![CDATA[@djinnocide]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/djinnocide">@djinnocide</a> wrote:</p>
+          <blockquote>
+              <p>Fingers crossed. In defense of my players, it wasn’t really about getting bogged down in determining the perfect plan. It was about struggling to produce any plan at all. The Hacker did some research, the Infiltrator tapped a contact and kind of sort of checked out the arcology, but I wasn’t entirely clear on what he wanted when he visited the site. The Killer seemed so bogged down in his street level character concept that the idea of knowing someone outside of the Russian mob was difficult for him, and The Fixer made some efforts to get things moving, but she struggled a little as well.</p>
+<p>As it stands, the approach they took was to pose as movers and gain access to the facility that way (the Killer ultimately decided he had a friend from the street whose moving company was moving new employees into the Arc and went to him for access badges and uniforms). After giving them the Mission File, I’m under the impression that they’re interested in retconning things a bit for some extra prep, so it sounds like we’re on the right path. I’ll be sure to give them one of these in future missions and I think it’ll also help me sort of itemize out what there is to know.</p>
+<p>In case anyone is interested in knowing how I broke the file down, here are the details:</p>
+<details>
+<summary>
+Summary</summary>
+<p>MISSION FILE - OPERATION: IVORY TOWER aka TAKING IT ON THE CHEN</p>
+<p>Employer</p>
+<ul>
+<li>Mysterious Fixer “Jack of Spades” has put Priscilla in touch with a “Mr. Grey” who contacted the crew via remote Matrix uplink (via Hobo Neural Interface)</li>
+</ul>
+<p>Objective</p>
+<ul>
+<li>Infiltrate Ionian Arcology, locate the personal document drive of Simon Chen, make a duplicate of the contents, make the infiltration appear like a standard burglary, deliver the duplicate drive to employer</li>
+</ul>
+<p>Locations</p>
+<p>Ionian Arcology</p>
+<ul>
+<li>Public Spaces
+<ul>
+<li>Shopping levels,</li>
+<li>Visitor Center</li>
+</ul>
+</li>
+<li>Private Spaces
+<ul>
+<li>Residential Levels</li>
+<li>Service Areas</li>
+<li>Residential Levels</li>
+<li>Office Levels (Science, Engineering, Programming, Executives, Service Personnel)</li>
+<li>Lab/R&amp;D Levels</li>
+<li>Environmental Systems Levels</li>
+<li>Computer Systems Level</li>
+<li>Manufacturing Levels</li>
+</ul>
+</li>
+</ul>
+<p>Chen’s Condo</p>
+<ul>
+<li>Entrances
+<ul>
+<li>Private helipad &gt; security room &gt; Condo</li>
+<li>Stairway/Elevator &gt; Security Room &gt; Waiting Room &gt; Condo</li>
+</ul>
+</li>
+<li>Living Quarters</li>
+<li>Office suite (big one for Chen, smaller ones for visiting execs)</li>
+<li>Personal Assistant’s Quarters</li>
+<li>Media Manager’s Quarters</li>
+<li>Personal Body Guard’s Quarters</li>
+<li>Panic Room</li>
+<li>Security Center</li>
+<li>Server Room (near security center)</li>
+<li>
+</li>
+</ul>
+<p>Security</p>
+<ul>
+<li>Physical
+<ul>
+<li>Armed Security
+<ul>
+<li>Arcology Security (throughout)</li>
+<li>Top Floor Security</li>
+</ul>
+</li>
+<li>Personal Body Guard</li>
+<li>Biometric Scanners</li>
+<li>Metal Detectors</li>
+<li>Motion Detectors</li>
+<li>Heat Sensors</li>
+</ul>
+</li>
+<li>Matrix
+<ul>
+<li>Systems on top floor are nested within the Arcology’s system (3 Logins deep)
+<ul>
+<li>Heavily protected</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>Assets</p>
+<ul>
+<li>Blueprint of the Arcology</li>
+<li>Peremesch Movers Uniforms and access badges</li>
+<li>Gaia Transit Delivery Schedule</li>
+<li>Precise Location of top floor service room location and Simon Chen’s personal computer terminal</li>
+<li>Details on Matrix Security levels</li>
+<li>[Intel] x2</li>
+<li>[Gear] x1</li>
+</ul>
+</details>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157/12</link>
+        <pubDate>Mon, 16 Sep 2019 23:15:55 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3157-12</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157.rss">How to be more proactive as a player</source>
+      </item>
+      <item>
+        <title>How to be more proactive as a player</title>
+        <dc:creator><![CDATA[@Peregrinekiwi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/peregrinekiwi">@Peregrinekiwi</a> wrote:</p>
+          <blockquote>
+              <p>I wonder if once they see the tools they have during the first mission, they will be less paranoid about the “perfect plan” in the second mission?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157/11</link>
+        <pubDate>Mon, 16 Sep 2019 21:30:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3157-11</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157.rss">How to be more proactive as a player</source>
+      </item>
+      <item>
+        <title>How to be more proactive as a player</title>
+        <dc:creator><![CDATA[@djinnocide]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/djinnocide">@djinnocide</a> wrote:</p>
+          <blockquote>
+              <p>I can definitely say it feels as though they struggled with what they wanted, which may have been alleviated with some advice on my part of the kinds of things they could look into. Providing them with as much info as possible might not end up being as effective as I hope, so some more guidance on the kinds of things one does in this kind of mission would probably be helpful. I felt like I attempted to facilitate things that way, but I may have needed a different approach.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157/10</link>
+        <pubDate>Mon, 16 Sep 2019 14:24:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3157-10</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157.rss">How to be more proactive as a player</source>
+      </item>
+      <item>
+        <title>How to be more proactive as a player</title>
+        <dc:creator><![CDATA[@djinnocide]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/djinnocide">@djinnocide</a> wrote:</p>
+          <blockquote>
+              <p>Hi Hamish, thanks for responding!</p>
+<p>I do own Downtown Data Heist and Mission Files (both are great, btw). We were actually running Chen’s Condominium from MF.</p>
+<p>The more I think about where our struggles came from, the more I think I needed to provide the information available no matter what their approach was. That feels like a delicate dance that could end up being awkward if I’m not careful, but I’m sure it wouldn’t be too hard to adjust where the info might come from on the spot.</p>
+<p>For instance, our Fixer decided she knew a guy who was a transportation service tech for Ionian and she asked him if he could show her where the service tunnels that ran through the building were. Unfortunately she rolled poorly, and I ruled it as a fail forward situation where the guy agreed to give her a tour, but a security guard patrolling the building was in earshot of the conversation. I told her she knew that, but her contact didn’t see the guy, which kind of made the contact useless. In hindsight, I should have ruled that a bit more in the direction of him giving her the info she needed, but he couldn’t get her in, as an example. Everything is clearer in hindsight.</p>
+<p>Either way, I’m definitely going to be WAY more forthcoming with info and actively look for ways to fit everything they “need” to know in whatever approach they take. I also ended up creating a Mission File shared doc for this run and added in some things that hadn’t discovered but could have learned and asked them if they wanted to do any flashback scenes to retcon their approach to the Action Phase. This also feels like a nice way to give the new players time with the mission details and rules without being put on the spot.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157/9</link>
+        <pubDate>Mon, 16 Sep 2019 14:20:34 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3157-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157.rss">How to be more proactive as a player</source>
+      </item>
+      <item>
+        <title>How to be more proactive as a player</title>
+        <dc:creator><![CDATA[@SidneyIcarus]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/sidneyicarus">@SidneyIcarus</a> wrote:</p>
+          <blockquote>
+              <p>The legwork phase is…kind of okay with being skipped. Like, it’s not the best for pacing or for getting those benefits, but it’s absolutely fine with being skipped. If your players don’t have anything they want to do, jump to action and follow them, would be my advice.</p>
+<p>The reason I ask is this feels like a failing not at the system, but at knowing what outcomes they want. The cool thing about PbtA is that when you know the outcome you want, you just look at the moves that have that as a result, then hit those fictional triggers. But if, as a player, you don’t understand what you want to bring into the action phase, you don’t know where to start. PbtA kind of needs to start with characters having clear desires (or players having clear desires for their characters), and if they’re not at that point yet, maybe take a step back from legwork.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157/8</link>
+        <pubDate>Mon, 16 Sep 2019 00:18:40 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3157-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157.rss">How to be more proactive as a player</source>
+      </item>
+      <item>
+        <title>How to be more proactive as a player</title>
+        <dc:creator><![CDATA[@Peregrinekiwi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/peregrinekiwi">@Peregrinekiwi</a> wrote:</p>
+          <blockquote>
+              <p>Thanks for playing, <a href="https://forums.gauntlet-rpg.com/u/djinnocide">djinnocide</a> (and thanks for the heads up, <a href="https://forums.gauntlet-rpg.com/u/BlakeRyan">BlakeRyan</a>!)</p>
+<p>You might take a look at <em>The Downtown Dataheist</em> for some ideas about how I structure a game to run in a 2 hours slot. I also have some thoughts on this in <em>The Mission Files</em> if you have that; asll well as being a book of sample missions, it’s something of an MCing companion.</p>
+<p>The TL;DR for both is that I run through all the flashback tools in <em>The Sprawl</em> ([gear], [intel], <strong>Research</strong>, <strong>Assess</strong>, etc) and give the table a 2-5 minute timer for planning. If they finish inside the time they all mark XP (plus the reality is that any plan they come up with quickly will be sufficient). The key is having the trust of the players that you’re not out to screw them over.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157/7</link>
+        <pubDate>Sun, 15 Sep 2019 23:41:54 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3157-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157.rss">How to be more proactive as a player</source>
+      </item>
+      <item>
+        <title>How to be more proactive as a player</title>
+        <dc:creator><![CDATA[@JasonT]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jasont">@JasonT</a> wrote:</p>
+          <blockquote>
+              <p>I have not yet run or played The Sprawl, but my understanding of the rules is that you can advance the legwork clock anytime the fiction dictates and you make a GM move. This includes anytime players simply look at you to see what happens, which it sounds like they do a lot. In other words, legwork shouldn’t take two hours: They should see the clock filling up as they argue amongst themselves, hit up contacts, case the site, etc., and it should spur them to action. If they go in unprepared or against a wary target, that complicates things, but it could still be an exciting story. Did the legwork clock not help in this case?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157/6</link>
+        <pubDate>Sun, 15 Sep 2019 22:58:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3157-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157.rss">How to be more proactive as a player</source>
+      </item>
+      <item>
+        <title>How to be more proactive as a player</title>
+        <dc:creator><![CDATA[@empowermint]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/empowermint">@empowermint</a> wrote:</p>
+          <blockquote>
+              <p>I met a Shadowrun MC once whose players specifically enjoyed planning their stings. Rather than sit around waiting for them, he asked them to meet up between sessions to do their planning without him! He said he liked seeing their plan unfurl in play without knowing what it was gonna be.</p>
+<p>It doesn’t sound like this would work for the specific game here, but I did think it was a really interesting approach!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157/5</link>
+        <pubDate>Sun, 15 Sep 2019 17:31:09 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3157-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157.rss">How to be more proactive as a player</source>
+      </item>
+      <item>
+        <title>How to be more proactive as a player</title>
+        <dc:creator><![CDATA[@djinnocide]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/djinnocide">@djinnocide</a> wrote:</p>
+          <blockquote>
+              <p>It’s been brought to my attention that I may have been stingy with the details of this mission, given this group’s lack of experience and proclivities towards being reactionary and not necessarily proactive. That said, I feel like I have tended to struggle with laying out all of the details for a given mission in the handful I’ve run in The Sprawl, but that may be a topic for another thread.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157/4</link>
+        <pubDate>Sun, 15 Sep 2019 15:37:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3157-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157.rss">How to be more proactive as a player</source>
+      </item>
+      <item>
+        <title>How to be more proactive as a player</title>
+        <dc:creator><![CDATA[@djinnocide]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/djinnocide">@djinnocide</a> wrote:</p>
+          <blockquote>
+              <p>Well, I definitely have seen a trend with one of the players struggling with in-character RP, which often comes off as though they’re unsure on how to proceed, so maybe it’s a thing.</p>
+<p>I suppose I could set a time frame on Prep to help expedite things, but there’s also a part of me who wants to make sure they’re getting everything they want out of the Prep. I’ll have to put some thought into that. I’ve often joked with one of my gamer friends who has played with some with this current group that they seem to collectively struggle imagining and formulating plans for things that video games would have just plopped in their laps. <span class="hashtag">#blamevideogames</span></p>
+<p>I don’t think it’s a lack of familiarity with heist games or cyberpunk as a genre as I know for sure they all have an experience with the genre.</p>
+<p>Thanks for the feedback!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157/3</link>
+        <pubDate>Sun, 15 Sep 2019 04:04:06 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3157-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157.rss">How to be more proactive as a player</source>
+      </item>
+      <item>
+        <title>How to be more proactive as a player</title>
+        <dc:creator><![CDATA[@BlakeRyan]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/blakeryan">@BlakeRyan</a> wrote:</p>
+          <blockquote>
+              <p>think yourself lucky, the amount of shadowrun games I had that tanked because my group turned the recon into full assault with no backup plan and insufficient gear… <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/stuck_out_tongue.png?v=9" title=":stuck_out_tongue:" class="emoji" alt=":stuck_out_tongue:"></p>
+<p>hmm i’m thinking maybe formalise the game flow structure abit, either</p>
+<ul>
+<li>okay you’ve got 30 minutes then the mission starts</li>
+<li>one turn each of what prep you’re doing then we go</li>
+</ul>
+<p>any complaints can be met with ‘this is a game not event planning, there will be complications and you don’t know everything, just like in the movies you have to roll with it’.</p>
+<p>are they the same in other games? it may be they are less familiar with the genre, or too familiar and overthink things?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157/2</link>
+        <pubDate>Sun, 15 Sep 2019 03:54:39 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3157-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157.rss">How to be more proactive as a player</source>
+      </item>
+      <item>
+        <title>How to be more proactive as a player</title>
+        <dc:creator><![CDATA[@djinnocide]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/djinnocide">@djinnocide</a> wrote:</p>
+          <blockquote>
+              <p>Tonight my game group and I began what is, we hope, the first of several sessions of The Sprawl. We’re returning to the system after a two year absence, and we hit several obstacles regarding the Legwork Phase that felt like the byproduct of analysis paralysis. This has got me thinking about facilitating and encouraging proactive gameplay at the table and I thought I’d see if any of you might have some tips you use when it comes to helping get players more comfortable with the decision making process in games where a cohesive plan needs to be established.</p>
+<p>Some of my group tends to really have difficulty being proactive about taking the initiative with their character’s actions, and I sometimes feel the urge/responsibility to spoon feed and handhold as a result, which I don’t find particularly enjoyable.</p>
+<p>In the specific case of The Sprawl, I feel like I did my due diligence. After a descriptive intro and a scene laying out The Meeting, I broke it down into its most basic parts, and explained the steps they needed to take during Legwork, but when it came to Identifying Contacts and benefitting from those relationships in a way that would let them formulate a plan, there were more than a couple of moments where they were at a complete loss. I don’t feel that it’s a lack of understanding of the setting or tropes of the genre, so that’s not the issue. I also don’t think it was a struggle to understand the moves. Despite this system’s best efforts to simplify Legwork Phase of a mission based game structure, it still took my group over 2 hours before they were anywhere close to ready to run this mission, and with a game that many claim to run one shots with, I just don’t know how we’d ever be able to accomplish that at this rate.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157/1</link>
+        <pubDate>Sun, 15 Sep 2019 03:13:02 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3157-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/how-to-be-more-proactive-as-a-player/3157.rss">How to be more proactive as a player</source>
+      </item>
+  </channel>
+</rss>

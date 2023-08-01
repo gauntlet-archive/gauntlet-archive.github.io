@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Teaching Lore During Play</title>
+    <link>https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361</link>
+    <description>What are ways to teach players about lore during play that doesn&#39;t involve making them read the lore before or in between sessions? I figured it would be easy to do a little bit at the beginning of the session, like core concepts and some geography, but that it would get tiresome to do lots and lots. 
+
+One idea I have would be to explain things as players encounter things, but that would work for specific things and not for others...</description>
+    
+    <lastBuildDate>Tue, 25 Jun 2019 14:30:14 +0000</lastBuildDate>
+    <category>RPG Chat</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Teaching Lore During Play</title>
+        <dc:creator><![CDATA[@calris]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/calris">@calris</a> wrote:</p>
+          <blockquote>
+              <p>I agree with <a class="mention" href="/u/paul_t">@Paul_T</a> about <em>show, don’t tell</em>. I think lore should either come up directly through play, or should come up only when it would affect play (e.g. it might be good to consider the society and politics of an area before trying to bribe an official).</p>
+<p>To help people keep track of lore we’ve had good success using wikis. Players add their own characters and backstory, and then everyone fleshes out the lore as appropriate. This gives players an opportunity to share the creative work they did during character creation without feeling too much like a homework assignment.</p>
+<p>Players don’t have to do anything else (or even look at it again) but the story guide (and other folks who enjoy writing) can help cross-link back stories, add notes, or even invent new facts out of whole cloth! It is also a handy in-game reference, particularly if it is kept up-to-date with session notes.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361/16</link>
+        <pubDate>Tue, 25 Jun 2019 14:30:14 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2361-16</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361.rss">Teaching Lore During Play</source>
+      </item>
+      <item>
+        <title>Teaching Lore During Play</title>
+        <dc:creator><![CDATA[@Curubethion]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/curubethion">@Curubethion</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="10" data-topic="2361">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/jeremy_strandberg/40/460_2.png" class="avatar"> Jeremy_Strandberg:</div>
+<blockquote>
+<p>By having a procedure to say “I want to accomplish __,” and the GM says “that will require __, __, and __,” you build in a way to establish setting-specific lore just in time, before anyone goes too far down the road of making misinformed plans.</p>
+</blockquote>
+</aside>
+<p>That’s a really cool approach! Because despite the amount of fun I have foisting worldbuilding on players, there’s also a coolness to having a prebuilt setting that players discover the secrets of, and a lot of indie RPG play doesn’t have good tools for that. Love the notion of borrowing the Savvyhead/ritual/whatever mechanics for more general-purpose play!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361/15</link>
+        <pubDate>Tue, 25 Jun 2019 14:10:25 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2361-15</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361.rss">Teaching Lore During Play</source>
+      </item>
+      <item>
+        <title>Teaching Lore During Play</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>I’m a big fan of the “show, don’t tell” approach to revealing lore about a setting.</p>
+<p>There are ways you can build that into play without having to offload it on the players in a direct way. Some of that can be game design and presentation: consider how class choices and equipment lists in D&amp;D, or playbooks in PbtA games, inform the player’s sense of what they’re about to play. Take a look at a playset in <em>Fiasco</em>: sure, there’s all kinds of stuff there that will never see play, but even the stuff we didn’t choose still shapes and affects the nature of what we are about to do together. Those lists help shape the fictional reality we are about to create and/or inhabit.</p>
+<p>But you can do it more directly, too:</p>
+<p>Imagine you want the players to experience and interact with particular cultural or social mores important for your setting. Write out a selection of important standards, morals, or traditions. For each person in your setting, choose one such “standard”, and then roll a die or pick from a list like this:</p>
+<ul>
+<li>This person embodies or enforces this standard to its fullest possible extent, perhaps even to a fault.</li>
+<li>This person suffers because of this standard.</li>
+<li>This person subverts, avoids, or twists this standard.</li>
+<li>This person breaks this standard outright.</li>
+</ul>
+<p>You could even use this as a “random NPC generator”, along with a name or other surface detail.</p>
+<p>For more nuance, flip a coin for “this person supports or enforces this standard” (heads) or “this person questions, doubts, or works against this standard”, to generate eight possible “positions”.</p>
+<p><strong>Example</strong></p>
+<p>One of your “standards” is “only natural-born Citizens can have honour; for an outsider, any act is measured only by those it affects”.</p>
+<p>You roll up a name - “Marian”.</p>
+<p>You roll up a stance - “this person enforces this standard.”</p>
+<p>You roll up a position - “this person suffers because of this standard.”</p>
+<p>That’s pretty interesting! Perhaps Marian is an outsider, never allowed to be seen as honourable, but enforces punishments on Citizens who break the rules of honour. Marian’s outsider status allows him/her/them to perform all kinds of socially-unacceptable activities without loss of honour, but, in turn, means Marian can never reap the rewards of that work.</p>
+<p>Interacting with Marian in any way will immediately cause the PCs to learn about, consider, and confront this particular social more in a fairly interesting and personal way: they’re not consuming prepped content off a page and memorizing facts, but dealing with a real and human story.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361/14</link>
+        <pubDate>Mon, 24 Jun 2019 23:17:40 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2361-14</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361.rss">Teaching Lore During Play</source>
+      </item>
+      <item>
+        <title>Teaching Lore During Play</title>
+        <dc:creator><![CDATA[@noellarh]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/noellarh">@noellarh</a> wrote:</p>
+          <blockquote>
+              <p>Just to clarify, the game I had in mind when I wrote this post has a bunch of lore already written for it, and I specifically wanted to include the lore. So making up the lore at the table isn’t what I was looking for.</p>
+<p>I appreciate all the answers tho! And in most cases that is a great technique to use.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361/13</link>
+        <pubDate>Mon, 24 Jun 2019 18:38:16 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2361-13</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361.rss">Teaching Lore During Play</source>
+      </item>
+      <item>
+        <title>Teaching Lore During Play</title>
+        <dc:creator><![CDATA[@Brendan_Martin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/brendan_martin">@Brendan_Martin</a> wrote:</p>
+          <blockquote>
+              <p>Option: Just let them make it up at the table and roll with it. Maybe frame it with a couple initial bullet points, throw in your own suggestions here and there.</p>
+<p>Advantages:</p>
+<p>More interested players<br>
+Characters who engage and connect with the world<br>
+Reconciling the nonsense people come up with on the fly is fun and easy<br>
+Low prep load<br>
+Honestly, it’ll probably be better than whatever you’d write on your own/what the designer gave you</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361/12</link>
+        <pubDate>Mon, 24 Jun 2019 17:06:28 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2361-12</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361.rss">Teaching Lore During Play</source>
+      </item>
+      <item>
+        <title>Teaching Lore During Play</title>
+        <dc:creator><![CDATA[@bluecrow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/bluecrow">@bluecrow</a> wrote:</p>
+          <blockquote>
+              <p>A little update:<br>
+Saturday I tested out the idea of giving the players the very barebone idea of what the world is about (post-apocalyptic) and asked the player to come up with questions on what is important for them to define in this setting before playing. They came up with roughtly 1 question each and we discussed the answers together. A few more questions came up  later on when some topic became relevant (such as means of transportation) and was quickly answered building on what we alredy knew of the setting.<br>
+All in all I’d say this process took little time, engaged well with the players and took some pressure off me (the master). On the flip side it compelled me to come up with some relevant stuff regarding the story on the fly and that can be a bit tricky if you have to tie the new events to an already prepared dungeon.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361/11</link>
+        <pubDate>Mon, 24 Jun 2019 09:11:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2361-11</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361.rss">Teaching Lore During Play</source>
+      </item>
+      <item>
+        <title>Teaching Lore During Play</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <p>Creating a world together is definitely a great way to do this, and doing the sort of cinematic, storytelling reveal is also great.</p>
+<p>I think, though, that you run into problems with games set in worlds with established lore. Like, if you’re playing Legend of the Five Rings, you’re not going to be asking the players what the samurai code of honor requires, or what their clan is best known for. You’re playing L5R, dammit, and that means playing in a richly detailed world with all sorts of presumed lore.</p>
+<p>And while just-in-time information and gentle corrections are good (probably the best, really), they still can’t handle assumed context very well. Like, imagine that you were 18th-century gentry playing in a “fictional” sci-fi world that was very similar to 21st century America. Your character sheets mention being able to buy all sorts of highly lethal, easily concealed guns. The story involves assassinating a local magistrate. So of course the PCs start to put a plan together that involves sneaking guns into the courthouse.</p>
+<p>The GM knows that the courthouse has metal-detectors and armed guards. But the players are 18th-century gentry, not 21st century citizens, and so they don’t know (or have the context to anticipate) the metal detectors and armed security.  So we could end up with the players making all sorts of plans based on known setting detail (guns!) only to have the GM be like “oh, hey… there are metal detectors and guards here, people queuing up to go through them, what do you do?”</p>
+<p>Now, if the players had shared their plans with the GM, the GM hopefully would have mentioned the metal detectors and guards. But maybe not!  If the GM was just running a scenario and the PCs zigged when the GM expected a zag, the GM might be flipping pages quickly and be just as surprised as the players by this bit of assumed lore.</p>
+<p>I guess my point is:  if you take it as a given that your game has rich, established lore, there need to be solutions for communicating that rich, established lore that doesn’t suck.</p>
+<p>Is I write this, I find myself thinking of the Savvyhead workshop rules, and these two articles:</p>
+<ul>
+<li><a href="http://redmoosegames.blogspot.com/2010/12/whole-world-is-savvyheads-workspace.html" rel="nofollow noopener">The whole world is a Savvyhead’s workshop</a></li>
+<li><a href="https://redboxvancouver.wordpress.com/2010/12/30/designing-quests/" rel="nofollow noopener">Designing Quests</a></li>
+</ul>
+<p>The idea being, have a procedure where the players are like “I want to do __” and the GM provides the requirements. The GM uses those requirements to establish setting lore in bite-sized, contextual pieces.</p>
+<p>If my Victorian role-players said “I say, the best way to deal with that knave of a magistrate would be to sneak some of these remarkable repeating flintlocks into the very municipal building wherein he holds court, and bun him down publicly like the rabid dog that he is!  GM, old chap, how might we accomplish this?”  I might twirl my mustachio, suck on my pipe, and say “<em>Primus</em>, you must first acquire a suitable array of these repeating flintlocks.  <em>Secundus</em>, And you must learn the magistrates schedule and the layout of the courthouse, so that you place yourselves in the correct time.  And <em>tertius</em>, you’ll need a way to avoid the notice of the armed constabulary and slip past those marvelous arches of theirs that detect ferrous metals.”</p>
+<p>“By Jove! How do legitimate citizens pass through these arches? Certainly they are not forced to empty their pockets of cigarette cases and remove their very belts and buckles in public. The indignity!”</p>
+<p>“Quite so, good sir. It seems that this is a reality of the world in which they live! Perhaps it’s a natural cost to having such lethal armaments so freely available.”</p>
+<p>“I say!”</p>
+<p>(sorry, kind of got lost in that little reverie)</p>
+<p>By having a procedure to say “I want to accomplish __,” and the GM says “that will require __, __, and __,” you build in a way to establish setting-specific lore just in time, before anyone goes too far down the road of making misinformed plans.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361/10</link>
+        <pubDate>Tue, 18 Jun 2019 17:54:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2361-10</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361.rss">Teaching Lore During Play</source>
+      </item>
+      <item>
+        <title>Teaching Lore During Play</title>
+        <dc:creator><![CDATA[@jexjthomas]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jexjthomas">@jexjthomas</a> wrote:</p>
+          <blockquote>
+              <p>For me, it’s less “teaching” lore than us coming to understand it together (or build it together). I’m a highly improvisational GM for the most part, so what’s most exciting for me is figuring this stuff out as we go, with a lot of input from my players. That said, I do have my things that I came up with that I’m just super excited about, like the calendar, or a certain bit of history, or a pantheon, that I just can’t wait to share with my players. What I do with that stuff is try really hard to let it come out naturally in play. No one wants to be lectured at or given homework, so how can I use this lore to inform the world? To let it be a living and breathing thing rather than something relegated to history books? Think about movies that do world-building really well. That’s what we want to copy, not books where they have pages and pages to expound on the history of the Seven Kingdoms and which Targaryan was which. We don’t have that kind of time or luxury.</p>
+<p>It might sound silly, but the John Wick movies do world-building really well and really quickly–it’s small details you notice that by themselves don’t mean much but in aggregate tell a bigger story. Or Guillermo del Toro’s best work. Think about how he built the world in Pan’s Labyrinth–there was some narration, sure, but for the most part he just showed us the pieces and it was up to us to put them together. That’s what we should be trying to do with our players.</p>
+<p>What’s that actually look like at the table, though? For me, it’s more about peppering details here and there, about describing the environment and the idiosyncratic customs of the people of the world–nothing too far-fetched, because then it feels silly. Just different enough to be interesting. If I want my players to learn more about a religion, I think about <em>how does that religion express itself through its followers?</em> Through its rites and rituals? What’s its iconography? Those elements give them just enough to “get” it, and to be able to ask questions if they want to know more.</p>
+<p>It’s not necessarily easy (though definitely easier than trying to get them to read pages of stuff), and it’s something I’m still working on, but as with anything, it gets easier the more you do it.</p>
+<p>Hope that was helpful!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361/9</link>
+        <pubDate>Tue, 18 Jun 2019 13:27:52 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2361-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361.rss">Teaching Lore During Play</source>
+      </item>
+      <item>
+        <title>Teaching Lore During Play</title>
+        <dc:creator><![CDATA[@lindevi]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/lindevi">@lindevi</a> wrote:</p>
+          <blockquote>
+              <p>The old writing cliche “show, don’t tell” is useful in this instance; basically, I think you can get a lot of mileage out of explaining thing as players encounter things.</p>
+<p>Don’t describe a “squig” rushing toward the players–describe a snarling, bouncing red ball of teeth that snatches up and swallows the goblin that was riding on its back when it falls off. If that doesn’t give the players the hint that it’s dangerous, you can describe what the character would know about these creatures: “you’ve heard the local populace call them ‘squigs’…”</p>
+<p>You can use skills, talents, and other background details about the characters to elaborate from there, feeding them what they would know or letting them roll for it. The key is to let it happen at the table, as opposed to front-loading it. The same goes for points of etiquette or other setting knowledge. Make sure you don’t punish the players with gotcha moments–warn them before they do something that their character wouldn’t normally do.</p>
+<p>What kinds of things are you thinking that would be difficult to explain as players encounter them?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361/8</link>
+        <pubDate>Tue, 18 Jun 2019 02:20:01 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2361-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361.rss">Teaching Lore During Play</source>
+      </item>
+      <item>
+        <title>Teaching Lore During Play</title>
+        <dc:creator><![CDATA[@bluecrow]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/bluecrow">@bluecrow</a> wrote:</p>
+          <blockquote>
+              <p>I’ve been obsessed with this matter for a a few years now.<br>
+The first solution (and, in many ways, the best) that I found was to create the world together. Played with a group of friends a worldbuilding game called <a href="http://www.clanwebsite.org/games/rpg/Dawn_of_Worlds_game_1_0Final.pdf" rel="nofollow noopener">Dawn of worlds</a> and created quite a good history and world to play in. After that both me and some of the other players wrote a number of one-shots set in our world and played together. it’s fun but requires a lot of work.<br>
+Another solution I’m considering is to have a very general idea of what the world is about and ask the players to tell me what specific topics they find interesting about the world. Kinda like Apocalypse World and many of the PBTAs.<br>
+But I’m still trying to find the right alchemy. I think I’ll keep working on these two models separately for now.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361/7</link>
+        <pubDate>Mon, 17 Jun 2019 22:55:35 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2361-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361.rss">Teaching Lore During Play</source>
+      </item>
+      <item>
+        <title>Teaching Lore During Play</title>
+        <dc:creator><![CDATA[@JasonT]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jasont">@JasonT</a> wrote:</p>
+          <blockquote>
+              <p>Doesn’t make sense for every game, but I get a lot of mileage out of having players make characters who are just as ignorant of the setting as their players. That way players don’t have to fake knowledge, so homework, or make “knowledge rolls”—they just learn whatever their characters learn.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361/6</link>
+        <pubDate>Mon, 17 Jun 2019 15:41:23 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2361-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361.rss">Teaching Lore During Play</source>
+      </item>
+      <item>
+        <title>Teaching Lore During Play</title>
+        <dc:creator><![CDATA[@Hopeless_Wanderer]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/hopeless_wanderer">@Hopeless_Wanderer</a> wrote:</p>
+          <blockquote>
+              <p>I guess it probably depends on the game, intended game-length, playstyle, and other factors, but my favourite way of presenting lore and setting material is the way John Harper does it in <a href="http://www.onesevendesign.com/ghostlines/" rel="nofollow noopener"><em>Ghost Lines</em></a>. The whole game is bursting with lore and setting details, but the three random tables (rumors, patrons, city events) on the last page give enough to run a 30+ session campaign. That’s a pretty major achievement considering the game is only four-pages long. Take a look. It’s an efficient and evocative design.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361/5</link>
+        <pubDate>Mon, 17 Jun 2019 13:24:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2361-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361.rss">Teaching Lore During Play</source>
+      </item>
+      <item>
+        <title>Teaching Lore During Play</title>
+        <dc:creator><![CDATA[@BlakeRyan]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/blakeryan">@BlakeRyan</a> wrote:</p>
+          <blockquote>
+              <p>Generally i break it into dot points, i’d mention the 3-5 major dot points, then let them know their characters can talk to x or y if they want more information.</p>
+<p>If there is a decent amount I want them to get, i’d ask the person with best oration/pitch/charisma etc to read it out.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361/4</link>
+        <pubDate>Mon, 17 Jun 2019 10:29:04 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2361-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361.rss">Teaching Lore During Play</source>
+      </item>
+      <item>
+        <title>Teaching Lore During Play</title>
+        <dc:creator><![CDATA[@Gus.L]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gus.l">@Gus.L</a> wrote:</p>
+          <blockquote>
+              <p>I think it’s partially a question of what you mean by lore?  Details of fictional histories tend not to interest people when they aren’t reading a novel.</p>
+<p>The way I build the setting during play is through creating mysteries and including a lot of unsupported details in my settings that offer places for player theories and player interest.  Generally you can start with thematic imagery and repeated motifs - because at least in traditional fantasy settings players are exploring like archeologists, except to loot and under constant attack by angry skeletons.  This means that learning the source of said skeletons and that their long lost culture has a specific phrase or symbol that keeps the undead at peace becomes valuable in game.  The players will care about the fictional culture and its practices a bit when it helps them…</p>
+<p>So the triangle is sacred and represents peace in the culture whose tombs the party is trashing - they see every tomb surrounded by triangles of charcoal. When assailed by the angry dead a triangle of charcoal can keep them at bay.  The players suddenly start caring about ancient funerary practices.  When they find a door seven session later surrounded by a charcoal triangle they feel smart for recognizing the symbol, get scared about what’s beyond the door and maybe start to wonder how triangle culture got to where they are now?</p>
+<p>I wrote a post about this a few years ago - you can’t force it really, but you can build a thick layer of implied history and lore with imagery/details that can be really helpful once the players decide to care.  It’s all hooks, rumors and secrets - short sentences that have fragmentary value in play. If your players want to be stumbling rubes, unable to find anything useful or worthy of wonder and contemplation in the details of the fantastical world you offer - TPKs are their reward.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361/3</link>
+        <pubDate>Mon, 17 Jun 2019 06:24:25 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2361-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361.rss">Teaching Lore During Play</source>
+      </item>
+      <item>
+        <title>Teaching Lore During Play</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <p>I’ve long thought that a rich, deep lifepath system would do a lot to teach players about the world their characters inhabit.</p>
+<p>Beyond that, I lean on:<br>
+• A short, easily accessible setting guide, and taking ~10 min to let folks read it, at the table, prior to character creation</p>
+<p>• Embedding setting stuff into character creation choices. Having name and/or look lists broken out by region. Having backgrounds that imply ways of life or social structures. Having gear lists that inform about the tech level. Introduction procedures that get players interacting with the setting (See, for example, the initial accomplishment conflict of Dogs in the Vineyard).</p>
+<p>• Setup questions: leading questions that are asked at the beginning of a session or early in a scene, where the question establishes a key setting detail and then prompts for player input. “What do the ancient magic wards on the roads—the ones that repel evil and keep and keep them in good repair—what do they feel like?”</p>
+<p>• Just-in-time info: dropping setting knowledge as it’s needed or as it becomes relevant. “If you’re heading to Gordin’s Delve, you’ll need to bring plenty of coin, to pay for lodging, bribes, and so forth. Nothing up there is free.”  Also, corrections as needed, like “Hold up… its kind of an important detail about the setting that there’s no king or empire anywhere in these parts.”</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361/2</link>
+        <pubDate>Mon, 17 Jun 2019 03:59:56 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2361-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361.rss">Teaching Lore During Play</source>
+      </item>
+      <item>
+        <title>Teaching Lore During Play</title>
+        <dc:creator><![CDATA[@noellarh]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/noellarh">@noellarh</a> wrote:</p>
+          <blockquote>
+              <p>What are ways to teach players about lore during play that doesn’t involve making them read the lore before or in between sessions? I figured it would be easy to do a little bit at the beginning of the session, like core concepts and some geography, but that it would get tiresome to do lots and lots.</p>
+<p>One idea I have would be to explain things as players encounter things, but that would work for specific things and not for others…</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361/1</link>
+        <pubDate>Mon, 17 Jun 2019 02:10:57 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2361-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/teaching-lore-during-play/2361.rss">Teaching Lore During Play</source>
+      </item>
+  </channel>
+</rss>

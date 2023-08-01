@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Dungeon World: Harm vs Hit Points</title>
+    <link>https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910</link>
+    <description>I love the &quot;D&amp;D genre&quot; (or, more accurately, &quot;Dungeon Crawling&quot;) but there are some undesirable holdovers even in 5e. Dungeon World addresses many of these, at least for my taste, and the Homebrew World hack by @Jeremy_Strandberg addresses even more! Races are replaced with Looks, for example, and subclasses or alternate takes on similar classes can be replaced by Backgrounds. 
+
+One of the remaining bits that still frustrates me is the reliance on Hit Points. I was reminded of this in a 5e game yesterday, where a PC Barbarian snuck up behind someone in a dungeon and hit them very hard with an axe, but because their target had 65 HP they didn&#39;t die outright or suffer any immediate fictional effects. This is part of the abstraction of HP, sure, and why D&amp;D combat is sort of its own thing, but it feels odd in fiction-first gaming.
+
+While I&#39;ve never played AW, I understand that it has a more rudimentary system called Harm. I&#39;ve seen this system, or variants on it, in Blades in the Dark and Monster of the Week, which I like quite a bit more for the dual purposes of keeping the rules light as well as keeping the mechanics and fiction in alignment.
+
+Has anyone else already hacked DW this way? How would you go about doing this sort of thing?</description>
+    
+    <lastBuildDate>Tue, 27 Aug 2019 00:49:51 +0000</lastBuildDate>
+    <category>RPG Chat</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Dungeon World: Harm vs Hit Points</title>
+        <dc:creator><![CDATA[@argonaut]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/argonaut">@argonaut</a> wrote:</p>
+          <blockquote>
+              <p>The thing is, DW gives you so many more ways to hurt the PCs besides HP damage. Swords break, innocents are imperiled, buildings catch on fire, all sorts of dire options. Plus, the debility mechanic gives additional choices - break an arm, chop off a leg, etc. HP damage is only one option for making a hard move. I suspect you could never touch their HP and leave a party feeling utterly beset.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/24</link>
+        <pubDate>Tue, 27 Aug 2019 00:49:51 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2910-24</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910.rss">Dungeon World: Harm vs Hit Points</source>
+      </item>
+      <item>
+        <title>Dungeon World: Harm vs Hit Points</title>
+        <dc:creator><![CDATA[@Deckard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deckard">@Deckard</a> wrote:</p>
+          <blockquote>
+              <p>You could rip this option straight from Fellowship. When a character or creature would take “harm”, the characters temporarily lose a move and the creatures lose a tag or a move. When you have no character specific moves left, you are down for the count</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/23</link>
+        <pubDate>Fri, 23 Aug 2019 17:49:09 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2910-23</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910.rss">Dungeon World: Harm vs Hit Points</source>
+      </item>
+      <item>
+        <title>Dungeon World: Harm vs Hit Points</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>Neither of these is great for Dungeon World, but I had a discussion with Vincent a while back about why he chose to use “hit points” for Apocalypse World, and he told me that the “plot immunity” feature was important - that getting hurt still matter, but that PCs get to take some harm “for free” before it actually hurts them.</p>
+<p>It occurred to me that this could be done without hit points, and rewrote Apocalypse World’s rules for harm in a way which feels much more in-line with the rest of the system, to me. I still use these rules!</p>
+<p>Here’s what player-facing harm looks like:</p>
+<aside class="onebox pdf">
+  <header class="source">
+      <a href="https://ihousenews.pbworks.com/w/file/fetch/63408904/Apocalypse%2520harm.pdf" target="_blank" rel="nofollow noopener">ihousenews.pbworks.com</a>
+  </header>
+  <article class="onebox-body">
+    <a href="https://ihousenews.pbworks.com/w/file/fetch/63408904/Apocalypse%2520harm.pdf" target="_blank" rel="nofollow noopener"><span class="pdf-onebox-logo"></span></a>
+<h3><a href="https://ihousenews.pbworks.com/w/file/fetch/63408904/Apocalypse%2520harm.pdf" target="_blank" rel="nofollow noopener">Apocalypse%20harm.pdf</a></h3>
+
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>This was for first edition, so I don’t know if some updates are needed for second edition (I don’t think so, but I haven’t checked).</p>
+<p>And here are the rules for NPCs:</p>
+<p><a href="http://apocalypse-world.com/forums/index.php?topic=9103.0" class="onebox" target="_blank" rel="nofollow noopener">http://apocalypse-world.com/forums/index.php?topic=9103.0</a></p>
+<p>Just some food for thought!</p>
+<p>I have an optional set of rules for Dungeon World, but I haven’t typed them up fully or playtested them (I never ended up playing regular Dungeon World!). I should post them sometime! But I need to type them up fully, first.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/22</link>
+        <pubDate>Fri, 23 Aug 2019 17:00:58 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2910-22</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910.rss">Dungeon World: Harm vs Hit Points</source>
+      </item>
+      <item>
+        <title>Dungeon World: Harm vs Hit Points</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>That’s totally fair! I think it’s absolutely remarkable how much the D&amp;D hit point model has influenced the whole gaming world. I often wonder how things would have gone had the “original” RPG been designed with a deck of cards and visual flowchart resolution (or any other divergent way!). What if we didn’t start with hit points, character abilities, and experience points? How different would RPGs and video games look today?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/21</link>
+        <pubDate>Fri, 23 Aug 2019 16:51:25 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2910-21</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910.rss">Dungeon World: Harm vs Hit Points</source>
+      </item>
+      <item>
+        <title>Dungeon World: Harm vs Hit Points</title>
+        <dc:creator><![CDATA[@technoskald]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/technoskald">@technoskald</a> wrote:</p>
+          <blockquote>
+              <p>Honestly, that’s mostly just my lack of experience leading me just to postulate AW-style harm. Alternatives are welcome and appreciated as I branch out beyond just D&amp;D and its direct descendants.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/20</link>
+        <pubDate>Fri, 23 Aug 2019 16:36:37 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2910-20</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910.rss">Dungeon World: Harm vs Hit Points</source>
+      </item>
+      <item>
+        <title>Dungeon World: Harm vs Hit Points</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>I find it quite interesting that it’s AW-style “harm” that’s being contrasted to hit points in this thread, since AW-style harm is still, more or less, just hit points. There are certainly other ways of handling damage, harm, and death in PbtA-style games. Hit points are mainly included in the game for nostalgia/familiarity reasons (it helps that so many games which have been developed since D&amp;D - board games, RPGs, computer games, even card games! - all borrowed that tradition from D&amp;D) and to allow us to fiddle carefully with different attacks and defenses (otherwise, something like “you take a debility whenever you get wounded” serves just fine).</p>
+<p>I personally find both the “roll to hit, roll to damage, subtract armor -&gt; nothing much happens” pretty unsatisfying, and AW’s “you hit the guy, now let’s calculate the damage and it might be zero, or even guaranteed to be zero” pretty unsatisfying and frustrating.</p>
+<p>I think there are many good alternatives that can be fun to consider! What if harm means you lose access to certain moves or combat options, for example? What if harm makes you more dangerous, right up until it kills you? What if harm doesn’t matter until after the fight, where it determines your position for the next fight? Etc.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/19</link>
+        <pubDate>Fri, 23 Aug 2019 16:16:02 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2910-19</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910.rss">Dungeon World: Harm vs Hit Points</source>
+      </item>
+      <item>
+        <title>Dungeon World: Harm vs Hit Points</title>
+        <dc:creator><![CDATA[@JasonT]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jasont">@JasonT</a> wrote:</p>
+          <blockquote>
+              <p>Been thinking about this a bit. I have one thought on how to keep HP but avoid situations where HP are bad, and two thoughts on how you can replace HP if you still prefer that. So:</p>
+<p><strong>1. The “tell the consequences and ask” move supersedes combat moves</strong></p>
+<p>It might be worth noting here that Apocalypse World (1e, anyway—don’t know if the example made it to 2e) specifically has an example that includes sneaking into a camp and murdering someone who spots you before they can raise an alarm. And in that example, it does <em>not</em> trigger any of the (relatively vaguely triggered) combat moves. I’ve read some online discussions of people trying to parse the triggers for the combat moves to come to some pseudoscientific consensus on why this isn’t “going aggro” or “seizing by force,” but I think it might be helpful to think in terms of the move that was already in play and had yet to be resolved: the MC move, “tell the consequences and ask.” If the MC sets up that ask as “do you do the thing?”, then you can just do the thing, for better or worse. Basically, I’d argue that anytime you don’t want to deal with other moves or mechanisms (like HP), you can shortcut it by just establishing the dilemma and seeing what folks choose.</p>
+<p>Of course, moves or no moves, sometimes I just go, “Yeah, you just do it, don’t bother rolling.” I definitely understand the appeal of playing with rules that puts you in fewer situations where you have to make judgment those calls, though. Which leads me to…</p>
+<p><strong>2. Hacking AW-style harm into your game</strong></p>
+<p>I hacked <a href="https://drive.google.com/file/d/0B7nAXUqkUHp0N2hlSGx0V3BrTkU/view?usp=sharing">World of Dungeons to run Mass Effect</a>, and replaced HP rules with Apocalypse-World-style harm rules. If you want a concise example of how that can be implemented in play, take a look.</p>
+<p>One important thing to note is that the way armor works in AW (and DW, for that matter) is that it’s a flat deduction from damage totals. Apocalypse World mitigates this with its extra harm move step, but I find that cumbersome for games with a lot of fast-paced action scenes, where heroes are expected to shrug off most blows, so I cut it from this hack. My replacement for it is not specified in the rules posted above, so I figured I should note: The GM needs to pay attention to what everybody’s using for gear so when a player says they want to fire their 2-damage pistol at someone protected by a 2-armor suit, the GM can <em>tell them the consequences and ask</em> (“Before you pull the trigger, you notice that their armor would completely absorb the shot—what do you do?”). That little bit of extra GM housekeeping aside, I find AW’s harm rules are pretty easy to port to action games, and work just fine in play.</p>
+<p><strong>3. Replacing hit point damage with conditions</strong></p>
+<p>I personally think rolling for effectiveness (including rolling for damage in Dungeon World and variants) is really fun sometimes, but I too sometimes want something more direct and with less tallying than hit points. I also really hate the specific combination of attack roll <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/arrow_right.png?v=9" title=":arrow_right:" class="emoji" alt=":arrow_right:"> damage roll <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/arrow_right.png?v=9" title=":arrow_right:" class="emoji" alt=":arrow_right:"> flat armor deduction that makes your “successful” attack meaningless. I’d like to try this sometime, and thought you might find it interesting as an alternative:</p>
+<blockquote>
+<p><em>When you suffer damage that might be survivable,</em> compare the damage roll to your armor. If the damage is ≤ your armor, the GM describes a cost or complication from the hit. If the damage exceeds your armor, choose 1 below.</p>
+<ul>
+<li>Take -1 armor until you next rest</li>
+<li>Take an appropriate debility</li>
+<li>Take your <em>last breath</em>
+</li>
+</ul>
+</blockquote>
+<p>Basically, replace HP with expendable resources with established fictional meaning. Higher-value armor can take more wear and tear than lower-value armor, but it can’t save you forever. I don’t think you even need to change anything on the character sheet to make this work (though you’d have an empty space for HP and no explicit place to record armor damage, so maybe you could repurpose that space).</p>
+<p>The biggest drawback to this is that it’s more burdensome on the GM, as DW monsters are typically written up with HP totals and not debility options, and PC-style debilities wouldn’t really work for them (as they don’t have any ability scores to penalize). A quick and dirty fix might be to say that monsters can take some percentage of their HP in generic or improvised “debilities” that are basically just tags that can be exploited—e.g., <em>missing scale</em> or <em>favoring one leg.</em> Half their HP in debilities seems potentially reasonable; if a PC can take 6 debilities, it seems reasonable to me that a 16 HP dragon could take 8.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/18</link>
+        <pubDate>Fri, 23 Aug 2019 15:16:02 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2910-18</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910.rss">Dungeon World: Harm vs Hit Points</source>
+      </item>
+      <item>
+        <title>Dungeon World: Harm vs Hit Points</title>
+        <dc:creator><![CDATA[@Radmad]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/radmad">@Radmad</a> wrote:</p>
+          <blockquote>
+              <p>It sounds like you are running into the philosophical dead end I always approach when I think about a game I’m working on too much: abstracting the game more and more, into such a pure form that it no longer exists and we’re just improvising fiction.</p>
+<p>Perhaps we can redefine the purpose of combat? In DnD, we fight monsters because sliding minis around and chucking dice is awesome. But in a more narrative driven game, we aren’t usually fighting stuff just to kill it. I’m gonna lean on Burning Wheel’s verbal combat rules; at the start of the engagement both parties define what they are trying to achieve, and then they trade (verbal) blows back and forth to prevent their opponent from achieving their goals. If you end the argument with both participants almost at zero “hp”, one side can still win, but must make concessions.</p>
+<p>We could also apply this to physical combat (strangely, Burning Wheel doesn’t, at least in my understanding of the rules it doesn’t). Ex: our caravan is attacked by bandits</p>
+<ul>
+<li>the bandits want to kill the guards so they can steal the loot</li>
+<li>I am a guard, I want to fight off the bandits or otherwise have the caravan escape</li>
+</ul>
+<p>We trade blows back and forth with whatever mechanics we have defined, but instead of just chunking off “hp”, each successful blow is progress towards your goal. If the bandits overcome my resistance (based on my “resist” stats, IE abstracted HP) they subdue the guards and loot the caravan. If the guards scored enough counterhits they managed to weaken the bandit forces so that they can effectively escape or perhaps they reduce the “kill all gaurds” goal to only “subduing the guards, some have escaped to call reinforcements”. Conversely, if the guards win, they drive the bandits off, but the bandits score some good hits which inflicts injuries on the forces so that they must lose resources or travel time tending to the wounded.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/17</link>
+        <pubDate>Tue, 20 Aug 2019 23:24:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2910-17</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910.rss">Dungeon World: Harm vs Hit Points</source>
+      </item>
+      <item>
+        <title>Dungeon World: Harm vs Hit Points</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="12" data-topic="2910">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/technoskald/40/1771_2.png" class="avatar"> technoskald:</div>
+<blockquote>
+<p>In the motivating incident, were I playing it in Dungeon World, the Barbarian would never have rolled Hack &amp; Slash, because they weren’t in melee combat. They would have just dealt their damage - but even then, let’s say they rolled a 10 on their damage die (maximum). Many, many monsters would survive that hit - for example a lightly armored Halfling Thief, RAW. And that feels unsatisfactory to me.</p>
+</blockquote>
+</aside>
+<p>I think this is pretty easily hacked in Dungeon World, per my suggestion for having a Deal Damage move above with this trigger</p>
+<blockquote>
+<p>“When you  <em><strong>harm a foe but don’t murder them outright</strong></em> , roll your damage…”</p>
+</blockquote>
+<p>The “but don’t murder them outright” part adds a moment of decision: would this just kill them?  If so, don’t bother with the damage roll, you just kill them.  Do I think there’s a chance they’ll survive? Okay, roll damage and see how much you mess 'em up.  It’s an arbitrary decision, but it’s one that I feel pretty comfortable making in a DW-style game.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/16</link>
+        <pubDate>Tue, 20 Aug 2019 21:22:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2910-16</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910.rss">Dungeon World: Harm vs Hit Points</source>
+      </item>
+      <item>
+        <title>Dungeon World: Harm vs Hit Points</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="10" data-topic="2910">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/letter_avatar_proxy/v4/letter/a/9de053/40.png" class="avatar"> Airk:</div>
+<blockquote>
+<p>I don’t think cutting HP in half is necessary or necessarily helpful; Or at least, not for what the OP seems to be striving for. It will certainly produce a more gritty, death-filled game, and maybe that is also a thing that you want, but “I want my PCs to feel like they are going to die more often” doesn’t seem like what the OP’s issue was.</p>
+</blockquote>
+</aside>
+<p>I don’t think I explained my proposal very well.  Like, I explained <em>what</em> I was proposing, but not really why.</p>
+<p>If the goal is…</p>
+<ul>
+<li>Keep the various HP, damage, Armor, moves, spells, gear, etc. economies of DW in tact, but…</li>
+<li>Have “taking damage” in DW generate more fictionally interesting results, that aren’t just the GM’s whim</li>
+</ul>
+<p>…then one way to do that is with a Suffer Harm move (ala Apocalypse World).  But adding another roll each time a PC takes harm isn’t great: you’re now often looking at 3 or 4 rolls (e.g. H &amp;S, PC rolls damage, PC suffers damage, PC rolls “Suffer Harm” move).  Lots of handling time.</p>
+<p>So instead, my proposal is to bake “more interesting fictional results” into the process of a PC taking damage, by allowing the PC to declare “I’ll take 1/2 damage, but at the cost of a fictional setback.”  So when I take 8 damage, i can be like “yeah, I’ll take 4 damage and lose something… what do I lose GM?”</p>
+<p>But if you do that without adjusting the Max HP numbers of the PCs, you’re making the PCs a lot more durable, which means they’re less likely to actually invoke the “1/2 damage but I’ll take a complication” clause. If that clause is supposed to be the main way that non-numeric complications get introduced, then that’s bad.</p>
+<p>So: significantly reduce their max HP so that each hit is itself scarier.  If I’m a fighter and I’ve only got 12 HP total, I’m going to strongly consider halving the damage on any given attack that hits me. The net result isn’t a grittier, death-filled game, but rather pressure for the players to invite fictional consequences on themselves.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/15</link>
+        <pubDate>Tue, 20 Aug 2019 21:16:55 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2910-15</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910.rss">Dungeon World: Harm vs Hit Points</source>
+      </item>
+      <item>
+        <title>Dungeon World: Harm vs Hit Points</title>
+        <dc:creator><![CDATA[@Airk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/airk">@Airk</a> wrote:</p>
+          <blockquote>
+              <p>Ironically, that’s not dissimilar to how the damage mechanic works in the game I’m working on.</p>
+<p>Though you’ve just inspired me to go edit the move to ensure that people pause and add description.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/14</link>
+        <pubDate>Tue, 20 Aug 2019 21:16:49 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2910-14</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910.rss">Dungeon World: Harm vs Hit Points</source>
+      </item>
+      <item>
+        <title>Dungeon World: Harm vs Hit Points</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>One good way to fool around with the impact of hit points is to consider their impact on play differently.</p>
+<p>Instead of thinking of what they simulate and represent, think about what role they play in the roleplaying conversation. What do you want them to do, and what do you need to be established?</p>
+<p>Reframe the conversation into something that you find palatable and interesting.</p>
+<p>For instance, consider this different rule:</p>
+<blockquote>
+<p><em>When facing physical harm or danger</em>, you may spend hit points to avoid a sorry fate. Spend as many hit points as the damage rating of the threat you’re facing, and describe one of the following to them (your character options and features may grant your other options):</p>
+<ul>
+<li>Your inhuman reflexes and danger sense allow you to avoid the threat at the last possible moment.</li>
+<li>Your unnaturally resilient body keeps on going, torn and damaged, as though nothing happened.</li>
+<li>Your experience and training allow you to turn the blow aside at the last possible moment.</li>
+<li>Fortune favours you, and somehow the blow avoids damaging anything vital, leaving you far less hurt than anyone would expect.</li>
+</ul>
+</blockquote>
+<p>You can imagine including “your innate magical defenses turn the blow” or “your bound spirits protect your soul” or other similar things, when appropriate.</p>
+<p>In this case, the barbarian would swing, and then it would be up to the target to describe how they get out of the way, so to speak. Same mechanics, but different in-play perception of what’s happening.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/13</link>
+        <pubDate>Tue, 20 Aug 2019 21:12:28 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2910-13</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910.rss">Dungeon World: Harm vs Hit Points</source>
+      </item>
+      <item>
+        <title>Dungeon World: Harm vs Hit Points</title>
+        <dc:creator><![CDATA[@technoskald]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/technoskald">@technoskald</a> wrote:</p>
+          <blockquote>
+              <p>My general issue is that HP is (and always has been) an abstraction of luck, physical resilience, the ability to keep going, etc etc. And to be sure, that’s just part of how D&amp;D combat is and always will be; I’m under precisely zero illusions that WotC will ever “fix” that in a way that would satisfy me, because then it would be a different game.</p>
+<p>But I <strong>am</strong> thinking about how that looks in the fiction in games where that’s more of an issue. In the motivating incident, were I playing it in Dungeon World, the Barbarian would never have rolled Hack &amp; Slash, because they weren’t in melee combat. They would have just dealt their damage - but even then, let’s say they rolled a 10 on their damage die (maximum). Many, many monsters would survive that hit - for example a lightly armored Halfling Thief, RAW. And that feels unsatisfactory to me.</p>
+<p>An alternate way, I suppose, would be to ignore the numbers entirely: “You bring the axe down into your opponent’s back and… oh, well, let’s just say they die”. I believe firmly in “say yes or roll”, but at that point, why do we have HP at all?</p>
+<p>Another way - one I find even further afield from the spirit of PbtA - is to somehow incorporate critical hits. That way lies madness, I think (even if it makes tons of sense in other games).</p>
+<p>I’m kind of arguing with myself, which is really why I ended up posting here. Really enjoying the thoughtful replies and discussion!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/12</link>
+        <pubDate>Tue, 20 Aug 2019 19:49:26 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2910-12</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910.rss">Dungeon World: Harm vs Hit Points</source>
+      </item>
+      <item>
+        <title>Dungeon World: Harm vs Hit Points</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>I should probably post some of my hacks here; I’ve messed around with harm and horn points a lot!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/11</link>
+        <pubDate>Tue, 20 Aug 2019 18:14:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2910-11</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910.rss">Dungeon World: Harm vs Hit Points</source>
+      </item>
+      <item>
+        <title>Dungeon World: Harm vs Hit Points</title>
+        <dc:creator><![CDATA[@Airk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/airk">@Airk</a> wrote:</p>
+          <blockquote>
+              <p>I don’t think cutting HP in half is necessary or necessarily helpful; Or at least, not for what the OP seems to be striving for.  It will certainly produce a more gritty, death-filled game, and maybe that is also a thing that you want, but “I want my PCs to feel like they are going to die more often” doesn’t seem like what the OP’s issue was.</p>
+<p>I think creating a Harm move will probably help a lot though.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/10</link>
+        <pubDate>Tue, 20 Aug 2019 17:56:54 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2910-10</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910.rss">Dungeon World: Harm vs Hit Points</source>
+      </item>
+      <item>
+        <title>Dungeon World: Harm vs Hit Points</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="8" data-topic="2910">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/jasont/40/227_2.png" class="avatar"> JasonT:</div>
+<blockquote>
+<p>if it’s as simple as adding an analogous harm move. I don’t say the <em>same</em> harm move because in a game with likely more frequent combat, three rolls per attack would get old fast. But what if “deal your class damage and an appropriate effect” were written into moves like hack and slash? Or a more general move like, “When you deal damage…” Or even if the “deal damage” GM move were removed in favor of your approach of only dealing damage as a side effect?</p>
+</blockquote>
+</aside>
+<p>Maybe something like this?</p>
+<ol>
+<li>Cut all PC HP in half, putting the range of Max HP somewhere in the 7-12 range.</li>
+<li>Keep monster damage as-is.</li>
+<li>Make <strong>Take Damage</strong> a PC-facing move, something like:</li>
+</ol>
+<blockquote>
+<h3>Take Damage</h3>
+<p>When you are <em><strong>injured, roughed up, or otherwise suffer harm</strong></em>, the GM will tell you how much<br>
+damage you take, along with any additional effects. Reduce the damage by your armor (if any) and lose that many HP.</p>
+<p>If you want, pick one of the following to reduce the damage by 1/2 (round up):</p>
+<ul>
+<li>Lose something (your footing, your position, or your grip, etc.)</li>
+<li>Something on your person breaks</li>
+<li>You miss something or lose track of something important<br>
+Whatever you choose, the GM decides on the specifics.</li>
+</ul>
+</blockquote>
+<ol start="4">
+<li>
+<p>Change <strong>Last Breath</strong> so that a 10+ means you wrest yourself back to the realm of the living (maybe marked, but otherwise okay), and a 7-9 means you’re still alive but have suffered a critical wound, and 6- means you’re dead unless you can convince Death to spare you.</p>
+</li>
+<li>
+<p>And, to address the original problem of HP damage vs the barbarian straight-up murdering a guy, have <strong>Deal Damage</strong> be a player move and include some sort of qualifier like this:</p>
+</li>
+</ol>
+<blockquote>
+<h3>Deal Damage</h3>
+<p>When you <em><strong>harm a foe but don’t murder them outright</strong></em>, roll your damage and say the result (plus any tags like messy, forceful, etc.). The GM will reduce the victim’s HP by that amount (less armor) and either describe the result or ask you to do so.</p>
+<p>When a creature is reduced to 0 HP, they are out of the action: dead, unconscious, cowering, etc.</p>
+</blockquote>
+<p>I’m not quite sure how this would interact with monster moves and tags like <em>messy</em> or <em>forceful</em>, but it does have the advantage of letting the GM just “deal damage” with a monster and then the player’s can choose to halve the damage and introduce fictional consequences.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/9</link>
+        <pubDate>Tue, 20 Aug 2019 16:51:44 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2910-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910.rss">Dungeon World: Harm vs Hit Points</source>
+      </item>
+      <item>
+        <title>Dungeon World: Harm vs Hit Points</title>
+        <dc:creator><![CDATA[@JasonT]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jasont">@JasonT</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group quote-modified" data-post="7" data-topic="2910">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/jeremy_strandberg/40/460_2.png" class="avatar"> Jeremy_Strandberg:</div>
+<blockquote>
+<p>Like, in AW, I don’t decide that you’ve suffered a punctured lung just because I made a hard GM move… I decide that you’ve suffered a puncture lung because 1) you’ve suffered 4 harm (unstable) and 2) the Suffer Harm move has indicated that you are out of the action, and 3) the punctured lung makes fictional sense as an explanation to both of those things.</p>
+<p>Contrast that with DW, where […] there’s no <em>mechanic</em> that specifically prompts me to say “well, they’ve suffered a critical wound and are stunned until someone helps them, let me think what fiction would describe that…”</p>
+</blockquote>
+</aside>
+<p>I wonder if it’s as simple as adding an analogous harm move. I don’t say the <em>same</em> harm move because in a game with likely more frequent combat, three rolls per attack would get old fast. But what if “deal your class damage and an appropriate effect” were written into moves like hack and slash? Or a more general move like, “When you deal damage…” Or even if the “deal damage” GM move were removed in favor of your approach of only dealing damage as a side effect?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/8</link>
+        <pubDate>Tue, 20 Aug 2019 16:31:02 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2910-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910.rss">Dungeon World: Harm vs Hit Points</source>
+      </item>
+      <item>
+        <title>Dungeon World: Harm vs Hit Points</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <p>The idea of just flattening the “rolled HP damage” into a static number is one that comes up pretty often in DW, but I’d consider it to be a superficial patch that doesn’t have much positive impact on the game.</p>
+<p>The positives:</p>
+<ul>
+<li>Reduced handling time (“take 3 damage” instead of “take d8 damage”)</li>
+<li>Less counting/smaller numbers (e.g. subtracting 3 from 6 is easier for many people than subtracting 11 from 23)</li>
+<li>You could theoretically make a conversion formula without having to rewrite the entire DW game (e.g. d4 = 1 harm, d6 = 2 harm, d8 = 3 harm, etc.)</li>
+</ul>
+<p>The downside (and it’s a big one, I think) is that without <em>also</em> fiddling around with the violence moves (H&amp;S, Volley, Defend), you end up with static damage and armor numbers, which makes violence less of a gamble and more of a cost/benefit analysis.  You lose the tension of wondering “<em>will THIS hit drop me?</em>” and the surprise/shock of “<em>holy crap, 14 damage?!?</em>”  and instead get “<em>well, I’ve got 2 armor and they deal 3 damage… I can’t safely take 3 hits from them before it really starts to matter.</em>”</p>
+<p>More importantly, I think, it doesn’t get rid of what people actually dislike about HP: the fact that you can just “lose HP” and the fiction isn’t really impacted by it until/unless you run out, or until/unless the GM arbitrarily decides to inflict fictional trouble <em>along with the HP</em> (which is the solution I’ve settled on: <a href="https://spoutinglore.blogspot.com/2019/01/deal-damage-is-crap-gm-move.html" rel="nofollow noopener">don’t ever just “deal damage;” make a GM move where dealing damage is a side-effect</a>).</p>
+<p>So why does the Harm system in Apocalypse World work where just smaller, flatter numbers don’t really work for DW?  For starters, consider what Apocalypse World does:</p>
+<ul>
+<li>When an NPC suffers harm, the fictional results of that harm are intentionally vague. 2-harm involves “serious wounds, likely fatal, occasionally immediately fatal.”  For 3-harm “give it 50-50 that it’s immediately fatal; otherwise, terrible wounds, shock, death soon.”  So when an NPC suffers harm, the rules don’t say exactly what happens, and the GM has to make a decision (informed by the established fiction and their principles, namely <strong>look through crosshairs</strong>).</li>
+<li>Most of the basic and battle moves that involve Harm involve <em>trading</em> harm, with the results of the roll and choices made by the player/GM that modify the amount of Harm suffered.  This adds an element of uncertainty, which brings back the risk/gamble.</li>
+<li>When a PC suffers harm, even 0 or negative harm, they make a roll (+Harm suffered) to see what the unexpected outcomes are. On a 10+ is bad: +1 harm or you’re out of it or two 7-9 results; a 7-9 is a complication (lose something, miss something, etc.); 6- means maybe you got lucky and took less harm in exchange for a complication.</li>
+<li>PCs have plot armor that NPCs don’t. They suffer harm at a drastically reduced scale (wounds that are likely fatal to NPCs are merely bruises and shit that’ll get better with time for PCs). PCs can basically ignore the first 1 or 2 points of harm; a 3rd point will have repercussions but they can keep going; 4+ harm is unstable and the better do something about it.</li>
+</ul>
+<p>So the system is quite hand-wavy with regards to what happens when NPCs suffer harm, making it a GM call and encouraging them to be ruthless towards those NPCs.  It bakes uncertainty into the basic/battle moves, and uses the Suffer Harm move to add surprises and more uncertainty into act of PCs suffering harm.  But it also gives the PCs a bit of plot armor that removes decision making from the GM.</p>
+<p>Like, in AW, I don’t decide that you’ve suffered a punctured lung just because I made a hard GM move… I decide that you’ve suffered a puncture lung because 1) you’ve suffered 4 harm (unstable) and 2) the Suffer Harm move has indicated that you are out of the action, and 3) the punctured lung makes fictional sense as an explanation to both of those things.</p>
+<p>Contrast that with DW, where the only thing that leads to a PC with a punctured lung is my decision to inflict that kind of injury. Yes, yes, of course I’m taking into account the fiction and the tags and my monster moves, but there’s no <em>mechanic</em> that specifically prompts me to say “well, they’ve suffered a critical wound and are stunned until someone helps them, let me think what fiction would describe that…”  (I guess there’s Last Breath, but that brings in the whole bargain with Death thing… awesome, but not the same.)</p>
+<p>And <em>THAT</em> is that I think people are groping towards when they say that they want something other that HP in Dungeon World:  they want something that will keep the tension and the surprises, something that will prompt the GM to inflict fictional badness and raise the stakes.  But also something that will protect the PCs a little bit, so that the fictional badness/raised stakes are <em>looming</em> but not immediately present.</p>
+<p>So… how to do it without rewriting the game?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/7</link>
+        <pubDate>Tue, 20 Aug 2019 15:55:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2910-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910.rss">Dungeon World: Harm vs Hit Points</source>
+      </item>
+      <item>
+        <title>Dungeon World: Harm vs Hit Points</title>
+        <dc:creator><![CDATA[@technoskald]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/technoskald">@technoskald</a> wrote:</p>
+          <blockquote>
+              <p>That looks a <strong>lot</strong> like the rules for Scarlet Heroes, also by Kevin Crawford, which is designed to enable solo play (with or without a GM) and make the math work for playing thru old D&amp;D modules. In fact, I’m like 99% sure it’s the same thing, possibly smoothed out slightly. I don’t know how well it would transfer to DW, but it’s an interesting approach.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/6</link>
+        <pubDate>Tue, 20 Aug 2019 02:29:48 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2910-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910.rss">Dungeon World: Harm vs Hit Points</source>
+      </item>
+      <item>
+        <title>Dungeon World: Harm vs Hit Points</title>
+        <dc:creator><![CDATA[@JasonT]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jasont">@JasonT</a> wrote:</p>
+          <blockquote>
+              <p>I think you can get around the issues with “hit points stink sometimes” without redesigning the game, or even changing the rules. The example of the barbarian sneak attack in the original post <em>shouldn’t</em> happen that way in DW: You aren’t in a hack and slash melee, so you’re not triggering the move; you’re inviting the GM to make a GM move that makes sense in the fiction. The GM could choose “deal damage as established” (or however it’s phrased in DW), but then would have to make a judgment call about what a sneak attack with a huge axe even means for HP. Me, I’d choose something like “announce off screen badness” because it’s unlikely to be quiet; maybe others nearby heard a sound like a butcher just snuck in to set up shop. No damage roll even called for unless the target was a super badass, and even then, I’d want to signal “this guy’s so good, he smelled your approach” to explain why it didn’t just kill him. Always trying to give a little helpful (even if unwelcome) info with each GM move.</p>
+<p>I suspect it does require some practice for DW GMs to get into this way of thinking, but at least the game does hand you some tools in the form of GM moves to encourage it. I’m not sure that D&amp;D 5e is really built to guide DMs in making that kind of call.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/5</link>
+        <pubDate>Tue, 20 Aug 2019 00:59:21 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2910-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910.rss">Dungeon World: Harm vs Hit Points</source>
+      </item>
+      <item>
+        <title>Dungeon World: Harm vs Hit Points</title>
+        <dc:creator><![CDATA[@DeusExBrockina]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deusexbrockina">@DeusExBrockina</a> wrote:</p>
+          <blockquote>
+              <p>Jeremy’s points are all dead on-- there would be a LOT of ripple effects you’d have to sort out trying to hack Dungeon World to not use HP.</p>
+<p>Since he’s already listed all the points I could think of, I’ll add my two cents and say there <em>is</em> a published dungeon crawl PbtA game out that does use harm instead of HP-- <em>Legacy: Rhapsody of Blood,</em> which I’m at least a fan of. It’s focused almost entirely on dungeon play, so it’s not a great candidate if you want that traditional D&amp;D “roaming the world doing this and that” kind of vibe. But, is it possible to make a PbtA (if not DW-descendant) game that uses lighter math than DW? Sure.</p>
+<p>Edit: Ah also <em>Fellowship.</em> It’s more of a <em>Lord of the Rings</em> vibe and there’s less focus on colorful class options and abilities than you’d get in Dungeon World or D&amp;D, but it’s also a fantasy PbtA game that uses harm/conditions. I guess to tie it back to your original question, I do think it’d be quite a task to mess with <em>Dungeon World’s</em> structure, but there are a couple adjacent options out there if you’re interested.</p>
+<p>Oop, double edit!: It occurred to me that Stars Without Number has an option for “heroic play” that has various additional rules to make the PC’s more powerful, including a system that truncates the weapon die into flat damage numbers. I guess someone could theoretically go through and create a similar formula for DW? <div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/2/2ff42c8e2153f89c3a2c21b7d00ef3831b10ce82.jpeg" data-download-href="/uploads/short-url/6QdA3Cux1bqu7coGjbCVL2y3Sng.jpeg?dl=1" title="image"><img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/2/2ff42c8e2153f89c3a2c21b7d00ef3831b10ce82_2_504x500.jpeg" alt="image" data-base62-sha1="6QdA3Cux1bqu7coGjbCVL2y3Sng" width="504" height="500" srcset="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/2/2ff42c8e2153f89c3a2c21b7d00ef3831b10ce82_2_504x500.jpeg, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/2/2ff42c8e2153f89c3a2c21b7d00ef3831b10ce82_2_756x750.jpeg 1.5x, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/2/2ff42c8e2153f89c3a2c21b7d00ef3831b10ce82_2_1008x1000.jpeg 2x" data-small-upload="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/2/2ff42c8e2153f89c3a2c21b7d00ef3831b10ce82_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1125×1114 394 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/4</link>
+        <pubDate>Mon, 19 Aug 2019 23:25:21 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2910-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910.rss">Dungeon World: Harm vs Hit Points</source>
+      </item>
+      <item>
+        <title>Dungeon World: Harm vs Hit Points</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <p>I’ve given it a fair bit of thought, but I’ve ultimately backed away from doing it with DW or any direct-decedent (like Homebrew World or Stonetop).  The HP/armor/damage/healing economy is really deeply ingrained to the game’s mechanics; replacing HP with Harm in anything but a superficial way ends up having serious ripple effects.  You have to rewrite/rethink:</p>
+<ul>
+<li>Basic moves (specifically H&amp;S, Volley, and Defend)</li>
+<li>Peripheral/special moves (Make Camp, Recover, etc.)</li>
+<li>Class-specific moves that deal with damage, armor, or healing</li>
+<li>Gear, specifically armor &amp; weapons (and tags like <em>piercing X</em>)</li>
+<li>Healing supplies (bandages, poultice, healing potions)</li>
+<li>Spells (both damage-dealing and healing, but also things like <em>summon monster</em>)</li>
+<li>Monster stats (damage, HP, armor, damage tags like <em>piercing X</em>)</li>
+<li>Monster creation guidelines</li>
+</ul>
+<p>…and at that point, you’re making a new game, one that’s not easily compatible with existing DW material.</p>
+<p>Even if you’re willing to do all of the above, you have to consider constraints of the “dungeon crawling” genre, with it’s central conceit of “leave civilization/safety, explore a dangerous locale with a small group of allies, while resources dwindle.”  And within that conceit, you’ve got to decide on tone: do you want…</p>
+<ul>
+<li>Heroic action-hero PCs who can wade through multiple fights per adventure without being killed or maimed</li>
+<li>Squishy PCs who have to carefully avoid traps and fair fights, living by their wits and caution?</li>
+<li>Or something in between?</li>
+</ul>
+<p>…and then you’ve got to hone your HP/Harm system to reflect that.</p>
+<p>You’ve also got to account for the fact that foes in D&amp;D style games cover an enormous range of durability and defensive capability, from a extremely splattable pixies to putzy bandits to master fencers to chaos oozes to 30-ft-tall animated oak trees to… whatever.  I’m not saying that DW’s HP and armor are necessarily <em>good</em> at reflecting these things, but if you’re making a new system, it shouldn’t be <em>worse</em>.</p>
+<p>I’d also challenge anyone working on this to…</p>
+<ul>
+<li>Keep DW’s concept of “damage-by-class” rather than damage based on weapon.</li>
+<li>Find a way to let the damage/armor/harm and combat moves “scale up” to cover squad-level exchanges in addition to blow-by-blow individual skirmishes <em>(this is one of the things that AW’s harm system does beautifully)</em>
+</li>
+<li>Avoid a death spiral for PCs, or at least make the death spiral <em>interesting and relevant</em> to the type of play you’re looking for</li>
+</ul>
+<p>I’ve got some rough ideas of what this might look like in a DW-style game, but none of them are tested. Which is why I’ve largely kept to HP and Armor and damage dice in my hacks.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/3</link>
+        <pubDate>Mon, 19 Aug 2019 23:09:34 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2910-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910.rss">Dungeon World: Harm vs Hit Points</source>
+      </item>
+      <item>
+        <title>Dungeon World: Harm vs Hit Points</title>
+        <dc:creator><![CDATA[@BlakeRyan]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/blakeryan">@BlakeRyan</a> wrote:</p>
+          <blockquote>
+              <p>In Urban Shadows you have 5 Harm (Health) boxes, and weapons do 1 to 3 Harm.</p>
+<p>In Monster of the Week you have 7 Harm (Health) boxes, and weapons do 1 to 4 Harm.<br>
+You have Luck to avoid a blow or reroll.</p>
+<p>In both cases you are not rolling damage, but more importantly you are not expected to go through 2-4 combats before resting, which is the heroic style-presumption of D&amp;D/Dungeon World. While MOTW does lean more towards Heroic genre (because of Luck) than Urban Shadows, you can still be taken out of a single fight very quickly.</p>
+<p>For me the key with PBTA is always the moves, half their health is less important than a limb being broken, withered, mangled or missing, all of which you can do with a 6-. That’s harsh you may say, but the hero is still in the fight, but it makes them realise Hey this is not a cuddle, this critters/scumbags are trying to wreck your day.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/2</link>
+        <pubDate>Mon, 19 Aug 2019 22:06:01 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2910-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910.rss">Dungeon World: Harm vs Hit Points</source>
+      </item>
+      <item>
+        <title>Dungeon World: Harm vs Hit Points</title>
+        <dc:creator><![CDATA[@technoskald]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/technoskald">@technoskald</a> wrote:</p>
+          <blockquote>
+              <p>I love the “D&amp;D genre” (or, more accurately, “Dungeon Crawling”) but there are some undesirable holdovers even in 5e. Dungeon World addresses many of these, at least for my taste, and the Homebrew World hack by <a class="mention" href="/u/jeremy_strandberg">@Jeremy_Strandberg</a> addresses even more! Races are replaced with Looks, for example, and subclasses or alternate takes on similar classes can be replaced by Backgrounds.</p>
+<p>One of the remaining bits that still frustrates me is the reliance on Hit Points. I was reminded of this in a 5e game yesterday, where a PC Barbarian snuck up behind someone in a dungeon and hit them very hard with an axe, but because their target had 65 HP they didn’t die outright or suffer any immediate fictional effects. This is part of the abstraction of HP, sure, and why D&amp;D combat is sort of its own thing, but it feels odd in fiction-first gaming.</p>
+<p>While I’ve never played AW, I understand that it has a more rudimentary system called Harm. I’ve seen this system, or variants on it, in Blades in the Dark and Monster of the Week, which I like quite a bit more for the dual purposes of keeping the rules light as well as keeping the mechanics and fiction in alignment.</p>
+<p>Has anyone else already hacked DW this way? How would you go about doing this sort of thing?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910/1</link>
+        <pubDate>Mon, 19 Aug 2019 18:40:38 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2910-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/dungeon-world-harm-vs-hit-points/2910.rss">Dungeon World: Harm vs Hit Points</source>
+      </item>
+  </channel>
+</rss>

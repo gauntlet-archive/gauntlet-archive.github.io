@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>OSR and the New GM</title>
+    <link>https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408</link>
+    <description>My superficial question is essentially &quot;what game systems do you recommend for the new GM wanting to run a variety of published OSR adventures?&quot; But I think that really only hints at what I&#39;m interested in discussing. 
+
+_Feel free to skip to the end for the TL;DR version._
+
+From time to time I see people commenting on various game systems and stating that they support the GM or that they wish that the system did a bit better at supporting the GM. What does this actually mean in practice? Does it have to do with the way heavier systems go into detail in laying down rules and guidance on managing the system&#39;s bits and bobs? DCC&#39;s core book is something close to 500 pages. Knave is what... 7? And out of that approximately half the page count belongs to tables and the spell list. Personally, I&#39;m really attracted to low-complexity systems that do what they need when needed but otherwise stay out of the way, so I&#39;ve been looking with interest at a lot of the rules light systems. But I&#39;m also really inexperienced and suspect that while a rules-light system might be ideal for me in the long run, they might leave me floundering as I learn the basics of running games. What should I really be focusing on to make life and learning a new skill set easier?
+
+Related to this, I read a post on The Alexandrian blog titled [&quot;System Matters&quot;](https://thealexandrian.net/wordpress/43568/roleplaying-games/game-structures-addendum-system-matters). It discusses how, &quot;Arneson &amp; Gygax spelled out a very specific procedure for running dungeons in the original edition of  *Dungeons &amp; Dragons*&quot; and then contrasts that against the current D&amp;D5e beginner adventure, &quot;The Lost Mines of Phandelver.&quot; The author claims that Phandelver does a great job for the new DM in many areas, but then:
+
+&gt; ...the step-by-step instructions for how you’re actually supposed to *use* this material? It simply… stops. The designers clearly expect, almost certainly without actually consciously thinking about it, that how you run a dungeon is so  *obvious*  that even people who need to be explicitly told that they should read the boxed text out loud don’t need to be told how to run a dungeon.
+&gt; 
+&gt; And because they believe it’s obvious, they don’t include it in the game.  And because they don’t include it in the game, new DMs don’t learn it. And, as a result, it *stops* being obvious.
+
+My own experience was an attempt to run a D&amp;D5e adventure for my teenage kids. The kids had fun. I had fun. That&#39;s a success, right? But, despite the immediate fun of the session, the experience left me really dissatisfied in a number of ways—the juggling of monster stat-blocks, the focus on balanced encounters, and the struggle that new players have in terms of learning to use their character mechanics, to name a few—and motivated my discovery of Dungeon World, PbtA, and—off on the distant horizon—old school games. DW and AW brought into focus a lot of GM ideas that which were completely new to me despite having spent a couple months reading up on how to run a D&amp;D5e session. From there Jason Lutes&#39; DW supplements introduced me to some old school ideas, like higher lethality, lower-fantasy, and more exploration focused adventures. Finally I&#39;ve been dipping into the weird and less stereotypically fantasyland material of OSR modules and it&#39;s been really exciting. But I haven&#39;t a clue how to approach learning to run this stuff.
+
+## TL;DR Highlights
+
+The resources for learning how to run PbtA games are readily apparent, both from the books, themselves, and from supplementary materials within the community. But approaching old-school RPGs isn&#39;t as clear to me. I guess what I&#39;m looking for is insight into the following concerns from an OSR &amp; OSR-adjacent perspective:
+- Support for beginning GMs
+  + Which systems provide a greater or lesser degree of it?
+  + What supports exist, or what does it actually mean for a system to be easier to run?
+- Running of published old-school adventures with minimal adaptation
+  + What things make a system more amenable to running existing modules?
+- Trade-offs between rules light systems vs more traditional retro-clones
+- What&#39;s going to make a module easier or harder to run?
+  + I absolutely love the madness of Silent Titans, but I have a feeling it would be a brutal experience for a new GM.
+  + Tomb of the Serpent Kings states that it&#39;s primarily a teaching dungeon for new players rather than new GMs.
+     * What makes it less suitable for new GMs?
+     * What are some adventures that are more suitable for new GMs?
+
+If you&#39;re still here, thanks for reading. And thanks in advance for any insight you share.</description>
+    
+    <lastBuildDate>Thu, 10 Oct 2019 21:10:29 +0000</lastBuildDate>
+    <category>RPG Chat</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>OSR and the New GM</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>When someone uses a loaded term like “boring”, it’s pretty hard to know what they actually mean without getting into it in some more detail. One GM might get excitement out of careful and detailed world-building, or portraying NPCs, or playing around with monster design, while another might find excitement in sitting quietly and observing the antics of the players. Perhaps this person really enjoys the highly random nature of some of DCC’s rules, for instance (they can generate some pretty wild outcomes under the right conditions!), or perhaps they really enjoy the material in the modules they’re running. Hard to say without more detail!</p>
+<p>For instance, I would find running a very heavily GM-led railroaded game pretty boring, because I’m almost never going to be surprised by what the players are bringing to the table: the outcomes of the story at play are all pretty much in my hands. But another person might love that style of play, because they get to <em>talk</em> pretty much all the time, and therefore are constantly engaged. Boredom and interests are very personal and subjective things!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/74">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/74</link>
+        <pubDate>Thu, 10 Oct 2019 21:08:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3408-74</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408.rss">OSR and the New GM</source>
+      </item>
+      <item>
+        <title>OSR and the New GM</title>
+        <dc:creator><![CDATA[@Airk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/airk">@Airk</a> wrote:</p>
+          <blockquote>
+              <p>This is a fascinating observation, since I just today ran into someone asserting that Blades in the Dark was “Boring to GM” and recommending Dungeon Crawl Classics (Which by my understanding is at least somewhat “OSR”). It gives me a little bit of cognitive dissonance – I wonder what tasks that person finds interesting as a GM.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/73">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/73</link>
+        <pubDate>Thu, 10 Oct 2019 20:55:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3408-73</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408.rss">OSR and the New GM</source>
+      </item>
+      <item>
+        <title>OSR and the New GM</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>Another important consideration for OSR-style play is that the GM’s role as referee means that your engagement with the game is far more <em>passive</em> than in most other RPGs.</p>
+<p>You’re not responsible for creating drama, dictating pacing, or engaging and exciting the players. Your job is to present the material fairly and to adjudicate outcomes - not to create excitement at the table. You can enjoy hamming it up and being a personality as much or as little as you like, but the part that will make you a successful OSR has little to do with the “performance” of the game as entertainment. Far more important is to be able to adjudicate outcomes fairly so as to enable the players to meet challenges and tests their skills, wits, and luck against them.</p>
+<p>It’s not uncommon for the GM to sit in silence with the party draws up a plan of their next escapade, for example, and it’s entirely good and correct to expect the players to be the ones driving the action forward. In many ways, it’s much more passive role than GMing other styles of RPG play, and it’s OK to embrace that - the challenge of adjudication and being a good referee should be your focus. I’ve seen tremendously effective OSR GMs who are fairly quiet, do little description, and never act out NPCs, for example. You don’t <em>have</em> to take that approach, but it’s available to you: when you run a game in this style, be prepared to sit back and ask “what do you do?” a whole lot.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/72">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/72</link>
+        <pubDate>Thu, 10 Oct 2019 20:44:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3408-72</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408.rss">OSR and the New GM</source>
+      </item>
+      <item>
+        <title>OSR and the New GM</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>I think that the most effective perspective on OSR gaming is to see it as a game which is fundamentally about <em>confronting challenge</em>.</p>
+<p>There are obstacles, dangers, and rewards to be won. The GM is the ‘referee’, whose job it is to adjudicate as fairly as possible, allowing the players to engage their wits and their luck in order to face these challenges and try to win/overcome. Mechanical consequences like death and Experience Points act as the “score” of the game, lending particular weight to certain outcomes.</p>
+<p>While this oversimplifies some aspects of OSR play, I think it’s a really useful focusing tool, and thinking about the game in these terms helps understand and modulate everything about your play. Start to look at the game in terms of challenges and a referee that adjudicates their resolution as fairly as possible, and so many other aspects fall into place. This simple metric allows you to cut through all kinds of typical dilemmas and challenges, and to uncover some really great fundamental principles about this style of game. My OSR play (both as referee and as player) has improved by an order of magnitude after I started considering it in these terms.</p>
+<p>I just started a thread about a really fantastic “bare-bones” examples of fun OSR play, which I will link to here - it illustrates a lot basic concepts as well as the basic joy of this style of play in a really clear and entertaining way. You can see how much sheer <em>weight</em> the victories and defeats the players face carry when there are challenges which can be legitimately faced and resolved, without anyone pulling their punches. It’s something that’s very rare in other styles of play.</p>
+<aside class="quote quote-modified" data-post="1" data-topic="3631">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="/user_avatar/forums.gauntlet-rpg.com/paul_t/40/1825_2.png" class="avatar">
+    <a href="https://forums.gauntlet-rpg.com/t/the-osr-in-vivid-colour-the-fellowship-of-the-bling/3631">The OSR in Vivid Colour: The Fellowship of the Bling</a> <a class="badge-wrapper  bullet" href="/c/rpg-chat"><span class="badge-category-bg" style="background-color: #0088CC;"></span><span style="" data-drop-close="true" class="badge-category clear-badge" title="Chat about actual play of, prepping to play, and running of LARPs and RPGs.">RPG Chat</span></a>
+  </div>
+  <blockquote>
+    I know some people here are curious about the “OSR”, which is about a lot of different things. One of those things is returning to older versions of games and trying to play them “by the book”. 
+Here’s a wonderful Actual Play account of such a game over on <a href="http://RPG.net" rel="nofollow noopener">RPG.net</a>: a group has decided to take on this challenge of playing an old version of D&amp;D rules as “by the book” as possible. They eventually start naming all their characters using names from the Lord of the Rings, which adds to the fun. 
+Not o…
+  </blockquote>
+</aside>
+
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/71">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/71</link>
+        <pubDate>Thu, 10 Oct 2019 07:28:56 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3408-71</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408.rss">OSR and the New GM</source>
+      </item>
+      <item>
+        <title>OSR and the New GM</title>
+        <dc:creator><![CDATA[@Gus.L]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gus.l">@Gus.L</a> wrote:</p>
+          <blockquote>
+              <p>I think in old school theory circles “fiction forward” usually gets called “emergent”.</p>
+<p>I also want to agree with this analysis, but I suspect there’s something a bit more involved.  In modern trad games the feeling I have with rules heavy moments is that the game wants you to be doing them. 5E D&amp;D wants players in combat, planning tactics and figuring thier mechanical best moves, and it’s not even bad in this way.  OD&amp;D has mechanics because you need something to randomly and quickly adjudicate the most serious and tragic moments - the places a GM might feel bad about just deciding.</p>
+<p>I guess as a maxim I’d say classic play uses mechanics to adjudicate character risk, while contempory trad play uses them to highlight character power.  Not sure if that holds up.</p>
+<p>I want to also be clear that I’m not judging these design principles.  I remember loving Champions as a kid, precisely because when I invested the majority of my build points in raw STR my pseudo Hulk could toss around battleships and roll 36d6 from a punch.  Not the most effective design, but when I landed a haymaker it was thrilling - it felt super heroic to be the character that got to roll all the d6’s in the room.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/70">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/70</link>
+        <pubDate>Wed, 09 Oct 2019 02:22:51 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3408-70</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408.rss">OSR and the New GM</source>
+      </item>
+      <item>
+        <title>OSR and the New GM</title>
+        <dc:creator><![CDATA[@Tuirgin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/tuirgin">@Tuirgin</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="68" data-topic="3408">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/bryan_mullins/40/1238_2.png" class="avatar"> Bryan_Mullins:</div>
+<blockquote>
+<p>I can’t tell if I support your statement or not yet though…I thought by the time I was done typing I’d know. Hmm.</p>
+</blockquote>
+</aside>
+<p>I was just explaining to someone today that I don’t know what I think of things until I start writing about them. For me, writing is part of working through things. Sounds like you might be a bit similar?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/69">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/69</link>
+        <pubDate>Tue, 08 Oct 2019 22:32:04 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3408-69</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408.rss">OSR and the New GM</source>
+      </item>
+      <item>
+        <title>OSR and the New GM</title>
+        <dc:creator><![CDATA[@Bryan_Mullins]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/bryan_mullins">@Bryan_Mullins</a> wrote:</p>
+          <blockquote>
+              <p>I do feel like a major strategy in OSR play is to stay as far away from the deadly combat mechanics as you can, and that usually means employing tons of fictional positioning of varying types.</p>
+<p>Talking to or bribing monsters and evil folk, describing HOW you’re looking for that trap, talking through your ambush extensively, fleeing while cutting loose one of your coin purses…all in hopes of keeping away from death.</p>
+<p>In a system where GP = XP not fighting, is going to be high up on the list of priorities. Canny players will eventually see the system gaps and move into them looking for negotiations, and less deadly “wins” … So in those ways the system rewards “diegetic” or fiction first in some big cases. I can’t tell if I support your statement or not yet though…I thought by the time I was done typing I’d know. Hmm.</p>
+<p><img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/upside_down_face.png?v=9" title=":upside_down_face:" class="emoji" alt=":upside_down_face:"></p>
+<p>I’m still brewing a thought about some of the stuff you posed last night about where the cutoff between content and system are also.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/68">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/68</link>
+        <pubDate>Tue, 08 Oct 2019 22:20:36 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3408-68</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408.rss">OSR and the New GM</source>
+      </item>
+      <item>
+        <title>OSR and the New GM</title>
+        <dc:creator><![CDATA[@Tuirgin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/tuirgin">@Tuirgin</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="66" data-topic="3408">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/radmad/40/2161_2.png" class="avatar"> Radmad:</div>
+<blockquote>
+<p>OSR games tend to have <em>fiction first</em> content while more mechanistic games have <em>mechanics first</em> content. OSR style content is heavy on implying the use for its content by describing what kind of reactions it will have with PCs while more DnD centric content remains narratively agnostic in favor of being rules complete.</p>
+</blockquote>
+</aside>
+<p>I don’t feel like I’m in a good position to comment on this, but that does resonate with me. I, personally, tend to find mechanics-first less appealing.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/67">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/67</link>
+        <pubDate>Tue, 08 Oct 2019 21:41:09 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3408-67</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408.rss">OSR and the New GM</source>
+      </item>
+      <item>
+        <title>OSR and the New GM</title>
+        <dc:creator><![CDATA[@Radmad]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/radmad">@Radmad</a> wrote:</p>
+          <blockquote>
+              <p>An important distinction that I just realized I and others have been failing to make is how do <em>rules versus content</em> fit into this? (<em>Rules</em> being modular mechanics that apply to anything; HP and movement, <em>Content</em> being things that exist as a collection of rules plus flavor/lore/descriptions that anchor the fiction in the players mind; monster stats, dungeon maps, NPCs)</p>
+<p>I think there is a lot of valid talk about how hacking and houseruling things can be valuable in order to tailor the experience towards your own playgroup, but I think some people here (including me) have been lumping content together with rules when talking about the encompassing power of non-OSR games like DnD. Would you consider a class rules or content? What about skills? There is a lot of nebulous matter, but to avoid getting lost in pedantic weeds, my impression would be that OSR games tend to have <em>fiction first</em> content while more mechanistic games have <em>mechanics first</em> content. OSR style content is heavy on implying the use for its content by describing what kind of reactions it will have with PCs while more DnD centric content remains narratively agnostic in favor of being rules complete. The former is far more creatively enticing and allows for a generous amount of GM and player input in shaping its actual interaction with the rules while the latter is more mechanically defined but free in how it can be narratively used.</p>
+<p>A little disjointed from the current discussion. This is just a quick brainstorm I wrote up before jumping in bed. I’d be interested to see how others agree/disagree with it.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/66">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/66</link>
+        <pubDate>Tue, 08 Oct 2019 02:29:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3408-66</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408.rss">OSR and the New GM</source>
+      </item>
+      <item>
+        <title>OSR and the New GM</title>
+        <dc:creator><![CDATA[@Tuirgin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/tuirgin">@Tuirgin</a> wrote:</p>
+          <blockquote>
+              <p>Adam was one of my first steps away from D&amp;D5e. I discovered Dungeon World when looking to run a game for my kids and having decided 5e wasn’t the way I wanted to do it. Then I started dipping into some of his videos. I don’t watch many videos of people discussing things—I’m more of a reader—but I’ve enjoyed watching bits and pieces of games he’s running to get a feel for games I’m reading about. It’s helped me connect what I’m reading with how it’s actually used performatively.</p>
+<p>And he was one of the first people I heard say something along the lines that the majority of D&amp;D5e’s mechanics support combat—that’s it’s focus. At the time I’d just been playing for a couple months and everyone around me was talking about D&amp;D and stories and how D&amp;D is flexible enough to do anything you wanted it to do, and his take on it was quite a different thing. That was kind of the beginning of my exploring other games to see what they handled and how they went about it.</p>
+<p>I also remember hearing him talk about Dungeon World playbooks, and how they have a list of names to choose from. D&amp;D provides lists of names for inspiration but explicitly tells you that you can make something up if you want. DW, on the other hand, tells you to pick from the list. Adam went on to say something about it being a conscious choice <em>not</em> to put it in the rules that you can do something different because he and Sage wanted players to discover for themselves: “Hey, I can do better than these names.” He referred to that moment as being the player’s first little hack on DW, a sort of introduction to game hacking.</p>
+<aside class="quote no-group" data-post="63" data-topic="3408">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/bryan_mullins/40/1238_2.png" class="avatar"> Bryan_Mullins:</div>
+<blockquote>
+<p>For me it does start to get bad when the volume of rules exceeds a certain level.</p>
+</blockquote>
+</aside>
+<p>It makes sense to me that beyond a certain threshold the sheer volume of the existing rules suggest that there <em>should</em> be a rule for everything, even if there isn’t. D&amp;D5e’s core books make a point of saying that there are vague spots and that this shouldn’t be seen as a lack, but as room for interpretation and rulings. But effectively, what I’ve seen is more that the level of detail provided encourages people to stay inside the books, rather than drifting beyond them. I tend towards loosey goosey. Except when I don’t. There’s a balance, and I’m pretty sure my particular balance isn’t consistent or well reasoned.</p>
+<aside class="quote no-group" data-post="63" data-topic="3408">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/bryan_mullins/40/1238_2.png" class="avatar"> Bryan_Mullins:</div>
+<blockquote>
+<p>This is a fun talk. Please forgive me if my sick day allowed me to push my enthusiasm into responding to everybody. I’m very engaged by the talk.</p>
+</blockquote>
+</aside>
+<p>No forgiveness needed! I’m pleased as punch that my first forum thread has gone beyond 60 posts. I didn’t expect it!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/64">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/64</link>
+        <pubDate>Tue, 08 Oct 2019 01:38:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3408-64</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408.rss">OSR and the New GM</source>
+      </item>
+      <item>
+        <title>OSR and the New GM</title>
+        <dc:creator><![CDATA[@Bryan_Mullins]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/bryan_mullins">@Bryan_Mullins</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="58" data-topic="3408">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/tuirgin/40/2632_2.png" class="avatar"> Tuirgin:</div>
+<blockquote>
+<p>a whole lot of focus on RAW and various, mostly implicit, appeals to orthodoxy</p>
+</blockquote>
+</aside>
+<p>I will say that in other discussion frames, like the one Adam Kobel uses frequently, that design gaps usually imply that “this game isn’t about X” if there are no rules for it. I wouldn’t want to go on record as saying that an emphasis on Rules As Written is bad.</p>
+<p>For me it does start to get bad when the volume of rules exceeds a certain level. People’s tolerance will vary. Just like with the orthodoxy thing.</p>
+<p>Some folks are going to be pumped that there’s a new book with new rules in it with the brand name on the cover. To me that implies an obligation to buy, then learn in order to run. I don’t get that often but it rankles me.</p>
+<p>Rules do tell you what the game is about, and if you follow Adam’s thinking…breaking them or not using them means you are not “playing the game” as intended. At best it’s a Hack, and the longer you deviate, the more likely you are to find yourself in design or re-design territory.</p>
+<p>That’s a value statement of a kind and is positioned. I mostly agree with it in theory. In practice, the DIY folks constantly hack and redesign, and they (maybe?) maintain a similar rules frame as a way of keeping relative position to the other hackers and designers they interact and share with?</p>
+<p>They often share for free, and they do seem to use their designs as … statements of philosophy. This is something that I believe they share with indie and story design communities even if the way they go about it and the language they use might be different.</p>
+<p>Even if it’s hard to get folks who identify as any of the three to agree to what perceive are their similarities. =)</p>
+<p>This is a fun talk. Please forgive me if my sick day allowed me to push my enthusiasm into responding to everybody. I’m very engaged by the talk.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/63">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/63</link>
+        <pubDate>Tue, 08 Oct 2019 00:58:08 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3408-63</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408.rss">OSR and the New GM</source>
+      </item>
+      <item>
+        <title>OSR and the New GM</title>
+        <dc:creator><![CDATA[@Bryan_Mullins]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/bryan_mullins">@Bryan_Mullins</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="59" data-topic="3408">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/tuirgin/40/2632_2.png" class="avatar"> Tuirgin:</div>
+<blockquote>
+<p>I’m not familiar with this—can you provide a link or a brief summary?</p>
+</blockquote>
+</aside>
+<p>I’m sorry, I know that reference begs a link…I couldn’t find what I wanted. Here’s a pretty good explanation:</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://s1.wp.com/i/favicon.ico" class="site-icon" width="32" height="32">
+      <a href="https://stockade.wordpress.com/2009/09/28/the-3-questions-1/" target="_blank" title="10:16AM - 28 September 2009" rel="nofollow noopener">The Stockade – 28 Sep 09</a>
+  </header>
+  <article class="onebox-body">
+    <img src="/uploads/default/original/2X/4/427a827e1b53c708ab0698ed1fac2195d6c45b98.jpeg" class="thumbnail" width="" height="">
+
+<h3><a href="https://stockade.wordpress.com/2009/09/28/the-3-questions-1/" target="_blank" rel="nofollow noopener">The 3 Questions (+1)</a></h3>
+
+<p>Okay, I have made mention of “the 3 questions” a few times, both here and at the google group. What are they? They are three questions put forward by Jared Sorensen (designer of InSpect…</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>RE: ‘Stars Without Number’ you can get a free version which <em>I think</em> may have those GM chapters in it…it’s worth a look.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/62">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/62</link>
+        <pubDate>Tue, 08 Oct 2019 00:32:23 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3408-62</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408.rss">OSR and the New GM</source>
+      </item>
+      <item>
+        <title>OSR and the New GM</title>
+        <dc:creator><![CDATA[@shane]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/shane">@shane</a> wrote:</p>
+          <blockquote>
+              <p><a href="https://memento-mori.livejournal.com/175828.html" rel="nofollow noopener">Jared Sorensen’s Three Questions</a></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/61">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/61</link>
+        <pubDate>Tue, 08 Oct 2019 00:11:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3408-61</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408.rss">OSR and the New GM</source>
+      </item>
+      <item>
+        <title>OSR and the New GM</title>
+        <dc:creator><![CDATA[@Tuirgin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/tuirgin">@Tuirgin</a> wrote:</p>
+          <blockquote>
+              <p>I started up for my own sanity. I’m a remote employee working from home. In general I love it, but I got to a point where I realized that it had been more than 6 months since I’d had an interaction with someone outside my family that wasn’t either a cashier or the wait staff from a restaurant. And truth of the matter is that rarely leaving my home was making my social anxiety worse rather than better. Jumping into RPGs—while really taxing at first—has made a huge improvement in my quality of life. I dunno how much it’s helped my work—perhaps a little with my readiness to encounter new people—but it’s been great for my personal life.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/60">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/60</link>
+        <pubDate>Mon, 07 Oct 2019 23:22:19 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3408-60</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408.rss">OSR and the New GM</source>
+      </item>
+      <item>
+        <title>OSR and the New GM</title>
+        <dc:creator><![CDATA[@Tuirgin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/tuirgin">@Tuirgin</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="50" data-topic="3408">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/bryan_mullins/40/1238_2.png" class="avatar"> Bryan_Mullins:</div>
+<blockquote>
+<p>I tend to apply the “Sorensen? Questions” to the games I run now and try to see if the answers match what I think I’m going for.</p>
+</blockquote>
+</aside>
+<p>I’m not familiar with this—can you provide a link or a brief summary?</p>
+<aside class="quote no-group" data-post="50" data-topic="3408">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/bryan_mullins/40/1238_2.png" class="avatar"> Bryan_Mullins:</div>
+<blockquote>
+<p>If you really want a head trip…read the revised Stars Without Number sections on how to run a game.</p>
+</blockquote>
+</aside>
+<p>This has been on my radar for a while, but I haven’t picked it up, yet.</p>
+<aside class="quote no-group" data-post="55" data-topic="3408">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/bryan_mullins/40/1238_2.png" class="avatar"> Bryan_Mullins:</div>
+<blockquote>
+<p>my experiences have led me to regret going “all in”</p>
+</blockquote>
+</aside>
+<p>Yeah, I’ve had a bit of that, too. I tend to binge at the beginning of a new interest. And I don’t see the binging as being inherently problematic, but if I’m going to binge I need to do it <strong>widely</strong> rather than digging into a single thing. When I binge deeply from one stream I don’t actually derive depth, just quantity of content, whereas when I binge broadly, I get exposed to a diversity of ideas that are likely not all compatible. I probably get more from the disagreements than I do the agreements. I feel like my motto should be “Success with complication for profit!”</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/59">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/59</link>
+        <pubDate>Mon, 07 Oct 2019 23:16:31 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3408-59</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408.rss">OSR and the New GM</source>
+      </item>
+      <item>
+        <title>OSR and the New GM</title>
+        <dc:creator><![CDATA[@Tuirgin]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/tuirgin">@Tuirgin</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="55" data-topic="3408">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/bryan_mullins/40/1238_2.png" class="avatar"> Bryan_Mullins:</div>
+<blockquote>
+<p>A smaller design with more gaps, better illustrates that the authority lies in those who are assembled, here, now, in the moment of play. They need not…search or wait for someone to uncover the authoritative ruling. They must be bound by the negotiations of the moment.</p>
+</blockquote>
+</aside>
+<p>I absolutely love this.</p>
+<p>I’m just back from the eye doctor and can’t see without zooming to 300%, so I didn’t intend to respond at all until later when I’d had a chance to re-read and contemplate. But this just rings an important bell for me. Most games I’ve read, including D&amp;D5e, at least nod towards the GM making rulings rather than slavishly following rules. But in my brief experience of table-cultures, there’s been a whole lot of focus on RAW and various, mostly implicit, appeals to orthodoxy. I really appreciate that the smaller, truly rules-light games expect there to be hacking and swapping of bits and bobs to suit what’s happening at the table and for the table.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/58">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/58</link>
+        <pubDate>Mon, 07 Oct 2019 20:11:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3408-58</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408.rss">OSR and the New GM</source>
+      </item>
+      <item>
+        <title>OSR and the New GM</title>
+        <dc:creator><![CDATA[@Deckard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/deckard">@Deckard</a> wrote:</p>
+          <blockquote>
+              <p>This is one of the key reasons I started roleplaying again.  My gaming helped my organizational skills and running meetings.  Then, the work skills cycle back into my gaming.  It was at that moment that I realized that rpgs were not just for kids.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/57">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/57</link>
+        <pubDate>Mon, 07 Oct 2019 19:47:25 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3408-57</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408.rss">OSR and the New GM</source>
+      </item>
+      <item>
+        <title>OSR and the New GM</title>
+        <dc:creator><![CDATA[@Airk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/airk">@Airk</a> wrote:</p>
+          <blockquote>
+              <p>Interesting, thank you for taking the time to expand on that.  My patterns for introducing new people to the hobby are similar, if a little more traditional (I’ll get a few people together for Dungeon World, though I expect if I do it again I’ll be using Homebrew World instead) as are my taste in games (Mostly; I don’t really have much interest in the ‘old school dungeon crawl’ these days) but I never really thought about it as the game restricting/quashing conversation or negotiation.  Though I agree that by “seeming” like they are “complete games” they tend to make people miss the idea that not everything is covered by the rules.</p>
+<p>I’m not sure that it has that much to do with brand orthodoxy so much as the design of the games themselves though.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/56">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/56</link>
+        <pubDate>Mon, 07 Oct 2019 19:45:54 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3408-56</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408.rss">OSR and the New GM</source>
+      </item>
+      <item>
+        <title>OSR and the New GM</title>
+        <dc:creator><![CDATA[@Bryan_Mullins]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/bryan_mullins">@Bryan_Mullins</a> wrote:</p>
+          <blockquote>
+              <p>My opinion of them is that their presentation of completeness and attempt to harmonize any gaps in the design often misdirect new people away from the fact that all games of this type are a kind of negotiated conversation between people.</p>
+<p>My opinion is that systems that facilitate this and fade into background are doing new players a bigger favor by emphasizing that there is no appeal to an outside, higher, most-orthodox, answer to a gap or pause or question about play.</p>
+<p>A smaller design with more gaps, better illustrates that the authority lies in those who are assembled, here, now, in the moment of play. They need not…search or wait for someone to uncover the authoritative ruling. They must be bound by the negotiations of the moment. Which is what I’d call “human skills” rather than the player with the largest rule book collection or deepest system mastery or newest system expansion occupying more time at the table.</p>
+<p>This is a personal judgment of 3.X D&amp;D for me, and a critique of my personal experiences with D&amp;D 2nd revised when I was a new player. The brand Orthodoxy removes agency and squashes people skills in a way that I don’t love. It’s a trade off for recognition and uniformity and that’s not bad, but it’s not my bag.</p>
+<p>Now that I’m 40, and people find out I “run D&amp;D” I usually don’t point them right at any game when they ask me about it…I ask them if they want to play sometime and then when we meet to play, I give them WoDu 1978 on two folded pieces of paper and we play. Then if they’re into it, and want to buy something we start a conversion about what they liked or didn’t like about what we have already done. I suggest I bunch of free things and blog articles if they’re really excited. I suggest Dungeon World a lot, and good deals on the starting 5e boxes, but I usually tell them not to go all in on any one product unless they’re already leaning that way.</p>
+<p>Mostly because my experiences have led me to regret going “all in” or even searching for a “generic” system that will handle all genres. They each offer appealing benefits but the trade offs in my experience…are not worth it in most cases, to me, personally.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/55">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/55</link>
+        <pubDate>Mon, 07 Oct 2019 19:31:01 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3408-55</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408.rss">OSR and the New GM</source>
+      </item>
+      <item>
+        <title>OSR and the New GM</title>
+        <dc:creator><![CDATA[@Airk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/airk">@Airk</a> wrote:</p>
+          <blockquote>
+              <p>Okay. I see the division between the types of games quite clearly.  Could you expand on how the former category “paves over the conversation”?  I’m not big fan of those types of games, but that isn’t really a problem I would have ascribed to them.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/54">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/54</link>
+        <pubDate>Mon, 07 Oct 2019 18:48:42 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3408-54</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408.rss">OSR and the New GM</source>
+      </item>
+      <item>
+        <title>OSR and the New GM</title>
+        <dc:creator><![CDATA[@Bryan_Mullins]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/bryan_mullins">@Bryan_Mullins</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/airk">@Airk</a><br>
+These aren’t terms of art (I don’t think) just my own expressions as a reaction to that anecdote above. Systems I had in mind were when I said “complete” are systems like Pathfinder, GURPS, and Savage Worlds…who’s proponents will kindly tell you (not untruthfully) that “you can do that with X” or “it’s covered in Y supplement”</p>
+<p>When I was a new GM, these games looked good to me because of the large volume of precedent design their publication history implies. It’s often touted as a feature to new players and GM. The level of structure is certainly a support frame that can help. It didn’t help me as much as implied, simply due to tastes, style, and how my mind works. I want to be surprised as a GM, so I wasn’t doing myself any favors trying to front load huge amounts of system info thinking I needed to master that system or I was failing my players.</p>
+<p>Systems I had in mind when I said incomplete were systems like Lasers &amp; Feelings or World of Dungeons or Knave, or The Mustang. For various reasons, one of their chief design constraints is brevity. They cannot, and won’t attempt to address every ruling or system gap that may come up in play.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/53">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/53</link>
+        <pubDate>Mon, 07 Oct 2019 18:13:27 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3408-53</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408.rss">OSR and the New GM</source>
+      </item>
+      <item>
+        <title>OSR and the New GM</title>
+        <dc:creator><![CDATA[@Airk]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/airk">@Airk</a> wrote:</p>
+          <blockquote>
+              <p>Can you give an example of a “complete” system that does this and an “incomplete” one that doesn’t? Because I’m failing to grasp the correlation.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/52">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/52</link>
+        <pubDate>Mon, 07 Oct 2019 17:34:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3408-52</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408.rss">OSR and the New GM</source>
+      </item>
+      <item>
+        <title>OSR and the New GM</title>
+        <dc:creator><![CDATA[@Bryan_Mullins]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/bryan_mullins">@Bryan_Mullins</a> wrote:</p>
+          <blockquote>
+              <p>Slightly OT</p>
+<aside class="quote no-group" data-post="48" data-topic="3408">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/tuirgin/40/2632_2.png" class="avatar"> Tuirgin:</div>
+<blockquote>
+<p>I don’t really want dungeons full of known monsters and nostalgic tropes. I want to be surprised.</p>
+</blockquote>
+</aside>
+<p>Oh my word, THIS a thousand times.</p>
+<p>One thing I’ve found about COMPLETE or universal systems is that they entirely pave over one thing I’ve always loved about TTRPGs … the conversation.</p>
+<p>Big rpg systems and designs promise the new gamer structure and safety and then remove the situations where the most useful skills of gaming are applied. Human interaction skills.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/51">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/51</link>
+        <pubDate>Mon, 07 Oct 2019 17:10:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3408-51</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408.rss">OSR and the New GM</source>
+      </item>
+      <item>
+        <title>OSR and the New GM</title>
+        <dc:creator><![CDATA[@Bryan_Mullins]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/bryan_mullins">@Bryan_Mullins</a> wrote:</p>
+          <blockquote>
+              <p>My personal revelation was that running a game is running a meeting. The GM calls the meeting, shapes the agenda with input, and then tries to move the spotlight around in service of the assembled and the agenda.</p>
+<p>Two items that really inspired and illuminated me were the Principia Apocrypha and the…dungeon world guide.</p>
+<p>I tend to apply the “Sorensen? Questions” to the games I run now and try to see if the answers match what I think I’m going for. That’s one way that “system matters” is that, as a text and as a design what and how it pushes all the assembly to do things counts.</p>
+<p>I often find that I WANT to run a specific type of game, but never quite nail that down successfully. That’s one way that “system doesn’t matter” in that my personal tendencies and tastes lead me away from some things in play and that’s okay. Maybe the praxis and theory never line up…it’s all practice.</p>
+<p>If you really want a head trip…read the revised Stars Without Number sections on how to run a game. Crawford goes right at concrete support for a GM in a manner that I’d call “very old school” even though he doesn’t bill it that way.</p>
+<p>And that’s kind of at the heart of immersing your self in designs and theory…the proof is in the pudding, and not on the label. Once you’re eyeball deep in this stuff, you’ll find it’s much easier to “barf forth”</p>
+<p>Good hunting, and I’m looking forward to talking it over with you here.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/50">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/50</link>
+        <pubDate>Mon, 07 Oct 2019 16:37:16 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3408-50</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408.rss">OSR and the New GM</source>
+      </item>
+      <item>
+        <title>OSR and the New GM</title>
+        <dc:creator><![CDATA[@Gus.L]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/gus.l">@Gus.L</a> wrote:</p>
+          <blockquote>
+              <p>I think you are onto something with the gaps.</p>
+<p>It’s related to one of the things I find hard about many modern systems - totalizling mechanics and from them over-simplification/universal mechanics or absurd complexity and RAW formalism.  The nice thing about the gaps and contradictions in old rulesets is that each table needs to fill or unwind them and this helps form specific style of play.</p>
+<p>The rules can’t have control, because they are incomplete. The mechanics can’t colonize every aspect of the setting because they don’t claim to be universally applicable and thus the players and GM will need to reach agreement about various issues and have a system for ajudicating novel situations.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/49">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408/49</link>
+        <pubDate>Mon, 07 Oct 2019 16:24:56 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-3408-49</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/osr-and-the-new-gm/3408.rss">OSR and the New GM</source>
+      </item>
+  </channel>
+</rss>

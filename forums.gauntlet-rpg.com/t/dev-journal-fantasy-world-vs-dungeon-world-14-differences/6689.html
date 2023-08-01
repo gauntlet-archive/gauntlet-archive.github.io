@@ -1,0 +1,1044 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  
+<!-- Mirrored from forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 01 Aug 2023 00:30:34 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8">
+    <title>Dev Journal - Fantasy World vs Dungeon World - 14 Differences - Game Design - The Gauntlet Forums</title>
+    <meta name="description" content="Since everyone and their mom keeps asking me about this, I started writing a 3 part series of articles about the design of FW and how it differs from that of DW. 
+You can read the first installment HERE on itch.io. There&amp;hellip;">
+    <meta name="generator" content="Discourse 2.4.0.beta10 - https://github.com/discourse/discourse version 7c30986b5efe231d4b22ad3e657fc83ec452e89c">
+<link rel="icon" type="image/png" href="https://gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f2859febedbe43114f6e22a494620bdc35bf8786_2_32x32.png">
+<link rel="apple-touch-icon" type="image/png" href="https://gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f2859febedbe43114f6e22a494620bdc35bf8786_2_180x180.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover">
+<link rel="canonical" href="6689.html" />
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://forums.gauntlet-rpg.com","potentialAction":{"@type":"SearchAction","target":"https://forums.gauntlet-rpg.com/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<link rel="search" type="application/opensearchdescription+xml" href="../../opensearch.xml" title="The Gauntlet Forums Search">
+
+      <link href="../../stylesheets/desktop_55f06712376291d809ecf79aecaf07fd06a8c979.css_%3b%20filename_%3dUTF-8%27%27desktop_55f06712376291d809ecf79aecaf07fd06a8c9791a85.css?__ws=forums.gauntlet-rpg.com" media="all" rel="stylesheet" data-target="desktop" data-theme-id="2"/>
+      <link href="../../stylesheets/desktop_theme_2_2d4c228818bc7664ec196065afb575563959f7b9.css_%3b%20filename_%3dUTF-8%27%27desktop_theme_2_2d4c228818bc7664ec196065afb575563959f7b91a85.css?__ws=forums.gauntlet-rpg.com" media="all" rel="stylesheet" data-target="desktop_theme" data-theme-id="2"/>
+    
+    
+        <link rel="alternate" type="application/rss+xml" title="RSS feed of &#39;Dev Journal - Fantasy World vs Dungeon World - 14 Differences&#39;" href="6689.rss" />
+    <meta property="og:site_name" content="The Gauntlet Forums" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="https://gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/f/f2859febedbe43114f6e22a494620bdc35bf8786.png" />
+<meta property="og:image" content="https://gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/f/f2859febedbe43114f6e22a494620bdc35bf8786.png" />
+<meta property="og:url" content="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689" />
+<meta name="twitter:url" content="https://forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689" />
+<meta property="og:title" content="Dev Journal - Fantasy World vs Dungeon World - 14 Differences" />
+<meta name="twitter:title" content="Dev Journal - Fantasy World vs Dungeon World - 14 Differences" />
+<meta property="og:description" content="Since everyone and their mom keeps asking me about this, I started writing a 3 part series of articles about the design of FW and how it differs from that of DW.  You can read the first installment HERE on itch.io. There I start by talking about a few structural differences:    I go over the actual design template for FW… which is not DW, as most people erroneously assume    I touch on the overall design goal of FW as opposed to what I know (from personal experience, design analysis and pretty c..." />
+<meta name="twitter:description" content="Since everyone and their mom keeps asking me about this, I started writing a 3 part series of articles about the design of FW and how it differs from that of DW.  You can read the first installment HERE on itch.io. There I start by talking about a few structural differences:    I go over the actual design template for FW… which is not DW, as most people erroneously assume    I touch on the overall design goal of FW as opposed to what I know (from personal experience, design analysis and pretty c..." />
+<meta name="twitter:label1" value="Reading time" />
+<meta name="twitter:data1" value="20 mins 🕑" />
+<meta name="twitter:label2" value="Likes" />
+<meta name="twitter:data2" value="106 ❤" />
+<meta property="article:published_time" content="2021-03-13T12:30:33+00:00" />
+<meta property="og:ignore_canonical" content="true" />
+
+        <link rel="next" href="66894658.html?page=2">
+
+
+    
+  </head>
+  <body class="crawler">
+    
+    <header>
+      <a href="../../index.html">
+          <img src="https://gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/1X/90fcb9d8a54a6098ad0291236cecc89a0dda0bed.png" alt="The Gauntlet Forums" id="site-logo" style="max-width: 150px;">
+      </a>
+    </header>
+    <div id="main-outlet" class="wrap">
+        <h1 class="crawler-topic-title">
+    <a href="6689.html">Dev Journal - Fantasy World vs Dungeon World - 14 Differences</a>
+  </h1>
+
+  <div id="breadcrumbs" itemscope itemtype="http://schema.org/BreadcrumbList">
+      <div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+        <a href="../../c/game-design.html" class="badge-wrapper bullet" itemprop="item">
+          <span class="badge-category-bg"></span>
+          <span class="category-title" itemprop="name">Game Design</span>
+        </a>
+        <meta itemprop="position" content="1" />
+      </div>
+  </div>
+
+      <div class='crawler-tags-list' itemscope itemtype='http://schema.org/DiscussionForumPosting'>
+          <div itemprop='keywords'>
+            <a href='../../tag/blog.html' rel="tag">
+              <span itemprop='headline'>blog</span>
+            </a>
+          </div>
+          <div itemprop='keywords'>
+            <a href='../../tag/pbta.html' rel="tag">
+              <span itemprop='headline'>pbta</span>
+            </a>
+          </div>
+      </div>
+
+  
+
+
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Alessandro_Piroddi'><span itemprop='name'>Alessandro_Piroddi</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <meta itemprop='datePublished' content='2021-03-13T12:30:33Z'>
+              <time itemprop='dateModified' datetime='2021-03-27T20:29:10Z' class='post-time'>
+                March 27, 2021,  8:29pm
+              </time>
+          <span itemprop='position'>#1</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Since everyone and their mom keeps asking me about this, I started writing a 3 part series of articles about the design of FW and how it differs from that of DW.<br>
+You can read the first installment <a href="https://unplayablegamesrpg.itch.io/fantasy-world/devlog/231353/fantasy-world-vs-dungeon-world-14-differences-part-1" rel="nofollow noopener">HERE on itch.io</a>. There I start by talking about a few structural differences:</p>
+<ul>
+<li>
+<p>I go over the actual design template for FW… which is <strong>not</strong> DW, as most people erroneously assume</p>
+</li>
+<li>
+<p>I touch on the overall design goal of FW as opposed to what I know (from personal experience, design analysis and pretty clear declarations of Koebel and LaTorra) of DW’s one</p>
+</li>
+<li>
+<p>I mention my personal pet peeve of <em>Technical Writing</em>, something that involves DW but also maaany other PbtA, including the original AW and AW2</p>
+</li>
+<li>
+<p>linked to the previous point, I talk about problem of accessibility I had with both AW and DW, and their approach to writing rules and moves and guidelines, and how FW tries a different approach</p>
+</li>
+</ul>
+<p>.<br>
+Throughout the article I tried to be as objective as I could, and had the text reviewed by a couple of friends that I consider to be great fans and experts on all things DW. I really wanted to avoid inadvertently slandering DW or propping FW up as the “better” choice. Rather, I wanted to genuinely highlight the differences in design goals and methods, many of which came <strong>thanks to</strong> 10+ years of playing AW and DW and many other PbtA games <img src="../../images/emoji/twitter/smiling_face_with_three_heartsc164.png?v=9" title=":smiling_face_with_three_hearts:" class="emoji" alt=":smiling_face_with_three_hearts:"><br>
+.<br>
+What do you think about these initial points?<br>
+Have you stumbled on my same problems?<br>
+Are there other PbtA that address them in an effective way? …I heard great things about Masks and The Sprawl, actually, but haven’t yet had a chance to play them.<br>
+Let me know <img src="../../images/emoji/twitter/smileyc164.png?v=9" title=":smiley:" class="emoji" alt=":smiley:"></p>
+<hr>
+<p><strong>[UPDATE 20-03-2021]</strong><br>
+<a href="6689/28.html">Part two is out now!</a></p>
+<hr>
+<p><strong>[UPDATE 24-03-2021]</strong><br>
+<a href="6689/32.html">Vote for the Class that will receive a design analysis!</a></p>
+<hr>
+<p><strong>[UPDATE 27-03-2021]</strong><br>
+<a href="6689/33.html">Part three is out now!</a></p>
+        </div>
+
+        <meta itemprop='headline' content='Dev Journal - Fantasy World vs Dungeon World - 14 Differences'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="5" />
+           <span class='post-likes'>5 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+            <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+            </div>
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/CrudelyDrawnSwords'><span itemprop='name'>CrudelyDrawnSwords</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-03-13T23:34:40Z' class='post-time'>
+                March 13, 2021, 11:34pm
+              </time>
+          <span itemprop='position'>#2</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>This was an interesting starting point, it definitely left me wanting to read more about how you are aiming to answer these questions.</p>
+<p>I have always found the writing in both AW and DW to be fun and to immediately take you into the spirit of the game that they are describing. There is something to be said for that, in my opinion. I haven’t run into problems of clarity with them, but then I have read a fair number of RPGs down the years.</p>
+<p>The type of game you’re writing sounds really interesting, definitely the kind of thing I’m into and I’ve been saying for a while that I want a fantasy PbtA game that doesn’t lean into D&amp;D. It also sounds like it may be super-rigid, though, as someone who kind of likes the guideline based approach.</p>
+<p>The single biggest accessibility gain I have seen is having plenty of narrative examples of play in the book, that makes such a big difference. The Fate Core book does that pretty well, having a kind of side-story of people playing the game in examples that sticks with the same players and characters throughout.</p>
+<p>The most recent PbtA game I have read in any detail is The Veil and for all that it’s an interesting game full of fun, high-concept, stuff, boy could it have used a copy-editor. The text is verbose and detailed without being clear. Far too easy to get lost in, I’m a big fan of easy-to-follow books in that regard. Also a fan of books that make sense structurally, where it’s clear where you can find the thing you need right now if you’re in the middle of running a game.</p>
+        </div>
+
+        <meta itemprop='headline' content='Dev Journal - Fantasy World vs Dungeon World - 14 Differences'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="2" />
+           <span class='post-likes'>2 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Alessandro_Piroddi'><span itemprop='name'>Alessandro_Piroddi</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-03-15T21:59:22Z' class='post-time'>
+                March 15, 2021,  9:59pm
+              </time>
+          <span itemprop='position'>#3</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Glad to have your interest piqued <img src="../../images/emoji/twitter/slight_smilec164.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<aside class="quote no-group" data-username="CrudelyDrawnSwords" data-post="2" data-topic="6689">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="../../user_avatar/forums.gauntlet-rpg.com/crudelydrawnswords/40/1576_2.jpg" class="avatar"> CrudelyDrawnSwords:</div>
+<blockquote>
+<p>It also sounds like it may be super-rigid, though, as someone who kind of likes the guideline based approach.</p>
+</blockquote>
+</aside>
+<p>It depends…<br>
+<em><strong>Rigid</strong></em> implies that they are in your way <img src="../../images/emoji/twitter/roll_eyesc164.png?v=9" title=":roll_eyes:" class="emoji" alt=":roll_eyes:"><br>
+I would maybe call them <em><strong>solid</strong></em>, as they support your activity <img src="../../images/emoji/twitter/smiling_face_with_three_heartsc164.png?v=9" title=":smiling_face_with_three_hearts:" class="emoji" alt=":smiling_face_with_three_hearts:"><br>
+I find that having simple and clear mechanics helps both World and Players express their creativity in the areas they need and want to be creative.</p>
+<aside class="quote no-group" data-username="CrudelyDrawnSwords" data-post="2" data-topic="6689">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="../../user_avatar/forums.gauntlet-rpg.com/crudelydrawnswords/40/1576_2.jpg" class="avatar"> CrudelyDrawnSwords:</div>
+<blockquote>
+<p>The single biggest accessibility gain I have seen is having plenty of narrative examples of play in the book, that makes such a big difference.</p>
+</blockquote>
+</aside>
+<p>The future Kickstarted book will have plenty of fictional examples <img src="../../images/emoji/twitter/slight_smilec164.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"><br>
+But again, examples are other ways to explain “<strong>how to do this thing</strong>” … good rules are supposed to that already, directly.</p>
+<aside class="quote no-group" data-username="CrudelyDrawnSwords" data-post="2" data-topic="6689">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="../../user_avatar/forums.gauntlet-rpg.com/crudelydrawnswords/40/1576_2.jpg" class="avatar"> CrudelyDrawnSwords:</div>
+<blockquote>
+<p>The Veil</p>
+</blockquote>
+</aside>
+<p>Same experience. AMAZING ideas, but a problematic implementation <img src="../../images/emoji/twitter/confusedc164.png?v=9" title=":confused:" class="emoji" alt=":confused:"></p>
+        </div>
+
+        <meta itemprop='headline' content='Dev Journal - Fantasy World vs Dungeon World - 14 Differences'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/CrudelyDrawnSwords'><span itemprop='name'>CrudelyDrawnSwords</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-03-15T23:10:31Z' class='post-time'>
+                March 15, 2021, 11:10pm
+              </time>
+          <span itemprop='position'>#4</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <aside class="quote no-group" data-username="Alessandro_Piroddi" data-post="3" data-topic="6689">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="../../user_avatar/forums.gauntlet-rpg.com/alessandro_piroddi/40/3732_2.jpg" class="avatar"> Alessandro_Piroddi:</div>
+<blockquote>
+<p>But again, examples are other ways to explain “ <strong>how to do this thing</strong> ” … good rules are supposed to that already, directly.</p>
+</blockquote>
+</aside>
+<p>That is true but even for experienced musicians there is difference between seeing notes on a page and hearing the melody played. Well designed rules will often work in several directions at once and if you show people that in addition to telling them, I think there is a better chance that they will remember it. If your audience is going to consist of people who love stories, then showing them how these rules can create stories they are interested in is likely to be a good fit for how they think.</p>
+<p>I have never really thought about it this way, but that might be part of how that tropey atmospheric writing in AW and DW works for the audience. The moment you start reading those rules you are immersed in story, you’re being given ideas and scenarios that fire your imagination in a bunch of different directions just from the text describing the moves or the gameplay cycle.</p>
+        </div>
+
+        <meta itemprop='headline' content='Dev Journal - Fantasy World vs Dungeon World - 14 Differences'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="2" />
+           <span class='post-likes'>2 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Alessandro_Piroddi'><span itemprop='name'>Alessandro_Piroddi</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-03-16T00:10:45Z' class='post-time'>
+                March 16, 2021, 12:10am
+              </time>
+          <span itemprop='position'>#5</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>mmm… as already mentioned I agree with the value of examples <img src="../../images/emoji/twitter/slight_smilec164.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"><br>
+.<br>
+But on the topic of using “style” in place of clarity, or at the expense of clarity, then no, I don’t agree with this.<br>
+In my personal experience (maybe it’s just me and my bubble?) AW’s text was hermetic, a though nut to crack. The flavour text is inspiring and gives you the feeling that you know how the game should go… but when you get to the table it’s not so obvious anymore, and many get stumped.<br>
+.<br>
+To be frank, this tracks with what Vincent declared was the expected effect of his design:</p>
+<ul>
+<li>a few grok the game immediately</li>
+<li>most won’t be able to use the game as is, needing external discussion and guidance</li>
+<li>some will misunderstand a bunch of stuff and create debates when posting online</li>
+<li>some will just hate it (which is still good PR)</li>
+</ul>
+<p>.<br>
+Let’s just say that I prefer to go in a different direction.<br>
+It’s not 2010 anymore. PbtA are now an established and successful brand, and a popular (relative to modern/indie rpgs) framework that has been used in countless games.<br>
+It’s time, I think, to move past this inherited murk and try to offer an opinionated rulebook that teaches in no uncertain terms how to play the game it is presenting.<br>
+With plenty of examples, yes <img src="../../images/emoji/twitter/slight_smilec164.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"><br>
+And evocative art and layout.<br>
+And whatever style and flavour one can muster <img src="../../images/emoji/twitter/winkc164.png?v=9" title=":wink:" class="emoji" alt=":wink:"><br>
+But not at the expense of clarity and usability.<br>
+.<br>
+Don’t get me wrong, I still consider AW (and especially AW2) the golden standard of PbtA design, even today, with the singular exception of MH that is just sooo good in so many ways <img src="../../images/emoji/twitter/heartc164.png?v=9" title=":heart:" class="emoji" alt=":heart:"><br>
+But with my game I wanted to at least try and move forward.<br>
+Does it make sense? <img src="../../images/emoji/twitter/sweat_smilec164.png?v=9" title=":sweat_smile:" class="emoji" alt=":sweat_smile:"></p>
+        </div>
+
+        <meta itemprop='headline' content='Dev Journal - Fantasy World vs Dungeon World - 14 Differences'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="0" />
+           <span class='post-likes'></span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/BlakeRyan'><span itemprop='name'>BlakeRyan</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-03-16T08:30:21Z' class='post-time'>
+                March 16, 2021,  8:30am
+              </time>
+          <span itemprop='position'>#6</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Overall I like where you are heading with this game.</p>
+<p>re - FW disregards and subverts the tropes of classic D&amp;D adventuring, trying instead to bring at the table the kind of fantasy stories that can be found in most book sagas, TV series and movies. I like to call it " <strong>dramatic fantasy</strong> ".</p>
+<p>You need to give examples, X, Y &amp; Z tv series, A, B &amp; C novel series. Fantasy is very broad so unless you include mechanics or notes to guide MC’s to customise the tone/style/sub genre, you are best to list examples to show where the core play loop is pointing setting/style wise.</p>
+        </div>
+
+        <meta itemprop='headline' content='Dev Journal - Fantasy World vs Dungeon World - 14 Differences'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="2" />
+           <span class='post-likes'>2 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Alessandro_Piroddi'><span itemprop='name'>Alessandro_Piroddi</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <meta itemprop='datePublished' content='2021-03-16T12:20:50Z'>
+              <time itemprop='dateModified' datetime='2021-03-16T12:35:19Z' class='post-time'>
+                March 16, 2021, 12:35pm
+              </time>
+          <span itemprop='position'>#7</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Thanks for the feedback <img src="../../images/emoji/twitter/slight_smilec164.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"><br>
+I am… at a bit at a loss for example of reference novels and shows <img src="../../images/emoji/twitter/sweat_smilec164.png?v=9" title=":sweat_smile:" class="emoji" alt=":sweat_smile:"><br>
+.<br>
+FW mechanics focus on making each PC a unique person, before thinking of them as Classes.<br>
+Each PC then has a sort of in-built mechanics to produce a character arc, but the game is agnostic to it being static or dynamic (you know, when you stay the same and the world around you changes, or when you change in response to the world around you).<br>
+.<br>
+The four Fellowship archetypes pretty much map over the most common kinds of campaign, and their underlying story themes.<br>
+You could easy have a LotR kind of story, or a GoT kind of story, or a Mistborn kind of story, etc… and you can inject the appropriate themes, and the mechanics will support you in general… but there are no specific mechanics focused on specific themes.<br>
+.<br>
+The Classes then offer mostly different cool ways to engage with the setting around you.<br>
+They are not laser-focused archetypes of one specific kind of story… SCUP does that much more, for example.<br>
+There are a couple of more opinionated Classes (the Knight is about exploring morality, honor and ethics)(the Priest is about exploring religion in a “real life” sense) but overall they all try to mostly help the Player express themselves and create their own content.<br>
+Sure, the Scoundrel is more about crime, the Occultist is more about magic, the Warrior is more about violence and how it marks you … but they are not too specific about it.<br>
+.<br>
+So it could be ANY novel and show, but also NONE specifically.<br>
+It’s meant to be a platform for YOUR fantasy story… where that story is about people-problems and people-dreams (be they epic or mundane) and the personal responsibility of dealing with them (that’s why gods are silent) and their consequences (that’s why “<em>everything is people</em>” in the rules jargon).<br>
+.<br>
+Does this makes sense?<br>
+Maybe there are obvious kinds of novel or show that come to mind from this, and I am just not seeing them?<br>
+Help! <img src="../../images/emoji/twitter/smileyc164.png?v=9" title=":smiley:" class="emoji" alt=":smiley:"></p>
+        </div>
+
+        <meta itemprop='headline' content='Dev Journal - Fantasy World vs Dungeon World - 14 Differences'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="1" />
+           <span class='post-likes'>1 Like</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Airk'><span itemprop='name'>Airk</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-03-16T16:08:10Z' class='post-time'>
+                March 16, 2021,  4:08pm
+              </time>
+          <span itemprop='position'>#8</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Fantasy World has always felt like it should be something I should like, but I find your writing style to be frustratingly self important;  Even your comparisons to Dungeon World have an unpleasant “We don’t do it THAT way” kind of tone for me.  This also comes across in your seeming criticism of “other PbtA games” where you “spend too much time negotiating how to play”.   It’s sortof ironic, because you tout your writing style as one of the advantages of your game, but for me it’s the opposite – your writing style pushes me away. It feels like you are constantly telling me how much better your game is than other games and that is AWFUL for me.  I also am frustrated by statements that imply that your game “offers an honest opinion on how exactly to play FW.” as if other texts do not.  It feels like you are weaseling here, because if it’s “just an opinion” then that is exactly what the games you are, frankly, belittling by saying “you do you” are doing… but yours is “honest” and “exact”?  No thanks. =/</p>
+<p>Also, to be honest, the fact that you can’t think of another property to use as a reference is kindof…alarming in a game that is “inspired by novels and movies”?  I’m not at all comforted by the idea that it “could be LotR or could be Mistborn” since those two things have… nothing in common as far as I am concerned. =/</p>
+<p>Sorry if this comes off extremely negative; I can’t figure out any other way to try to tell you how and why your game pushes me away.</p>
+        </div>
+
+        <meta itemprop='headline' content='Dev Journal - Fantasy World vs Dungeon World - 14 Differences'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="6" />
+           <span class='post-likes'>6 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Paul_T'><span itemprop='name'>Paul_T</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-03-16T17:10:27Z' class='post-time'>
+                March 16, 2021,  5:10pm
+              </time>
+          <span itemprop='position'>#9</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>There is a lot to be excited about here. I think the design goals and priorities are really laudable, and the thought being given to a “Fantasy World” which takes the strengths of PbtA design and divorces them from the limitations a game like DW has taken on (due to its design intent to emulate D&amp;D) is a huge draw for me.</p>
+<p>I find myself quite inspired and excited by the approach to design here, and the thoughtfulness behind it. A powerful, deep fantasy PbtA game would be very welcome.</p>
+<p>I do also find myself struggling with the amount of effort put into “selling” the game, and positioning it as better than existing games. I’d rather the author put forward a product and let it speak for itself than read pages and pages of advertising for how great the game <em>will</em> be.</p>
+<p>So, consider me cautiously excited, and prepared to support this project. I’d rather the designer spend less time writing <em>about</em> the game or convincing us how much better than other games it’s going to be, and more time writing this fantastic game. (But, of course, it’s not my place to tell anyone what to do! I’m just describing my reaction to the posts so far.)</p>
+<p>If the game meets the design goals it sets out for itself, it will be a veritable chef-d’oeuvre. That’s exciting!</p>
+        </div>
+
+        <meta itemprop='headline' content='Dev Journal - Fantasy World vs Dungeon World - 14 Differences'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="4" />
+           <span class='post-likes'>4 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Paul_T'><span itemprop='name'>Paul_T</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-03-16T17:16:23Z' class='post-time'>
+                March 16, 2021,  5:16pm
+              </time>
+          <span itemprop='position'>#10</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>I think the issue of “how to present” this kind of game is really interesting.</p>
+<p>Vincent Baker is a brilliant designer who achieves a great deal with evocative and poetic writing. I’ve seen some people really dig in to how powerful and effective this kind of writing can be, like at the Daily Apocalypse, which is a sort of love letter to AW:</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      
+      <a href="http://www.daily-apocalypse.com/index.html/" target="_blank">THE DAILY APOCALYPSE</a>
+  </header>
+  <article class="onebox-body">
+    <img src="http://gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/1X/3edad2a1203fe8bd9bb827284bc7317fee8f26a5.png" class="thumbnail onebox-avatar" width="200" height="200">
+
+<h3><a href="http://www.daily-apocalypse.com/index.html/" target="_blank">Daily Apocalypse</a></h3>
+
+<p>RPG Blogposts focusing on Apocalypse World and other indie RPG publications.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>So, I would not overlook the power and effectiveness of poetic, compelling, inspiring writing.</p>
+<p>Having said that, I agree that this kind of presentation can really lead a reader to “buy in” to the game and the world being described, creating a false sense of security or understanding. Compared to a “drier” game, the sense of excitement and understanding is great, but often falls flat at the actual table. There are many rules and examples that seem really clear in the text, but, because of the reliance on poetic writing and the use of examples, don’t work the same way once they run up against a slightly different situation in play.</p>
+<p>I’d like to see a writer find the Golden Mean between these two poles, and look for it myself, when writing rules. It’s not an obvious needle to thread, however!</p>
+        </div>
+
+        <meta itemprop='headline' content='Dev Journal - Fantasy World vs Dungeon World - 14 Differences'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="3" />
+           <span class='post-likes'>3 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+            <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+            </div>
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Alessandro_Piroddi'><span itemprop='name'>Alessandro_Piroddi</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-03-16T18:08:28Z' class='post-time'>
+                March 16, 2021,  6:08pm
+              </time>
+          <span itemprop='position'>#11</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p><a class="mention" href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a>, thanks for the feedback <img src="../../images/emoji/twitter/slight_smilec164.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"><br>
+Just… your post seems to say that the game is not yet available. That all this talking about the game is not as good as having the game itself.<br>
+Maybe I misunderstand?<br>
+Because the game <strong>is</strong> already available in the form of a free wiki-rulebook: <a href="https://tiny.cc/FantasyWorldRPG" rel="nofollow noopener">https://tiny.cc/FantasyWorldRPG</a><br>
+The upcoming KS will simply give it physical form, professional publishing and distribution, professional layout and illustrations, etc. But the text of the game (typos excluded <img src="../../images/emoji/twitter/sweat_smilec164.png?v=9" title=":sweat_smile:" class="emoji" alt=":sweat_smile:">) is complete and final.<br>
+Text-wise, the kickstarted book will feature more examples, but that’s about it.<br>
+.<br>
+The KS happens in about a month and in this one topic I’m trying to say “<strong>look at this thing here!</strong>” by talking about the game and its design.<br>
+Deciding what to talk about, both the FB and Reddit crowd kept asking for a comparison between FW and DW, so I wrote the article linked in the OP.<br>
+So, not a useless chunk of advertisement, but a (hopefully <img src="../../images/emoji/twitter/sweat_smilec164.png?v=9" title=":sweat_smile:" class="emoji" alt=":sweat_smile:"> ) interesting conversation starter about actual design and (in this first part) technical writing.<br>
+Just to give some context as to why I am doing this comparison at all.<br>
+I thought it would be ok.</p>
+        </div>
+
+        <meta itemprop='headline' content='Dev Journal - Fantasy World vs Dungeon World - 14 Differences'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="3" />
+           <span class='post-likes'>3 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+            <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+            </div>
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Alessandro_Piroddi'><span itemprop='name'>Alessandro_Piroddi</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <meta itemprop='datePublished' content='2021-03-16T20:07:52Z'>
+              <time itemprop='dateModified' datetime='2021-03-16T20:12:34Z' class='post-time'>
+                March 16, 2021,  8:12pm
+              </time>
+          <span itemprop='position'>#12</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p><a class="mention" href="https://forums.gauntlet-rpg.com/u/airk">@Airk</a><br>
+Harsh T_T<br>
+But if that’s how you feel… maybe it could be a lesson learned <img src="../../images/emoji/twitter/slight_smilec164.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"><br>
+If you feel like it, maybe we could look closely into the specifics of the pain points you mention?<br>
+I’ll try to see if there is anything I can address so far…<br>
+.<br>
+First of all, I plea for charitable reading.<br>
+English is not my first language so, even though I write it daily for study and work, I am sure that a bunch of meaning and nuance gets inevitably lost in translation.<br>
+.<br>
+<strong>why a comparison</strong><br>
+As mentioned in the reply to Paul, it was specifically requested.<br>
+In writing the article I tried my best ( <img src="../../images/emoji/twitter/sweat_smilec164.png?v=9" title=":sweat_smile:" class="emoji" alt=":sweat_smile:"> ) to not make it sound like a belittling attack against DW or other games. I even had a couple of friends that I know to be die hard DW aficionados review everything to be sure that they found it fair and reasonable and not offensive.<br>
+Just to say that I really put in the effort to do things right <img src="../../images/emoji/twitter/frowningc164.png?v=9" title=":frowning:" class="emoji" alt=":frowning:"><br>
+.<br>
+<strong>criticism</strong><br>
+There are elements of criticism. Of course.<br>
+FW was born as my personal way to “fix” the problems and frustrations I experienced while playing other PbtA games.<br>
+Games that I played for ten years now, and that I continue playing, because they are great <img src="../../images/emoji/twitter/smileyc164.png?v=9" title=":smiley:" class="emoji" alt=":smiley:"><br>
+From the first edition of Apocalypse World to my last session of Brindlewood Bay, last Thursday <img src="../../images/emoji/twitter/heartc164.png?v=9" title=":heart:" class="emoji" alt=":heart:"><br>
+But in time I noticed that while I loved some elements of these games, others I had problems with. And  started noticing patterns across different PbtA titles. I started pondering if/how I could fix the things I felt needed fixing in my private game sessions. And eventually I collected all these notes and patches into a more coherent form.<br>
+FW was not born out of a big shiny idea.<br>
+FW was born as my critical commentary on the state of the PbtA design culture. In no way I intend it (or the conversation around it) to belittle the games I love and cherish and still play (or even those that I don’t love and play) … and if this is the feeling you got, I am sorry <img src="../../images/emoji/twitter/cryc164.png?v=9" title=":cry:" class="emoji" alt=":cry:"><br>
+That said… yes… there are points of criticism.<br>
+I thought to have delivered them in a constructive and polite way… but for you it all came across as sly, belittling, contemptuous attacks. Again, I am sorry, that <strong>really</strong> was not my intention.</p>
+<aside class="quote no-group" data-username="Airk" data-post="8" data-topic="6689">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="../../user_avatar/forums.gauntlet-rpg.com/airk/40/2991_2.jpg" class="avatar"> Airk:</div>
+<blockquote>
+<p>It’s sort of ironic, because you tout your writing style as one of the advantages of your game, but for me it’s the opposite</p>
+</blockquote>
+</aside>
+<p>I have one important (for me at least) question about this!<br>
+Did you detect this unpleasantness only in the article… or also on the actual rulebook?</p>
+<aside class="quote no-group" data-username="Airk" data-post="8" data-topic="6689">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="../../user_avatar/forums.gauntlet-rpg.com/airk/40/2991_2.jpg" class="avatar"> Airk:</div>
+<blockquote>
+<p>I also am frustrated by statements that imply that your game “offers an honest opinion on how exactly to play FW.” as if other texts do not.</p>
+</blockquote>
+</aside>
+<p>Maybe I expressed myself poorly?<br>
+I still stand by those words, but judging by your reaction maybe they don’t express properly my meaning?<br>
+In the world of software and programming languages being “opinionated” means providing instructions on <strong>how to use a tool</strong>, in addition to the tool itself.<br>
+This relates to FW design because, in my personal experience, I have often stumbled on PbtA rulebooks that seem to put a lot of effort into presenting a cool new idea, but not as much effort into explaining how to play it in practice.<br>
+And then when someone asks online for clarifications, the overall PbtA culture seems to agree that “it doesn’t matter, the table decides, you do you”.<br>
+And then when the author eventually also comments, they often go in the same direction, to the effect of “my table is mine, but who cares, you do you”.<br>
+.<br>
+It doesn’t happen always, it does not happen everywhere, it does not happen with all games… but it happens enough that for me personally it has become a problem, an element of frustration with the games I otherwise love, and with the culture that surrounds them.<br>
+So… one goal I tried to achieve with FW was to break this convention. Make it an opinionated rules set.<br>
+To me saying that FW offers an “honest opinion on how to play” did not equate to saying that other games are dishonest. This really is not what I mean.</p>
+<aside class="quote no-group" data-username="Airk" data-post="8" data-topic="6689">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="../../user_avatar/forums.gauntlet-rpg.com/airk/40/2991_2.jpg" class="avatar"> Airk:</div>
+<blockquote>
+<p>Also, to be honest, the fact that you can’t think of another property to use as a reference is kindof…alarming in a game that is “inspired by novels and movies”? I’m not at all comforted by the idea that it “could be LotR or could be Mistborn” since those two things have… nothing in common as far as I am concerned. =/</p>
+</blockquote>
+</aside>
+<p>Fair point.<br>
+Although I find that they can have a LOT in common.<br>
+First of all, there is plenty of academic literature studying the underlying workings of “narrative”. Be it a novel, a comic, a movie… there are plenty of mechanisms that are shared across all media.<br>
+And then when it comes to adventurous stories, these similarities become even more identifiable and relevant.<br>
+How to write a good character. How to write a good character arch. How to write a good villain. Story beats. Story structure. Etc. There is even a narrative theory that explores how EVERY story is in fact the SAME story … although I’m personally critical about it, some elements are rather convincing and worthy of thought and consideration.<br>
+FW was developed using these theories… so no, I can’t easily think of ONE novel that truly incarnates the spirit of FW to the exclusion of others, because it really has a lot in common with a lot of different stories, although it can’t exactly overlap 100% with any specific one of them.<br>
+Maybe I am overthinking it?<br>
+Maybe you meant something different?<br>
+How about you throw an example at me and we look into it to see if and how FW can fit to play it? <img src="../../images/emoji/twitter/slight_smilec164.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+        </div>
+
+        <meta itemprop='headline' content='Dev Journal - Fantasy World vs Dungeon World - 14 Differences'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="3" />
+           <span class='post-likes'>3 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Airk'><span itemprop='name'>Airk</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <meta itemprop='datePublished' content='2021-03-16T20:31:56Z'>
+              <time itemprop='dateModified' datetime='2021-03-16T20:32:40Z' class='post-time'>
+                March 16, 2021,  8:32pm
+              </time>
+          <span itemprop='position'>#13</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Just a couple of quick thoughts:</p>
+<ul>
+<li>I initially had the “This is kindof rude” feeling when reading the introductory portions of the game, and the feeling stuck with me into the more rules oriented parts, though that’s might just be a holdover of the tone of the introduction rather than something inherent in the rules text itself.</li>
+<li>You could probably mitigate some or all of this perceived “talking down” by showing some affection for the games you are comparing yourself to.  “While lots of excellent PbtA games use a loose, somewhat freeform approach, I’ve found that sometimes that can lead to players and GMs spending too much time negotiating with one another and not enough time playing”;  <strong>I think this is probably the most important point I have to make, so if you take one thing away from this post, hopefully this is it.</strong> This might very well just be an “English as a second language” problem.</li>
+<li>You are not writing software here.  In most places, having an opinion just means that you “have thoughts” on something. Opinions are perceived as very personal and not generally something that you can expect someone else to necessarily agree with.  I suggest a different word.</li>
+<li>I don’t really think “You do you” is specific to PbtA games. RPGs have a long history of designers sortof washing their hands of things like this.  This is actually something I really agree with you on, but I don’t find it be as prominent in PbtA titles.</li>
+<li>Unless I completely misremember your game, it’s not a “narrative simulator” so trying to use those levels of similarities between novels isn’t going to carry a lot of weight with me.  I don’t think anyone is asking for a definitive “This is the book FW was based on!” reference, just “This work really feels like it could’ve been a story that would have been created with FW”.</li>
+</ul>
+        </div>
+
+        <meta itemprop='headline' content='Dev Journal - Fantasy World vs Dungeon World - 14 Differences'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="5" />
+           <span class='post-likes'>5 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/DeReel'><span itemprop='name'>DeReel</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <meta itemprop='datePublished' content='2021-03-16T21:08:22Z'>
+              <time itemprop='dateModified' datetime='2021-03-16T21:18:49Z' class='post-time'>
+                March 16, 2021,  9:18pm
+              </time>
+          <span itemprop='position'>#14</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Hello,<br>
+FW is very interesting when it shows the many little spots where judgement is called for. But I think that doesn’t prevent negotiation at the table. Which, independent of the goal, doesn’t turn me off. That’s because I am from that culture where the more interpretations, the better, as long as they don’t bluntly clash.<br>
+Maybe there’s <strong>also</strong> a rational reason for redacting rules like AW : redundancy. My suggestion is that Vincent Baker trades some clarity for <a href="http://lumpley.com/index.php/anyway/thread/594">robustness</a>.</p>
+<p>I feel Airk’s concern when a sentence like “DW and many other PbtA games have ported this feature over to their design.” is modulated like you did in the article. Except from that, you state your intent and position very openly in both OP and the article.</p>
+<p>In a nutshell, I really like how healthy the discussion is and how it prompted me to re-read FW : a pleasure.</p>
+        </div>
+
+        <meta itemprop='headline' content='Dev Journal - Fantasy World vs Dungeon World - 14 Differences'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="4" />
+           <span class='post-likes'>4 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+            <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+            </div>
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Paul_T'><span itemprop='name'>Paul_T</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-03-16T21:18:51Z' class='post-time'>
+                March 16, 2021,  9:18pm
+              </time>
+          <span itemprop='position'>#15</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Oh, how much difference some context makes!</p>
+<p>Now that I know that the game is already available, and this was written in response to people asking for it, I must apologize: that makes a great a deal more sense! It’s an excellent response to such prompting. I take back my comments on that front, entirely.</p>
+<p>I’ll have to go take a look at the rules and let you know what I think. Thanks for the thorough reply! I am actually quite excited to check this out.</p>
+        </div>
+
+        <meta itemprop='headline' content='Dev Journal - Fantasy World vs Dungeon World - 14 Differences'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="4" />
+           <span class='post-likes'>4 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Paul_T'><span itemprop='name'>Paul_T</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-03-18T14:41:27Z' class='post-time'>
+                March 18, 2021,  2:41pm
+              </time>
+          <span itemprop='position'>#16</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>I was definitely curious enough, after engaging with this thread, to check out the rules text. It’s admirably clear and thorough, so far.</p>
+<p>I like the implementation of my harm rules in this game! Very nicely done.</p>
+<p>I’ll keep on reading.</p>
+        </div>
+
+        <meta itemprop='headline' content='Dev Journal - Fantasy World vs Dungeon World - 14 Differences'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="4" />
+           <span class='post-likes'>4 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Alessandro_Piroddi'><span itemprop='name'>Alessandro_Piroddi</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-03-18T15:09:42Z' class='post-time'>
+                March 18, 2021,  3:09pm
+              </time>
+          <span itemprop='position'>#17</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>I remember coming up with the Fictional Harm after seeing something similar somewhere but I could not, for the life of me, remember the original source! <img src="../../images/emoji/twitter/stuck_out_tongue_closed_eyesc164.png?v=9" title=":stuck_out_tongue_closed_eyes:" class="emoji" alt=":stuck_out_tongue_closed_eyes:"><br>
+Was it you?<br>
+Was there a discussion of your harm system here or somewhere else online? <img src="../../images/emoji/twitter/smileyc164.png?v=9" title=":smiley:" class="emoji" alt=":smiley:"></p>
+<p>I would like to give credit where it’s due, like the Sway move holding a huge debt of gratitude to its analogous move in Stonetop <img src="../../images/emoji/twitter/heartc164.png?v=9" title=":heart:" class="emoji" alt=":heart:"></p>
+        </div>
+
+        <meta itemprop='headline' content='Dev Journal - Fantasy World vs Dungeon World - 14 Differences'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="3" />
+           <span class='post-likes'>3 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Paul_T'><span itemprop='name'>Paul_T</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-03-18T16:57:29Z' class='post-time'>
+                March 18, 2021,  4:57pm
+              </time>
+          <span itemprop='position'>#18</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>Alessandro,</p>
+<p>Indeed, I am the originator of “descriptive harm”, having written versions of it for Apocalypse World and Dungeon World back in 2012. (Original version here: <a href="http://ihousenews.pbworks.com/w/file/fetch/63408904/Apocalypse harm.pdf">http://ihousenews.pbworks.com/w/file/fetch/63408904/Apocalypse%20harm.pdf</a>)</p>
+<p>It struck me that the approach to Harm in AW doesn’t seem to be designed along the same lines as the rest of the game, so I wrote that up as a “proof of concept”. However, the rules worked well, and I know a lot of people used them.</p>
+<p>Since then, I’ve seen a bunch of different designers take the concept and run with it, but one thing I had not seen until your ruleset here is for anyone to take my suggestion to use it for group combat, as well. (I had a list similar to yours, but never made it into a workable system - does the leadership break, or does the group lose morale? I like what you’ve done here, in the “mass combat” portion. Nice to see someone finally implement this!)</p>
+<p>I have written quite a handful of different approaches to this over time, including this simple add-on to AW as written:</p>
+<p><a href="https://lumpley.games/thebarf/index.php?topic=9103.0" class="onebox" target="_blank">https://lumpley.games/thebarf/index.php?topic=9103.0</a></p>
+        </div>
+
+        <meta itemprop='headline' content='Dev Journal - Fantasy World vs Dungeon World - 14 Differences'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="6" />
+           <span class='post-likes'>6 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+            <div class='crawler-linkback-list' itemscope itemtype='http://schema.org/ItemList'>
+            </div>
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Paul_T'><span itemprop='name'>Paul_T</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <time itemprop='datePublished' datetime='2021-03-18T17:45:23Z' class='post-time'>
+                March 18, 2021,  5:45pm
+              </time>
+          <span itemprop='position'>#19</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>I also really like how you built a simple framework for the “in media res” beginning, with the three choices being offered to the players. Nicely done!</p>
+<p>I do think that a game which presumes a Fellowship (unlike something more individually oriented, like AW) might do better with a clear, GM-led start - a central concept or promise, which should probably be communicated and known before character creation - but this is definitely a big improvement on Dungeon World’s presentation. I’ll have to read further, though, to see whether this is addressed in the Fellowship creation section.</p>
+        </div>
+
+        <meta itemprop='headline' content='Dev Journal - Fantasy World vs Dungeon World - 14 Differences'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="6" />
+           <span class='post-likes'>6 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="0" />
+          </div>
+
+
+    </div>
+    <div itemscope itemtype='http://schema.org/DiscussionForumPosting' class='topic-body crawler-post'>
+        <div class='crawler-post-meta'>
+          <span class="creator" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <a itemprop="url" href='https://forums.gauntlet-rpg.com/u/Airk'><span itemprop='name'>Airk</span></a>
+            
+          </span>
+
+          <span class="crawler-post-infos">
+              <meta itemprop='datePublished' content='2021-03-19T00:42:46Z'>
+              <time itemprop='dateModified' datetime='2021-03-19T00:55:18Z' class='post-time'>
+                March 19, 2021, 12:55am
+              </time>
+          <span itemprop='position'>#20</span>
+          </span>
+        </div>
+        <div class='post' itemprop='articleBody'>
+          <p>I went back to read the rules a bit to see if the tonal issues I had are really inherent in the rules;  They are not – the rules have very little tone to them at all, which makes it easy to carry the tone from the introduction.</p>
+<p>However, in the process of reading the rules, I find it strange and difficult to believe that “FW evolved straight out of the original AW (and AW2) material. It has little to nothing in common with DW” since the game has so, so very many direct mappings straight to Dungeon World;  Whether that is move names, class moves, the way many moves operate, etc, very few of which can be cleanly seen as a direct connection to Apocalypse World. (I don’t think there is any way that you can convince me that the Paladin-analogue having a move that is almost verbatim “I am the Law” from Dungeon World is somehow something that came from AW, for example. This isn’t even a common feature of this archetype.)</p>
+<p>Think you should be giving more credit where it is due here.</p>
+        </div>
+
+        <meta itemprop='headline' content='Dev Journal - Fantasy World vs Dungeon World - 14 Differences'>
+
+        <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+           <meta itemprop="interactionType" content="http://schema.org/LikeAction"/>
+           <meta itemprop="userInteractionCount" content="2" />
+           <span class='post-likes'>2 Likes</span>
+         </div>
+
+         <div itemprop="interactionStatistic" itemscope itemtype="http://schema.org/InteractionCounter">
+            <meta itemprop="interactionType" content="http://schema.org/CommentAction"/>
+            <meta itemprop="userInteractionCount" content="1" />
+          </div>
+
+
+    </div>
+
+    <div role='navigation' itemscope itemtype='http://schema.org/SiteNavigationElement' class="topic-body crawler-post">
+        <span itemprop='name'><b><a rel="next" itemprop="url" href="66894658.html?page=2">next page →</a></b></span>
+    </div>
+
+
+
+
+
+    </div>
+    <footer class="container wrap">
+      <nav class='crawler-nav' itemscope itemtype='http://schema.org/SiteNavigationElement'>
+        <ul>
+        <li itemprop="name"><a href='../../index.html' itemprop="url">Home </a></li>
+        <li itemprop="name"><a href='../../categories.html' itemprop="url">Categories </a></li>
+        <li itemprop="name"><a href='../../guidelines.html' itemprop="url">FAQ/Guidelines </a></li>
+        <li itemprop="name"><a href='../../tos.html' itemprop="url">Terms of Service </a></li>
+        <li itemprop="name"><a href='../../privacy.html' itemprop="url">Privacy Policy </a></li>
+        </ul>
+      </nav>
+      <p class='powered-by-link'>Powered by <a href="https://www.discourse.org/">Discourse</a>, best viewed with JavaScript enabled</p>
+    </footer>
+    
+    
+  </body>
+  
+
+<!-- Mirrored from forums.gauntlet-rpg.com/t/dev-journal-fantasy-world-vs-dungeon-world-14-differences/6689 by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 01 Aug 2023 00:30:40 GMT -->
+</html>

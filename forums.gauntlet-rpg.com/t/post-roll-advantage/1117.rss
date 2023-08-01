@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Post-roll advantage</title>
+    <link>https://forums.gauntlet-rpg.com/t/post-roll-advantage/1117</link>
+    <description>Reading the [thread about advantage and disadvantage](https://discourse.funtimers.club/t/advantage-and-disadvantage-in-pbta-games/1016) has got me thinking about how it might be applied to my WIP *Last Fleet*.
+
+Here&#39;s the deal: in Last Fleet you have a 5-box Pressure track which, if it fills, cause you to hit Breaking Point. You then have to choose a Breaking Point action (something destructive or irrational, generally) from a list, and mark it off, so you can&#39;t choose that one again. One of the options is &quot;die&quot;. Pressure acts a bit like hit points, in that you can take Pressure from wounds, or from social and emotional blows. But you can also choose to mark Pressure, to get a +1 bonus to a roll, after the dice have been rolled.
+
+What I&#39;m pondering is, what if marking Pressure allowed you to roll an extra die and drop the lowest. This would be a lot like rolling with advantage, except that of course you know what you rolled on the other two dice, so you know what the chances are it will improve your result - you&#39;ll be much less likely to &quot;waste&quot; the third die.
+
+Anyone got any wise thoughts on how to model that probabilities-wise?</description>
+    
+    <lastBuildDate>Mon, 18 Mar 2019 18:32:01 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/post-roll-advantage/1117.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Post-roll advantage</title>
+        <dc:creator><![CDATA[@rabalias]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rabalias">@rabalias</a> wrote:</p>
+          <blockquote>
+              <p><a class="mention" href="/u/nickwedig">@Nickwedig</a> it’s 2d6 and I think to model something similar to the current system I’d say you keep the best two dice out of the three; and also you can potentially add more pressure to get even MOAR dice, if you’re so inclined.</p>
+<p><a class="mention" href="/u/jeremy_strandberg">@Jeremy_Strandberg</a> yes, you’re right - although in fact under the current system you can mark pressure more than once so it’s usually (not always, as there’s a cap on your total bonus) possible to mark pressure to succeed, and as you say that’s with the certainty you’ll be able to do so.</p>
+<p>On the other hand I guess the gamblers in the audience might be attracted by being able to chance spending 1 Pressure for success on a roll of 5 or 6, or suchlike.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/post-roll-advantage/1117/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/post-roll-advantage/1117/4</link>
+        <pubDate>Mon, 18 Mar 2019 18:32:01 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1117-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/post-roll-advantage/1117.rss">Post-roll advantage</source>
+      </item>
+      <item>
+        <title>Post-roll advantage</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-post="1" data-topic="1117">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/user_avatar/forums.gauntlet-rpg.com/rabalias/40/718_2.png" class="avatar"> rabalias:</div>
+<blockquote>
+<p>if marking Pressure allowed you to roll an extra die and drop the lowest. This would be a lot like rolling with advantage, except that of course you know what you rolled on the other two dice, so you know what the chances are it will improve your result - you’ll be much less likely to “waste” the third die.</p>
+</blockquote>
+</aside>
+<p>But if you mark Pressure to get a set +1 after the dice are rolled, you’ll <em>never</em> be wasting it… you’ll only mark Pressure on a 6 or a 9 (or maybe an 11 if there’s a 12+ rider).</p>
+<p>The key decision is:  Do you want them to <em>sometimes</em> be able to mark Pressure to <em>definitely</em> shift the result?  Or do you want them <em>almost always</em> be able to mark Pressure to <em>maybe</em> shift the result?</p>
+<p>I personally prefer the former, but your tastes (and your design needs) may vary.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/post-roll-advantage/1117/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/post-roll-advantage/1117/3</link>
+        <pubDate>Mon, 18 Mar 2019 14:13:10 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1117-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/post-roll-advantage/1117.rss">Post-roll advantage</source>
+      </item>
+      <item>
+        <title>Post-roll advantage</title>
+        <dc:creator><![CDATA[@Nickwedig]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/nickwedig">@Nickwedig</a> wrote:</p>
+          <blockquote>
+              <p>Probability-wise, it would basically work like this: <a href="https://anydice.com/program/dbff" rel="nofollow noopener">you’re replacing your 2d6 with 3d6k2</a>. But the thing is that the player already knows what the 2d6 roll was. So it would only be smart to take the Pressure and roll the advantage die if one of their existing dice is already a bad roll. Which is to say they would likely be swapping a 1 or a 2 for a new die roll, not a 4 or 5 and never a 6.</p>
+<p>So I have 2 dice I rolled, and I’m going to want to swap out the lower of those two dice. I choose to mark Pressure and, effectively, I’m swapping the lower die for a new die roll. My 1 becomes the expected value of a d6, so 3.5. So if you take the Pressure when one of your dice is 1, you expect to gain about 2.5 on your roll.</p>
+<p>There’s a slight wrinkle where your advantage die rolls lower than your starting die, if you had a 2 or greater on your low die to begin with.</p>
+<p>Assuming you always replace your lower die with the new advantage die, you can see the <a href="https://docs.google.com/spreadsheets/d/1qbEdOZ5xLfDBkebNkVWl_CH7du_MURLhjWHrCxYB4GY/edit?usp=sharing" rel="nofollow noopener">table of results here</a>.</p>
+<p>(That’s all assuming you’re using 2d6 more or less as in default PbtA. I don’t actually know that for sure based on what you wrote.)</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/post-roll-advantage/1117/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/post-roll-advantage/1117/2</link>
+        <pubDate>Mon, 18 Mar 2019 13:02:31 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1117-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/post-roll-advantage/1117.rss">Post-roll advantage</source>
+      </item>
+      <item>
+        <title>Post-roll advantage</title>
+        <dc:creator><![CDATA[@rabalias]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rabalias">@rabalias</a> wrote:</p>
+          <blockquote>
+              <p>Reading the <a href="https://forums.gauntlet-rpg.com/t/advantage-and-disadvantage-in-pbta-games/1016">thread about advantage and disadvantage</a> has got me thinking about how it might be applied to my WIP <em>Last Fleet</em>.</p>
+<p>Here’s the deal: in Last Fleet you have a 5-box Pressure track which, if it fills, cause you to hit Breaking Point. You then have to choose a Breaking Point action (something destructive or irrational, generally) from a list, and mark it off, so you can’t choose that one again. One of the options is “die”. Pressure acts a bit like hit points, in that you can take Pressure from wounds, or from social and emotional blows. But you can also choose to mark Pressure, to get a +1 bonus to a roll, after the dice have been rolled.</p>
+<p>What I’m pondering is, what if marking Pressure allowed you to roll an extra die and drop the lowest. This would be a lot like rolling with advantage, except that of course you know what you rolled on the other two dice, so you know what the chances are it will improve your result - you’ll be much less likely to “waste” the third die.</p>
+<p>Anyone got any wise thoughts on how to model that probabilities-wise?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/post-roll-advantage/1117/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/post-roll-advantage/1117/1</link>
+        <pubDate>Mon, 18 Mar 2019 12:39:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-1117-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/post-roll-advantage/1117.rss">Post-roll advantage</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+forums.gauntlet-rpg.com	TRUE	/	FALSE	1999999999	_forum_session	aTBnbFFvNmZQemkzM0hkRzROTzBmVlpHNmhhYUQ2OHYzMWtNby9hRGhoQVNIYm83U2xtOVhhTGh3N2pZVG1NdTRNUSs5SStzQk1Ic28wT2tNYjFBa0E9PS0tRkhpUUtVYytVaVNubEZXeTUvWUtDdz09--d783013a11e0d5bb3d962b6e3f1e079e1acdc2d1
+forums.gauntlet-rpg.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

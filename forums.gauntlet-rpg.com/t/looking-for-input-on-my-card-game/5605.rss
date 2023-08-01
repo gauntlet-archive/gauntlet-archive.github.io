@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Looking for Input on My Card Game</title>
+    <link>https://forums.gauntlet-rpg.com/t/looking-for-input-on-my-card-game/5605</link>
+    <description>Hello Gauntleteers!
+
+I&#39;m a wanna be game designer looking for some advice/reviews of my card game.  May I do that here?  This group seems to have rather tight rules so I&#39;m trying to avoid feather ruffling.
+
+Here it is!
+https://wp.me/aaDcIt-2E</description>
+    
+    <lastBuildDate>Sun, 19 Jul 2020 18:54:21 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/looking-for-input-on-my-card-game/5605.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Looking for Input on My Card Game</title>
+        <dc:creator><![CDATA[@StarDrive]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/stardrive">@StarDrive</a> wrote:</p>
+          <blockquote>
+              <p><em>I’ll reply in italics.</em></p>
+<p>Firstly, The Gauntlet forums are primarily focused on roleplaying games, so you might not find many bites here.</p>
+<p><em>Understood.</em></p>
+<ul>
+<li>There is a general complexity overload.</li>
+</ul>
+<p><em>Hmm. That will take some noggin joggin. The complexity is my biggest worry.  I want it feel familiar to MtG players without being a clone and without the pay to win aspect. To me that means giving players ways to combine simple(ish) things into complexity.  Seems I overshot.</em></p>
+<ul>
+<li>Scoring is far too swingy. Making HP and Glory multiplicative means every point has a huge impact and will effectively lock players out of winning if their HP is reduced enough.</li>
+</ul>
+<p><em>The multiplication is meant to encourage defense and reduce ties. In the story of the game, the players are trying to impress the old mages and they want balance between aggression and defense.</em></p>
+<ul>
+<li>combat is unclear, the rules state that undefended attacks deal 1 damage and that minion combat is decided by the card’s rank + bonuses, but creature cards have an attack(?), defend (?), and caster(?) stats.</li>
+</ul>
+<p><em>Noted.  It’s supposed to be: Flip + Bonus + anything from Enchantments/Runes.  The bonus depends if you’re attacking or defending.  Knights are stronger when blocking.</em></p>
+<p><em>The rules are meant to not assume you’re using an official deck and fit on one sheet of letter paper. So I omitted examples which are meant to be in another document.  E for Example Game.  I’ll work on that section.</em></p>
+<ul>
+<li>I’m confused about the purpose of placing “flipped” cards <em>face up</em> since they immediately shuffle the deck when they are revealed. Similarly as to why there is the option to place the face up card on the bottom of the deck or in a separate pile?</li>
+</ul>
+<p><em>It’s an alternative to having two piles, draw and flips.  Maybe it would be clearer to just do the two piles.</em></p>
+<ul>
+<li>Too many types and subtypes with similar but niche rules (minions &amp; artifacts, enchantments &amp; runes, etc.)</li>
+</ul>
+<p><em>I’ll think about ways to mitigate that.</em></p>
+<ul>
+<li>There is an imbalanced minion: spell ratio, especially considering how many spells interact with minions. Roughly a fifth of your deck is minions, and almost half of the spells available can only interact with minions. Based on a starting hand size of five, players will usually have only 1 minions in their opening hand.</li>
+</ul>
+<p><em>The ratio comes from the poker deck.  I see what you mean though.  Hrm.</em></p>
+<p><em>I can see what happens with seven cards.  I went with five because there are ways to increase hand size.  I divided a deck into sets of five cards and almost all of them had something to summon.</em></p>
+<ul>
+<li>Runes being limited to only artifacts of the same type will be exceptionally difficult to cast.</li>
+</ul>
+<p><em>I’m expecting players to use Scry to bring up the cards the want to their hand sooner.  Discarding is another way to get to specific cards at a cost. As you cast and flip, you’ll get through cards fairly quickly since you draw up at the end of the turn.  I liked the idea of the wizard putting the runes ON something.  I’ll think about not requiring the Artifacts for Runes.</em></p>
+<ul>
+<li>Enchantment: Third eye, appears to be a functionally worse version of The Destiny Foresight ability. Would reduce complexity to use one ability for both.</li>
+</ul>
+<p><em>Foresight is unique to Destiny minions. Each domain has something special for use in battle.  It makes the other player flip first so you can decide how to react. Third Eye can apply to any of your minions and lets you see the other player’s hand in a battle before the flip, giving you a sense of their capability. It also gives you a sense for what else the other player is about to do.  Foresight won’t show you they have a Q of Flame in their hand.</em></p>
+<ul>
+<li>Similar feelings about the Rune: Oaken Shield and Enchantment: Green Scale</li>
+</ul>
+<p><em>Green scale gives one minion an extra card to flip when blocking.  Flip X cards and apply the highest to the battle. This grants a higher average “roll” (roll two, keep high) but keeps the range the same.  Green Scale applies to all of your minions when they block and it’s a +X to the flip. Changing the min and max.</em></p>
+<ul>
+<li>The Destiny Strike ability should have an addendum that the drawn card needs to be immediately used or discarded, and in either case it’s discarded to the owner’s discard pile. Will create severe memory issues if you can steal cards and leave them in your hand.</li>
+</ul>
+<p><em>I was assuming players would have different card backs or sleeves as I have seen MtG players do.   The other idea is to create a space on the card faces for a “sigil”.  Players could initial their cards or draw a unique doodle.  I will ponder your suggestion further though.</em></p>
+<ul>
+<li>The keyword “Unsummon” is used in multiple spells and abilities but is only mentioned as part of the summoning rules. Should have its own entry.</li>
+</ul>
+<p><em>Agreed.</em></p>
+<ul>
+<li>Does increasing your maximum HP also heal you? IE If my current HP is 9, max HP 10 and I increase max HP by 1 does my current HP become 10?</li>
+</ul>
+<p><em>Nope, just what it says. I’ll clarify that in the doc.</em></p>
+<ul>
+<li>For the Warding suit the Knight’s flip ability has a different name than the Journeyman and Quietess even though the rules are identical</li>
+</ul>
+<p><em>Yup.  An oversight after changing the name.</em></p>
+<ul>
+<li>Requiring creatures to become busy to block incentivizes bullying in a 3+ player game. In a 2 player game it’s extra busywork that does not add any strategic depth.</li>
+</ul>
+<p><em>In playtesting the players would attack the player that just went (to their right) and leave one or two ready (untapped), to block. Aggression leaves you vulnerable. Too much defense keeps your score low. Then the rule was that Knights and Journeymen could attack only adjacent players.  Qs, being assassins, could attack any player. One of my optional rules is going to be something about preventing dog piling. Knocking out a player ends the game, so there’s incentive to keep other players alive long enough so you have time to get some glory.</em></p>
+<p><em>If blocking does not tap the minions, they can still cast reaction spells, or block something else.  Your suggestion is in line with MtG, so I think I’ll go that way.</em></p>
+<ul>
+<li>The spell names “heal” and “hale” are too similar</li>
+</ul>
+<p><em>Agreed.</em></p>
+<ul>
+<li>Labelling the “King” rank creatures as “Knight” is confusing</li>
+</ul>
+<p><em>I’ll consider calling them their standard card names.  I went with Knight because it starts with K and matches the fantasy setting and the idea of them being protectors or hard to kill.</em></p>
+<ul>
+<li>The Knight of Wards is labelled as 12Q when it should be 13K</li>
+</ul>
+<p><em>Yeah.  The tool I’m using now will prevent that sort of thing.</em></p>
+<ul>
+<li>Labelling the first step of a turn “cleanup” is confusing</li>
+</ul>
+<p><em>I borrowed the term from MtG. Hmm.</em></p>
+<ul>
+<li>Typo in the “Enchantment: Third Eye” rules</li>
+</ul>
+<p><em>I’ll look for that.  Thank you.</em></p>
+<p><em>And in general… thanks.  You put some sincere thought into your critique.  That’s far more useful than “I love/hate it”. I’d be glad to return the favor for any of your projects.</em></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/looking-for-input-on-my-card-game/5605/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/looking-for-input-on-my-card-game/5605/8</link>
+        <pubDate>Sun, 19 Jul 2020 18:54:21 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5605-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/looking-for-input-on-my-card-game/5605.rss">Looking for Input on My Card Game</source>
+      </item>
+      <item>
+        <title>Looking for Input on My Card Game</title>
+        <dc:creator><![CDATA[@StarDrive]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/stardrive">@StarDrive</a> wrote:</p>
+          <blockquote>
+              <p>Much to think about here.  I’m going ruminate on this for a while and post some reflections.</p>
+<p>Thank you for putting time and thought into this.  I’ve been too close to it for too long to really <em>see</em> it.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/looking-for-input-on-my-card-game/5605/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/looking-for-input-on-my-card-game/5605/7</link>
+        <pubDate>Sat, 18 Jul 2020 19:12:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5605-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/looking-for-input-on-my-card-game/5605.rss">Looking for Input on My Card Game</source>
+      </item>
+      <item>
+        <title>Looking for Input on My Card Game</title>
+        <dc:creator><![CDATA[@Radmad]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/radmad">@Radmad</a> wrote:</p>
+          <blockquote>
+              <p>Firstly, The Gauntlet forums are primarily focused on roleplaying games, so you might not find many bites here.</p>
+<h2>General comments:</h2>
+<ul>
+<li>There is a general complexity overload. There are 33 unique “things” (5 spells and 3 creatures per suit plus the artifact) and every player is using all of them. A typical MtG deck will have half or even a third the number of unique things to keep track of and is still very complex. I would reduce the number of unique cards to around 3 per suit to start, then increase complexity once you have the general mechanics ironed out.</li>
+<li>Scoring is far too swingy. Making HP and Glory multiplicative means every point has a huge impact and will effectively lock players out of winning if their HP is reduced enough.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/a/a802a75a5e6c71e2d9e2c8bd6656576fc5582faa.png" data-download-href="/uploads/short-url/nYhTPWAwuJshmgaDWD5in8AZpWy.png?dl=1" title="image"><img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/a/a802a75a5e6c71e2d9e2c8bd6656576fc5582faa.png" alt="image" data-base62-sha1="nYhTPWAwuJshmgaDWD5in8AZpWy" width="653" height="500" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/a/a802a75a5e6c71e2d9e2c8bd6656576fc5582faa_2_10x10.png"><div class="meta">
+<svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">790×604 11.6 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg>
+</div></a></div>
+</li>
+<li>combat is unclear, the rules state that undefended attacks deal 1 damage and that minion combat is decided by the card’s rank + bonuses, but creature cards have an attack(?), defend (?), and caster(?) stats.</li>
+<li>I’m confused about the purpose of placing “flipped” cards <em>face up</em> since they immediately shuffle the deck when they are revealed. Similarly as to why there is the option to place the face up card on the bottom of the deck or in a separate pile?</li>
+<li>Too many types and subtypes with similar but niche rules (minions &amp; artifacts, enchantments &amp; runes, etc.)</li>
+<li>There is an imbalanced minion:spell ratio, especially considering how many spells interact with minions. Roughly a fifth of your deck is minions, and almost half of the spells available can only interact with minions. Based on a starting hand size of five, players will usually have only 1 minions in their opening hand.</li>
+<li>Runes being limited to only artifacts of the same type will be exceptionally difficult to cast.</li>
+</ul>
+<h2>Specific Rules Comments:</h2>
+<ul>
+<li>Enchantment: Third eye, appears to be a functionally worse version of The Destiny Foresight ability. Would reduce complexity to use one ability for both.</li>
+<li>Similar feelings about the Rune: Oaken Shield and Enchantment: Green Scale</li>
+<li>The Destiny Strike ability should have an addendum that the drawn card needs to be immediately used or discarded, and in either case it’s discarded to the owner’s discard pile. Will create severe memory issues if you can steal cards and leave them in your hand.</li>
+<li>The keyword “Unsummon” is used in multiple spells and abilities but is only mentioned as part of the summoning rules. Should have its own entry.</li>
+<li>Does increasing your maximum HP also heal you? IE If my current HP is 9, max HP 10 and I increase max HP by 1 does my current HP become 10?</li>
+<li>For the Warding suit the Knight’s flip ability has a different name than the Journeyman and Quietess even though the rules are identical</li>
+<li>Requiring creatures to become busy to block incentivizes bullying in a 3+ player game. In a 2 player game it’s extra busywork that does not add any strategic depth.</li>
+</ul>
+<h2>Minor Comments:</h2>
+<ul>
+<li>The spell names “heal” and “hale” are too similar</li>
+<li>Labelling the “King” rank creatures as “Knight” is confusing</li>
+<li>The Knight of Wards is labelled as 12Q when it should be 13K</li>
+<li>Labelling the first step of a turn “cleanup” is confusing</li>
+<li>Typo in the “Enchantment: Third Eye” rules</li>
+</ul>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/looking-for-input-on-my-card-game/5605/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/looking-for-input-on-my-card-game/5605/6</link>
+        <pubDate>Sat, 18 Jul 2020 18:15:00 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5605-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/looking-for-input-on-my-card-game/5605.rss">Looking for Input on My Card Game</source>
+      </item>
+      <item>
+        <title>Looking for Input on My Card Game</title>
+        <dc:creator><![CDATA[@StarDrive]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/stardrive">@StarDrive</a> wrote:</p>
+          <blockquote>
+              <p>For me, it’s “I <em>have</em> to make games”.  Making any money at it would be lovely!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/looking-for-input-on-my-card-game/5605/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/looking-for-input-on-my-card-game/5605/5</link>
+        <pubDate>Fri, 17 Jul 2020 15:07:38 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5605-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/looking-for-input-on-my-card-game/5605.rss">Looking for Input on My Card Game</source>
+      </item>
+      <item>
+        <title>Looking for Input on My Card Game</title>
+        <dc:creator><![CDATA[@StarDrive]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/stardrive">@StarDrive</a> wrote:</p>
+          <blockquote>
+              <p>Let me know if this link gives you any trouble:<br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <a href="https://stardrive.games/totam_2020_06_24/" target="_blank" title="02:11PM - 17 July 2020" rel="nofollow noopener">StarDrive.Games – 17 Jul 20</a>
+  </header>
+  <article class="onebox-body">
+    <img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/4/427a827e1b53c708ab0698ed1fac2195d6c45b98.jpeg" class="thumbnail onebox-avatar" width="200" height="200">
+
+<h3><a href="https://stardrive.games/totam_2020_06_24/" target="_blank" rel="nofollow noopener">TotAM_2020_06_24</a></h3>
+
+<p>Most recent version.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+<p>It’s a zip with three PDFs.  You can make your own cards or use a poker deck.</p>
+<p>Thank you!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/looking-for-input-on-my-card-game/5605/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/looking-for-input-on-my-card-game/5605/4</link>
+        <pubDate>Fri, 17 Jul 2020 15:05:38 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5605-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/looking-for-input-on-my-card-game/5605.rss">Looking for Input on My Card Game</source>
+      </item>
+      <item>
+        <title>Looking for Input on My Card Game</title>
+        <dc:creator><![CDATA[@Curufea]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/curufea">@Curufea</a> wrote:</p>
+          <blockquote>
+              <p>Sure, I’ve dabbled - and even talking to published folk, there’s always going to be a self assessment of “wanna be game designer”.  There’s so few that only make a living that way, it’s always because they love doing it.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/looking-for-input-on-my-card-game/5605/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/looking-for-input-on-my-card-game/5605/3</link>
+        <pubDate>Fri, 17 Jul 2020 03:33:38 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5605-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/looking-for-input-on-my-card-game/5605.rss">Looking for Input on My Card Game</source>
+      </item>
+      <item>
+        <title>Looking for Input on My Card Game</title>
+        <dc:creator><![CDATA[@Radmad]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/radmad">@Radmad</a> wrote:</p>
+          <blockquote>
+              <p>You’ve got the right place. Post it in this thread and I’ll take a look</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/looking-for-input-on-my-card-game/5605/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/looking-for-input-on-my-card-game/5605/2</link>
+        <pubDate>Thu, 16 Jul 2020 20:31:33 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5605-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/looking-for-input-on-my-card-game/5605.rss">Looking for Input on My Card Game</source>
+      </item>
+      <item>
+        <title>Looking for Input on My Card Game</title>
+        <dc:creator><![CDATA[@StarDrive]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/stardrive">@StarDrive</a> wrote:</p>
+          <blockquote>
+              <p>Hello Gauntleteers!</p>
+<p>I’m a wanna be game designer looking for some advice/reviews of my card game.  May I do that here?  This group seems to have rather tight rules so I’m trying to avoid feather ruffling.</p>
+<p>Here it is!<br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <a href="https://stardrive.games/totam_2020_06_24/" target="_blank" title="02:11PM - 17 July 2020" rel="nofollow noopener">StarDrive.Games – 17 Jul 20</a>
+  </header>
+  <article class="onebox-body">
+    <img src="//gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/4/427a827e1b53c708ab0698ed1fac2195d6c45b98.jpeg" class="thumbnail onebox-avatar" width="200" height="200">
+
+<h3><a href="https://stardrive.games/totam_2020_06_24/" target="_blank" rel="nofollow noopener">TotAM_2020_06_24</a></h3>
+
+<p>Most recent version.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/looking-for-input-on-my-card-game/5605/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/looking-for-input-on-my-card-game/5605/1</link>
+        <pubDate>Thu, 16 Jul 2020 19:54:13 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-5605-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/looking-for-input-on-my-card-game/5605.rss">Looking for Input on My Card Game</source>
+      </item>
+  </channel>
+</rss>

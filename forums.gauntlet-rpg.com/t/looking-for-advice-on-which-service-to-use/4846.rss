@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Looking for advice on which service to use</title>
+    <link>https://forums.gauntlet-rpg.com/t/looking-for-advice-on-which-service-to-use/4846</link>
+    <description>Hey Gauntleteers!
+
+I&#39;ll be starting a new campaign soon. Our group usually meets in person. Buuut in these isolation times, we&#39;ll be having the first session or two online. Which means I&#39;m wondering which service to use. 
+
+For context, we&#39;re playing Orpheus, an old White Wolf side project, part of their End Times offering. 
+
+I&#39;ve considered Google Hangouts, but I would like to have something to help things along - organise handouts, npc pictures, etc. And helping with dice rolls would me a nice touch as well.
+
+So then I looked at Astral, which seems to be a new service. They say they can run most systems. But they seem to be very map focused, which doesn&#39;t really match what we&#39;re doing. My impression of Roll20 is that it is similar.
+
+So what do you guys use for WoD games, PbtA games or similar, played online? Do you use the same service for voice/video and as a playing surface?</description>
+    
+    <lastBuildDate>Mon, 23 Mar 2020 20:46:01 +0000</lastBuildDate>
+    <category>RPG Chat</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/looking-for-advice-on-which-service-to-use/4846.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Looking for advice on which service to use</title>
+        <dc:creator><![CDATA[@Alun_R]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/alun_r">@Alun_R</a> wrote:</p>
+          <blockquote>
+              <p>Welcome to the community <a class="mention" href="/u/eliashelfer">@EliasHelfer</a>.<br>
+This series of post seeks to put as much of the Gauntlet’s wisdom on moving online, in one place, as possible.  Check that out and then I’m sure people will be happy to offer advice on ant specifics: <a href="https://forums.gauntlet-rpg.com/t/resources-for-moving-to-online-play/4786" class="inline-onebox">Resources for Moving to Online Play</a></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/looking-for-advice-on-which-service-to-use/4846/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/looking-for-advice-on-which-service-to-use/4846/4</link>
+        <pubDate>Mon, 23 Mar 2020 20:46:01 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4846-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/looking-for-advice-on-which-service-to-use/4846.rss">Looking for advice on which service to use</source>
+      </item>
+      <item>
+        <title>Looking for advice on which service to use</title>
+        <dc:creator><![CDATA[@darren]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/darren">@darren</a> wrote:</p>
+          <blockquote>
+              <p>Roll20 can be really good, but, if it doesn’t have character sheet support (e.g. it’s V5 character sheets are *chef’s kiss), forget it.</p>
+<p>I would suggest setting up a Discord server for your group. You can make video calls from group DMs and use the server space to pass along handouts, NPC stats, do rolls, etc. It takes a bit of set up since you’ll have to manage some bots, but it can be a really productive space for RPG sessions.<br>
+Here are some bot suggestions:<br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://top.gg/favicon.ico" class="site-icon" width="16" height="16">
+      <a href="https://top.gg/bot/377701707943116800" target="_blank">Discord Bot List</a>
+  </header>
+  <article class="onebox-body">
+    <img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/1/19c28583e88b41b944e2780971e8228da242f571_2_500x500.png" class="thumbnail onebox-avatar" width="500" height="500" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/1/19c28583e88b41b944e2780971e8228da242f571_2_500x500.png, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/1/19c28583e88b41b944e2780971e8228da242f571.png 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/1/19c28583e88b41b944e2780971e8228da242f571.png 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/1/19c28583e88b41b944e2780971e8228da242f571_2_10x10.png">
+
+<h3><a href="https://top.gg/bot/377701707943116800" target="_blank">Dice Maiden</a></h3>
+
+<p>Dice Maiden is a simple to use dice rolling bot perfect for any trpg sessions.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+<br>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="https://top.gg/favicon.ico" class="site-icon" width="16" height="16">
+      <a href="https://top.gg/bot/319289665347911680" target="_blank">Discord Bot List</a>
+  </header>
+  <article class="onebox-body">
+    <img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/8/89510f4abfd79fb4cd6a2cca020f6c4515b08e48_2_500x500.png" class="thumbnail onebox-avatar" width="500" height="500" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/8/89510f4abfd79fb4cd6a2cca020f6c4515b08e48_2_500x500.png, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/8/89510f4abfd79fb4cd6a2cca020f6c4515b08e48.png 1.5x, //gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/8/89510f4abfd79fb4cd6a2cca020f6c4515b08e48.png 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/8/89510f4abfd79fb4cd6a2cca020f6c4515b08e48_2_10x10.png">
+
+<h3><a href="https://top.gg/bot/319289665347911680" target="_blank">Dicecord-CoD</a></h3>
+
+<p>Diceroller bot made specifically for Chronicles of Darkness (nWoD 2e) ruleset</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/looking-for-advice-on-which-service-to-use/4846/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/looking-for-advice-on-which-service-to-use/4846/3</link>
+        <pubDate>Mon, 23 Mar 2020 20:34:49 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4846-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/looking-for-advice-on-which-service-to-use/4846.rss">Looking for advice on which service to use</source>
+      </item>
+      <item>
+        <title>Looking for advice on which service to use</title>
+        <dc:creator><![CDATA[@HorstWurst]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/horstwurst">@HorstWurst</a> wrote:</p>
+          <blockquote>
+              <p>For complex games Roll20 can be really helpful but I just don’t like the UI. I prefer google hangouts or similar services (I use <a href="https://streamyard.com/" rel="nofollow noopener">streamyard</a> or <a href="https://meet.jit.si/" rel="nofollow noopener">jitsi</a>) in combination with a google.doc spreadsheet for the character sheets (and google drive for handouts, maps etc.) and an online diceroller like <a href="http://rollforyour.party/" rel="nofollow noopener">rollforyourparty</a>.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/looking-for-advice-on-which-service-to-use/4846/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/looking-for-advice-on-which-service-to-use/4846/2</link>
+        <pubDate>Mon, 23 Mar 2020 19:54:09 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4846-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/looking-for-advice-on-which-service-to-use/4846.rss">Looking for advice on which service to use</source>
+      </item>
+      <item>
+        <title>Looking for advice on which service to use</title>
+        <dc:creator><![CDATA[@EliasHelfer]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/eliashelfer">@EliasHelfer</a> wrote:</p>
+          <blockquote>
+              <p>Hey Gauntleteers!</p>
+<p>I’ll be starting a new campaign soon. Our group usually meets in person. Buuut in these isolation times, we’ll be having the first session or two online. Which means I’m wondering which service to use.</p>
+<p>For context, we’re playing Orpheus, an old White Wolf side project, part of their End Times offering.</p>
+<p>I’ve considered Google Hangouts, but I would like to have something to help things along - organise handouts, npc pictures, etc. And helping with dice rolls would me a nice touch as well.</p>
+<p>So then I looked at Astral, which seems to be a new service. They say they can run most systems. But they seem to be very map focused, which doesn’t really match what we’re doing. My impression of Roll20 is that it is similar.</p>
+<p>So what do you guys use for WoD games, PbtA games or similar, played online? Do you use the same service for voice/video and as a playing surface?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/looking-for-advice-on-which-service-to-use/4846/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/looking-for-advice-on-which-service-to-use/4846/1</link>
+        <pubDate>Mon, 23 Mar 2020 19:35:51 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-4846-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/looking-for-advice-on-which-service-to-use/4846.rss">Looking for advice on which service to use</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Feedback on d100 micro</title>
+    <link>https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560</link>
+    <description>Hey folks, I&#39;ve been tinkering with a streamlined d100-based system for the past year, playtesting with a group in a handful of settings, and would love to get more broad feedback before I write some setting materials and more creative tools for it.
+
+I&#39;ve called the system &quot;d100 micro&quot; but recognize there might be a better name. In any case, I&#39;m planning to always have the core rules available for free, under Creative Commons, and to potentially support publishing of specific settings. I also have plans to improve the rules online and make the site more attractive, so feel free to criticize any and all parts of the existing material.
+
+Rules: https://d100micro.com
+Thanks for checking it out!</description>
+    
+    <lastBuildDate>Sun, 22 Jan 2023 23:32:11 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Feedback on d100 micro</title>
+        <dc:creator><![CDATA[@seanFsmith]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/seanfsmith">@seanFsmith</a> wrote:</p>
+          <blockquote>
+              <p>The character generation in this is nice: I’m rarely a fan of skills within attribute brackets, but it feels clean in this for sure!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560/12</link>
+        <pubDate>Sun, 22 Jan 2023 23:32:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8560-12</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560.rss">Feedback on d100 micro</source>
+      </item>
+      <item>
+        <title>Feedback on d100 micro</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>For Attribute checks maybe a more active sentence like “When … make an Attribute check.” will have more mnesic impact.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560/11</link>
+        <pubDate>Thu, 19 Jan 2023 07:48:54 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8560-11</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560.rss">Feedback on d100 micro</source>
+      </item>
+      <item>
+        <title>Feedback on d100 micro</title>
+        <dc:creator><![CDATA[@joshforisha]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/joshforisha">@joshforisha</a> wrote:</p>
+          <blockquote>
+              <p>Sure, the first section mentions attributes are “ratings that are used as pools of points”. The Body text mentions “general health” and how it’s “reduced by damage”. Mind mentions “reduced when mentally strained”. Will mentions “reduced when under stress”. And all three sections say what happens when they’re reduced to zero.</p>
+<p>In the Actions section, it’s noted that “Attribute checks can also occur […] in these cases the target number is the attribute’s current rating as a percentage.” Specific options for fear and sanity are linked there, as they are attribute-based.</p>
+<p>In the Damage section, the effective “damage type determines which of the target’s attributes is reduced”. And in Recovery, it’s detailed how a character regains points to “any damaged attributes”.</p>
+<p>But I see your point. I’ll try to make the attribute usage more explicit.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560/10</link>
+        <pubDate>Thu, 19 Jan 2023 00:18:26 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8560-10</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560.rss">Feedback on d100 micro</source>
+      </item>
+      <item>
+        <title>Feedback on d100 micro</title>
+        <dc:creator><![CDATA[@Rickard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rickard">@Rickard</a> wrote:</p>
+          <blockquote>
+              <aside class="quote no-group" data-username="joshforisha" data-post="7" data-topic="8560">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt width="20" height="20" src="https://forums.gauntlet-rpg.com/letter_avatar_proxy/v4/letter/j/4491bb/40.png" class="avatar"> joshforisha:</div>
+<blockquote>
+<p>This is all explained throughout the text and with the examples, so I wonder where I can improve this understanding.</p>
+</blockquote>
+</aside>
+<p>Can you quote where you talk about what attributes are used in the core section of the rules? Because I couldn’t find it (CTRL-F), other than in examples, but you should never <em>introduce</em> anything in examples, just clarify.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560/9</link>
+        <pubDate>Wed, 18 Jan 2023 20:37:47 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8560-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560.rss">Feedback on d100 micro</source>
+      </item>
+      <item>
+        <title>Feedback on d100 micro</title>
+        <dc:creator><![CDATA[@joshforisha]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/joshforisha">@joshforisha</a> wrote:</p>
+          <blockquote>
+              <p>It’s probably more accurate to stick to the “setting agnostic” descriptor in that case, since as noted the style of gameplay is BRP-esque. What’s been interesting to me is that in play the rules get out of the way enough that I’ve enjoyed more narrative-focused sessions, with the crunchy bits helping to reinforce actions only when necessary, which was one of my early goals.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560/8</link>
+        <pubDate>Tue, 17 Jan 2023 20:22:34 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8560-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560.rss">Feedback on d100 micro</source>
+      </item>
+      <item>
+        <title>Feedback on d100 micro</title>
+        <dc:creator><![CDATA[@joshforisha]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/joshforisha">@joshforisha</a> wrote:</p>
+          <blockquote>
+              <p>The attributes are used more often than skills are, actually. They act as pools: Body is analogous to health, for instance. And they are used for non skill related checks, such as fear, endurance, etc. This is all explained throughout the text and with the examples, so I wonder where I can improve this understanding.</p>
+<p>For crit/fumble, in play we found it much more interesting to handle on zero, exactly because it wasn’t a guaranteed result in many cases. And to be fair, I didn’t want to rip off Mothership exactly, so I changed it up and ended up liking it. I suppose it could be an option to change that up though.</p>
+<p>Minor and major actions are intentionally left vague since the scope of conflicts are pretty open-ended. I will clarify in the text, nonetheless. Thanks!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560/7</link>
+        <pubDate>Tue, 17 Jan 2023 20:10:37 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8560-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560.rss">Feedback on d100 micro</source>
+      </item>
+      <item>
+        <title>Feedback on d100 micro</title>
+        <dc:creator><![CDATA[@Majcher]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/majcher">@Majcher</a> wrote:</p>
+          <blockquote>
+              <p>I would disagree that the system is “generic”, but I don’t believe that any system is actually generic. <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/smiley.png?v=9" title=":smiley:" class="emoji" alt=":smiley:"> Looking just at what we have here—focus on skills and conflict/damage/etc—definitely points at the system being focused on a specific kind of game. Which is great! As long as they acknowledge the type of play they’re tuning for and use that to refine the system in that direction, it’s all good.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560/6</link>
+        <pubDate>Tue, 17 Jan 2023 18:56:03 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8560-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560.rss">Feedback on d100 micro</source>
+      </item>
+      <item>
+        <title>Feedback on d100 micro</title>
+        <dc:creator><![CDATA[@Rickard]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rickard">@Rickard</a> wrote:</p>
+          <blockquote>
+              <p>I read the “Core” section.</p>
+<p>What’s the purpose of Body, Mind and Will if you’re not using them other than creating points for skills?</p>
+<p>Crit/fumble on a zero. Would probably benefit if there is crit/fumble when rolling double, because then it doesn’t matter if you can flip the dice or not.</p>
+<p>You mention “minor/major” action but never explains what that means.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560/5</link>
+        <pubDate>Tue, 17 Jan 2023 18:19:52 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8560-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560.rss">Feedback on d100 micro</source>
+      </item>
+      <item>
+        <title>Feedback on d100 micro</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>The rules convey clearly that the system is generic. Cosmic horror uses all the subsystems (I didn’t read the examples) so I think it’s your best red thread. “If you’ve got cosmic horror in you, gotta do what you gotta do.”<br>
+Oh I realize the english “addiction” means two things in my mother tongue. I couldn’t help with a choice of word.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560/4</link>
+        <pubDate>Tue, 17 Jan 2023 16:43:51 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8560-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560.rss">Feedback on d100 micro</source>
+      </item>
+      <item>
+        <title>Feedback on d100 micro</title>
+        <dc:creator><![CDATA[@joshforisha]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/joshforisha">@joshforisha</a> wrote:</p>
+          <blockquote>
+              <p>That’s a fair assessment, thank you.</p>
+<p>Yes, the system is inherently a response to my opinion that BRP is not basic enough. In my mind, the subsystems in BRP are far more tedious, but I think you’re right about finding a way to better frame these pieces together to emphasize their connections.</p>
+<p>I’ll admit that most of my interests over the recent past are around cosmic horror, hence the examples. I think it’s probably worth coming up with more variations as well, so I might explore multiple example types. The goal is that any genre could use the system, and I haven’t done a great job yet at highlighting that.</p>
+<p>As for addiction, you are again right. The substance section needs more thought, but would you think a good place to start is renaming the short-term downside to “dependence” (instead of addiction)? I recognize that addiction is a more chronic, corrupting affliction, and it’s not my intention to gloss over that.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560/3</link>
+        <pubDate>Tue, 17 Jan 2023 16:32:00 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8560-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560.rss">Feedback on d100 micro</source>
+      </item>
+      <item>
+        <title>Feedback on d100 micro</title>
+        <dc:creator><![CDATA[@DeReel]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dereel">@DeReel</a> wrote:</p>
+          <blockquote>
+              <p>Hi,<br>
+You seem to take inspiration from BRP. The mechanics are streamlined in a way, but there are “a lot” of subsystems. I think in that case a “GM cheasheet” and a “playflow diagram” can give a synoptic view of the system.<br>
+I don’t play in that style yet one critic stands for a system trying to emulate a world and a genre, a certain take on “realism” : the model for mental health and addiction is erroneous. Misrepresenting physical laws doesn’t have the same effect as misrepresenting mental issues, because real persons are out there and representation has an actual effect on their life. Renaming it to something else (“corruption” is great) is an option you started to implement.</p>
+<p>The rules tell me it’s a world of pulp cosmic horror. Illustrations and scenarios of cosmic horror in the past, present and future would be a cool addition.</p>
+<p>Don’t listen to anything I say, I know nothing of this style of play!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560/2</link>
+        <pubDate>Tue, 17 Jan 2023 16:12:14 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8560-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560.rss">Feedback on d100 micro</source>
+      </item>
+      <item>
+        <title>Feedback on d100 micro</title>
+        <dc:creator><![CDATA[@joshforisha]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/joshforisha">@joshforisha</a> wrote:</p>
+          <blockquote>
+              <p>Hey folks, I’ve been tinkering with a streamlined d100-based system for the past year, playtesting with a group in a handful of settings, and would love to get more broad feedback before I write some setting materials and more creative tools for it.</p>
+<p>I’ve called the system “d100 micro” but recognize there might be a better name. In any case, I’m planning to always have the core rules available for free, under Creative Commons, and to potentially support publishing of specific settings. I also have plans to improve the rules online and make the site more attractive, so feel free to criticize any and all parts of the existing material.</p>
+<p>Rules: <a href="https://d100micro.com" rel="nofollow noopener">https://d100micro.com</a><br>
+Thanks for checking it out!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560/1</link>
+        <pubDate>Tue, 17 Jan 2023 15:03:59 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-8560-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/feedback-on-d100-micro/8560.rss">Feedback on d100 micro</source>
+      </item>
+  </channel>
+</rss>

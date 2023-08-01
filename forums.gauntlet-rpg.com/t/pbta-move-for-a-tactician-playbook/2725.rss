@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>PbtA move for a Tactician Playbook</title>
+    <link>https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725</link>
+    <description>Trying to write a playbook for a tactician or battlefield commander type character.  I want them to start with a limited number of battle plans and be able to take more as they advance.  Here is the basic framework for the move so far:
+
+When you take time to draw out a plan for you and your allies , roll+INT. On a 10+, you, as well as three of your allies, can follow one of your known battle plans. On a 7-9, you and one of your allies can follow the plan, but the GM reveals that the enemy has also made plans, for which you are unprepared.
+
+Then plans would be things like:
+Ambush
+Coordinated Assault
+Stealth
+Flank
+etc.  
+
+Basically any sort of combat tactic.  There would be some appropriate mechanical advantage to each.  I&#39;m having difficulty making the plans beneficial enough to take without being overpowered.  Also not sure the 7-9 result is the best.</description>
+    
+    <lastBuildDate>Sat, 27 Jul 2019 18:48:22 +0000</lastBuildDate>
+    <category>Game Design</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>PbtA move for a Tactician Playbook</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>That would be a good miss clause for this move! (Which is probably a good idea, anyway.)</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725/13</link>
+        <pubDate>Sat, 27 Jul 2019 18:48:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2725-13</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725.rss">PbtA move for a Tactician Playbook</source>
+      </item>
+      <item>
+        <title>PbtA move for a Tactician Playbook</title>
+        <dc:creator><![CDATA[@bigbucky]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/bigbucky">@bigbucky</a> wrote:</p>
+          <blockquote>
+              <p>That’s a good point. An artificial limit doesn’t really make sense anyway. It was mainly there to prevent spamming. Banes could do that. I’ll have to thinks some more about that.</p>
+<p>What about this:<br>
+On a 7-9, they’re onto you!  This plan won’t work against that enemy for the rest of the session, and you become the priority target.</p>
+<p>That feels like it makes sense and is thematic.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725/12</link>
+        <pubDate>Sat, 27 Jul 2019 17:59:49 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2725-12</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725.rss">PbtA move for a Tactician Playbook</source>
+      </item>
+      <item>
+        <title>PbtA move for a Tactician Playbook</title>
+        <dc:creator><![CDATA[@dexter]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dexter">@dexter</a> wrote:</p>
+          <blockquote>
+              <p>I think the battle plans you came up with are nice. They cover a pretty wide range of situations.</p>
+<p>If I were using this playbook, I would want to either be able to use the plans as much as I want or not have a downside to using them.</p>
+<p>In terms of working the 7-9, here’s the type of move I would want as a player:</p>
+<h2>Battlefield Commander</h2>
+<p>When you and your allies join a battle, choose a battle plan then roll +INT. On a 10+, you and your allies get that plan’s <em>boon</em>. On a 7-9, you and your allies get that plan’s <em>boon</em> and <em>bane</em>. On a miss, you and your allies get that plan’s <em>bane</em>.</p>
+<p><strong>Battle Plan: Coordinated Assault</strong><br>
+<strong>Boon:</strong>  You and your allies can aid each other and coordinate your actions instantly regardless of distance.<br>
+<strong>Bane:</strong> When you or an ally engage an enemy alone, they take -1 forward.</p>
+<p><strong>Battle Plan: Abuscade</strong><br>
+<strong>Boon:</strong>  When you or an ally attacks an unaware enemy, they take +3 forward.<br>
+<strong>Bane:</strong> You and your allies have -1 armor.</p>
+<p><strong>Battle Plan: Double Time</strong><br>
+<strong>Boon:</strong>  You and your allies move at double their normal speed and can avoid hazards without Defying Danger.<br>
+<strong>Bane:</strong> You and your allies deal -1 damage.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725/11</link>
+        <pubDate>Sat, 27 Jul 2019 17:23:46 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2725-11</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725.rss">PbtA move for a Tactician Playbook</source>
+      </item>
+      <item>
+        <title>PbtA move for a Tactician Playbook</title>
+        <dc:creator><![CDATA[@bigbucky]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/bigbucky">@bigbucky</a> wrote:</p>
+          <blockquote>
+              <p>Ok worked on this some more. Still think I need more than “enemy makes you a priority” on a 7-9 so let me know if you have suggestions.</p>
+<h1>Battlefield Commander</h1>
+<p>When you take time to draw out a battle plan for you and your allies , roll+INT. On a 10+, you and any allies that follow your plan will gain its benefit.  On a 7-9, you and any allies that follow your plan will gain its benefit, and the enemy makes you a priority target.</p>
+<p>Select two battle plans to start with. You can use each plan once per session.</p>
+<p>Battle Plan: Ambuscade<br>
+When you spring an ambush with Hack and Slash or Volley, treat a 7-9 result as a 10+.</p>
+<p>Battle Plan: Coordinated Assault<br>
+When you make a coordinated attack with your allies, you can freely aid each other and coordinate the timing of your actions no matter how separated, split up, or scattered you become.</p>
+<p>Battle Plan: Double Time<br>
+When you dash across the battlefield, you can avoid a hazard without Defying Danger and can cover twice the distance as normal.</p>
+<p>Battle Plan: Prowl<br>
+As long as you move slowly in cover or darkness, you won’t be detected by simple observation.</p>
+<p>Battle Plan: Suppressive Fire<br>
+You may spend 1 ammo to target an enemy with suppressive fire. For the next few moments that enemy can not move or attack.</p>
+<p>Battle Plan: Pincer<br>
+When you flank an enemy with your allies, you each deal +1d4 damage and anyone caught between you can not escape.</p>
+<h1>Tactician</h1>
+<p>Select two additional battle plans that you have now mastered.</p>
+<h1>Battlefield Master</h1>
+<p>Requires Level 6+<br>
+You may use each battle plan twice per session.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725/10</link>
+        <pubDate>Fri, 26 Jul 2019 22:59:37 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2725-10</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725.rss">PbtA move for a Tactician Playbook</source>
+      </item>
+      <item>
+        <title>PbtA move for a Tactician Playbook</title>
+        <dc:creator><![CDATA[@dexter]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dexter">@dexter</a> wrote:</p>
+          <blockquote>
+              <p>Could do something along the lines of:</p>
+<p>When you … roll +INT. Hit or miss, your allies carry out your plan. On a 10+, choose 2. On a 7-9, choose 1:</p>
+<ul>
+<li>Your plan catches your enemy by surprise or exposes a vulnerability in your enemy’s forces.</li>
+<li>You anticipate your enemy’s plans and don’t expose any vulnerabilities of your own.</li>
+</ul>
+<p>On a miss, choose none and be prepared for the worst.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725/9</link>
+        <pubDate>Fri, 26 Jul 2019 15:34:31 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2725-9</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725.rss">PbtA move for a Tactician Playbook</source>
+      </item>
+      <item>
+        <title>PbtA move for a Tactician Playbook</title>
+        <dc:creator><![CDATA[@bigbucky]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/bigbucky">@bigbucky</a> wrote:</p>
+          <blockquote>
+              <p>A lot of good stuff here.</p>
+<p>I was worried that it gets much more powerful as you have more allies. But I suppose that is what a commander does. My group rarely has more than four allies so it probably won’t be a big deal.</p>
+<p>You convinced me on the 7-9 move. I want them to feel clever not unprepared.  But I feel like this needs more than just “you become the target of the enemy.”  Still not sure what that is though.</p>
+<p>The first plan I came up with is Ambush.<br>
+When you spring an ambush on an enemy you treat a 7-9 result as a 10+ When hacking and slashing or volleying.</p>
+<p>It feels powerful but is not overpowered. The main effect is you avoid consequences like taking damage, having to move to get a clear shot. This feels very thematic for an ambush.</p>
+<p>Gonna definitely look through your examples too.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725/8</link>
+        <pubDate>Fri, 26 Jul 2019 15:07:39 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2725-8</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725.rss">PbtA move for a Tactician Playbook</source>
+      </item>
+      <item>
+        <title>PbtA move for a Tactician Playbook</title>
+        <dc:creator><![CDATA[@bigbucky]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/bigbucky">@bigbucky</a> wrote:</p>
+          <blockquote>
+              <p>Paul_T I’ll check that out</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725/7</link>
+        <pubDate>Fri, 26 Jul 2019 14:56:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2725-7</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725.rss">PbtA move for a Tactician Playbook</source>
+      </item>
+      <item>
+        <title>PbtA move for a Tactician Playbook</title>
+        <dc:creator><![CDATA[@Jeremy_Strandberg]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jeremy_strandberg">@Jeremy_Strandberg</a> wrote:</p>
+          <blockquote>
+              <p>I really dislike limit on the number of allies, as it feels arbitrary and it means my plans don’t work at scale. (And why wouldn’t they? I’m a <em>battlefield</em> commander, right?)</p>
+<p>Also: “the GM reveals that the enemy has also made plans, for which you are unprepared” part of the 7-9 clause implies an awful lot about the enemies I fight be facing.  If we’ve clearly established that you’re facing a disorganized rabble, or a troupe of mindless undead, or a single dumb-as-rocks troll… having <em>my</em> attempt to be clever and organized result in <em>them</em> being clever and prepared and organized… that feels really wrong.  (I’m assuming from your use of “roll +INT” that this is for Dungeon World or something similar; if this is a game where you’re only facing intelligent, person-like foes, then this complaint applies less… but it’s still there a little.)</p>
+<p>Personally, if I was going to go with something like this, I’d try to boil each tactic down to a single short sentence, akin to the special abilities in WoDu, and not have them just apply, no extra or special roll involved.</p>
+<p>For example:</p>
+<p><strong>Ambush</strong>: when you can pick the terrain and have time to conceal yourselves, your enemies won’t notice you until it’s too late (for them).<br>
+<strong>Coordinated Assault</strong>: when you advance on a foe in formation, everyone gets +1 Armor and deals +1 damage<br>
+<strong>Stealth</strong>: when you and your allies take the time to oil and properly stow your gear, keep quiet, and stick to cover and darkness, you can move and maneuver with little risk of drawing attention<br>
+<strong>Flank</strong>: when you and an ally flank an enemy, you each deal +1d4 damage<br>
+<strong>Shield Wall</strong>: when you and your allies form a shield wall and brace to receive an attack, hold X; spend hold 1 for 1 to maintain formation when it would otherwise collapse<br>
+<strong>Tactical Retreat</strong>:  when you make a fighting retreat (or order an ally to do so), you or they can Hack &amp; Slash and on a 7+, in addition to everything else, get free of melee<br>
+Etc.</p>
+<p>Basically, make each tactic it’s own short-and-sweet “when __, then __” move.</p>
+<p>For what it’s it worth, here’s <a href="https://www.dropbox.com/s/v57trpuceoo3e1p/Stonetop%20playbook%20-%20The%20Marshal%20%28introductions%29.pdf?dl=0" rel="nofollow noopener">my Marshal class</a> for <em>Stonetop</em> (a DW hack).  It’s got some moves that are similar to these, but each one is a little more stand-on-its own.  It’s also using the Follower moves from <em>The Perilous Wilds</em> to represent a crew of NPCs that follow the PC around.</p>
+<p>Good luck!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725/6</link>
+        <pubDate>Fri, 26 Jul 2019 14:25:15 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2725-6</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725.rss">PbtA move for a Tactician Playbook</source>
+      </item>
+      <item>
+        <title>PbtA move for a Tactician Playbook</title>
+        <dc:creator><![CDATA[@dexter]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dexter">@dexter</a> wrote:</p>
+          <blockquote>
+              <p>Would it be possible to get examples of how some specific plans work?</p>
+<p>I like the “enemy turning your move back on you” aspect, it might just stand to be more specific so that it doesn’t feel, like you said, like a GM move.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725/5</link>
+        <pubDate>Fri, 26 Jul 2019 13:54:16 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2725-5</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725.rss">PbtA move for a Tactician Playbook</source>
+      </item>
+      <item>
+        <title>PbtA move for a Tactician Playbook</title>
+        <dc:creator><![CDATA[@Paul_T]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/paul_t">@Paul_T</a> wrote:</p>
+          <blockquote>
+              <p>You might consider looking at the drill and formation rules in Fallen Empires.  Something like that could replace your plans, or at least give you some mechanical ideas for how to implement them.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725/4</link>
+        <pubDate>Fri, 26 Jul 2019 04:37:55 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2725-4</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725.rss">PbtA move for a Tactician Playbook</source>
+      </item>
+      <item>
+        <title>PbtA move for a Tactician Playbook</title>
+        <dc:creator><![CDATA[@bigbucky]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/bigbucky">@bigbucky</a> wrote:</p>
+          <blockquote>
+              <p>I was mostly just following the usual syntax. But maybe you’re right that the enemy plan is enough of a penalty.</p>
+<p>I could use a different penalty but I liked the idea of the enemy turning your move back on you. Although now that I think about, that’s really a GM move.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725/3</link>
+        <pubDate>Fri, 26 Jul 2019 04:19:41 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2725-3</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725.rss">PbtA move for a Tactician Playbook</source>
+      </item>
+      <item>
+        <title>PbtA move for a Tactician Playbook</title>
+        <dc:creator><![CDATA[@dexter]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/dexter">@dexter</a> wrote:</p>
+          <blockquote>
+              <p>How necessary do you feel the number of allies limitation is? Your opponent getting to make a plan against you already seems like a sufficient cost for 7-9. Then again, I guess it depends how much the plans actually benefit you.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725/2</link>
+        <pubDate>Fri, 26 Jul 2019 03:46:30 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2725-2</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725.rss">PbtA move for a Tactician Playbook</source>
+      </item>
+      <item>
+        <title>PbtA move for a Tactician Playbook</title>
+        <dc:creator><![CDATA[@bigbucky]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/bigbucky">@bigbucky</a> wrote:</p>
+          <blockquote>
+              <p>Trying to write a playbook for a tactician or battlefield commander type character.  I want them to start with a limited number of battle plans and be able to take more as they advance.  Here is the basic framework for the move so far:</p>
+<p>When you take time to draw out a plan for you and your allies , roll+INT. On a 10+, you, as well as three of your allies, can follow one of your known battle plans. On a 7-9, you and one of your allies can follow the plan, but the GM reveals that the enemy has also made plans, for which you are unprepared.</p>
+<p>Then plans would be things like:<br>
+Ambush<br>
+Coordinated Assault<br>
+Stealth<br>
+Flank<br>
+etc.</p>
+<p>Basically any sort of combat tactic.  There would be some appropriate mechanical advantage to each.  I’m having difficulty making the plans beneficial enough to take without being overpowered.  Also not sure the 7-9 result is the best.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725/1</link>
+        <pubDate>Fri, 26 Jul 2019 01:31:40 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2725-1</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/pbta-move-for-a-tactician-playbook/2725.rss">PbtA move for a Tactician Playbook</source>
+      </item>
+  </channel>
+</rss>

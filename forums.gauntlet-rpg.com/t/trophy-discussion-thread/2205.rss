@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Trophy Discussion Thread</title>
+    <link>https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205</link>
+    <description>Hello! This is a place to discuss the game Trophy by @jesseross. Trophy is a game of dark fantasy and psychological horror. It was first made available in Codex - Dark 2 and has been expanded in every issue of Codex to come out since. 
+
+If you have played Trophy and would like to share your thoughts about the game, or if you simply have questions, Jesse and myself will be watching this space. 
+
+If you&#39;d like to get the Trophy core rules, you can do so right here: 
+
+https://www.drivethrurpg.com/product/268198/Codex--Dark-2-Dec-2018?term=codex+dark+2
+
+The first expansion for the game is in Codex - Emerald, which is currently PWYW on DriveThru: 
+
+https://www.drivethrurpg.com/product/275182/Codex--Emerald-Jan-2019?term=codex+emerald</description>
+    
+    <lastBuildDate>Sun, 19 Jul 2020 11:16:17 +0000</lastBuildDate>
+    <category>RPG Chat</category>
+    <atom:link href="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Trophy Discussion Thread</title>
+        <dc:creator><![CDATA[@Charlie]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/charlie">@Charlie</a> wrote:</p>
+          <blockquote>
+              <p>We started Hester’s Mill on Wednesday and apart from a short spell where the bot was offline, it was fantastic. The die faces are very pretty and the group got proficient in the commends pretty quickly.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/43">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/43</link>
+        <pubDate>Sun, 19 Jul 2020 11:16:17 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2205-43</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205.rss">Trophy Discussion Thread</source>
+      </item>
+      <item>
+        <title>Trophy Discussion Thread</title>
+        <dc:creator><![CDATA[@jesseross]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jesseross">@jesseross</a> wrote:</p>
+          <blockquote>
+              <p>Actually, we now also have a custom Trophy dice bot.</p>
+<p><a href="https://discord.com/api/oauth2/authorize?client_id=730922587630075934&amp;permissions=0&amp;redirect_uri=https%3A%2F%2Fapp.trophyrpg.com&amp;scope=bot" rel="nofollow noopener">Get it here!</a></p>
+<p>And here are the commands so far:</p>
+<p><strong>/help</strong> — Get a list of commands.</p>
+<p><strong>/combat #</strong> — Use /combat followed by the # of dark dice to make a Combat Roll.</p>
+<p><strong>/gold #</strong> — Use /gold followed by the # of gold dice to make a Gold Roll.</p>
+<p><strong>/hunt #</strong> — Use /hunt followed by the # of light dice to make a Hunt Roll.</p>
+<p><strong>/reduction</strong> — Use /reduction to see if your Ruin goes down.</p>
+<p><strong>/risk # #</strong> — Use /risk followed by the # of light dice then the # of dark dice to make a Risk Roll.</p>
+<p><strong>/ruin</strong> — Use /ruin to see if your Ruin goes up.</p>
+<p><strong>/weak</strong> — Use /weak to get your Weak Point before a Combat Roll.</p>
+<p>Let me know if you have any questions or suggestions!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/42">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/42</link>
+        <pubDate>Mon, 13 Jul 2020 14:46:29 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2205-42</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205.rss">Trophy Discussion Thread</source>
+      </item>
+      <item>
+        <title>Trophy Discussion Thread</title>
+        <dc:creator><![CDATA[@Charlie]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/charlie">@Charlie</a> wrote:</p>
+          <blockquote>
+              <p>That’s fantastic! Is there a list of commands for it somewhere?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/41">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/41</link>
+        <pubDate>Mon, 13 Jul 2020 14:21:32 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2205-41</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205.rss">Trophy Discussion Thread</source>
+      </item>
+      <item>
+        <title>Trophy Discussion Thread</title>
+        <dc:creator><![CDATA[@jesseross]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jesseross">@jesseross</a> wrote:</p>
+          <blockquote>
+              <p>This Discord bot has a Trophy dice roller built into it: <a href="https://discordapp.com/oauth2/authorize?client_id=689734676193083395&amp;permissions=116736&amp;scope=bot" rel="nofollow noopener">https://discordapp.com/oauth2/authorize?client_id=689734676193083395&amp;permissions=116736&amp;scope=bot</a></p>
+<p>If you do <strong>%trophy 2 1</strong> it’ll give you the results for 2 light dice and 1 dark die, for example.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/40">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/40</link>
+        <pubDate>Thu, 09 Jul 2020 19:57:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2205-40</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205.rss">Trophy Discussion Thread</source>
+      </item>
+      <item>
+        <title>Trophy Discussion Thread</title>
+        <dc:creator><![CDATA[@Charlie]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/charlie">@Charlie</a> wrote:</p>
+          <blockquote>
+              <p>I’m running Trophy Gold online for the first time next week. I’ve just realised there might be an issue with light and dark dice. How do people manage them with online dice rollers?<br>
+I normally use Discord and Sidekick for rolls, along with a Google Sheet for characters.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/39">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/39</link>
+        <pubDate>Thu, 09 Jul 2020 19:41:51 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2205-39</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205.rss">Trophy Discussion Thread</source>
+      </item>
+      <item>
+        <title>Trophy Discussion Thread</title>
+        <dc:creator><![CDATA[@jasoncordova]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jasoncordova">@jasoncordova</a> wrote:</p>
+          <blockquote>
+              <p>Thanks for the kind words! There is much more to come!</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/38">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/38</link>
+        <pubDate>Tue, 16 Jun 2020 00:02:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2205-38</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205.rss">Trophy Discussion Thread</source>
+      </item>
+      <item>
+        <title>Trophy Discussion Thread</title>
+        <dc:creator><![CDATA[@Simme]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/simme">@Simme</a> wrote:</p>
+          <blockquote>
+              <p>I just want to say that I’m kind of backward engineering Trophy back to Cthulhu Dark and running both Delta Green and Trail of Cthulhu adventures with it. It works so well. The ring structure and the conditions is just gold for Cthulhu adventures.</p>
+<p>I also want to thank <a class="mention" href="/u/jasoncordova">@jasoncordova</a> for his and his friends great work with the trophy podcast. Jason, you are <em>very</em> talented and you are doing a superb job introducing new players to the scene and making things understandable.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/37">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/37</link>
+        <pubDate>Mon, 15 Jun 2020 14:08:06 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2205-37</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205.rss">Trophy Discussion Thread</source>
+      </item>
+      <item>
+        <title>Trophy Discussion Thread</title>
+        <dc:creator><![CDATA[@il_fabbro]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/il_fabbro">@il_fabbro</a> wrote:</p>
+          <blockquote>
+              <p>Hi guys. I’ve made a black and white printer-friendly version of the Trophy Dark and Trophy Gold pdfs. I tried to do it without ruining the esthetics but at the same time limiting the printed areas. The only color page left is the Gold cover.<br>
+Given the authorization I’ll be happy to share them through my G Drive, or pass them via email or whatever.<br>
+Please let me know if I can share or if you want to review the documents by email. They’re pretty light files (4-5 MB).</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/36">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/36</link>
+        <pubDate>Fri, 13 Mar 2020 14:39:52 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2205-36</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205.rss">Trophy Discussion Thread</source>
+      </item>
+      <item>
+        <title>Trophy Discussion Thread</title>
+        <dc:creator><![CDATA[@Radmad]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/radmad">@Radmad</a> wrote:</p>
+          <blockquote>
+              <p>I use a lot of Brandon Fletcher, Nox Arcana, Midnight Syndicate, and Peter Gundry for dark ambient</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/35">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/35</link>
+        <pubDate>Mon, 17 Feb 2020 02:48:58 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2205-35</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205.rss">Trophy Discussion Thread</source>
+      </item>
+      <item>
+        <title>Trophy Discussion Thread</title>
+        <dc:creator><![CDATA[@empathy_cell]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/empathy_cell">@empathy_cell</a> wrote:</p>
+          <blockquote>
+              <p>Also - does anyone have any soundtrack recommendations for Trophy? I was thinking Chelsea Wolfe’s more mellow stuff (like Spinning Centers and Appalachia off of Unknown Rooms) would be good starting out, along with Ben Frost’s soundtrack from Dark for when things get weird.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/34">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/34</link>
+        <pubDate>Mon, 17 Feb 2020 02:03:50 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2205-34</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205.rss">Trophy Discussion Thread</source>
+      </item>
+      <item>
+        <title>Trophy Discussion Thread</title>
+        <dc:creator><![CDATA[@jasoncordova]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jasoncordova">@jasoncordova</a> wrote:</p>
+          <blockquote>
+              <p>That sounds like a great session! The faces in the Stone was a great idea.</p>
+<p>Cc: <a class="mention" href="/u/jesseross">@jesseross</a></p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/33">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/33</link>
+        <pubDate>Sun, 16 Feb 2020 11:25:02 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2205-33</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205.rss">Trophy Discussion Thread</source>
+      </item>
+      <item>
+        <title>Trophy Discussion Thread</title>
+        <dc:creator><![CDATA[@empathy_cell]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/empathy_cell">@empathy_cell</a> wrote:</p>
+          <blockquote>
+              <p>Ran my first incursion, The Tomb of 10,000 Dreams tonight. It’s great to see the story take on a life of its own once the players start adding their own wrinkles to it.</p>
+<p>Around ring 2/3 I had them in a boat going through a cave that was so cramped they had to lay down, and as the light from their lantern played on the stone passing overhead I asked them what faces they saw in it. I had a hard time creating tension until this point but I’m really happy with how it played out and began the division between the characters. Shortly after, when failing a couple attempts at fishing for food, one of them was convinced she had been defiling the forest and that she needed to act out in its interest to redeem herself. The other realized the power in the eternal living stone statues that tormented them and he decided to seek this power. Needless to say it ended badly for both of them.</p>
+<p>I’m really excited for the full book, and to keep running incursions to see how they mutate with different groups of players.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/32">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/32</link>
+        <pubDate>Sun, 16 Feb 2020 06:42:21 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2205-32</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205.rss">Trophy Discussion Thread</source>
+      </item>
+      <item>
+        <title>Trophy Discussion Thread</title>
+        <dc:creator><![CDATA[@SabineV5]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/sabinev5">@SabineV5</a> wrote:</p>
+          <blockquote>
+              <p>Yes! Absolutely have a post-credit scene, or an epilogue. Trophy is an intense game, and after playing a good game, I need a sense of closure, something to step away from the intense narration of Ring 5 and disengage slowly with the fiction.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/31">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/31</link>
+        <pubDate>Wed, 22 Jan 2020 17:53:45 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2205-31</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205.rss">Trophy Discussion Thread</source>
+      </item>
+      <item>
+        <title>Trophy Discussion Thread</title>
+        <dc:creator><![CDATA[@technoskald]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/technoskald">@technoskald</a> wrote:</p>
+          <blockquote>
+              <p>Additional tip that we came up with tonight:</p>
+<p>Let the players collectively narrate a “post credits scene”. All the characters are dead or wish they were, they’ve probably at least encountered the terrible thing in Ring 5, and there’s nothing left for the GM to tell. So just straight up tell them “and with that, we get the end title. The End. Thanks for playing, Chase and Jessie and Ran, this was a lot of fun and I liked McGhee, Nima, and Orlen. But… what happens after the credits? What does the audience see that blows their mind?”</p>
+<p>Much like asking them “what could go wrong” in the Risk Roll, this leads to way creepier and far-out stuff than I’d ever give them.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/30">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/30</link>
+        <pubDate>Thu, 19 Dec 2019 05:46:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2205-30</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205.rss">Trophy Discussion Thread</source>
+      </item>
+      <item>
+        <title>Trophy Discussion Thread</title>
+        <dc:creator><![CDATA[@Unicornsr4everyone]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/unicornsr4everyone">@Unicornsr4everyone</a> wrote:</p>
+          <blockquote>
+              <p>Another situation. Character skilled in stealth pretended to sleep on other characters watch. Wanted to use reduction roll to stealth kill character who was supposed to be keeping watch. I forced risk roll to sneak up. They rolled 6. Had them make reduction roll to shank player. Rolled 1.</p>
+<p>Other player was good sport about it and died fantastically. I gave her another role in story soon after, but I felt a little mechanically lost when it came to reduction roll. Any tips?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/29">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/29</link>
+        <pubDate>Sun, 15 Sep 2019 19:03:37 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2205-29</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205.rss">Trophy Discussion Thread</source>
+      </item>
+      <item>
+        <title>Trophy Discussion Thread</title>
+        <dc:creator><![CDATA[@Unicornsr4everyone]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/unicornsr4everyone">@Unicornsr4everyone</a> wrote:</p>
+          <blockquote>
+              <p>Any tips for pvp? We had one person playing asssassin and got ruined 3rd ring. She was trying to use reduction roll to outright kill other characters. Fiction backing up that her character was good at it. I always put up a risk first and set it as less lethal.</p>
+<p>Example: At one point someone used a ritual to shift their spirit to possess the assassins body. Assassin trapped in other characters body tracked them down and wanted to use Hollow to get them out and herself back in. But first she decided to slit the person she currently inhabited’s wrists. She rolled a 5.</p>
+<p>Honestly this was a fantastic turn of events but the other character had only 2 ruin.</p>
+<p>I felt weird letting this outright kill the character so we decided she slit the character’s wrists, got back into her own body but the bleeding was able to be stopped quick enough to save from imminent death as a complication.</p>
+<p>Again, I love some of the scenarios that come from this game. Mechanically struggling when players are trying to not so subtly kill other characters. If this player had gotten an outright 6 on the roll I’m not sure how I would have handled it.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/28</link>
+        <pubDate>Sun, 15 Sep 2019 19:00:07 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2205-28</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205.rss">Trophy Discussion Thread</source>
+      </item>
+      <item>
+        <title>Trophy Discussion Thread</title>
+        <dc:creator><![CDATA[@MattHaines]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/matthaines">@MattHaines</a> wrote:</p>
+          <blockquote>
+              <p>This would make a great T-Shirt. Ruin Roll.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/27">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/27</link>
+        <pubDate>Tue, 23 Jul 2019 11:06:09 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2205-27</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205.rss">Trophy Discussion Thread</source>
+      </item>
+      <item>
+        <title>Trophy Discussion Thread</title>
+        <dc:creator><![CDATA[@jasoncordova]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jasoncordova">@jasoncordova</a> wrote:</p>
+          <blockquote>
+              <p>Yeah, that’s about right. It can be contextual, too. A former soldier might not be as bothered by the sight of a gruesome corpse, for example.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/26</link>
+        <pubDate>Sun, 21 Jul 2019 23:06:49 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2205-26</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205.rss">Trophy Discussion Thread</source>
+      </item>
+      <item>
+        <title>Trophy Discussion Thread</title>
+        <dc:creator><![CDATA[@shane]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/shane">@shane</a> wrote:</p>
+          <blockquote>
+              <p>Ruin rolls really should be happening anytime the characters experience anything weird or disturbing or traumatic. Voices from home heard in the forest? Ruin roll. The statue that was 50 yards behind is now 50 feet behind? Ruin roll. The smell of burning flesh? Ruin roll. A corpse with its heart cut out? Ruin roll. A chorus of wolves unseen howling from all sides? Ruin roll. If it would scare or unnerve you it’s a Ruin roll.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/25</link>
+        <pubDate>Sun, 21 Jul 2019 22:48:42 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2205-25</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205.rss">Trophy Discussion Thread</source>
+      </item>
+      <item>
+        <title>Trophy Discussion Thread</title>
+        <dc:creator><![CDATA[@SabineV5]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/sabinev5">@SabineV5</a> wrote:</p>
+          <blockquote>
+              <p>I had quite a few Ruin rolls triggered by the Conditions, actually. Because they can be pretty creepy.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/24</link>
+        <pubDate>Sun, 21 Jul 2019 22:08:09 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2205-24</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205.rss">Trophy Discussion Thread</source>
+      </item>
+      <item>
+        <title>Trophy Discussion Thread</title>
+        <dc:creator><![CDATA[@rabalias]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/rabalias">@rabalias</a> wrote:</p>
+          <blockquote>
+              <p>It makes total sense! I confess I felt that the whole “the ring 1 terrors should be easy to overcome” didn’t make a lot of sense to me in the context of the rules. If it had said “basically don’t use risk rolls in ring 1”, that would seem more logical.</p>
+<p>“Ruin rolls happen quite a bit” fits with my guesswork about how the game is meant to flow (the whole premise being that you’re doomed, Ruin seems like the mechanic intended to deliver on that). But my observation is that in the Codex Dark 2 rules (which I’m sensing may not be the full picture regards Trophy), only Rings 4 and 5 seem to have really disturbing material in them. Are you meant to ad lib additional, more disturbing, material?</p>
+<p>I definitely felt like I should have been doing more Ruin rolls in Ring 4 than I actually did; in retrospect I’d settled into a rhythm of more-or-less ignoring the Ruin system outside of risk checks. But essentially I felt like in the earlier rings I was mostly following the rules and guidance presented - with one exception where a character got themselves locked into a mausoleum with a bunch of corpses, which should probably have triggered a Ruin roll.</p>
+<p>It’s entirely possible some of these questions are answered by all the resources linked above, I haven’t had time to go through them yet.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/23</link>
+        <pubDate>Sun, 21 Jul 2019 20:53:43 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2205-23</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205.rss">Trophy Discussion Thread</source>
+      </item>
+      <item>
+        <title>Trophy Discussion Thread</title>
+        <dc:creator><![CDATA[@jasoncordova]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jasoncordova">@jasoncordova</a> wrote:</p>
+          <blockquote>
+              <p>As for the 5th ring, in my experience, it’s rarely going to play out as written because, by that time, the group has shaped the story a certain way via failed roll negotiations and Devil’s Bargains. I mostly use the 5th ring text as inspiration for the basic flavor and trappings of the conclusion but otherwise finish in a way that makes sense for the story up to that point.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/22</link>
+        <pubDate>Sun, 21 Jul 2019 10:51:05 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2205-22</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205.rss">Trophy Discussion Thread</source>
+      </item>
+      <item>
+        <title>Trophy Discussion Thread</title>
+        <dc:creator><![CDATA[@jasoncordova]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jasoncordova">@jasoncordova</a> wrote:</p>
+          <blockquote>
+              <p>Also: I made this video available because it’s an excellent example of Trophy play. Definitely worth a watch for people who want to grok the game. It uses The Flocculent Cathedral in case you want to follow along with the incursion text.</p>
+<div class="lazyYT" data-youtube-id="7mbNTayZ89g" data-youtube-title="Trophy: The Flocculent Cathedral (07.18.19)" data-width="480" data-height="270" data-parameters="feature=oembed&amp;wmode=opaque"></div>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/21</link>
+        <pubDate>Sun, 21 Jul 2019 10:36:22 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2205-21</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205.rss">Trophy Discussion Thread</source>
+      </item>
+      <item>
+        <title>Trophy Discussion Thread</title>
+        <dc:creator><![CDATA[@jasoncordova]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/jasoncordova">@jasoncordova</a> wrote:</p>
+          <blockquote>
+              <p>Ruin rolls should be happening quite a bit. In Witchwood, for example, you have 2-3 Ruin rolls in the first ring alone because of the succession of disturbing  events. I’ll grant that later incursions are a little easier to run than 10,000 Dreams because they are a bit more detailed, though.</p>
+<p>In the first ring, consider whether you even need to do risk rolls. In my mind, the first ring is much more thematic, much more about asking questions and seeing how people react. In 10,000 Dreams, whether the group defeats the doppelgängers in Ring 1 is much less important than what we learn about the treasure-hunters through them. Does that make sense?</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/20</link>
+        <pubDate>Sun, 21 Jul 2019 10:31:32 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2205-20</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205.rss">Trophy Discussion Thread</source>
+      </item>
+      <item>
+        <title>Trophy Discussion Thread</title>
+        <dc:creator><![CDATA[@shane]]></dc:creator>
+        <description><![CDATA[
+          <p><a href="https://forums.gauntlet-rpg.com/u/shane">@shane</a> wrote:</p>
+          <blockquote>
+              <p>Just like Cthulhu Dark, you need to be pushing for Ruin rolls really anytime anything weird or messed up happens. I forgot that when I ran it until halfway through and it made the game a <em>lot</em> longer than it should have been.</p>
+<p>I’d definitely recommend the resources <a class="mention" href="/u/jasoncordova">@jasoncordova</a> mentions above for suggestions for future play.</p>
+          </blockquote>
+          <p><a href="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205/19</link>
+        <pubDate>Sat, 20 Jul 2019 22:51:11 +0000</pubDate>
+        <guid isPermaLink="false">forums.gauntlet-rpg.com-post-2205-19</guid>
+        <source url="https://forums.gauntlet-rpg.com/t/trophy-discussion-thread/2205.rss">Trophy Discussion Thread</source>
+      </item>
+  </channel>
+</rss>
