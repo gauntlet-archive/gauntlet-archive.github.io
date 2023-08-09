@@ -5,8 +5,51 @@
     <link>https://forums.gauntlet-rpg.com/latest</link>
     <description>Latest topics</description>
     
-      <lastBuildDate>Wed, 19 Jul 2023 00:16:47 +0000</lastBuildDate>
+      <lastBuildDate>Tue, 01 Aug 2023 11:55:17 +0000</lastBuildDate>
       <atom:link href="https://forums.gauntlet-rpg.com/latest.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>Archive of The Gauntlet Forums</title>
+          <dc:creator><![CDATA[@Froggy]]></dc:creator>
+          <category>RPG Chat</category>
+          <description><![CDATA[
+            <p><a href="https://forums.gauntlet-rpg.com/u/froggy">@Froggy</a> wrote:</p>
+            <blockquote>
+              <p>I’ve made a static archive of the current state of the forums. You can find it here.</p>
+<aside class="onebox whitelistedgeneric">
+  <header class="source">
+      <img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/original/2X/5/539e8fe76a2eb0591251bca607167f994f0140ba.png" class="site-icon" width="32" height="32">
+      <a href="https://gauntlet-archive.github.io/index.html" target="_blank" rel="nofollow noopener">The Gauntlet Forums</a>
+  </header>
+  <article class="onebox-body">
+    <img src="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f2859febedbe43114f6e22a494620bdc35bf8786_2_500x500.png" class="thumbnail onebox-avatar" width="500" height="500" srcset="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f2859febedbe43114f6e22a494620bdc35bf8786_2_500x500.png, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/f/f2859febedbe43114f6e22a494620bdc35bf8786.png 1.5x, //gauntlet-forums-storage.s3.dualstack.us-east-2.amazonaws.com/original/2X/f/f2859febedbe43114f6e22a494620bdc35bf8786.png 2x" data-small-upload="//gauntlet-discourse-store.s3.dualstack.us-east-2.amazonaws.com/optimized/2X/f/f2859febedbe43114f6e22a494620bdc35bf8786_2_10x10.png">
+
+<h3><a href="https://gauntlet-archive.github.io/index.html" target="_blank" rel="nofollow noopener">The Gauntlet Forums</a></h3>
+
+<p>A place to talk about TTRPG and LARP play and design</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>I’ll try to keep it up to date with the last few developments in August, if there are any.</p>
+            </blockquote>
+            <p>Posts: 3</p>
+            <p>Participants: 2</p>
+            <p><a href="https://forums.gauntlet-rpg.com/t/archive-of-the-gauntlet-forums/8738">Read full topic</a></p>
+          ]]></description>
+          <link>https://forums.gauntlet-rpg.com/t/archive-of-the-gauntlet-forums/8738</link>
+          <pubDate>Tue, 01 Aug 2023 11:55:17 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8738</guid>
+          <source url="https://forums.gauntlet-rpg.com/t/archive-of-the-gauntlet-forums/8738.rss">Archive of The Gauntlet Forums</source>
+        </item>
         <item>
           <title>Absolute newbie seeking feedback and advice. Simple d12 based game to be adapted to different settings</title>
           <dc:creator><![CDATA[@201d]]></dc:creator>
@@ -222,8 +265,8 @@
               <p>What with this forum slowing down and due to close soon?</p>
 <p>I miss <a href="http://story-games.com" rel="nofollow noopener">story-games.com</a>… <img src="https://forums.gauntlet-rpg.com/images/emoji/twitter/frowning.png?v=9" title=":frowning:" class="emoji" alt=":frowning:"></p>
             </blockquote>
-            <p>Posts: 20</p>
-            <p>Participants: 11</p>
+            <p>Posts: 23</p>
+            <p>Participants: 12</p>
             <p><a href="https://forums.gauntlet-rpg.com/t/where-are-people-going-for-indie-rpg-story-game-discussion-now/8724">Read full topic</a></p>
           ]]></description>
           <link>https://forums.gauntlet-rpg.com/t/where-are-people-going-for-indie-rpg-story-game-discussion-now/8724</link>
@@ -1071,40 +1114,6 @@ Initially, my plan for a 2020 sequel, <em>Twilight Road</em> , was to create ano
           <discourse:topicArchived>No</discourse:topicArchived>
           <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8632</guid>
           <source url="https://forums.gauntlet-rpg.com/t/bump-in-the-dark-cold-iron-blues/8632.rss">Bump in the Dark: Cold Iron Blues</source>
-        </item>
-        <item>
-          <title>Hearts of Wulin Basic Moves</title>
-          <dc:creator><![CDATA[@Airk]]></dc:creator>
-          <category>Gauntlet Publishing</category>
-          <description><![CDATA[
-            <p><a href="https://forums.gauntlet-rpg.com/u/airk">@Airk</a> wrote:</p>
-            <blockquote>
-              <p>I was listening to the Talking Hearts of Wulin recording, and looking at the handouts and was reminded of something I found a while ago but didn’t comment on.</p>
-<p>This is Comfort and Support from the book:<br>
-COMFORT &amp; SUPPORT<br>
-When you assist a fellow PC, roll.<br>
-ON A HIT, you lift them up: they may choose to give you a Bond with them or clear a marked Element.<br>
-ON A 10+, you may also clear an Element yourself, ask them a question they must answer, or give them a Bond with you.<br>
-In a scene, you may use this move to aid someone before or after a roll. Spend a Bond you just created with them to give them a +1 to their roll.</p>
-<p>This is Comfort and support from both the Core Moves and Core Moves (Printer Friendly) handouts:<br>
-When you assist a fellow PC, roll.<br>
-On a hit you lift them up: they may choose to give you a Bond with them or clear a marked Element.<br>
-<strong>On a 7-9</strong> you may also clear an Element yourself, ask them a question they must answer, give them a Bond with you, or gain +1 Influence (Courtly).<br>
-In a scene, you may use this move to aid someone before or after a roll. Spend a Bond you just created with them to give them a +1 to their roll</p>
-<p>Bolding mine.</p>
-<p>It seems to me like this is probably just an error in the handouts, but since it’s been around for a while now (I downloaded the most recent copy of the Core Moves from DTRPG just to check) so I thought I’d try to bring it to someone’s attention.</p>
-            </blockquote>
-            <p>Posts: 3</p>
-            <p>Participants: 3</p>
-            <p><a href="https://forums.gauntlet-rpg.com/t/hearts-of-wulin-basic-moves/8631">Read full topic</a></p>
-          ]]></description>
-          <link>https://forums.gauntlet-rpg.com/t/hearts-of-wulin-basic-moves/8631</link>
-          <pubDate>Tue, 07 Mar 2023 01:36:07 +0000</pubDate>
-          <discourse:topicPinned>No</discourse:topicPinned>
-          <discourse:topicClosed>No</discourse:topicClosed>
-          <discourse:topicArchived>No</discourse:topicArchived>
-          <guid isPermaLink="false">forums.gauntlet-rpg.com-topic-8631</guid>
-          <source url="https://forums.gauntlet-rpg.com/t/hearts-of-wulin-basic-moves/8631.rss">Hearts of Wulin Basic Moves</source>
         </item>
   </channel>
 </rss>
